@@ -1412,14 +1412,14 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Witness>Press ARROW KEYS to slide the "
+"\\n<Witness>Press ARROW KEYS or WASD to "
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"photo."
+"slide the photo."
 ]
 },
 {
@@ -1710,6 +1710,33 @@ null,
 11,
 0
 ]
+},
+{
+"code": 111,
+"indent": 0,
+"parameters": [
+11,
+"shift"
+]
+},
+{
+"code": 121,
+"indent": 1,
+"parameters": [
+102,
+102,
+0
+]
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 412,
+"indent": 0,
+"parameters": []
 },
 {
 "code": 0,

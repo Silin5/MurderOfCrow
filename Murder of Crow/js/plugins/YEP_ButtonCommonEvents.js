@@ -718,7 +718,6 @@ Yanfly.Param.BCEList = {
       equal: Number(Yanfly.Parameters['Key =']),
 
           q: Number(Yanfly.Parameters['Key Q (PageUp)']),
-          w: Number(Yanfly.Parameters['Key W (PageDown)']),
           e: Number(Yanfly.Parameters['Key E']),
           r: Number(Yanfly.Parameters['Key R']),
           t: Number(Yanfly.Parameters['Key T']),
@@ -766,7 +765,6 @@ Yanfly.Param.BCEList = {
        home: Number(Yanfly.Parameters['Key Home']),
         end: Number(Yanfly.Parameters['Key End']),
      pageUp: Number(Yanfly.Parameters['Key Page Up (PageUp)']),
-   pageDown: Number(Yanfly.Parameters['Key Page Down (PageDown)']),
 
        num0: Number(Yanfly.Parameters['Key NumPad 0 (Cancel)']),
        num1: Number(Yanfly.Parameters['Key NumPad 1']),
@@ -805,7 +803,6 @@ if (Yanfly.Param.BCEList['minus'] !== 0) Input.keyMapper[189]     = 'minus';
 if (Yanfly.Param.BCEList['equal'] !== 0) Input.keyMapper[187]     = 'equal';
 
 if (Yanfly.Param.BCEList['q'] !== 0) Input.keyMapper[81]          = 'q';
-if (Yanfly.Param.BCEList['w'] !== 0) Input.keyMapper[87]          = 'w';
 if (Yanfly.Param.BCEList['e'] !== 0) Input.keyMapper[69]          = 'e';
 if (Yanfly.Param.BCEList['r'] !== 0) Input.keyMapper[82]          = 'r';
 if (Yanfly.Param.BCEList['t'] !== 0) Input.keyMapper[84]          = 't';
@@ -853,7 +850,6 @@ if (Yanfly.Param.BCEList['del'] !== 0)Input.keyMapper[46]        = 'del';
 if (Yanfly.Param.BCEList['home'] !== 0)Input.keyMapper[36]       = 'home';
 if (Yanfly.Param.BCEList['end'] !== 0)Input.keyMapper[35]        = 'end';
 if (Yanfly.Param.BCEList['pageUp'] !== 0) Input.keyMapper[33]    = 'pageUp';
-if (Yanfly.Param.BCEList['pageDown'] !== 0) Input.keyMapper[34]  = 'pageDown';
 
 if (Yanfly.Param.BCEList['num0'] !== 0) Input.keyMapper[96]      = 'num0';
 if (Yanfly.Param.BCEList['num1'] !== 0)Input.keyMapper[97]       = 'num1';
@@ -889,9 +885,6 @@ Input._revertButton = function(button) {
   } else if (button === 'PAGEUP') {
     this.keyMapper[33] = 'pageup';
     this.keyMapper[81] = 'pageup';
-  } else if (button === 'PAGEDOWN') {
-    this.keyMapper[34] = 'pagedown';
-    this.keyMapper[87] = 'pagedown';
   } else if (button === 'LEFT') {
     this.keyMapper[37] = 'left';
     this.keyMapper[100] = 'left';
@@ -914,8 +907,6 @@ Input._revertButton = function(button) {
     this.keyMapper[16] = 'shift';
     this.keyMapper[33] = 'pageup';
     this.keyMapper[81] = 'pageup';
-    this.keyMapper[34] = 'pagedown';
-    this.keyMapper[87] = 'pagedown';
     this.keyMapper[37] = 'left';
     this.keyMapper[100] = 'left';
     this.keyMapper[38] = 'up';
@@ -941,9 +932,6 @@ Input._switchButton = function(button) {
   } else if (button === 'PAGEUP') {
     if (Yanfly.Param.BCEList['pageUp'] !== 0) this.keyMapper[33] = 'pageUp';
     if (Yanfly.Param.BCEList['q'] !== 0) this.keyMapper[81] = 'q';
-  } else if (button === 'PAGEDOWN') {
-    if (Yanfly.Param.BCEList['pageDown'] !== 0) this.keyMapper[34] = 'pageDown';
-    if (Yanfly.Param.BCEList['w'] !== 0) this.keyMapper[87] = 'w';
   } else if (button === 'LEFT') {
     if (Yanfly.Param.BCEList['dirLeft'] !== 0) this.keyMapper[37] = 'dirLeft';
     if (Yanfly.Param.BCEList['num4'] !== 0) this.keyMapper[100] = 'num4';
@@ -966,8 +954,7 @@ Input._switchButton = function(button) {
     if (Yanfly.Param.BCEList['keyShift'] !== 0) this.keyMapper[16] = 'keyShift';
     if (Yanfly.Param.BCEList['pageUp'] !== 0) this.keyMapper[33] = 'pageUp';
     if (Yanfly.Param.BCEList['q'] !== 0) this.keyMapper[81] = 'q';
-    if (Yanfly.Param.BCEList['pageDown'] !== 0) this.keyMapper[34] = 'pageDown';
-    if (Yanfly.Param.BCEList['w'] !== 0) this.keyMapper[87] = 'w';
+
     if (Yanfly.Param.BCEList['dirLeft'] !== 0) this.keyMapper[37] = 'dirLeft';
     if (Yanfly.Param.BCEList['num4'] !== 0) this.keyMapper[100] = 'num4';
     if (Yanfly.Param.BCEList['dirUp'] !== 0) this.keyMapper[38] = 'dirUp';
