@@ -1402,7 +1402,7 @@ null,
 "code": 101,
 "indent": 0,
 "parameters": [
-"",
+"skunkhead_sheet",
 0,
 0,
 2
@@ -1412,14 +1412,21 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"Press arrow keys to slide the photo."
+"\\n<Witness>Press ARROW KEYS to slide the "
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"Press reset button to reset the puzzle."
+"photo."
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"Tips: keeping the first row in place."
 ]
 },
 {
@@ -1470,17 +1477,6 @@ null,
 4,
 0,
 0,
-4
-]
-},
-{
-"code": 122,
-"indent": 0,
-"parameters": [
-5,
-5,
-0,
-0,
 5
 ]
 },
@@ -1488,8 +1484,8 @@ null,
 "code": 122,
 "indent": 0,
 "parameters": [
-6,
-6,
+5,
+5,
 0,
 0,
 6
@@ -1499,8 +1495,8 @@ null,
 "code": 122,
 "indent": 0,
 "parameters": [
-7,
-7,
+6,
+6,
 0,
 0,
 8
@@ -1510,11 +1506,22 @@ null,
 "code": 122,
 "indent": 0,
 "parameters": [
+7,
+7,
+0,
+0,
+4
+]
+},
+{
+"code": 122,
+"indent": 0,
+"parameters": [
 8,
 8,
 0,
 0,
-9
+7
 ]
 },
 {
@@ -1525,7 +1532,7 @@ null,
 9,
 0,
 0,
-7
+9
 ]
 },
 {
@@ -1600,7 +1607,7 @@ null,
 "P4",
 0,
 0,
-30,
+217,
 217,
 100,
 100,
@@ -1616,7 +1623,7 @@ null,
 "P5",
 0,
 0,
-217,
+404,
 217,
 100,
 100,
@@ -1632,8 +1639,8 @@ null,
 "P6",
 0,
 0,
-404,
 217,
+404,
 100,
 100,
 255,
@@ -1648,8 +1655,8 @@ null,
 "P7",
 0,
 0,
+30,
 217,
-404,
 100,
 100,
 255,
@@ -1664,7 +1671,7 @@ null,
 "P8",
 0,
 0,
-404,
+30,
 404,
 100,
 100,
@@ -1680,7 +1687,7 @@ null,
 "P0",
 0,
 0,
-30,
+404,
 404,
 100,
 100,
@@ -1703,129 +1710,6 @@ null,
 11,
 0
 ]
-},
-{
-"code": 111,
-"indent": 0,
-"parameters": [
-11,
-"cancel"
-]
-},
-{
-"code": 118,
-"indent": 1,
-"parameters": [
-"Exit"
-]
-},
-{
-"code": 230,
-"indent": 1,
-"parameters": [
-5
-]
-},
-{
-"code": 235,
-"indent": 1,
-"parameters": [
-10
-]
-},
-{
-"code": 235,
-"indent": 1,
-"parameters": [
-1
-]
-},
-{
-"code": 235,
-"indent": 1,
-"parameters": [
-2
-]
-},
-{
-"code": 235,
-"indent": 1,
-"parameters": [
-3
-]
-},
-{
-"code": 235,
-"indent": 1,
-"parameters": [
-4
-]
-},
-{
-"code": 235,
-"indent": 1,
-"parameters": [
-5
-]
-},
-{
-"code": 235,
-"indent": 1,
-"parameters": [
-6
-]
-},
-{
-"code": 235,
-"indent": 1,
-"parameters": [
-7
-]
-},
-{
-"code": 235,
-"indent": 1,
-"parameters": [
-8
-]
-},
-{
-"code": 235,
-"indent": 1,
-"parameters": [
-9
-]
-},
-{
-"code": 121,
-"indent": 1,
-"parameters": [
-11,
-11,
-1
-]
-},
-{
-"code": 201,
-"indent": 1,
-"parameters": [
-0,
-1,
-10,
-6,
-6,
-0
-]
-},
-{
-"code": 0,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 0,
-"parameters": []
 },
 {
 "code": 0,
