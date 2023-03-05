@@ -3008,24 +3008,23 @@ Input.keyMapper = {
     27: 'escape',   // escape
     32: 'ok',       // space
     33: 'pageup',   // pageup
-    34: 'pagedown', // pagedown
     37: 'left',     // left arrow
     38: 'up',       // up arrow
     39: 'right',    // right arrow
     40: 'down',     // down arrow
     45: 'escape',   // insert
-    //65: 'left',     // A
-    //68: 'right',    // D
+    65: 'left',     // A
+    68: 'right',    // D
     //81: 'pageup',   // Q
-    //83: 'down',     // S
-    //87: 'up',       // W
+    83: 'down',     // S
+    87: 'up',       // W
    // 88: 'escape',   // X
    //s 90: 'ok',       // Z
-    96: 'escape',   // numpad 0
-    98: 'down',     // numpad 2
-    100: 'left',    // numpad 4
-    102: 'right',   // numpad 6
-    104: 'up',      // numpad 8
+    //96: 'escape',   // numpad 0
+    //98: 'down',     // numpad 2
+    //100: 'left',    // numpad 4
+    //102: 'right',   // numpad 6
+    //104: 'up',      // numpad 8
     120: 'debug'    // F9
 };
 
@@ -3042,7 +3041,6 @@ Input.gamepadMapper = {
     2: 'shift',     // X
     3: 'menu',      // Y
     4: 'pageup',    // LB
-    5: 'pagedown',  // RB
     12: 'up',       // D-pad up
     13: 'down',     // D-pad down
     14: 'left',     // D-pad left
@@ -3261,7 +3259,6 @@ Input._shouldPreventDefault = function(keyCode) {
     switch (keyCode) {
     case 8:     // backspace
     case 33:    // pageup
-    case 34:    // pagedown
     case 37:    // left arrow
     case 38:    // up arrow
     case 39:    // right arrow
