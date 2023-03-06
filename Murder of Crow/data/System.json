@@ -100,7 +100,7 @@
 },
 "currencyUnit": "G",
 "defeatMe": {
-"name": "Defeat1",
+"name": "",
 "pan": 0,
 "pitch": 100,
 "volume": 90
@@ -154,8 +154,7 @@ true
 "optSlipDeath": false,
 "optTransparent": false,
 "partyMembers": [
-1,
-2
+1
 ],
 "ship": {
 "bgm": {
@@ -195,13 +194,13 @@ true
 "volume": 90
 },
 {
-"name": "Buzzer1",
+"name": "wrong",
 "pan": 0,
 "pitch": 100,
 "volume": 90
 },
 {
-"name": "Equip1",
+"name": "crowcall_basic",
 "pan": 0,
 "pitch": 100,
 "volume": 90
@@ -309,13 +308,13 @@ true
 "volume": 90
 },
 {
-"name": "Item3",
+"name": "select",
 "pan": 0,
 "pitch": 100,
 "volume": 90
 },
 {
-"name": "Item3",
+"name": "select",
 "pan": 0,
 "pitch": 100,
 "volume": 90
