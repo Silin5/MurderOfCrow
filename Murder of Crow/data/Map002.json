@@ -12568,9 +12568,9 @@ true
 "indent": 0,
 "parameters": [
 0,
+8,
 5,
-4,
-29,
+34,
 0,
 0
 ]
@@ -12598,7 +12598,7 @@ true
 "priorityType": 0,
 "stepAnime": false,
 "through": false,
-"trigger": 0,
+"trigger": 1,
 "walkAnime": true
 }
 ],
@@ -14790,9 +14790,9 @@ true
 "indent": 0,
 "parameters": [
 0,
-5,
-5,
-29,
+8,
+6,
+34,
 0,
 0
 ]
@@ -14820,7 +14820,7 @@ true
 "priorityType": 0,
 "stepAnime": false,
 "through": false,
-"trigger": 0,
+"trigger": 1,
 "walkAnime": true
 }
 ],
