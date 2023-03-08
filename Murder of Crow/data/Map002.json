@@ -11736,6 +11736,48 @@ true
 "parameters": []
 },
 {
+"code": 356,
+"indent": 0,
+"parameters": [
+"DetectPictureClick On 2"
+]
+},
+{
+"code": 356,
+"indent": 0,
+"parameters": [
+"DetectPictureClick On 3"
+]
+},
+{
+"code": 356,
+"indent": 0,
+"parameters": [
+"DetectPictureClick On 4"
+]
+},
+{
+"code": 356,
+"indent": 0,
+"parameters": [
+"DetectPictureClick On 5"
+]
+},
+{
+"code": 356,
+"indent": 0,
+"parameters": [
+"DetectPictureClick On 6"
+]
+},
+{
+"code": 356,
+"indent": 0,
+"parameters": [
+"DetectPictureClick On 7"
+]
+},
+{
 "code": 0,
 "indent": 0,
 "parameters": []
@@ -13018,7 +13060,7 @@ true
 "indent": 2,
 "parameters": [
 {
-"name": "labelpuzzle",
+"name": "cluefound",
 "volume": 90,
 "pitch": 100,
 "pan": 0
