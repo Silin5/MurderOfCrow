@@ -2878,7 +2878,7 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"I should hop over to Kiwi first to see"
+"\\n<Crowley>I should hop over to Kiwi first to see"
 ]
 },
 {
@@ -3055,7 +3055,7 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"I should hop over to Kiwi first to see"
+"\\n<Crowley>I should hop over to Kiwi first to see"
 ]
 },
 {
@@ -3365,14 +3365,21 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"No, no more time for caw-fee in my"
+"\\n<Crowley>No, I can't go back to my office for more "
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"office, the people of this town NEED ME."
+"caw-fee. The people of this town"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"NEED ME."
 ]
 },
 {
@@ -3480,14 +3487,21 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"No, no more time for caw-fee in my"
+"\\n<Crowley>No, I can't go back to my office for more "
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"office, the people of this town NEED ME."
+"caw-fee. The people of this town"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"NEED ME."
 ]
 },
 {
@@ -3630,8 +3644,8 @@ null,
 "code": 101,
 "indent": 1,
 "parameters": [
-"kiwihead_sheet",
-0,
+"crowleyfaces",
+5,
 0,
 2
 ]
@@ -3640,14 +3654,7 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"You can't go there yet!"
-]
-},
-{
-"code": 401,
-"indent": 1,
-"parameters": [
-"You have to examine the photos!"
+"\\n<Crowley>I need to chat with Kiwi first."
 ]
 },
 {
@@ -3658,7 +3665,7 @@ null,
 {
 "list": [
 {
-"code": 3,
+"code": 1,
 "indent": null
 },
 {
@@ -3676,7 +3683,7 @@ null,
 "indent": 1,
 "parameters": [
 {
-"code": 3,
+"code": 1,
 "indent": null
 }
 ]
@@ -3800,8 +3807,8 @@ null,
 "code": 101,
 "indent": 1,
 "parameters": [
-"kiwihead_sheet",
-0,
+"crowleyfaces",
+5,
 0,
 2
 ]
@@ -3810,14 +3817,7 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"You can't go there yet!"
-]
-},
-{
-"code": 401,
-"indent": 1,
-"parameters": [
-"You have to examine the photos!"
+"\\n<Crowley>I need to chat with Kiwi first."
 ]
 },
 {
@@ -3828,7 +3828,7 @@ null,
 {
 "list": [
 {
-"code": 3,
+"code": 1,
 "indent": null
 },
 {
@@ -3846,7 +3846,7 @@ null,
 "indent": 1,
 "parameters": [
 {
-"code": 3,
+"code": 1,
 "indent": null
 }
 ]
