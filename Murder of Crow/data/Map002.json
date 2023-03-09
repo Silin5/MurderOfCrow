@@ -7838,7 +7838,7 @@ true
 "code": 401,
 "indent": 1,
 "parameters": [
-"SPACE to read the evidence, and ESC to"
+"press ENTER to read the evidence, and ESC to"
 ]
 },
 {
@@ -8024,8 +8024,8 @@ true
 "code": 101,
 "indent": 2,
 "parameters": [
-"kiwihead_sheet",
-0,
+"updated_kiwihead_sheet",
+1,
 0,
 2
 ]
@@ -8257,14 +8257,14 @@ true
 "code": 401,
 "indent": 1,
 "parameters": [
-"Use the ARROW KEYS to sift through clues,"
+"Use the ARROW KEYS to sift through clues, press"
 ]
 },
 {
 "code": 401,
 "indent": 1,
 "parameters": [
-"SPACE to read the evidence, and ESC to"
+"ENTER to read the evidence, and ESC to"
 ]
 },
 {
@@ -8450,8 +8450,8 @@ true
 "code": 101,
 "indent": 2,
 "parameters": [
-"kiwihead_sheet",
-0,
+"updated_kiwihead_sheet",
+3,
 0,
 2
 ]
@@ -8683,14 +8683,14 @@ true
 "code": 401,
 "indent": 1,
 "parameters": [
-"Use the ARROW KEYS to sift through clues,"
+"Use the ARROW KEYS to sift through clues, press"
 ]
 },
 {
 "code": 401,
 "indent": 1,
 "parameters": [
-"SPACE to read the evidence, and ESC to"
+"ENTER to read the evidence, and ESC to"
 ]
 },
 {
@@ -8907,8 +8907,8 @@ true
 "code": 101,
 "indent": 2,
 "parameters": [
-"kiwihead_sheet",
-0,
+"updated_kiwihead_sheet",
+1,
 0,
 2
 ]
@@ -8943,8 +8943,8 @@ true
 "code": 101,
 "indent": 2,
 "parameters": [
-"kiwihead_sheet",
-0,
+"updated_kiwihead_sheet",
+2,
 0,
 2
 ]
@@ -12928,8 +12928,8 @@ true
 "code": 101,
 "indent": 2,
 "parameters": [
-"kiwihead_sheet",
-0,
+"updated_kiwihead_sheet",
+4,
 0,
 2
 ]
@@ -13235,8 +13235,8 @@ true
 "code": 101,
 "indent": 2,
 "parameters": [
-"kiwihead_sheet",
-0,
+"updated_kiwihead_sheet",
+1,
 0,
 2
 ]
@@ -13333,6 +13333,18 @@ true
 "indent": 2,
 "parameters": [
 "\\n<Crowley>That’s interesting… "
+]
+},
+{
+"code": 250,
+"indent": 2,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
@@ -13554,6 +13566,18 @@ true
 ]
 },
 {
+"code": 250,
+"indent": 2,
+"parameters": [
+{
+"name": "npc_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 2,
 "parameters": [
@@ -13600,6 +13624,18 @@ true
 ]
 },
 {
+"code": 250,
+"indent": 2,
+"parameters": [
+{
+"name": "npc_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 2,
 "parameters": [
@@ -13621,6 +13657,18 @@ true
 "indent": 2,
 "parameters": [
 "you'll find my storeroom."
+]
+},
+{
+"code": 250,
+"indent": 2,
+"parameters": [
+{
+"name": "npc_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
@@ -13902,7 +13950,7 @@ true
 "code": 101,
 "indent": 2,
 "parameters": [
-"kiwihead_sheet",
+"updated_kiwihead_sheet",
 0,
 0,
 2
@@ -13916,11 +13964,23 @@ true
 ]
 },
 {
+"code": 250,
+"indent": 2,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 2,
 "parameters": [
-"kiwihead_sheet",
-0,
+"updated_kiwihead_sheet",
+5,
 0,
 2
 ]
@@ -13933,11 +13993,35 @@ true
 ]
 },
 {
+"code": 250,
+"indent": 2,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 110,
+"pan": 0
+}
+]
+},
+{
+"code": 250,
+"indent": 2,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 110,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 2,
 "parameters": [
-"kiwihead_sheet",
-0,
+"updated_kiwihead_sheet",
+2,
 0,
 2
 ]
@@ -13965,8 +14049,8 @@ true
 "code": 101,
 "indent": 2,
 "parameters": [
-"kiwihead_sheet",
-0,
+"updated_kiwihead_sheet",
+1,
 0,
 2
 ]
