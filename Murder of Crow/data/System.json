@@ -320,9 +320,9 @@ true
 "volume": 90
 }
 ],
-"startMapId": 2,
-"startX": 16,
-"startY": 5,
+"startMapId": 1,
+"startX": 13,
+"startY": 9,
 "switches": [
 "",
 "Cutscene",
@@ -810,7 +810,7 @@ null,
 "",
 "",
 "",
-"",
+"Ruffled Feathers",
 "",
 "",
 "",

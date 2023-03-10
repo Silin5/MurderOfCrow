@@ -1,10 +1,10 @@
 {
-"autoplayBgm": false,
+"autoplayBgm": true,
 "autoplayBgs": false,
 "battleback1Name": "",
 "battleback2Name": "",
 "bgm": {
-"name": "",
+"name": "narrows",
 "pan": 0,
 "pitch": 100,
 "volume": 90
@@ -29,7 +29,7 @@
 "parallaxSy": 0,
 "scrollType": 0,
 "specifyBattleback": false,
-"tilesetId": 9,
+"tilesetId": 3,
 "width": 40,
 "data": [
 7379,
@@ -7559,8 +7559,8 @@ null,
 "parameters": [
 0,
 1,
-7,
-0,
+2,
+1,
 0,
 0
 ]
@@ -7631,8 +7631,8 @@ null,
 "parameters": [
 0,
 1,
-8,
-0,
+3,
+1,
 0,
 0
 ]
@@ -7703,8 +7703,8 @@ null,
 "parameters": [
 0,
 1,
-9,
-0,
+2,
+1,
 0,
 0
 ]
@@ -7775,8 +7775,8 @@ null,
 "parameters": [
 0,
 1,
-10,
-0,
+3,
+1,
 0,
 0
 ]

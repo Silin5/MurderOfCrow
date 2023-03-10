@@ -4,7 +4,7 @@
 "battleback1Name": "",
 "battleback2Name": "",
 "bgm": {
-"name": "basic_song",
+"name": "townsquare",
 "pan": 0,
 "pitch": 100,
 "volume": 90
@@ -29,230 +29,230 @@
 "parallaxSy": 0,
 "scrollType": 0,
 "specifyBattleback": false,
-"tilesetId": 7,
+"tilesetId": 1,
 "width": 17,
 "data": [
-7139,
-7143,
-7147,
-7146,
-7146,
-7146,
-7150,
-5904,
-5888,
-5888,
-5912,
-7147,
-7146,
-7146,
-7146,
-7146,
-7150,
-7137,
-7141,
-6322,
-6514,
-6514,
-6326,
-3006,
-5904,
-5888,
-5888,
-5912,
-3006,
-6323,
-6370,
-6370,
-6326,
-3003,
-7137,
-7140,
-6328,
-6520,
-6520,
-6332,
-6330,
-5904,
-5888,
-5888,
-5912,
-6330,
-6332,
-6376,
-6376,
-6329,
-6334,
-7145,
-7148,
-5922,
-5908,
-5908,
-5908,
-5908,
-5889,
-5888,
-5888,
-5890,
-5908,
-5908,
-5908,
-5908,
-5908,
-5908,
-6331,
-6330,
-5904,
-5888,
-5888,
-5888,
-5888,
-5888,
-5888,
-5888,
-5888,
-5888,
-5888,
-5888,
-5892,
-5916,
-5916,
-2993,
-3005,
-5904,
-5888,
-5888,
-5888,
-5888,
-5888,
-5888,
-5888,
-5888,
-5888,
-5888,
-5888,
-5912,
-7194,
-7198,
-6331,
-6330,
-5904,
-5888,
-5888,
-5888,
-5888,
-5888,
-5888,
-5888,
-5888,
-5888,
-5888,
-5888,
-5912,
-6323,
-6326,
-5908,
-5908,
-5889,
-5888,
-5888,
-5892,
-5916,
-5916,
-5916,
-5916,
-5916,
+6680,
+6144,
+6128,
+6128,
+6152,
+5928,
 5916,
 5916,
 5916,
 5926,
-6321,
-6324,
+3772,
+5928,
 5916,
 5916,
 5916,
-5896,
-5888,
-5912,
-1540,
-1541,
-1540,
-1541,
-1540,
-1541,
-1540,
-1541,
-1540,
-6321,
-6324,
-7147,
-7146,
-7146,
-5904,
-5888,
-5912,
-1548,
-1549,
-1548,
-1549,
-1548,
-1549,
-1548,
-1549,
-1548,
-6321,
-6324,
-6323,
-6322,
-6326,
-5904,
-5888,
-5912,
-6323,
-6331,
-6330,
-6334,
-6322,
-6331,
-6330,
-6334,
-6326,
-6321,
-6324,
-6325,
-6320,
-6324,
-5904,
-5888,
-5912,
-6325,
-3003,
-2993,
-3005,
-6325,
-3003,
-2993,
-3005,
-6325,
-6324,
-6324,
-6333,
-6328,
-6332,
-5904,
-5888,
-5912,
-6329,
-6331,
-6330,
-6334,
-6328,
-6331,
-6330,
-6334,
-6332,
-6328,
-6332,
+5926,
+6672,
+6680,
+6144,
+6128,
+6128,
+6152,
+7610,
+7242,
+7610,
+7242,
+7610,
+8103,
+7610,
+7242,
+7610,
+7242,
+7610,
+6672,
+6694,
+6144,
+6128,
+6128,
+6152,
+7609,
+7601,
+7599,
+7601,
+7607,
+8101,
+7609,
+7601,
+7599,
+7601,
+7607,
+6672,
+8151,
+6144,
+6128,
+6128,
+6152,
+8147,
+8146,
+8146,
+8146,
+8150,
+8101,
+8147,
+8146,
+8146,
+8146,
+8146,
+6672,
+8157,
+6168,
+6156,
+6156,
+6166,
+8153,
+8152,
+8152,
+8152,
+8156,
+8109,
+8153,
+8152,
+8152,
+8152,
+8152,
+6672,
+3665,
+3665,
+3665,
+3665,
+3665,
+3665,
+3665,
+3665,
+3665,
+3665,
+3665,
+3654,
+3652,
+3652,
+3652,
+3668,
+6672,
+3377,
+3366,
+3364,
+3364,
+3365,
+3377,
+3377,
+3377,
+3389,
+3618,
+3620,
+3648,
+3632,
+3632,
+3632,
+3656,
+6672,
+6020,
+3360,
+3344,
+3344,
+3368,
+3666,
+3652,
+3652,
+3668,
+3600,
+3608,
+3648,
+3632,
+3632,
+3632,
+3656,
+6672,
+6008,
+3360,
+3344,
+3344,
+3368,
+3648,
+3632,
+3632,
+3656,
+3624,
+3622,
+3648,
+3632,
+3632,
+3632,
+3656,
+6672,
+6008,
+3360,
+3344,
+3344,
+3368,
+3648,
+3632,
+3632,
+3634,
+3652,
+3652,
+3633,
+3632,
+3632,
+3632,
+3656,
+6672,
+6008,
+3360,
+3344,
+3344,
+3368,
+3648,
+3632,
+3632,
+3632,
+3632,
+3632,
+3632,
+3632,
+3632,
+3632,
+3656,
+6672,
+6008,
+3384,
+3372,
+3372,
+3382,
+3672,
+3660,
+3660,
+3660,
+3660,
+3660,
+3660,
+3660,
+3660,
+3660,
+3670,
+6672,
+5986,
+6004,
+6004,
+6004,
+6004,
+6004,
+6004,
+6004,
+6004,
+6004,
+6004,
+6004,
+6020,
+3618,
+3620,
+6026,
+6672,
 0,
 0,
 0,
@@ -355,6 +355,17 @@
 0,
 0,
 0,
+4193,
+4182,
+4180,
+4180,
+4181,
+4193,
+4193,
+4193,
+4205,
+3666,
+3668,
 0,
 0,
 0,
@@ -362,10 +373,16 @@
 0,
 0,
 0,
+4176,
+4160,
+4160,
+4184,
 0,
 0,
 0,
 0,
+3648,
+3656,
 0,
 0,
 0,
@@ -373,10 +390,16 @@
 0,
 0,
 0,
+4176,
+4160,
+4160,
+4184,
 0,
 0,
 0,
 0,
+3672,
+3670,
 0,
 0,
 0,
@@ -384,6 +407,10 @@
 0,
 0,
 0,
+4176,
+4160,
+4160,
+4184,
 0,
 0,
 0,
@@ -397,6 +424,10 @@
 0,
 0,
 0,
+4176,
+4160,
+4160,
+4184,
 0,
 0,
 0,
@@ -410,6 +441,10 @@
 0,
 0,
 0,
+4200,
+4188,
+4188,
+4198,
 0,
 0,
 0,
@@ -435,6 +470,8 @@
 0,
 0,
 0,
+3666,
+3668,
 0,
 0,
 0,
@@ -456,6 +493,8 @@
 0,
 0,
 0,
+61,
+60,
 0,
 0,
 0,
@@ -657,6 +696,10 @@
 0,
 0,
 0,
+52,
+53,
+52,
+53,
 0,
 0,
 0,
@@ -670,16 +713,26 @@
 0,
 0,
 0,
+60,
+96,
+97,
+61,
 0,
+161,
 0,
+161,
 0,
 0,
 0,
+161,
 0,
+161,
 0,
 0,
 0,
 0,
+104,
+105,
 0,
 0,
 0,
@@ -695,6 +748,8 @@
 0,
 0,
 0,
+112,
+113,
 0,
 0,
 0,
@@ -708,6 +763,12 @@
 0,
 0,
 0,
+44,
+45,
+120,
+121,
+46,
+47,
 0,
 0,
 0,
@@ -761,6 +822,8 @@
 0,
 0,
 0,
+13,
+14,
 0,
 0,
 0,
@@ -776,6 +839,8 @@
 0,
 0,
 0,
+21,
+22,
 0,
 0,
 0,
@@ -791,6 +856,8 @@
 0,
 0,
 0,
+29,
+30,
 0,
 0,
 0,
@@ -849,67 +916,11 @@
 0,
 0,
 0,
+4,
+5,
 0,
 0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
+10,
 0,
 0,
 0,
@@ -924,124 +935,91 @@
 0,
 0,
 5,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
+4,
 5,
-5,
+10,
 0,
+3,
 0,
-0,
-5,
-0,
-0,
-0,
-0,
-5,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-5,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-5,
-0,
-0,
-0,
-0,
-0,
+3,
 0,
 0,
 0,
 3,
+0,
 3,
-3,
-3,
-3,
-3,
-0,
-0,
-5,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
 0,
 0,
 0,
 5,
-0,
 5,
+13,
+10,
 0,
+3,
 0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-5,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
+3,
 0,
 0,
 0,
 3,
+0,
 3,
-1,
+0,
+0,
+0,
+5,
+5,
+14,
+10,
 0,
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+10,
+0,
+8,
+13,
+15,
+13,
+6,
+4,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+10,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+12,
+4,
 0,
 0,
 0,
@@ -1092,8 +1070,7 @@
 0,
 0,
 0,
-0,
-0,
+5,
 0,
 0,
 0,
@@ -1114,7 +1091,30 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 5,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -1373,10 +1373,78 @@ null,
 "itemId": 1,
 "itemValid": false,
 "selfSwitchCh": "A",
+"selfSwitchValid": true,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"tileId": 0,
+"characterName": "$slyskunkwitness",
+"direction": 4,
+"pattern": 1,
+"characterIndex": 0
+},
+"list": [
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"skunkhead_sheet",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"..."
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 1,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
 "selfSwitchValid": false,
 "switch1Id": 1,
-"switch1Valid": true,
-"switch2Id": 1,
+"switch1Valid": false,
+"switch2Id": 5,
 "switch2Valid": false,
 "variableId": 1,
 "variableValid": false,
@@ -1392,8 +1460,44 @@ null,
 },
 "list": [
 {
-"code": 250,
+"code": 111,
 "indent": 0,
+"parameters": [
+0,
+5,
+1
+]
+},
+{
+"code": 101,
+"indent": 1,
+"parameters": [
+"skunkhead_sheet",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"..."
+]
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 411,
+"indent": 0,
+"parameters": []
+},
+{
+"code": 250,
+"indent": 1,
 "parameters": [
 {
 "name": "npc_voice",
@@ -1405,7 +1509,7 @@ null,
 },
 {
 "code": 101,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "crowleyfaces",
 0,
@@ -1415,21 +1519,21 @@ null,
 },
 {
 "code": 401,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "\\n<Crowley>Word on the street is you're the"
 ]
 },
 {
 "code": 401,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "one who found the body."
 ]
 },
 {
 "code": 101,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "skunkhead_sheet",
 0,
@@ -1439,14 +1543,14 @@ null,
 },
 {
 "code": 401,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "\\n<Witness>Y-yes, that’s c-correct."
 ]
 },
 {
 "code": 101,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "crowleyfaces",
 5,
@@ -1456,21 +1560,21 @@ null,
 },
 {
 "code": 401,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "\\n<Crowley>You seem pretty shaken up, want"
 ]
 },
 {
 "code": 401,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "to tell me why that is?"
 ]
 },
 {
 "code": 101,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "skunkhead_sheet",
 0,
@@ -1480,21 +1584,21 @@ null,
 },
 {
 "code": 401,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "\\n<Witness>Wouldn’t y-you be too if you had"
 ]
 },
 {
 "code": 401,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "caught the c-culprit on camera?"
 ]
 },
 {
 "code": 101,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "crowleyfaces",
 4,
@@ -1504,14 +1608,14 @@ null,
 },
 {
 "code": 401,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "\\n<Crowley>You mean, you KNOW who did this?"
 ]
 },
 {
 "code": 101,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "skunkhead_sheet",
 0,
@@ -1521,28 +1625,28 @@ null,
 },
 {
 "code": 401,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "\\n<Witness>W-well, not exactly. I was trying to get"
 ]
 },
 {
 "code": 401,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "the s-scoop on another story, something"
 ]
 },
 {
 "code": 401,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "about stolen goods..."
 ]
 },
 {
 "code": 101,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "skunkhead_sheet",
 0,
@@ -1552,21 +1656,21 @@ null,
 },
 {
 "code": 401,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "\\n<Witness>Last night... walking home..."
 ]
 },
 {
 "code": 401,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "I saw s-something lurking about..."
 ]
 },
 {
 "code": 101,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "skunkhead_sheet",
 0,
@@ -1576,28 +1680,28 @@ null,
 },
 {
 "code": 401,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "\\n<Witness>I thought my camera flash would"
 ]
 },
 {
 "code": 401,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "scare them off. But when I went to"
 ]
 },
 {
 "code": 401,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "develop my photo..."
 ]
 },
 {
 "code": 101,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "crowleyfaces",
 1,
@@ -1607,14 +1711,14 @@ null,
 },
 {
 "code": 401,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "\\n<Crowley>..."
 ]
 },
 {
 "code": 101,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "skunkhead_sheet",
 0,
@@ -1624,14 +1728,14 @@ null,
 },
 {
 "code": 401,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "\\n<Witness>..."
 ]
 },
 {
 "code": 101,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "crowleyfaces",
 1,
@@ -1641,14 +1745,14 @@ null,
 },
 {
 "code": 401,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "\\n<Crowley>Yes...?"
 ]
 },
 {
 "code": 101,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "skunkhead_sheet",
 0,
@@ -1658,14 +1762,14 @@ null,
 },
 {
 "code": 401,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "\\n<Witness>...HERE!"
 ]
 },
 {
 "code": 101,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "skunkhead_sheet",
 0,
@@ -1675,28 +1779,28 @@ null,
 },
 {
 "code": 401,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "\\n<Witness>S-sorry it’s in pieces, I didn’t expect it"
 ]
 },
 {
 "code": 401,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "would turn into evidence. H-hopefully you"
 ]
 },
 {
 "code": 401,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "can make sense of it?"
 ]
 },
 {
 "code": 201,
-"indent": 0,
+"indent": 1,
 "parameters": [
 0,
 4,
@@ -1708,7 +1812,7 @@ null,
 },
 {
 "code": 122,
-"indent": 0,
+"indent": 1,
 "parameters": [
 6,
 6,
@@ -1716,6 +1820,16 @@ null,
 0,
 1
 ]
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 412,
+"indent": 0,
+"parameters": []
 },
 {
 "code": 0,
@@ -1753,7 +1867,7 @@ null,
 "selfSwitchValid": false,
 "switch1Id": 6,
 "switch1Valid": true,
-"switch2Id": 1,
+"switch2Id": 5,
 "switch2Valid": false,
 "variableId": 1,
 "variableValid": false,
@@ -2211,7 +2325,7 @@ null,
 }
 ],
 "x": 7,
-"y": 4
+"y": 5
 },
 {
 "id": 4,
@@ -2375,7 +2489,7 @@ false
 "itemValid": false,
 "selfSwitchCh": "B",
 "selfSwitchValid": true,
-"switch1Id": 1,
+"switch1Id": 81,
 "switch1Valid": false,
 "switch2Id": 1,
 "switch2Valid": false,
@@ -2420,7 +2534,7 @@ false
 }
 ],
 "x": 8,
-"y": 4
+"y": 5
 },
 {
 "id": 5,
@@ -2435,8 +2549,8 @@ false
 "itemValid": false,
 "selfSwitchCh": "A",
 "selfSwitchValid": false,
-"switch1Id": 1,
-"switch1Valid": false,
+"switch1Id": 81,
+"switch1Valid": true,
 "switch2Id": 1,
 "switch2Valid": false,
 "variableId": 1,
@@ -2452,116 +2566,6 @@ false
 "tileId": 0
 },
 "list": [
-{
-"code": 111,
-"indent": 0,
-"parameters": [
-1,
-23,
-0,
-1,
-1
-]
-},
-{
-"code": 201,
-"indent": 1,
-"parameters": [
-0,
-5,
-33,
-15,
-0,
-0
-]
-},
-{
-"code": 241,
-"indent": 1,
-"parameters": [
-{
-"name": "market",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 0,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 411,
-"indent": 0,
-"parameters": []
-},
-{
-"code": 101,
-"indent": 1,
-"parameters": [
-"kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 1,
-"parameters": [
-"You can't go there yet!"
-]
-},
-{
-"code": 401,
-"indent": 1,
-"parameters": [
-"You have to examine the photos!"
-]
-},
-{
-"code": 205,
-"indent": 1,
-"parameters": [
--1,
-{
-"list": [
-{
-"code": 3,
-"indent": null
-},
-{
-"code": 0
-}
-],
-"repeat": false,
-"skippable": false,
-"wait": true
-}
-]
-},
-{
-"code": 505,
-"indent": 1,
-"parameters": [
-{
-"code": 3,
-"indent": null
-}
-]
-},
-{
-"code": 0,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 0,
-"parameters": []
-},
 {
 "code": 0,
 "indent": 0,
@@ -2585,11 +2589,11 @@ false
 "priorityType": 0,
 "stepAnime": false,
 "through": false,
-"trigger": 1,
+"trigger": 0,
 "walkAnime": true
 }
 ],
-"x": 7,
+"x": 3,
 "y": 0
 },
 {
@@ -2646,8 +2650,8 @@ false
 "code": 101,
 "indent": 2,
 "parameters": [
-"kiwihead_sheet",
-0,
+"updated_kiwihead_sheet",
+4,
 0,
 2
 ]
@@ -2784,176 +2788,7 @@ false
 "x": 1,
 "y": 0
 },
-{
-"id": 7,
-"name": "EV007",
-"note": "",
-"pages": [
-{
-"conditions": {
-"actorId": 1,
-"actorValid": false,
-"itemId": 1,
-"itemValid": false,
-"selfSwitchCh": "A",
-"selfSwitchValid": false,
-"switch1Id": 1,
-"switch1Valid": false,
-"switch2Id": 1,
-"switch2Valid": false,
-"variableId": 1,
-"variableValid": false,
-"variableValue": 0
-},
-"directionFix": false,
-"image": {
-"characterIndex": 0,
-"characterName": "",
-"direction": 2,
-"pattern": 0,
-"tileId": 0
-},
-"list": [
-{
-"code": 111,
-"indent": 0,
-"parameters": [
-1,
-23,
-0,
-1,
-1
-]
-},
-{
-"code": 201,
-"indent": 1,
-"parameters": [
-0,
-5,
-34,
-15,
-0,
-0
-]
-},
-{
-"code": 241,
-"indent": 1,
-"parameters": [
-{
-"name": "market",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 0,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 411,
-"indent": 0,
-"parameters": []
-},
-{
-"code": 101,
-"indent": 1,
-"parameters": [
-"kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 1,
-"parameters": [
-"You can't go there yet!"
-]
-},
-{
-"code": 401,
-"indent": 1,
-"parameters": [
-"You have to examine the photos!"
-]
-},
-{
-"code": 205,
-"indent": 1,
-"parameters": [
--1,
-{
-"list": [
-{
-"code": 3,
-"indent": null
-},
-{
-"code": 0
-}
-],
-"repeat": false,
-"skippable": false,
-"wait": true
-}
-]
-},
-{
-"code": 505,
-"indent": 1,
-"parameters": [
-{
-"code": 3,
-"indent": null
-}
-]
-},
-{
-"code": 0,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 0,
-"parameters": []
-},
-{
-"code": 0,
-"indent": 0,
-"parameters": []
-}
-],
-"moveFrequency": 3,
-"moveRoute": {
-"list": [
-{
-"code": 0,
-"parameters": []
-}
-],
-"repeat": true,
-"skippable": false,
-"wait": false
-},
-"moveSpeed": 3,
-"moveType": 0,
-"priorityType": 0,
-"stepAnime": false,
-"through": false,
-"trigger": 1,
-"walkAnime": true
-}
-],
-"x": 8,
-"y": 0
-},
+null,
 {
 "id": 8,
 "name": "EV008",
@@ -3033,8 +2868,8 @@ false
 "code": 101,
 "indent": 1,
 "parameters": [
-"kiwihead_sheet",
-0,
+"crowleyfaces",
+5,
 0,
 2
 ]
@@ -3043,14 +2878,21 @@ false
 "code": 401,
 "indent": 1,
 "parameters": [
-"You can't go there yet!"
+"\\n<Crowley>I should hop over to Kiwi first to see"
 ]
 },
 {
 "code": 401,
 "indent": 1,
 "parameters": [
-"You have to examine the photos!"
+"if she knows what all the commotion is"
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"about."
 ]
 },
 {
@@ -3122,7 +2964,7 @@ false
 }
 ],
 "x": 0,
-"y": 7
+"y": 5
 },
 {
 "id": 9,
@@ -3203,8 +3045,8 @@ false
 "code": 101,
 "indent": 1,
 "parameters": [
-"kiwihead_sheet",
-0,
+"crowleyfaces",
+5,
 0,
 2
 ]
@@ -3213,14 +3055,21 @@ false
 "code": 401,
 "indent": 1,
 "parameters": [
-"You can't go there yet!"
+"\\n<Crowley>I should hop over to Kiwi first to see"
 ]
 },
 {
 "code": 401,
 "indent": 1,
 "parameters": [
-"You have to examine the photos!"
+"if she knows what all the commotion is"
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"about."
 ]
 },
 {
@@ -3292,7 +3141,7 @@ false
 }
 ],
 "x": 0,
-"y": 8
+"y": 6
 },
 {
 "id": 10,
@@ -3469,330 +3318,9 @@ null,
 null,
 null,
 null,
-{
-"id": 15,
-"name": "EV015",
-"note": "",
-"pages": [
-{
-"conditions": {
-"actorId": 1,
-"actorValid": false,
-"itemId": 1,
-"itemValid": false,
-"selfSwitchCh": "A",
-"selfSwitchValid": false,
-"switch1Id": 1,
-"switch1Valid": false,
-"switch2Id": 1,
-"switch2Valid": false,
-"variableId": 1,
-"variableValid": false,
-"variableValue": 0
-},
-"directionFix": false,
-"image": {
-"characterIndex": 0,
-"characterName": "",
-"direction": 2,
-"pattern": 0,
-"tileId": 0
-},
-"list": [
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"You can't go there yet!"
-]
-},
-{
-"code": 205,
-"indent": 0,
-"parameters": [
--1,
-{
-"list": [
-{
-"code": 2,
-"indent": null
-},
-{
-"code": 0
-}
-],
-"repeat": false,
-"skippable": false,
-"wait": true
-}
-]
-},
-{
-"code": 505,
-"indent": 0,
-"parameters": [
-{
-"code": 2,
-"indent": null
-}
-]
-},
-{
-"code": 0,
-"indent": 0,
-"parameters": []
-}
-],
-"moveFrequency": 3,
-"moveRoute": {
-"list": [
-{
-"code": 0,
-"parameters": []
-}
-],
-"repeat": true,
-"skippable": false,
-"wait": false
-},
-"moveSpeed": 3,
-"moveType": 0,
-"priorityType": 0,
-"stepAnime": false,
-"through": false,
-"trigger": 1,
-"walkAnime": true
-}
-],
-"x": 16,
-"y": 3
-},
-{
-"id": 16,
-"name": "EV016",
-"note": "",
-"pages": [
-{
-"conditions": {
-"actorId": 1,
-"actorValid": false,
-"itemId": 1,
-"itemValid": false,
-"selfSwitchCh": "A",
-"selfSwitchValid": false,
-"switch1Id": 1,
-"switch1Valid": false,
-"switch2Id": 1,
-"switch2Valid": false,
-"variableId": 1,
-"variableValid": false,
-"variableValue": 0
-},
-"directionFix": false,
-"image": {
-"characterIndex": 0,
-"characterName": "",
-"direction": 2,
-"pattern": 0,
-"tileId": 0
-},
-"list": [
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"You can't go there yet!"
-]
-},
-{
-"code": 205,
-"indent": 0,
-"parameters": [
--1,
-{
-"list": [
-{
-"code": 2,
-"indent": null
-},
-{
-"code": 0
-}
-],
-"repeat": false,
-"skippable": false,
-"wait": true
-}
-]
-},
-{
-"code": 505,
-"indent": 0,
-"parameters": [
-{
-"code": 2,
-"indent": null
-}
-]
-},
-{
-"code": 0,
-"indent": 0,
-"parameters": []
-}
-],
-"moveFrequency": 3,
-"moveRoute": {
-"list": [
-{
-"code": 0,
-"parameters": []
-}
-],
-"repeat": true,
-"skippable": false,
-"wait": false
-},
-"moveSpeed": 3,
-"moveType": 0,
-"priorityType": 0,
-"stepAnime": false,
-"through": false,
-"trigger": 1,
-"walkAnime": true
-}
-],
-"x": 16,
-"y": 4
-},
-{
-"id": 17,
-"name": "EV017",
-"note": "",
-"pages": [
-{
-"conditions": {
-"actorId": 1,
-"actorValid": false,
-"itemId": 1,
-"itemValid": false,
-"selfSwitchCh": "A",
-"selfSwitchValid": false,
-"switch1Id": 1,
-"switch1Valid": false,
-"switch2Id": 1,
-"switch2Valid": false,
-"variableId": 1,
-"variableValid": false,
-"variableValue": 0
-},
-"directionFix": false,
-"image": {
-"characterIndex": 0,
-"characterName": "",
-"direction": 2,
-"pattern": 0,
-"tileId": 0
-},
-"list": [
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"You can't go there yet!"
-]
-},
-{
-"code": 205,
-"indent": 0,
-"parameters": [
--1,
-{
-"list": [
-{
-"code": 4,
-"indent": null
-},
-{
-"code": 0
-}
-],
-"repeat": false,
-"skippable": false,
-"wait": true
-}
-]
-},
-{
-"code": 505,
-"indent": 0,
-"parameters": [
-{
-"code": 4,
-"indent": null
-}
-]
-},
-{
-"code": 0,
-"indent": 0,
-"parameters": []
-}
-],
-"moveFrequency": 3,
-"moveRoute": {
-"list": [
-{
-"code": 0,
-"parameters": []
-}
-],
-"repeat": true,
-"skippable": false,
-"wait": false
-},
-"moveSpeed": 3,
-"moveType": 0,
-"priorityType": 0,
-"stepAnime": false,
-"through": false,
-"trigger": 1,
-"walkAnime": true
-}
-],
-"x": 3,
-"y": 12
-},
+null,
+null,
+null,
 {
 "id": 18,
 "name": "EV018",
@@ -3827,8 +3355,8 @@ null,
 "code": 101,
 "indent": 0,
 "parameters": [
-"kiwihead_sheet",
-0,
+"crowleyfaces",
+2,
 0,
 2
 ]
@@ -3837,7 +3365,21 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"You can't go there yet!"
+"\\n<Crowley>No, I can't go back to my office for more "
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"caw-fee. The people of this town"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"NEED ME."
 ]
 },
 {
@@ -3898,7 +3440,7 @@ null,
 "walkAnime": true
 }
 ],
-"x": 4,
+"x": 13,
 "y": 12
 },
 {
@@ -3935,8 +3477,8 @@ null,
 "code": 101,
 "indent": 0,
 "parameters": [
-"kiwihead_sheet",
-0,
+"crowleyfaces",
+2,
 0,
 2
 ]
@@ -3945,7 +3487,21 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"You can't go there yet!"
+"\\n<Crowley>No, I can't go back to my office for more "
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"caw-fee. The people of this town"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"NEED ME."
 ]
 },
 {
@@ -4006,7 +3562,7 @@ null,
 "walkAnime": true
 }
 ],
-"x": 5,
+"x": 14,
 "y": 12
 },
 {
@@ -4088,8 +3644,8 @@ null,
 "code": 101,
 "indent": 1,
 "parameters": [
-"kiwihead_sheet",
-0,
+"crowleyfaces",
+5,
 0,
 2
 ]
@@ -4098,14 +3654,7 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"You can't go there yet!"
-]
-},
-{
-"code": 401,
-"indent": 1,
-"parameters": [
-"You have to examine the photos!"
+"\\n<Crowley>I need to chat with Kiwi first."
 ]
 },
 {
@@ -4116,7 +3665,7 @@ null,
 {
 "list": [
 {
-"code": 3,
+"code": 1,
 "indent": null
 },
 {
@@ -4134,7 +3683,7 @@ null,
 "indent": 1,
 "parameters": [
 {
-"code": 3,
+"code": 1,
 "indent": null
 }
 ]
@@ -4176,8 +3725,8 @@ null,
 "walkAnime": true
 }
 ],
-"x": 9,
-"y": 0
+"x": 2,
+"y": 1
 },
 {
 "id": 21,
@@ -4258,8 +3807,8 @@ null,
 "code": 101,
 "indent": 1,
 "parameters": [
-"kiwihead_sheet",
-0,
+"crowleyfaces",
+5,
 0,
 2
 ]
@@ -4268,14 +3817,7 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"You can't go there yet!"
-]
-},
-{
-"code": 401,
-"indent": 1,
-"parameters": [
-"You have to examine the photos!"
+"\\n<Crowley>I need to chat with Kiwi first."
 ]
 },
 {
@@ -4286,7 +3828,7 @@ null,
 {
 "list": [
 {
-"code": 3,
+"code": 1,
 "indent": null
 },
 {
@@ -4304,7 +3846,7 @@ null,
 "indent": 1,
 "parameters": [
 {
-"code": 3,
+"code": 1,
 "indent": null
 }
 ]
@@ -4346,8 +3888,8 @@ null,
 "walkAnime": true
 }
 ],
-"x": 10,
-"y": 0
+"x": 3,
+"y": 1
 },
 null,
 null,
