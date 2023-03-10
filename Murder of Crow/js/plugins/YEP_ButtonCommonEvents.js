@@ -294,6 +294,7 @@ Yanfly.BCE.version = 1.02
  * @param ---4th Row---
  * @default
  *
+ * @param Key Shift (Dash)
  * @parent ---4th Row---
  * @type common_event
  * @desc The common event to call when this button is pressed.
@@ -590,6 +591,7 @@ Yanfly.BCE.version = 1.02
  * Key - What they're assigned to
  *   - Q         - Assigned to PageUp
  *   - W         - Assigned to PageDown
+ *   - Shift     - Assigned to Dash
  *   - Z         - Assigned to OK
  *   - X         - Assigned to Cancel
  *   - Space     - Assigned to OK
@@ -741,6 +743,7 @@ Yanfly.Param.BCEList = {
       quote: Number(Yanfly.Parameters['Key "']),
       enter: Number(Yanfly.Parameters['Key Enter (OK)']),
 
+   keyShift: Number(Yanfly.Parameters['Key Shift (Dash)']),
           z: Number(Yanfly.Parameters['Key Z (OK)']),
           x: Number(Yanfly.Parameters['Key X (Cancel)']),
           c: Number(Yanfly.Parameters['Key C']),
@@ -825,6 +828,7 @@ if (Yanfly.Param.BCEList['semicolon'] !== 0) Input.keyMapper[186] = 'semicolon';
 if (Yanfly.Param.BCEList['quote'] !== 0) Input.keyMapper[222]     = 'quote';
 if (Yanfly.Param.BCEList['enter'] !== 0) Input.keyMapper[13]      = 'enter';
 
+if (Yanfly.Param.BCEList['keyShift'] !== 0) Input.keyMapper[16]   = 'keyShift';
 if (Yanfly.Param.BCEList['z'] !== 0) Input.keyMapper[90]          = 'z';
 if (Yanfly.Param.BCEList['x'] !== 0) Input.keyMapper[88]          = 'x';
 if (Yanfly.Param.BCEList['c'] !== 0) Input.keyMapper[67]          = 'c';
@@ -876,7 +880,8 @@ Input._revertButton = function(button) {
     this.keyMapper[45] = 'escape';
     this.keyMapper[88] = 'escape';
     this.keyMapper[96] = 'escape';
- 
+  } else if (button === 'DASH') {
+    this.keyMapper[16] = 'shift';
   } else if (button === 'PAGEUP') {
     this.keyMapper[33] = 'pageup';
     this.keyMapper[81] = 'pageup';
@@ -899,6 +904,7 @@ Input._revertButton = function(button) {
     this.keyMapper[45] = 'escape';
     this.keyMapper[88] = 'escape';
     this.keyMapper[96] = 'escape';
+    this.keyMapper[16] = 'shift';
     this.keyMapper[33] = 'pageup';
     this.keyMapper[81] = 'pageup';
     this.keyMapper[37] = 'left';
@@ -921,6 +927,8 @@ Input._switchButton = function(button) {
     if (Yanfly.Param.BCEList['ins'] !== 0) this.keyMapper[45] = 'ins';
     if (Yanfly.Param.BCEList['x'] !== 0) this.keyMapper[88] = 'x';
     if (Yanfly.Param.BCEList['num0'] !== 0) this.keyMapper[96] = 'num0';
+  } else if (button === 'DASH') {
+    if (Yanfly.Param.BCEList['keyShift'] !== 0) this.keyMapper[16] = 'keyShift';
   } else if (button === 'PAGEUP') {
     if (Yanfly.Param.BCEList['pageUp'] !== 0) this.keyMapper[33] = 'pageUp';
     if (Yanfly.Param.BCEList['q'] !== 0) this.keyMapper[81] = 'q';
@@ -943,9 +951,9 @@ Input._switchButton = function(button) {
     if (Yanfly.Param.BCEList['ins'] !== 0) this.keyMapper[45] = 'ins';
     if (Yanfly.Param.BCEList['x'] !== 0) this.keyMapper[88] = 'x';
     if (Yanfly.Param.BCEList['num0'] !== 0) this.keyMapper[96] = 'num0';
+    if (Yanfly.Param.BCEList['keyShift'] !== 0) this.keyMapper[16] = 'keyShift';
     if (Yanfly.Param.BCEList['pageUp'] !== 0) this.keyMapper[33] = 'pageUp';
     if (Yanfly.Param.BCEList['q'] !== 0) this.keyMapper[81] = 'q';
-
     if (Yanfly.Param.BCEList['dirLeft'] !== 0) this.keyMapper[37] = 'dirLeft';
     if (Yanfly.Param.BCEList['num4'] !== 0) this.keyMapper[100] = 'num4';
     if (Yanfly.Param.BCEList['dirUp'] !== 0) this.keyMapper[38] = 'dirUp';
@@ -1024,6 +1032,7 @@ Game_Interpreter.prototype.triggerButton = function(args) {
   if (!args) return;
   var button = args[0].toLowerCase();
   if (button === 'cancel') button = 'escape';
+  if (button === 'dash') button = 'shift';
   Input._latestButton = button;
   Input._pressedTime = 0;
 };
