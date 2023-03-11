@@ -32,23 +32,23 @@
 "tilesetId": 1,
 "width": 16,
 "data": [
-5988,
-6012,
-6012,
-6012,
-6012,
-6012,
-6012,
-6012,
-6012,
-6012,
-6012,
-6012,
-6012,
-6012,
-6012,
-5992,
-6008,
+1570,
+1570,
+1570,
+1570,
+1570,
+1570,
+1570,
+1570,
+1570,
+1570,
+1570,
+1570,
+1570,
+1570,
+1570,
+1570,
+1570,
 5922,
 5908,
 5908,
@@ -63,8 +63,8 @@
 5908,
 5908,
 5924,
-6000,
-6008,
+1570,
+1570,
 5904,
 5888,
 5888,
@@ -79,8 +79,8 @@
 5888,
 5888,
 5912,
-6000,
-6008,
+1570,
+1570,
 5904,
 5888,
 5888,
@@ -95,8 +95,8 @@
 5888,
 5888,
 5912,
-6000,
-6008,
+1570,
+1570,
 5904,
 5888,
 5888,
@@ -111,8 +111,8 @@
 5888,
 5888,
 5912,
-6000,
-6008,
+1570,
+1570,
 5904,
 5888,
 5888,
@@ -127,8 +127,8 @@
 5888,
 5888,
 5912,
-6000,
-6008,
+1570,
+1570,
 5904,
 5888,
 5888,
@@ -143,8 +143,8 @@
 5888,
 5888,
 5912,
-6000,
-6008,
+1570,
+1570,
 5904,
 5888,
 5888,
@@ -159,8 +159,8 @@
 5888,
 5888,
 5912,
-6000,
-6008,
+1570,
+1570,
 5904,
 5888,
 5888,
@@ -175,8 +175,8 @@
 5888,
 5888,
 5912,
-6000,
-6008,
+1570,
+1570,
 5904,
 5888,
 5888,
@@ -191,8 +191,24 @@
 5888,
 5888,
 5912,
-6000,
-6008,
+1570,
+1570,
+5904,
+5888,
+5888,
+5888,
+5888,
+5888,
+5888,
+5888,
+5888,
+5888,
+5888,
+5888,
+5888,
+5912,
+1570,
+1570,
 5928,
 5916,
 5916,
@@ -207,39 +223,23 @@
 5916,
 5916,
 5926,
-6000,
-5986,
-6004,
-6004,
-6004,
-6004,
-6004,
-6004,
-6004,
-6004,
-6004,
-6004,
-6004,
-6004,
-6004,
-6004,
-5985,
-5984,
-5984,
-5984,
-5984,
-5984,
-5984,
-5984,
-5984,
-5984,
-5984,
-5984,
-5984,
-5984,
-5984,
-5984,
-5984,
+1570,
+1570,
+1570,
+1570,
+1570,
+1570,
+1570,
+1570,
+1570,
+1570,
+1570,
+1570,
+1570,
+1570,
+1570,
+1570,
+1570,
 0,
 0,
 0,
@@ -834,14 +834,6 @@
 0,
 0,
 0,
-584,
-585,
-586,
-587,
-588,
-589,
-590,
-591,
 0,
 0,
 0,
@@ -857,7 +849,6 @@
 0,
 0,
 0,
-599,
 0,
 0,
 0,
@@ -920,6 +911,7 @@
 0,
 0,
 0,
+5,
 0,
 0,
 0,
@@ -935,6 +927,7 @@
 0,
 0,
 0,
+5,
 0,
 0,
 0,
@@ -950,6 +943,7 @@
 0,
 0,
 0,
+5,
 0,
 0,
 0,
@@ -965,6 +959,7 @@
 0,
 0,
 0,
+5,
 0,
 0,
 0,
@@ -980,6 +975,7 @@
 0,
 0,
 0,
+5,
 0,
 0,
 0,
@@ -995,6 +991,7 @@
 0,
 0,
 0,
+5,
 0,
 0,
 0,
@@ -1008,6 +1005,9 @@
 0,
 0,
 0,
+0,
+0,
+5,
 0,
 0,
 0,
@@ -1023,6 +1023,7 @@
 0,
 0,
 0,
+5,
 0,
 0,
 0,
@@ -1038,6 +1039,7 @@
 0,
 0,
 0,
+5,
 0,
 0,
 0,
@@ -1053,9 +1055,7 @@
 0,
 0,
 0,
-0,
-0,
-0,
+5,
 0,
 0,
 0,
@@ -1395,11 +1395,19 @@ null,
 "code": 201,
 "indent": 1,
 "parameters": [
-0,
 1,
-8,
-5,
+81,
+82,
+83,
 0,
+0
+]
+},
+{
+"code": 123,
+"indent": 1,
+"parameters": [
+"A",
 0
 ]
 },
@@ -1755,6 +1763,18 @@ null,
 0,
 1,
 0
+]
+},
+{
+"code": 250,
+"indent": 2,
+"parameters": [
+{
+"name": "cluefound",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
@@ -2389,6 +2409,18 @@ null,
 ]
 },
 {
+"code": 250,
+"indent": 2,
+"parameters": [
+{
+"name": "cluefound",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 2,
 "parameters": [
@@ -2702,8 +2734,8 @@ null,
 "walkAnime": true
 }
 ],
-"x": 6,
-"y": 6
+"x": 5,
+"y": 5
 },
 {
 "id": 4,
@@ -2954,6 +2986,18 @@ null,
 0,
 1,
 0
+]
+},
+{
+"code": 250,
+"indent": 2,
+"parameters": [
+{
+"name": "cluefound",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
@@ -4200,6 +4244,18 @@ null,
 0,
 1,
 0
+]
+},
+{
+"code": 250,
+"indent": 2,
+"parameters": [
+{
+"name": "cluefound",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
@@ -6805,6 +6861,18 @@ null,
 ]
 },
 {
+"code": 250,
+"indent": 2,
+"parameters": [
+{
+"name": "cluefound",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 2,
 "parameters": [
@@ -7570,6 +7638,18 @@ null,
 ]
 },
 {
+"code": 250,
+"indent": 2,
+"parameters": [
+{
+"name": "cluefound",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 2,
 "parameters": [
@@ -7884,7 +7964,7 @@ null,
 }
 ],
 "x": 5,
-"y": 5
+"y": 6
 },
 {
 "id": 43,
@@ -8804,6 +8884,18 @@ null,
 ]
 },
 {
+"code": 250,
+"indent": 2,
+"parameters": [
+{
+"name": "cluefound",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 2,
 "parameters": [
@@ -9117,7 +9209,7 @@ null,
 "walkAnime": true
 }
 ],
-"x": 5,
+"x": 4,
 "y": 6
 },
 {
@@ -10564,6 +10656,18 @@ null,
 ]
 },
 {
+"code": 250,
+"indent": 2,
+"parameters": [
+{
+"name": "cluefound",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 2,
 "parameters": [
@@ -11185,6 +11289,18 @@ null,
 ]
 },
 {
+"code": 250,
+"indent": 2,
+"parameters": [
+{
+"name": "cluefound",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 2,
 "parameters": [
@@ -11499,7 +11615,7 @@ null,
 }
 ],
 "x": 7,
-"y": 6
+"y": 5
 },
 {
 "id": 72,
@@ -12222,6 +12338,18 @@ null,
 ]
 },
 {
+"code": 250,
+"indent": 2,
+"parameters": [
+{
+"name": "cluefound",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 2,
 "parameters": [
@@ -12602,7 +12730,7 @@ null,
 "walkAnime": true
 }
 ],
-"x": 4,
+"x": 6,
 "y": 6
 },
 {
@@ -13446,6 +13574,18 @@ null,
 ]
 },
 {
+"code": 250,
+"indent": 2,
+"parameters": [
+{
+"name": "cluefound",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 2,
 "parameters": [
@@ -13760,7 +13900,7 @@ null,
 }
 ],
 "x": 7,
-"y": 5
+"y": 6
 },
 {
 "id": 90,
@@ -17245,6 +17385,944 @@ null,
 ],
 "x": 13,
 "y": 4
+},
+{
+"id": 142,
+"name": "EV142",
+"note": "",
+"pages": [
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 108,
+"indent": 0,
+"parameters": [
+"<hover_icon: 3>"
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+}
+],
+"x": 1,
+"y": 11
+},
+{
+"id": 143,
+"name": "EV143",
+"note": "",
+"pages": [
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 108,
+"indent": 0,
+"parameters": [
+"<hover_icon: 3>"
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+}
+],
+"x": 2,
+"y": 11
+},
+{
+"id": 144,
+"name": "EV144",
+"note": "",
+"pages": [
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 108,
+"indent": 0,
+"parameters": [
+"<hover_icon: 3>"
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+}
+],
+"x": 3,
+"y": 11
+},
+{
+"id": 145,
+"name": "EV145",
+"note": "",
+"pages": [
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 108,
+"indent": 0,
+"parameters": [
+"<hover_icon: 3>"
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+}
+],
+"x": 4,
+"y": 11
+},
+{
+"id": 146,
+"name": "EV146",
+"note": "",
+"pages": [
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 108,
+"indent": 0,
+"parameters": [
+"<hover_icon: 3>"
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+}
+],
+"x": 5,
+"y": 11
+},
+{
+"id": 147,
+"name": "EV147",
+"note": "",
+"pages": [
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 108,
+"indent": 0,
+"parameters": [
+"<hover_icon: 3>"
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+}
+],
+"x": 6,
+"y": 11
+},
+{
+"id": 148,
+"name": "EV148",
+"note": "",
+"pages": [
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 108,
+"indent": 0,
+"parameters": [
+"<hover_icon: 3>"
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+}
+],
+"x": 7,
+"y": 11
+},
+{
+"id": 149,
+"name": "EV149",
+"note": "",
+"pages": [
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 108,
+"indent": 0,
+"parameters": [
+"<hover_icon: 3>"
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+}
+],
+"x": 8,
+"y": 11
+},
+{
+"id": 150,
+"name": "EV150",
+"note": "",
+"pages": [
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 108,
+"indent": 0,
+"parameters": [
+"<hover_icon: 3>"
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+}
+],
+"x": 9,
+"y": 11
+},
+{
+"id": 151,
+"name": "EV151",
+"note": "",
+"pages": [
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 108,
+"indent": 0,
+"parameters": [
+"<hover_icon: 3>"
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+}
+],
+"x": 10,
+"y": 11
+},
+{
+"id": 152,
+"name": "EV152",
+"note": "",
+"pages": [
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 108,
+"indent": 0,
+"parameters": [
+"<hover_icon: 3>"
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+}
+],
+"x": 11,
+"y": 11
+},
+{
+"id": 153,
+"name": "EV153",
+"note": "",
+"pages": [
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 108,
+"indent": 0,
+"parameters": [
+"<hover_icon: 3>"
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+}
+],
+"x": 12,
+"y": 11
+},
+{
+"id": 154,
+"name": "EV154",
+"note": "",
+"pages": [
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 108,
+"indent": 0,
+"parameters": [
+"<hover_icon: 3>"
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+}
+],
+"x": 13,
+"y": 11
+},
+{
+"id": 155,
+"name": "EV155",
+"note": "",
+"pages": [
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 108,
+"indent": 0,
+"parameters": [
+"<hover_icon: 3>"
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+}
+],
+"x": 14,
+"y": 11
 }
 ]
 }

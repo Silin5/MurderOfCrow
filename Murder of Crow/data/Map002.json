@@ -3235,9 +3235,9 @@ true
 "parameters": [
 0,
 1,
-0,
-5,
-0,
+1,
+7,
+6,
 0
 ]
 },
@@ -5893,9 +5893,9 @@ true
 "parameters": [
 0,
 1,
-0,
-5,
-0,
+1,
+8,
+6,
 0
 ]
 },
@@ -12462,6 +12462,18 @@ null,
 "code": 112,
 "indent": 0,
 "parameters": []
+},
+{
+"code": 250,
+"indent": 1,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
 },
 {
 "code": 101,

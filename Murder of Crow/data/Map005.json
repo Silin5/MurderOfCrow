@@ -78,8 +78,8 @@
 7376,
 7376,
 7380,
-6258,
-6260,
+7794,
+7796,
 7381,
 1571,
 1546,
@@ -118,8 +118,8 @@
 7376,
 7376,
 7380,
-6264,
-6262,
+7800,
+7798,
 7381,
 1571,
 1556,
@@ -544,8 +544,8 @@
 7098,
 7098,
 7098,
+7098,
 7102,
-1571,
 1571,
 1571,
 1571,
@@ -585,7 +585,7 @@
 7378,
 7378,
 7382,
-1571,
+7382,
 1571,
 1571,
 1571,
@@ -624,8 +624,8 @@
 7376,
 7376,
 7376,
+7376,
 7380,
-1571,
 1571,
 1571,
 1571,
@@ -664,8 +664,8 @@
 7384,
 7384,
 7384,
+7384,
 7388,
-1571,
 1571,
 1571,
 1571,
@@ -3678,8 +3678,8 @@
 159,
 158,
 159,
-0,
-0,
+162,
+162,
 0,
 0,
 0,
@@ -5385,8 +5385,8 @@
 0,
 0,
 0,
-5,
 0,
+5,
 0,
 0,
 0,
@@ -5425,8 +5425,8 @@
 0,
 0,
 0,
-5,
 0,
+5,
 0,
 0,
 0,
@@ -5465,8 +5465,8 @@
 0,
 0,
 0,
-5,
 0,
+5,
 0,
 0,
 0,
@@ -7266,16 +7266,35 @@ null,
 },
 "list": [
 {
-"code": 201,
+"code": 111,
 "indent": 0,
+"parameters": [
+6,
+-1,
+8
+]
+},
+{
+"code": 201,
+"indent": 1,
 "parameters": [
 0,
 6,
-16,
+15,
 4,
-0,
+4,
 0
 ]
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 412,
+"indent": 0,
+"parameters": []
 },
 {
 "code": 0,
@@ -7338,16 +7357,35 @@ null,
 },
 "list": [
 {
-"code": 201,
+"code": 111,
 "indent": 0,
+"parameters": [
+6,
+-1,
+8
+]
+},
+{
+"code": 201,
+"indent": 1,
 "parameters": [
 0,
 6,
-16,
+15,
 3,
-0,
+4,
 0
 ]
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 412,
+"indent": 0,
+"parameters": []
 },
 {
 "code": 0,
@@ -7410,16 +7448,35 @@ null,
 },
 "list": [
 {
-"code": 201,
+"code": 111,
 "indent": 0,
+"parameters": [
+6,
+-1,
+2
+]
+},
+{
+"code": 201,
+"indent": 1,
 "parameters": [
 0,
 2,
 5,
-0,
+1,
 0,
 0
 ]
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 412,
+"indent": 0,
+"parameters": []
 },
 {
 "code": 0,
@@ -7482,16 +7539,35 @@ null,
 },
 "list": [
 {
-"code": 201,
+"code": 111,
 "indent": 0,
+"parameters": [
+6,
+-1,
+2
+]
+},
+{
+"code": 201,
+"indent": 1,
 "parameters": [
 0,
 2,
 6,
-0,
+1,
 0,
 0
 ]
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 412,
+"indent": 0,
+"parameters": []
 },
 {
 "code": 0,
@@ -7554,16 +7630,35 @@ null,
 },
 "list": [
 {
-"code": 201,
+"code": 111,
 "indent": 0,
+"parameters": [
+6,
+-1,
+2
+]
+},
+{
+"code": 201,
+"indent": 1,
 "parameters": [
 0,
 1,
+12,
+3,
 2,
-1,
-0,
 0
 ]
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 412,
+"indent": 0,
+"parameters": []
 },
 {
 "code": 0,
@@ -7592,7 +7687,7 @@ null,
 "walkAnime": true
 }
 ],
-"x": 33,
+"x": 35,
 "y": 15
 },
 {
@@ -7626,16 +7721,35 @@ null,
 },
 "list": [
 {
-"code": 201,
+"code": 111,
 "indent": 0,
+"parameters": [
+6,
+-1,
+2
+]
+},
+{
+"code": 201,
+"indent": 1,
 "parameters": [
 0,
 1,
+11,
 3,
-1,
-0,
+2,
 0
 ]
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 412,
+"indent": 0,
+"parameters": []
 },
 {
 "code": 0,
@@ -7698,88 +7812,35 @@ null,
 },
 "list": [
 {
-"code": 201,
+"code": 111,
 "indent": 0,
 "parameters": [
-0,
-1,
-2,
-1,
-0,
-0
+6,
+-1,
+2
 ]
 },
 {
-"code": 0,
-"indent": 0,
-"parameters": []
-}
-],
-"moveFrequency": 3,
-"moveRoute": {
-"list": [
-{
-"code": 0,
-"parameters": []
-}
-],
-"repeat": true,
-"skippable": false,
-"wait": false
-},
-"moveSpeed": 3,
-"moveType": 0,
-"priorityType": 0,
-"stepAnime": false,
-"through": false,
-"trigger": 1,
-"walkAnime": true
-}
-],
-"x": 35,
-"y": 15
-},
-{
-"id": 8,
-"name": "EV008",
-"note": "",
-"pages": [
-{
-"conditions": {
-"actorId": 1,
-"actorValid": false,
-"itemId": 1,
-"itemValid": false,
-"selfSwitchCh": "A",
-"selfSwitchValid": false,
-"switch1Id": 1,
-"switch1Valid": false,
-"switch2Id": 1,
-"switch2Valid": false,
-"variableId": 1,
-"variableValid": false,
-"variableValue": 0
-},
-"directionFix": false,
-"image": {
-"characterIndex": 0,
-"characterName": "",
-"direction": 2,
-"pattern": 0,
-"tileId": 0
-},
-"list": [
-{
 "code": 201,
-"indent": 0,
+"indent": 1,
 "parameters": [
 0,
 1,
+13,
 3,
-1,
-0,
+2,
 0
 ]
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 412,
+"indent": 0,
+"parameters": []
 },
 {
 "code": 0,
@@ -7810,6 +7871,7 @@ null,
 ],
 "x": 36,
 "y": 15
-}
+},
+null
 ]
 }
