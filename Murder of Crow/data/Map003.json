@@ -1342,22 +1342,6 @@ null,
 ]
 },
 {
-"code": 231,
-"indent": 0,
-"parameters": [
-1,
-"bodycloseup",
-1,
-0,
-400,
-300,
-100,
-100,
-255,
-0
-]
-},
-{
 "code": 111,
 "indent": 0,
 "parameters": [
@@ -1374,13 +1358,6 @@ null,
 "parameters": [
 83,
 83,
-1
-]
-},
-{
-"code": 235,
-"indent": 1,
-"parameters": [
 1
 ]
 },
@@ -1500,7 +1477,7 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "zoom",
+"name": "select",
 "volume": 90,
 "pitch": 100,
 "pan": 0
@@ -1782,7 +1759,14 @@ null,
 "code": 401,
 "indent": 2,
 "parameters": [
-"Use Space to Interact, and ESC to close."
+"Click on a clue to read its description, "
+]
+},
+{
+"code": 401,
+"indent": 2,
+"parameters": [
+"and press ESC to close."
 ]
 },
 {
@@ -1880,63 +1864,6 @@ null,
 "indent": 2,
 "parameters": [
 "updated_kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"\\n<Kiwi>Looks like the other witnesses left. "
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Should we check out the Farmer's Market?"
-]
-},
-{
-"code": 0,
-"indent": 2,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 111,
-"indent": 1,
-"parameters": [
-1,
-23,
-0,
-2,
-0
-]
-},
-{
-"code": 250,
-"indent": 2,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"kiwihead_sheet",
 0,
 0,
 2
@@ -2120,7 +2047,7 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "zoom",
+"name": "select",
 "volume": 90,
 "pitch": 100,
 "pan": 0
@@ -2402,7 +2329,14 @@ null,
 "code": 401,
 "indent": 2,
 "parameters": [
-"Use Space to Interact, and ESC to close."
+"Click on a clue to read its description, "
+]
+},
+{
+"code": 401,
+"indent": 2,
+"parameters": [
+"and press ESC to close."
 ]
 },
 {
@@ -2500,63 +2434,6 @@ null,
 "indent": 2,
 "parameters": [
 "updated_kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"\\n<Kiwi>Looks like the other witnesses left. "
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Should we check out the Farmer's Market?"
-]
-},
-{
-"code": 0,
-"indent": 2,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 111,
-"indent": 1,
-"parameters": [
-1,
-23,
-0,
-2,
-0
-]
-},
-{
-"code": 250,
-"indent": 2,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"kiwihead_sheet",
 0,
 0,
 2
@@ -2740,7 +2617,7 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "zoom",
+"name": "select",
 "volume": 90,
 "pitch": 100,
 "pan": 0
@@ -2959,7 +2836,14 @@ null,
 "code": 401,
 "indent": 2,
 "parameters": [
-"Use Space to Interact, and ESC to close."
+"Click on a clue to read its description, "
+]
+},
+{
+"code": 401,
+"indent": 2,
+"parameters": [
+"and press ESC to close."
 ]
 },
 {
@@ -3057,63 +2941,6 @@ null,
 "indent": 2,
 "parameters": [
 "updated_kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"\\n<Kiwi>Looks like the other witnesses left. "
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Should we check out the Farmer's Market?"
-]
-},
-{
-"code": 0,
-"indent": 2,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 111,
-"indent": 1,
-"parameters": [
-1,
-23,
-0,
-2,
-0
-]
-},
-{
-"code": 250,
-"indent": 2,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"kiwihead_sheet",
 0,
 0,
 2
@@ -3951,7 +3778,7 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "zoom",
+"name": "select",
 "volume": 90,
 "pitch": 100,
 "pan": 0
@@ -4194,7 +4021,14 @@ null,
 "code": 401,
 "indent": 2,
 "parameters": [
-"Use Space to Interact, and ESC to close."
+"Click on a clue to read its description, "
+]
+},
+{
+"code": 401,
+"indent": 2,
+"parameters": [
+"and press ESC to close."
 ]
 },
 {
@@ -4292,63 +4126,6 @@ null,
 "indent": 2,
 "parameters": [
 "updated_kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"\\n<Kiwi>Looks like the other witnesses left. "
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Should we check out the Farmer's Market?"
-]
-},
-{
-"code": 0,
-"indent": 2,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 111,
-"indent": 1,
-"parameters": [
-1,
-23,
-0,
-2,
-0
-]
-},
-{
-"code": 250,
-"indent": 2,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"kiwihead_sheet",
 0,
 0,
 2
@@ -6542,7 +6319,7 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "zoom",
+"name": "select",
 "volume": 90,
 "pitch": 100,
 "pan": 0
@@ -6785,7 +6562,14 @@ null,
 "code": 401,
 "indent": 2,
 "parameters": [
-"Use Space to Interact, and ESC to close."
+"Click on a clue to read its description, "
+]
+},
+{
+"code": 401,
+"indent": 2,
+"parameters": [
+"and press ESC to close."
 ]
 },
 {
@@ -6883,63 +6667,6 @@ null,
 "indent": 2,
 "parameters": [
 "updated_kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"\\n<Kiwi>Looks like the other witnesses left. "
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Should we check out the Farmer's Market?"
-]
-},
-{
-"code": 0,
-"indent": 2,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 111,
-"indent": 1,
-"parameters": [
-1,
-23,
-0,
-2,
-0
-]
-},
-{
-"code": 250,
-"indent": 2,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"kiwihead_sheet",
 0,
 0,
 2
@@ -7257,7 +6984,7 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "zoom",
+"name": "select",
 "volume": 90,
 "pitch": 100,
 "pan": 0
@@ -7539,7 +7266,14 @@ null,
 "code": 401,
 "indent": 2,
 "parameters": [
-"Use Space to Interact, and ESC to close."
+"Click on a clue to read its description, "
+]
+},
+{
+"code": 401,
+"indent": 2,
+"parameters": [
+"and press ESC to close."
 ]
 },
 {
@@ -7637,63 +7371,6 @@ null,
 "indent": 2,
 "parameters": [
 "updated_kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"\\n<Kiwi>Looks like the other witnesses left. "
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Should we check out the Farmer's Market?"
-]
-},
-{
-"code": 0,
-"indent": 2,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 111,
-"indent": 1,
-"parameters": [
-1,
-23,
-0,
-2,
-0
-]
-},
-{
-"code": 250,
-"indent": 2,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"kiwihead_sheet",
 0,
 0,
 2
@@ -8480,7 +8157,7 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "zoom",
+"name": "select",
 "volume": 90,
 "pitch": 100,
 "pan": 0
@@ -8762,7 +8439,14 @@ null,
 "code": 401,
 "indent": 2,
 "parameters": [
-"Use Space to Interact, and ESC to close."
+"Click on a clue to read its description, "
+]
+},
+{
+"code": 401,
+"indent": 2,
+"parameters": [
+"and press ESC to close."
 ]
 },
 {
@@ -8860,63 +8544,6 @@ null,
 "indent": 2,
 "parameters": [
 "updated_kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"\\n<Kiwi>Looks like the other witnesses left. "
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Should we check out the Farmer's Market?"
-]
-},
-{
-"code": 0,
-"indent": 2,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 111,
-"indent": 1,
-"parameters": [
-1,
-23,
-0,
-2,
-0
-]
-},
-{
-"code": 250,
-"indent": 2,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"kiwihead_sheet",
 0,
 0,
 2
@@ -10239,7 +9866,7 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "zoom",
+"name": "select",
 "volume": 90,
 "pitch": 100,
 "pan": 0
@@ -10511,7 +10138,14 @@ null,
 "code": 401,
 "indent": 2,
 "parameters": [
-"Use Space to Interact, and ESC to close."
+"Click on a clue to read its description, "
+]
+},
+{
+"code": 401,
+"indent": 2,
+"parameters": [
+"and press ESC to close."
 ]
 },
 {
@@ -10609,63 +10243,6 @@ null,
 "indent": 2,
 "parameters": [
 "updated_kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"\\n<Kiwi>Looks like the other witnesses left. "
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Should we check out the Farmer's Market?"
-]
-},
-{
-"code": 0,
-"indent": 2,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 111,
-"indent": 1,
-"parameters": [
-1,
-23,
-0,
-2,
-0
-]
-},
-{
-"code": 250,
-"indent": 2,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"kiwihead_sheet",
 0,
 0,
 2
@@ -10849,7 +10426,7 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "zoom",
+"name": "select",
 "volume": 90,
 "pitch": 100,
 "pan": 0
@@ -11121,7 +10698,14 @@ null,
 "code": 401,
 "indent": 2,
 "parameters": [
-"Use Space to Interact, and ESC to close."
+"Click on a clue to read its description, "
+]
+},
+{
+"code": 401,
+"indent": 2,
+"parameters": [
+"and press ESC to close."
 ]
 },
 {
@@ -11219,63 +10803,6 @@ null,
 "indent": 2,
 "parameters": [
 "updated_kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"\\n<Kiwi>Looks like the other witnesses left. "
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Should we check out the Farmer's Market?"
-]
-},
-{
-"code": 0,
-"indent": 2,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 111,
-"indent": 1,
-"parameters": [
-1,
-23,
-0,
-2,
-0
-]
-},
-{
-"code": 250,
-"indent": 2,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"kiwihead_sheet",
 0,
 0,
 2
@@ -11928,7 +11455,7 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "zoom",
+"name": "select",
 "volume": 90,
 "pitch": 100,
 "pan": 0
@@ -12147,7 +11674,14 @@ null,
 "code": 401,
 "indent": 2,
 "parameters": [
-"Use Space to Interact, and ESC to close."
+"Click on a clue to read its description, "
+]
+},
+{
+"code": 401,
+"indent": 2,
+"parameters": [
+"and press ESC to close."
 ]
 },
 {
@@ -12245,63 +11779,6 @@ null,
 "indent": 2,
 "parameters": [
 "updated_kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"\\n<Kiwi>Looks like the other witnesses left. "
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Should we check out the Farmer's Market?"
-]
-},
-{
-"code": 0,
-"indent": 2,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 111,
-"indent": 1,
-"parameters": [
-1,
-23,
-0,
-2,
-0
-]
-},
-{
-"code": 250,
-"indent": 2,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"kiwihead_sheet",
 0,
 0,
 2

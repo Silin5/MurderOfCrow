@@ -9403,21 +9403,14 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"Use the ARROW KEYS to sift through clues,"
+"Click on a clue to read its description, "
 ]
 },
 {
 "code": 401,
 "indent": 1,
 "parameters": [
-"press ENTER to read the evidence, and ESC to"
-]
-},
-{
-"code": 401,
-"indent": 1,
-"parameters": [
-"close the Board."
+"and press ESC to close the board."
 ]
 },
 {
@@ -9829,21 +9822,14 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"Use the ARROW KEYS to sift through clues, press"
+"Click on a clue to read its description, "
 ]
 },
 {
 "code": 401,
 "indent": 1,
 "parameters": [
-"ENTER to read the evidence, and ESC to"
-]
-},
-{
-"code": 401,
-"indent": 1,
-"parameters": [
-"close the Board."
+"and press ESC to close the board."
 ]
 },
 {
@@ -10255,21 +10241,14 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"Use the ARROW KEYS to sift through clues, press"
+"Click on a clue to read its description, "
 ]
 },
 {
 "code": 401,
 "indent": 1,
 "parameters": [
-"ENTER to read the evidence, and ESC to"
-]
-},
-{
-"code": 401,
-"indent": 1,
-"parameters": [
-"close the Board."
+"and press ESC to close the board."
 ]
 },
 {

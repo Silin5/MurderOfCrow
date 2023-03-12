@@ -3696,7 +3696,14 @@ false
 "code": 401,
 "indent": 1,
 "parameters": [
-"Use Space to Interact, and ESC to close."
+"Click on a clue to read its description, "
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"and press ESC to close."
 ]
 },
 {

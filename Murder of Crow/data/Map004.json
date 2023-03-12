@@ -23069,11 +23069,23 @@ false
 ]
 },
 {
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 0,
 "parameters": [
-"Actor4_temp",
-0,
+"crowleyfaces",
+2,
 0,
 2
 ]
@@ -23093,10 +23105,22 @@ false
 ]
 },
 {
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 0,
 "parameters": [
-"kiwihead_sheet",
+"updated_kiwihead_sheet",
 0,
 0,
 2
@@ -23174,7 +23198,14 @@ false
 "code": 401,
 "indent": 1,
 "parameters": [
-"Use Space to Interact, and ESC to close."
+"Click on a clue to read its description, "
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"and press ESC to close."
 ]
 },
 {
@@ -23196,6 +23227,18 @@ false
 0,
 2,
 0
+]
+},
+{
+"code": 250,
+"indent": 1,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
