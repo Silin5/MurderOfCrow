@@ -1770,8 +1770,8 @@ null,
 "pages": [
 {
 "conditions": {
-"actorId": 1,
-"actorValid": false,
+"actorId": 2,
+"actorValid": true,
 "itemId": 1,
 "itemValid": false,
 "selfSwitchCh": "A",
@@ -1794,44 +1794,8 @@ null,
 },
 "list": [
 {
-"code": 111,
-"indent": 0,
-"parameters": [
-0,
-5,
-1
-]
-},
-{
-"code": 101,
-"indent": 1,
-"parameters": [
-"skunkhead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 1,
-"parameters": [
-"..."
-]
-},
-{
-"code": 0,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 411,
-"indent": 0,
-"parameters": []
-},
-{
 "code": 250,
-"indent": 1,
+"indent": 0,
 "parameters": [
 {
 "name": "crowley_voice",
@@ -1843,7 +1807,7 @@ null,
 },
 {
 "code": 101,
-"indent": 1,
+"indent": 0,
 "parameters": [
 "crowleyfaces",
 0,
@@ -1853,21 +1817,21 @@ null,
 },
 {
 "code": 401,
-"indent": 1,
+"indent": 0,
 "parameters": [
 "\\n<Crowley>Word on the street is you're the"
 ]
 },
 {
 "code": 401,
-"indent": 1,
+"indent": 0,
 "parameters": [
 "one who found the body."
 ]
 },
 {
 "code": 250,
-"indent": 1,
+"indent": 0,
 "parameters": [
 {
 "name": "sly",
@@ -1879,7 +1843,7 @@ null,
 },
 {
 "code": 250,
-"indent": 1,
+"indent": 0,
 "parameters": [
 {
 "name": "sly",
@@ -1891,7 +1855,7 @@ null,
 },
 {
 "code": 101,
-"indent": 1,
+"indent": 0,
 "parameters": [
 "skunkhead_sheet",
 0,
@@ -1901,14 +1865,14 @@ null,
 },
 {
 "code": 401,
-"indent": 1,
+"indent": 0,
 "parameters": [
 "\\n<Sly>Y-yes, that’s c-correct."
 ]
 },
 {
 "code": 250,
-"indent": 1,
+"indent": 0,
 "parameters": [
 {
 "name": "crowley_voice",
@@ -1920,7 +1884,7 @@ null,
 },
 {
 "code": 101,
-"indent": 1,
+"indent": 0,
 "parameters": [
 "crowleyfaces",
 5,
@@ -1930,21 +1894,21 @@ null,
 },
 {
 "code": 401,
-"indent": 1,
+"indent": 0,
 "parameters": [
 "\\n<Crowley>You seem pretty shaken up, want"
 ]
 },
 {
 "code": 401,
-"indent": 1,
+"indent": 0,
 "parameters": [
 "to tell me why that is?"
 ]
 },
 {
 "code": 250,
-"indent": 1,
+"indent": 0,
 "parameters": [
 {
 "name": "sly",
@@ -1956,7 +1920,7 @@ null,
 },
 {
 "code": 250,
-"indent": 1,
+"indent": 0,
 "parameters": [
 {
 "name": "sly",
@@ -1968,7 +1932,7 @@ null,
 },
 {
 "code": 101,
-"indent": 1,
+"indent": 0,
 "parameters": [
 "skunkhead_sheet",
 0,
@@ -1978,21 +1942,21 @@ null,
 },
 {
 "code": 401,
-"indent": 1,
+"indent": 0,
 "parameters": [
 "\\n<Sly>Wouldn’t y-you be too if you had"
 ]
 },
 {
 "code": 401,
-"indent": 1,
+"indent": 0,
 "parameters": [
 "caught the c-culprit on camera?"
 ]
 },
 {
 "code": 250,
-"indent": 1,
+"indent": 0,
 "parameters": [
 {
 "name": "crowley_voice",
@@ -2004,7 +1968,7 @@ null,
 },
 {
 "code": 101,
-"indent": 1,
+"indent": 0,
 "parameters": [
 "crowleyfaces",
 4,
@@ -2014,14 +1978,14 @@ null,
 },
 {
 "code": 401,
-"indent": 1,
+"indent": 0,
 "parameters": [
 "\\n<Crowley>You mean, you KNOW who did this?"
 ]
 },
 {
 "code": 250,
-"indent": 1,
+"indent": 0,
 "parameters": [
 {
 "name": "sly",
@@ -2033,7 +1997,7 @@ null,
 },
 {
 "code": 250,
-"indent": 1,
+"indent": 0,
 "parameters": [
 {
 "name": "sly",
@@ -2045,7 +2009,7 @@ null,
 },
 {
 "code": 101,
-"indent": 1,
+"indent": 0,
 "parameters": [
 "skunkhead_sheet",
 0,
@@ -2055,28 +2019,28 @@ null,
 },
 {
 "code": 401,
-"indent": 1,
+"indent": 0,
 "parameters": [
 "\\n<Sly>W-well, not exactly. I was trying to get"
 ]
 },
 {
 "code": 401,
-"indent": 1,
+"indent": 0,
 "parameters": [
 "the s-scoop on another story, something"
 ]
 },
 {
 "code": 401,
-"indent": 1,
+"indent": 0,
 "parameters": [
 "about stolen goods..."
 ]
 },
 {
 "code": 101,
-"indent": 1,
+"indent": 0,
 "parameters": [
 "skunkhead_sheet",
 0,
@@ -2086,21 +2050,21 @@ null,
 },
 {
 "code": 401,
-"indent": 1,
+"indent": 0,
 "parameters": [
 "\\n<Sly>Last night... walking home..."
 ]
 },
 {
 "code": 401,
-"indent": 1,
+"indent": 0,
 "parameters": [
 "I saw s-something lurking about..."
 ]
 },
 {
 "code": 101,
-"indent": 1,
+"indent": 0,
 "parameters": [
 "skunkhead_sheet",
 0,
@@ -2110,28 +2074,28 @@ null,
 },
 {
 "code": 401,
-"indent": 1,
+"indent": 0,
 "parameters": [
 "\\n<Sly>I thought my camera flash would"
 ]
 },
 {
 "code": 401,
-"indent": 1,
+"indent": 0,
 "parameters": [
 "scare them off. But when I went to"
 ]
 },
 {
 "code": 401,
-"indent": 1,
+"indent": 0,
 "parameters": [
 "develop my photo..."
 ]
 },
 {
 "code": 101,
-"indent": 1,
+"indent": 0,
 "parameters": [
 "crowleyfaces",
 1,
@@ -2141,14 +2105,14 @@ null,
 },
 {
 "code": 401,
-"indent": 1,
+"indent": 0,
 "parameters": [
 "\\n<Crowley>..."
 ]
 },
 {
 "code": 101,
-"indent": 1,
+"indent": 0,
 "parameters": [
 "skunkhead_sheet",
 0,
@@ -2158,14 +2122,14 @@ null,
 },
 {
 "code": 401,
-"indent": 1,
+"indent": 0,
 "parameters": [
 "\\n<Sly>..."
 ]
 },
 {
 "code": 250,
-"indent": 1,
+"indent": 0,
 "parameters": [
 {
 "name": "crowley_voice",
@@ -2177,7 +2141,7 @@ null,
 },
 {
 "code": 101,
-"indent": 1,
+"indent": 0,
 "parameters": [
 "crowleyfaces",
 1,
@@ -2187,14 +2151,14 @@ null,
 },
 {
 "code": 401,
-"indent": 1,
+"indent": 0,
 "parameters": [
 "\\n<Crowley>Yes...?"
 ]
 },
 {
 "code": 250,
-"indent": 1,
+"indent": 0,
 "parameters": [
 {
 "name": "sly",
@@ -2206,7 +2170,7 @@ null,
 },
 {
 "code": 250,
-"indent": 1,
+"indent": 0,
 "parameters": [
 {
 "name": "sly",
@@ -2218,7 +2182,7 @@ null,
 },
 {
 "code": 250,
-"indent": 1,
+"indent": 0,
 "parameters": [
 {
 "name": "sly",
@@ -2230,7 +2194,7 @@ null,
 },
 {
 "code": 101,
-"indent": 1,
+"indent": 0,
 "parameters": [
 "skunkhead_sheet",
 0,
@@ -2240,14 +2204,14 @@ null,
 },
 {
 "code": 401,
-"indent": 1,
+"indent": 0,
 "parameters": [
 "\\n<Sly>...HERE!"
 ]
 },
 {
 "code": 101,
-"indent": 1,
+"indent": 0,
 "parameters": [
 "skunkhead_sheet",
 0,
@@ -2257,28 +2221,28 @@ null,
 },
 {
 "code": 401,
-"indent": 1,
+"indent": 0,
 "parameters": [
 "\\n<Sly>S-sorry it’s in pieces, I didn’t expect it"
 ]
 },
 {
 "code": 401,
-"indent": 1,
+"indent": 0,
 "parameters": [
 "would turn into evidence. H-hopefully you"
 ]
 },
 {
 "code": 401,
-"indent": 1,
+"indent": 0,
 "parameters": [
 "can make sense of it?"
 ]
 },
 {
 "code": 122,
-"indent": 1,
+"indent": 0,
 "parameters": [
 84,
 84,
@@ -2291,7 +2255,7 @@ null,
 },
 {
 "code": 122,
-"indent": 1,
+"indent": 0,
 "parameters": [
 85,
 85,
@@ -2304,7 +2268,7 @@ null,
 },
 {
 "code": 122,
-"indent": 1,
+"indent": 0,
 "parameters": [
 86,
 86,
@@ -2317,7 +2281,7 @@ null,
 },
 {
 "code": 201,
-"indent": 1,
+"indent": 0,
 "parameters": [
 0,
 4,
@@ -2329,7 +2293,7 @@ null,
 },
 {
 "code": 122,
-"indent": 1,
+"indent": 0,
 "parameters": [
 6,
 6,
@@ -2337,16 +2301,6 @@ null,
 0,
 1
 ]
-},
-{
-"code": 0,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 0,
-"parameters": []
 },
 {
 "code": 0,
@@ -2447,6 +2401,74 @@ null,
 "wait": false
 },
 "moveSpeed": 3,
+"moveType": 0,
+"priorityType": 1,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 5,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"tileId": 0,
+"characterName": "$slyskunkwitness",
+"direction": 6,
+"pattern": 1,
+"characterIndex": 0
+},
+"list": [
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"skunkhead_sheet",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"..."
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 2,
 "moveType": 0,
 "priorityType": 1,
 "stepAnime": false,
@@ -3950,7 +3972,7 @@ null,
 "itemId": 1,
 "itemValid": false,
 "selfSwitchCh": "A",
-"selfSwitchValid": true,
+"selfSwitchValid": false,
 "switch1Id": 1,
 "switch1Valid": false,
 "switch2Id": 1,
@@ -3976,6 +3998,15 @@ null,
 23,
 0,
 1,
+0
+]
+},
+{
+"code": 121,
+"indent": 1,
+"parameters": [
+81,
+81,
 0
 ]
 },
@@ -4064,7 +4095,7 @@ null,
 "code": 230,
 "indent": 1,
 "parameters": [
-30
+120
 ]
 },
 {
@@ -4199,14 +4230,6 @@ null,
 ]
 },
 {
-"code": 123,
-"indent": 2,
-"parameters": [
-"A",
-1
-]
-},
-{
 "code": 113,
 "indent": 2,
 "parameters": []
@@ -4254,7 +4277,7 @@ null,
 "priorityType": 0,
 "stepAnime": false,
 "through": false,
-"trigger": 0,
+"trigger": 4,
 "walkAnime": true
 },
 {
@@ -4590,7 +4613,7 @@ null,
 "priorityType": 0,
 "stepAnime": false,
 "through": false,
-"trigger": 0,
+"trigger": 4,
 "walkAnime": true
 },
 {
@@ -5040,7 +5063,7 @@ null,
 "priorityType": 0,
 "stepAnime": false,
 "through": false,
-"trigger": 0,
+"trigger": 4,
 "walkAnime": true
 },
 {

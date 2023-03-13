@@ -1847,77 +1847,6 @@ false
 "indent": 1,
 "parameters": [
 1,
-23,
-0,
-1,
-0
-]
-},
-{
-"code": 250,
-"indent": 2,
-"parameters": [
-{
-"name": "cluefound",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"You found your first clue!"
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Press M to open the Murder Board!"
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Click on a clue to read its description, "
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"and press ESC to close."
-]
-},
-{
-"code": 0,
-"indent": 2,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 111,
-"indent": 1,
-"parameters": [
-1,
 21,
 0,
 0,
@@ -2018,6 +1947,30 @@ false
 ]
 },
 {
+"code": 101,
+"indent": 2,
+"parameters": [
+"kiwihead_sheet",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 2,
+"parameters": [
+"\\n<Kiwi>Or we could look for leads elsewhere."
+]
+},
+{
+"code": 401,
+"indent": 2,
+"parameters": [
+"Your choice, boss!"
+]
+},
+{
 "code": 0,
 "indent": 2,
 "parameters": []
@@ -2026,6 +1979,15 @@ false
 "code": 412,
 "indent": 1,
 "parameters": []
+},
+{
+"code": 121,
+"indent": 1,
+"parameters": [
+91,
+91,
+0
+]
 },
 {
 "code": 0,
@@ -2134,7 +2096,7 @@ false
 },
 {
 "id": 3,
-"name": "Head -- red stain",
+"name": "Chest -- thin wire",
 "note": "",
 "pages": [
 {
@@ -2155,11 +2117,11 @@ false
 },
 "directionFix": false,
 "image": {
-"characterIndex": 0,
+"tileId": 0,
 "characterName": "",
 "direction": 2,
 "pattern": 0,
-"tileId": 0
+"characterIndex": 0
 },
 "list": [
 {
@@ -2189,18 +2151,6 @@ false
 ]
 },
 {
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "crowley_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
 "code": 101,
 "indent": 0,
 "parameters": [
@@ -2214,19 +2164,14 @@ false
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Crowley>These feathers are coated with stains..."
+"\\n<Crowley>How strange..."
 ]
 },
 {
-"code": 250,
+"code": 401,
 "indent": 0,
 "parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
+"There is a wire tied around the torso."
 ]
 },
 {
@@ -2234,52 +2179,6 @@ false
 "indent": 0,
 "parameters": [
 "updated_kiwihead_sheet",
-4,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Kiwi>I wonder why."
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"updated_kiwihead_sheet",
-4,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Kiwi>What's dark red and sticky?"
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "crowley_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"crowleyfaces",
 5,
 0,
 2
@@ -2289,7 +2188,7 @@ false
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Crowley>I think that should be obvious... Blood."
+"\\n<Kiwi>Oh wow. Good eye!"
 ]
 },
 {
@@ -2297,7 +2196,7 @@ false
 "indent": 0,
 "parameters": [
 1,
-42,
+43,
 0,
 0,
 0
@@ -2318,8 +2217,8 @@ false
 "code": 122,
 "indent": 1,
 "parameters": [
-42,
-42,
+43,
+43,
 1,
 0,
 1
@@ -2339,7 +2238,7 @@ false
 "code": 401,
 "indent": 1,
 "parameters": [
-"You have obtained evidence: red stain!"
+"You have obtained evidence: thin wire!"
 ]
 },
 {
@@ -2411,77 +2310,6 @@ false
 20,
 0
 ]
-},
-{
-"code": 111,
-"indent": 1,
-"parameters": [
-1,
-23,
-0,
-1,
-0
-]
-},
-{
-"code": 250,
-"indent": 2,
-"parameters": [
-{
-"name": "cluefound",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"You found your first clue!"
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Press M to open the Murder Board!"
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Click on a clue to read its description, "
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"and press ESC to close."
-]
-},
-{
-"code": 0,
-"indent": 2,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 1,
-"parameters": []
 },
 {
 "code": 111,
@@ -2588,6 +2416,30 @@ false
 ]
 },
 {
+"code": 101,
+"indent": 2,
+"parameters": [
+"kiwihead_sheet",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 2,
+"parameters": [
+"\\n<Kiwi>Or we could look for leads elsewhere."
+]
+},
+{
+"code": 401,
+"indent": 2,
+"parameters": [
+"Your choice, boss!"
+]
+},
+{
 "code": 0,
 "indent": 2,
 "parameters": []
@@ -2596,6 +2448,15 @@ false
 "code": 412,
 "indent": 1,
 "parameters": []
+},
+{
+"code": 121,
+"indent": 1,
+"parameters": [
+91,
+91,
+0
+]
 },
 {
 "code": 0,
@@ -2699,8 +2560,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 5,
-"y": 5
+"x": 8,
+"y": 6
 },
 {
 "id": 4,
@@ -2924,77 +2785,6 @@ false
 "indent": 1,
 "parameters": [
 1,
-23,
-0,
-1,
-0
-]
-},
-{
-"code": 250,
-"indent": 2,
-"parameters": [
-{
-"name": "cluefound",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"You found your first clue!"
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Press M to open the Murder Board!"
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Click on a clue to read its description, "
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"and press ESC to close."
-]
-},
-{
-"code": 0,
-"indent": 2,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 111,
-"indent": 1,
-"parameters": [
-1,
 21,
 0,
 0,
@@ -3095,6 +2885,30 @@ false
 ]
 },
 {
+"code": 101,
+"indent": 2,
+"parameters": [
+"kiwihead_sheet",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 2,
+"parameters": [
+"\\n<Kiwi>Or we could look for leads elsewhere."
+]
+},
+{
+"code": 401,
+"indent": 2,
+"parameters": [
+"Your choice, boss!"
+]
+},
+{
 "code": 0,
 "indent": 2,
 "parameters": []
@@ -3103,6 +2917,15 @@ false
 "code": 412,
 "indent": 1,
 "parameters": []
+},
+{
+"code": 121,
+"indent": 1,
+"parameters": [
+91,
+91,
+0
+]
 },
 {
 "code": 0,
@@ -3656,77 +3479,6 @@ false
 "indent": 1,
 "parameters": [
 1,
-23,
-0,
-1,
-0
-]
-},
-{
-"code": 250,
-"indent": 2,
-"parameters": [
-{
-"name": "cluefound",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"You found your first clue!"
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Press M to open the Murder Board!"
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Click on a clue to read its description, "
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"and press ESC to close."
-]
-},
-{
-"code": 0,
-"indent": 2,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 111,
-"indent": 1,
-"parameters": [
-1,
 21,
 0,
 0,
@@ -3827,6 +3579,30 @@ false
 ]
 },
 {
+"code": 101,
+"indent": 2,
+"parameters": [
+"kiwihead_sheet",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 2,
+"parameters": [
+"\\n<Kiwi>Or we could look for leads elsewhere."
+]
+},
+{
+"code": 401,
+"indent": 2,
+"parameters": [
+"Your choice, boss!"
+]
+},
+{
 "code": 0,
 "indent": 2,
 "parameters": []
@@ -3835,6 +3611,15 @@ false
 "code": 412,
 "indent": 1,
 "parameters": []
+},
+{
+"code": 121,
+"indent": 1,
+"parameters": [
+91,
+91,
+0
+]
 },
 {
 "code": 0,
@@ -5953,7 +5738,7 @@ false
 },
 {
 "id": 39,
-"name": "Ground -- broken glass",
+"name": "Wings -- ruffled feathers",
 "note": "",
 "pages": [
 {
@@ -6012,35 +5797,6 @@ false
 "indent": 0,
 "parameters": [
 {
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"updated_kiwihead_sheet",
-4,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Kiwi>Could that be the murder weapon?"
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
 "name": "crowley_voice",
 "volume": 90,
 "pitch": 100,
@@ -6062,14 +5818,72 @@ false
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Crowley>I think not... There are "
+"\\n<Crowley>Hmm... these feathers are ruffled"
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"no signs of a cut or stab wound."
+"and the whole body is covered in dirt. "
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"updated_kiwihead_sheet",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Kiwi>Sounds like signs of a struggle."
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+5,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>That is possible..."
 ]
 },
 {
@@ -6077,7 +5891,7 @@ false
 "indent": 0,
 "parameters": [
 1,
-44,
+121,
 0,
 0,
 0
@@ -6098,8 +5912,8 @@ false
 "code": 122,
 "indent": 1,
 "parameters": [
-44,
-44,
+121,
+121,
 1,
 0,
 1
@@ -6119,7 +5933,7 @@ false
 "code": 401,
 "indent": 1,
 "parameters": [
-"You have obtained evidence: broken glass!"
+"You have obtained evidence: ruffled feathers!"
 ]
 },
 {
@@ -6191,77 +6005,6 @@ false
 20,
 0
 ]
-},
-{
-"code": 111,
-"indent": 1,
-"parameters": [
-1,
-23,
-0,
-1,
-0
-]
-},
-{
-"code": 250,
-"indent": 2,
-"parameters": [
-{
-"name": "cluefound",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"You found your first clue!"
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Press M to open the Murder Board!"
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Click on a clue to read its description, "
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"and press ESC to close."
-]
-},
-{
-"code": 0,
-"indent": 2,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 1,
-"parameters": []
 },
 {
 "code": 111,
@@ -6368,6 +6111,30 @@ false
 ]
 },
 {
+"code": 101,
+"indent": 2,
+"parameters": [
+"kiwihead_sheet",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 2,
+"parameters": [
+"\\n<Kiwi>Or we could look for leads elsewhere."
+]
+},
+{
+"code": 401,
+"indent": 2,
+"parameters": [
+"Your choice, boss!"
+]
+},
+{
 "code": 0,
 "indent": 2,
 "parameters": []
@@ -6376,6 +6143,15 @@ false
 "code": 412,
 "indent": 1,
 "parameters": []
+},
+{
+"code": 121,
+"indent": 1,
+"parameters": [
+91,
+91,
+0
+]
 },
 {
 "code": 0,
@@ -6479,8 +6255,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 4,
-"y": 9
+"x": 7,
+"y": 5
 },
 {
 "id": 40,
@@ -6901,77 +6677,6 @@ false
 "indent": 1,
 "parameters": [
 1,
-23,
-0,
-1,
-0
-]
-},
-{
-"code": 250,
-"indent": 2,
-"parameters": [
-{
-"name": "cluefound",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"You found your first clue!"
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Press M to open the Murder Board!"
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Click on a clue to read its description, "
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"and press ESC to close."
-]
-},
-{
-"code": 0,
-"indent": 2,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 111,
-"indent": 1,
-"parameters": [
-1,
 21,
 0,
 0,
@@ -7072,6 +6777,30 @@ false
 ]
 },
 {
+"code": 101,
+"indent": 2,
+"parameters": [
+"kiwihead_sheet",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 2,
+"parameters": [
+"\\n<Kiwi>Or we could look for leads elsewhere."
+]
+},
+{
+"code": 401,
+"indent": 2,
+"parameters": [
+"Your choice, boss!"
+]
+},
+{
 "code": 0,
 "indent": 2,
 "parameters": []
@@ -7080,6 +6809,15 @@ false
 "code": 412,
 "indent": 1,
 "parameters": []
+},
+{
+"code": 121,
+"indent": 1,
+"parameters": [
+91,
+91,
+0
+]
 },
 {
 "code": 0,
@@ -7184,7 +6922,7 @@ false
 }
 ],
 "x": 5,
-"y": 6
+"y": 5
 },
 {
 "id": 43,
@@ -8074,77 +7812,6 @@ false
 "indent": 1,
 "parameters": [
 1,
-23,
-0,
-1,
-0
-]
-},
-{
-"code": 250,
-"indent": 2,
-"parameters": [
-{
-"name": "cluefound",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"You found your first clue!"
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Press M to open the Murder Board!"
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Click on a clue to read its description, "
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"and press ESC to close."
-]
-},
-{
-"code": 0,
-"indent": 2,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 111,
-"indent": 1,
-"parameters": [
-1,
 21,
 0,
 0,
@@ -8245,6 +7912,30 @@ false
 ]
 },
 {
+"code": 101,
+"indent": 2,
+"parameters": [
+"kiwihead_sheet",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 2,
+"parameters": [
+"\\n<Kiwi>Or we could look for leads elsewhere."
+]
+},
+{
+"code": 401,
+"indent": 2,
+"parameters": [
+"Your choice, boss!"
+]
+},
+{
 "code": 0,
 "indent": 2,
 "parameters": []
@@ -8253,6 +7944,15 @@ false
 "code": 412,
 "indent": 1,
 "parameters": []
+},
+{
+"code": 121,
+"indent": 1,
+"parameters": [
+91,
+91,
+0
+]
 },
 {
 "code": 0,
@@ -8356,7 +8056,7 @@ false
 "walkAnime": true
 }
 ],
-"x": 4,
+"x": 5,
 "y": 6
 },
 {
@@ -9773,77 +9473,6 @@ false
 "indent": 1,
 "parameters": [
 1,
-23,
-0,
-1,
-0
-]
-},
-{
-"code": 250,
-"indent": 2,
-"parameters": [
-{
-"name": "cluefound",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"You found your first clue!"
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Press M to open the Murder Board!"
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Click on a clue to read its description, "
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"and press ESC to close."
-]
-},
-{
-"code": 0,
-"indent": 2,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 111,
-"indent": 1,
-"parameters": [
-1,
 21,
 0,
 0,
@@ -9944,6 +9573,30 @@ false
 ]
 },
 {
+"code": 101,
+"indent": 2,
+"parameters": [
+"kiwihead_sheet",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 2,
+"parameters": [
+"\\n<Kiwi>Or we could look for leads elsewhere."
+]
+},
+{
+"code": 401,
+"indent": 2,
+"parameters": [
+"Your choice, boss!"
+]
+},
+{
 "code": 0,
 "indent": 2,
 "parameters": []
@@ -9952,6 +9605,15 @@ false
 "code": 412,
 "indent": 1,
 "parameters": []
+},
+{
+"code": 121,
+"indent": 1,
+"parameters": [
+91,
+91,
+0
+]
 },
 {
 "code": 0,
@@ -10060,7 +9722,7 @@ false
 },
 {
 "id": 71,
-"name": "Wings -- ruffled feathers",
+"name": "Head -- red stain",
 "note": "",
 "pages": [
 {
@@ -10140,14 +9802,7 @@ false
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Crowley>Hmm... these feathers are ruffled"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"and the whole body is covered in dirt. "
+"\\n<Crowley>These feathers are coated with stains..."
 ]
 },
 {
@@ -10176,7 +9831,24 @@ false
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Kiwi>Sounds like signs of a struggle."
+"\\n<Kiwi>I wonder why."
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"updated_kiwihead_sheet",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Kiwi>What's dark red and sticky?"
 ]
 },
 {
@@ -10205,7 +9877,7 @@ false
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Crowley>That is possible..."
+"\\n<Crowley>I think that should be obvious... Blood."
 ]
 },
 {
@@ -10213,7 +9885,7 @@ false
 "indent": 0,
 "parameters": [
 1,
-121,
+42,
 0,
 0,
 0
@@ -10234,8 +9906,8 @@ false
 "code": 122,
 "indent": 1,
 "parameters": [
-121,
-121,
+42,
+42,
 1,
 0,
 1
@@ -10255,7 +9927,7 @@ false
 "code": 401,
 "indent": 1,
 "parameters": [
-"You have obtained evidence: ruffled feathers!"
+"You have obtained evidence: red stain!"
 ]
 },
 {
@@ -10327,77 +9999,6 @@ false
 20,
 0
 ]
-},
-{
-"code": 111,
-"indent": 1,
-"parameters": [
-1,
-23,
-0,
-1,
-0
-]
-},
-{
-"code": 250,
-"indent": 2,
-"parameters": [
-{
-"name": "cluefound",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"You found your first clue!"
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Press M to open the Murder Board!"
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Click on a clue to read its description, "
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"and press ESC to close."
-]
-},
-{
-"code": 0,
-"indent": 2,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 1,
-"parameters": []
 },
 {
 "code": 111,
@@ -10504,6 +10105,30 @@ false
 ]
 },
 {
+"code": 101,
+"indent": 2,
+"parameters": [
+"kiwihead_sheet",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 2,
+"parameters": [
+"\\n<Kiwi>Or we could look for leads elsewhere."
+]
+},
+{
+"code": 401,
+"indent": 2,
+"parameters": [
+"Your choice, boss!"
+]
+},
+{
 "code": 0,
 "indent": 2,
 "parameters": []
@@ -10512,6 +10137,15 @@ false
 "code": 412,
 "indent": 1,
 "parameters": []
+},
+{
+"code": 121,
+"indent": 1,
+"parameters": [
+91,
+91,
+0
+]
 },
 {
 "code": 0,
@@ -10615,8 +10249,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 7,
-"y": 5
+"x": 4,
+"y": 6
 },
 {
 "id": 72,
@@ -11089,7 +10723,7 @@ false
 },
 {
 "id": 79,
-"name": "Chest -- thin wire",
+"name": "Ground -- broken glass",
 "note": "",
 "pages": [
 {
@@ -11110,11 +10744,11 @@ false
 },
 "directionFix": false,
 "image": {
-"tileId": 0,
+"characterIndex": 0,
 "characterName": "",
 "direction": 2,
 "pattern": 0,
-"characterIndex": 0
+"tileId": 0
 },
 "list": [
 {
@@ -11144,6 +10778,47 @@ false
 ]
 },
 {
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"updated_kiwihead_sheet",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Kiwi>Could that be the murder weapon?"
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 0,
 "parameters": [
@@ -11157,31 +10832,14 @@ false
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Crowley>How strange..."
+"\\n<Crowley>I think not... There are "
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"There is a wire tied around the torso."
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"updated_kiwihead_sheet",
-5,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Kiwi>Oh wow. Good eye!"
+"no signs of a cut or stab wound."
 ]
 },
 {
@@ -11189,7 +10847,7 @@ false
 "indent": 0,
 "parameters": [
 1,
-43,
+44,
 0,
 0,
 0
@@ -11210,8 +10868,8 @@ false
 "code": 122,
 "indent": 1,
 "parameters": [
-43,
-43,
+44,
+44,
 1,
 0,
 1
@@ -11231,7 +10889,7 @@ false
 "code": 401,
 "indent": 1,
 "parameters": [
-"You have obtained evidence: thin wire!"
+"You have obtained evidence: broken glass!"
 ]
 },
 {
@@ -11303,77 +10961,6 @@ false
 20,
 0
 ]
-},
-{
-"code": 111,
-"indent": 1,
-"parameters": [
-1,
-23,
-0,
-1,
-0
-]
-},
-{
-"code": 250,
-"indent": 2,
-"parameters": [
-{
-"name": "cluefound",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"You found your first clue!"
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Press M to open the Murder Board!"
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Click on a clue to read its description, "
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"and press ESC to close."
-]
-},
-{
-"code": 0,
-"indent": 2,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 1,
-"parameters": []
 },
 {
 "code": 111,
@@ -11480,6 +11067,30 @@ false
 ]
 },
 {
+"code": 101,
+"indent": 2,
+"parameters": [
+"kiwihead_sheet",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 2,
+"parameters": [
+"\\n<Kiwi>Or we could look for leads elsewhere."
+]
+},
+{
+"code": 401,
+"indent": 2,
+"parameters": [
+"Your choice, boss!"
+]
+},
+{
 "code": 0,
 "indent": 2,
 "parameters": []
@@ -11488,6 +11099,15 @@ false
 "code": 412,
 "indent": 1,
 "parameters": []
+},
+{
+"code": 121,
+"indent": 1,
+"parameters": [
+91,
+91,
+0
+]
 },
 {
 "code": 0,
@@ -11591,8 +11211,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 8,
-"y": 6
+"x": 4,
+"y": 9
 },
 {
 "id": 80,
