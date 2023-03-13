@@ -6635,13 +6635,6 @@ false
 "parameters": []
 },
 {
-"code": 261,
-"indent": 0,
-"parameters": [
-"CutsceneNotFound"
-]
-},
-{
 "code": 121,
 "indent": 0,
 "parameters": [
@@ -6701,6 +6694,30 @@ false
 "tileId": 0
 },
 "list": [
+{
+"code": 261,
+"indent": 0,
+"parameters": [
+"Cutscene2"
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"updated_kiwihead_sheet",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"n\\<Kiwi>That's not a monster!"
+]
+},
 {
 "code": 0,
 "indent": 0,
