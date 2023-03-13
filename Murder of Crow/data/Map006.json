@@ -1574,6 +1574,90 @@ null,
 },
 "list": [
 {
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"updated_kiwihead_sheet",
+3,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Kiwi>Who leaves half a jar of Jay's"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"jams unfinished?"
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Kiwi>I wonder why it's tipped over on"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"the floor like that."
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "cluefound",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 0,
 "parameters": [
@@ -1587,41 +1671,7 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"Dialogue for broken jam jar"
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"Dialogue for broken jam jar"
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"Dialogue for broken jam jar"
+"You have obtained evidence: partially empty jam jar!"
 ]
 },
 {
@@ -1685,6 +1735,83 @@ null,
 },
 "list": [
 {
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"updated_kiwihead_sheet",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Kiwi>A hook attached to the wall?"
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>No Kiwi, look closer. There's an"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"almost missable wire hanging from it!"
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "cluefound",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 0,
 "parameters": [
@@ -1698,7 +1825,7 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"Dialogue for hook"
+"You have obtained evidence: hook and thin wire!"
 ]
 },
 {
@@ -1762,10 +1889,228 @@ null,
 },
 "list": [
 {
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 0,
 "parameters": [
-"",
+"updated_kiwihead_sheet",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Kiwi>I wonder if this is Jay's secret"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"to keeping his jams and jellies so"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"delicious."
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>*CAW* Kiwi, take a closer peep"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"at the ground. The glass is INSIDE the room. "
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>Seems to me like it might be a"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"beak in..."
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"updated_kiwihead_sheet",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Kiwi>A beak in?"
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"updated_kiwihead_sheet",
+1,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Kiwi>Boss, don't you mean BREAK "
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"in? "
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+1,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>I shoulda tried a sample, okay?"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"I didn't have time to even peck my"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"breakfast. I flew outta my office the"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"moment I heard the streets beckon me..."
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"updated_kiwihead_sheet",
 0,
 0,
 2
@@ -1775,7 +2120,93 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"Dialogue for broken window"
+"\\n<Kiwi>Besides, we're surrounded by jars!"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"The floor has a bit of glass scattered"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"about."
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+6,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>Hmmm... Maybe you're right."
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"updated_kiwihead_sheet",
+1,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Kiwi>Jay's probably too shy to admit"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"he eats his jams and jellies as much as"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"everyone else!"
 ]
 },
 {

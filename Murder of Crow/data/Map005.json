@@ -7934,6 +7934,107 @@ null,
 ]
 },
 {
+"code": 250,
+"indent": 1,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 1,
+"parameters": [
+"crowleyfaces",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"\\n<Crowley>These drag marks ain't even..."
+]
+},
+{
+"code": 101,
+"indent": 1,
+"parameters": [
+"crowleyfaces",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"\\n<Crowley>Whoever made 'em sure was having"
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"trouble moving something."
+]
+},
+{
+"code": 250,
+"indent": 1,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 1,
+"parameters": [
+"updated_kiwihead_sheet",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"\\n<Kiwi>Seems like they were going"
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"somewhere East..."
+]
+},
+{
+"code": 250,
+"indent": 1,
+"parameters": [
+{
+"name": "cluefound",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 1,
 "parameters": [
@@ -7947,41 +8048,7 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"Dialogue for drag marks goes here"
-]
-},
-{
-"code": 101,
-"indent": 1,
-"parameters": [
-"",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 1,
-"parameters": [
-"Dialogue for drag marks goes here"
-]
-},
-{
-"code": 101,
-"indent": 1,
-"parameters": [
-"",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 1,
-"parameters": [
-"Dialogue for drag marks goes here"
+"You have obtained evidence: drag marks!"
 ]
 },
 {
@@ -8247,6 +8314,100 @@ null,
 ]
 },
 {
+"code": 250,
+"indent": 1,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 1,
+"parameters": [
+"updated_kiwihead_sheet",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"\\n<Kiwi>Hey boss! Peep this!"
+]
+},
+{
+"code": 101,
+"indent": 1,
+"parameters": [
+"updated_kiwihead_sheet",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"\\n<Kiwi>Looks like somebirdy was all alfutter..."
+]
+},
+{
+"code": 250,
+"indent": 1,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 1,
+"parameters": [
+"crowleyfaces",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"\\n<Crowley>Seems to me that an unlucky birdy"
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"got plucked off..."
+]
+},
+{
+"code": 250,
+"indent": 1,
+"parameters": [
+{
+"name": "cluefound",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 1,
 "parameters": [
@@ -8260,41 +8421,7 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"Dialogue for feather text goes here"
-]
-},
-{
-"code": 101,
-"indent": 1,
-"parameters": [
-"",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 1,
-"parameters": [
-"Dialogue for feather text goes here"
-]
-},
-{
-"code": 101,
-"indent": 1,
-"parameters": [
-"",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 1,
-"parameters": [
-"Dialogue for feather text goes here"
+"You have obtained evidence: damaged black feathers!"
 ]
 },
 {
@@ -8477,6 +8604,100 @@ null,
 ]
 },
 {
+"code": 250,
+"indent": 1,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 1,
+"parameters": [
+"updated_kiwihead_sheet",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"\\n<Kiwi>Hey boss! Peep this!"
+]
+},
+{
+"code": 101,
+"indent": 1,
+"parameters": [
+"updated_kiwihead_sheet",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"\\n<Kiwi>Looks like somebirdy was all alfutter..."
+]
+},
+{
+"code": 250,
+"indent": 1,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 1,
+"parameters": [
+"crowleyfaces",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"\\n<Crowley>Seems to me that an unlucky birdy"
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"got plucked off..."
+]
+},
+{
+"code": 250,
+"indent": 1,
+"parameters": [
+{
+"name": "cluefound",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 1,
 "parameters": [
@@ -8490,41 +8711,7 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"Dialogue for feather text goes here"
-]
-},
-{
-"code": 101,
-"indent": 1,
-"parameters": [
-"",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 1,
-"parameters": [
-"Dialogue for feather text goes here"
-]
-},
-{
-"code": 101,
-"indent": 1,
-"parameters": [
-"",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 1,
-"parameters": [
-"Dialogue for feather text goes here"
+"You have obtained evidence: damaged black feathers!"
 ]
 },
 {
@@ -8835,6 +9022,107 @@ null,
 ]
 },
 {
+"code": 250,
+"indent": 1,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 1,
+"parameters": [
+"crowleyfaces",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"\\n<Crowley>These drag marks ain't even..."
+]
+},
+{
+"code": 101,
+"indent": 1,
+"parameters": [
+"crowleyfaces",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"\\n<Crowley>Whoever made 'em sure was having"
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"trouble moving something."
+]
+},
+{
+"code": 250,
+"indent": 1,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 1,
+"parameters": [
+"updated_kiwihead_sheet",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"\\n<Kiwi>Seems like they were going"
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"somewhere East..."
+]
+},
+{
+"code": 250,
+"indent": 1,
+"parameters": [
+{
+"name": "cluefound",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 1,
 "parameters": [
@@ -8848,41 +9136,7 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"Dialogue for drag marks goes here"
-]
-},
-{
-"code": 101,
-"indent": 1,
-"parameters": [
-"",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 1,
-"parameters": [
-"Dialogue for drag marks goes here"
-]
-},
-{
-"code": 101,
-"indent": 1,
-"parameters": [
-"",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 1,
-"parameters": [
-"Dialogue for drag marks goes here"
+"You have obtained evidence: drag marks!"
 ]
 },
 {
