@@ -1938,7 +1938,19 @@ null,
 "indent": 1,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "sly",
+"volume": 90,
+"pitch": 110,
+"pan": 0
+}
+]
+},
+{
+"code": 250,
+"indent": 1,
+"parameters": [
+{
+"name": "sly",
 "volume": 90,
 "pitch": 110,
 "pan": 0
@@ -2003,7 +2015,19 @@ null,
 "indent": 1,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "sly",
+"volume": 90,
+"pitch": 110,
+"pan": 0
+}
+]
+},
+{
+"code": 250,
+"indent": 1,
+"parameters": [
+{
+"name": "sly",
 "volume": 90,
 "pitch": 110,
 "pan": 0
@@ -2068,7 +2092,19 @@ null,
 "indent": 1,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "sly",
+"volume": 90,
+"pitch": 110,
+"pan": 0
+}
+]
+},
+{
+"code": 250,
+"indent": 1,
+"parameters": [
+{
+"name": "sly",
 "volume": 90,
 "pitch": 110,
 "pan": 0
@@ -2107,18 +2143,6 @@ null,
 ]
 },
 {
-"code": 250,
-"indent": 1,
-"parameters": [
-{
-"name": "npc_voice",
-"volume": 90,
-"pitch": 110,
-"pan": 0
-}
-]
-},
-{
 "code": 101,
 "indent": 1,
 "parameters": [
@@ -2140,18 +2164,6 @@ null,
 "indent": 1,
 "parameters": [
 "I saw s-something lurking about..."
-]
-},
-{
-"code": 250,
-"indent": 1,
-"parameters": [
-{
-"name": "npc_voice",
-"volume": 90,
-"pitch": 110,
-"pan": 0
-}
 ]
 },
 {
@@ -2253,7 +2265,31 @@ null,
 "indent": 1,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "sly",
+"volume": 90,
+"pitch": 110,
+"pan": 0
+}
+]
+},
+{
+"code": 250,
+"indent": 1,
+"parameters": [
+{
+"name": "sly",
+"volume": 90,
+"pitch": 110,
+"pan": 0
+}
+]
+},
+{
+"code": 250,
+"indent": 1,
+"parameters": [
+{
+"name": "sly",
 "volume": 90,
 "pitch": 110,
 "pan": 0
@@ -2275,18 +2311,6 @@ null,
 "indent": 1,
 "parameters": [
 "\\n<Witness>...HERE!"
-]
-},
-{
-"code": 250,
-"indent": 1,
-"parameters": [
-{
-"name": "npc_voice",
-"volume": 90,
-"pitch": 110,
-"pan": 0
-}
 ]
 },
 {
@@ -2448,7 +2472,7 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "sly",
 "volume": 90,
 "pitch": 110,
 "pan": 0
@@ -2469,7 +2493,7 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"I've already told you everything I know."
+"\\n<Sly>I've already told you everything I know."
 ]
 },
 {
@@ -4362,7 +4386,7 @@ false
 }
 ],
 "x": 13,
-"y": 3
+"y": 2
 },
 {
 "id": 13,
@@ -7848,7 +7872,7 @@ null,
 }
 ],
 "x": 11,
-"y": 3
+"y": 2
 },
 {
 "id": 21,
@@ -8011,7 +8035,7 @@ null,
 }
 ],
 "x": 12,
-"y": 3
+"y": 2
 },
 {
 "id": 22,
