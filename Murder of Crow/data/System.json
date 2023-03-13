@@ -128,7 +128,7 @@
 ],
 "gameTitle": "Murder of Crow",
 "gameoverMe": {
-"name": "Gameover1",
+"name": "title",
 "pan": 0,
 "pitch": 100,
 "volume": 90
