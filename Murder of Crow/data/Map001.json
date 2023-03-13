@@ -19,7 +19,7 @@
 "displayName": "",
 "encounterList": [],
 "encounterStep": 30,
-"height": 13,
+"height": 16,
 "note": "",
 "parallaxLoopX": false,
 "parallaxLoopY": false,
@@ -194,12 +194,12 @@
 4103,
 6268,
 6672,
-6836,
-3618,
-3604,
-3604,
-3604,
-3585,
+7099,
+7098,
+7098,
+7098,
+7102,
+3600,
 3584,
 3584,
 3584,
@@ -212,12 +212,12 @@
 3604,
 3620,
 6672,
-6824,
-3600,
-3584,
-3584,
-3584,
-3588,
+6692,
+7282,
+7282,
+7282,
+7286,
+3602,
 3612,
 3612,
 3592,
@@ -230,12 +230,12 @@
 3584,
 3608,
 6672,
-6824,
-3624,
-3612,
-3612,
-3612,
-3622,
+6680,
+7280,
+7280,
+7280,
+7284,
+3616,
 4107,
 4109,
 3624,
@@ -248,24 +248,78 @@
 3588,
 3622,
 6672,
-6802,
-6820,
-6820,
-6820,
-6820,
-6820,
-6820,
-6820,
-6820,
-6820,
-6820,
-6820,
-6820,
-6836,
+6680,
+7288,
+7288,
+7288,
+7292,
+3616,
+6690,
+6676,
+6676,
+6676,
+6676,
+6676,
+6676,
+6692,
 3600,
 3608,
-6690,
+6699,
+6685,
+6680,
+3618,
+3604,
+3604,
+3604,
+3610,
+6672,
+6656,
+6656,
+6656,
+6656,
+6656,
+6656,
+6680,
+3624,
+3614,
+3617,
+3617,
+6680,
+3624,
+3612,
+3612,
+3612,
+3622,
+6672,
+6656,
+6656,
+6656,
+6656,
+6656,
+6656,
+6658,
+6676,
+6676,
+6676,
+6676,
+6658,
+6676,
+6676,
+6676,
+6676,
+6676,
 6657,
+6656,
+6656,
+6656,
+6656,
+6656,
+6656,
+6656,
+6656,
+6656,
+6656,
+6656,
 0,
 0,
 0,
@@ -429,11 +483,11 @@
 3910,
 0,
 0,
-3666,
-3652,
-3652,
-3652,
-3668,
+0,
+0,
+0,
+0,
+3674,
 3906,
 3908,
 3672,
@@ -447,11 +501,11 @@
 3668,
 0,
 0,
-3648,
-3632,
-3632,
-3632,
-3656,
+0,
+0,
+0,
+0,
+3664,
 3888,
 3874,
 3908,
@@ -465,11 +519,11 @@
 3656,
 0,
 0,
-3672,
-3660,
-3660,
-3660,
-3670,
+0,
+0,
+0,
+0,
+3664,
 3912,
 3900,
 3910,
@@ -487,7 +541,7 @@
 0,
 0,
 0,
-0,
+3664,
 0,
 0,
 0,
@@ -498,6 +552,60 @@
 0,
 3648,
 3656,
+0,
+0,
+0,
+3666,
+3652,
+3652,
+3652,
+3658,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+3672,
+3662,
+3665,
+3665,
+0,
+3672,
+3660,
+3660,
+3660,
+3670,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -619,6 +727,60 @@
 0,
 13,
 14,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -951,6 +1113,60 @@
 0,
 0,
 0,
+270,
+271,
+392,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+278,
+279,
+400,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -1149,6 +1365,28 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+5,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 5,
 0,
 0,
@@ -1168,6 +1406,92 @@
 0,
 0,
 5,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+5,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+5,
+0,
+0,
+0,
+0,
+5,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -3223,7 +3547,7 @@ false
 "code": 401,
 "indent": 0,
 "parameters": [
-"                       The Narrows "
+"                           The Narrows "
 ]
 },
 {
@@ -3837,14 +4161,14 @@ false
 "",
 0,
 0,
-0
+1
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"                     Farmer's Market "
+"                         Farmer's Market "
 ]
 },
 {
@@ -6902,9 +7226,10 @@ false
 "x": 5,
 "y": 0
 },
+null,
 {
-"id": 15,
-"name": "EV015",
+"id": 16,
+"name": "EV016",
 "note": "",
 "pages": [
 {
@@ -6925,20 +7250,59 @@ false
 },
 "directionFix": false,
 "image": {
-"tileId": 0,
-"characterName": "Nature",
+"characterIndex": 0,
+"characterName": "",
 "direction": 2,
-"pattern": 1,
-"characterIndex": 6
+"pattern": 0,
+"tileId": 0
 },
 "list": [
 {
-"code": 121,
+"code": 205,
 "indent": 0,
 "parameters": [
-121,
-121,
-0
+-1,
+{
+"list": [
+{
+"code": 19,
+"indent": null
+},
+{
+"code": 0
+}
+],
+"repeat": false,
+"skippable": true,
+"wait": true
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 19,
+"indent": null
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+". . . zzZZzZz. . "
 ]
 },
 {
@@ -6961,18 +7325,124 @@ false
 },
 "moveSpeed": 3,
 "moveType": 0,
-"priorityType": 1,
+"priorityType": 0,
 "stepAnime": false,
 "through": false,
 "trigger": 0,
 "walkAnime": true
 }
 ],
-"x": 15,
-"y": 4
+"x": 3,
+"y": 14
 },
-null,
-null,
+{
+"id": 17,
+"name": "EV017",
+"note": "",
+"pages": [
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 205,
+"indent": 0,
+"parameters": [
+-1,
+{
+"list": [
+{
+"code": 17,
+"indent": null
+},
+{
+"code": 0
+}
+],
+"repeat": false,
+"skippable": true,
+"wait": true
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 17,
+"indent": null
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"Zz. . Zzz"
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+}
+],
+"x": 4,
+"y": 13
+},
 {
 "id": 18,
 "name": "EV018",
@@ -7543,8 +8013,222 @@ null,
 "x": 12,
 "y": 3
 },
-null,
-null,
+{
+"id": 22,
+"name": "EV022",
+"note": "",
+"pages": [
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 205,
+"indent": 0,
+"parameters": [
+-1,
+{
+"list": [
+{
+"code": 19,
+"indent": null
+},
+{
+"code": 0
+}
+],
+"repeat": false,
+"skippable": true,
+"wait": true
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 19,
+"indent": null
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"zZzZZZzzz. . . . . . z"
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+}
+],
+"x": 1,
+"y": 14
+},
+{
+"id": 23,
+"name": "EV023",
+"note": "",
+"pages": [
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 205,
+"indent": 0,
+"parameters": [
+-1,
+{
+"list": [
+{
+"code": 19,
+"indent": null
+},
+{
+"code": 0
+}
+],
+"repeat": false,
+"skippable": true,
+"wait": true
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 19,
+"indent": null
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+". . zzz. . . ZZZZzzz"
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+}
+],
+"x": 2,
+"y": 14
+},
 null,
 null,
 null,

@@ -683,7 +683,7 @@ null,
 "title1Name": "TitleScreen",
 "title2Name": "",
 "titleBgm": {
-"name": "",
+"name": "title",
 "pan": 0,
 "pitch": 100,
 "volume": 90
