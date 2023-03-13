@@ -1402,7 +1402,7 @@ null,
 "code": 101,
 "indent": 0,
 "parameters": [
-"skunkhead_sheet",
+"",
 0,
 0,
 2
@@ -1412,21 +1412,7 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Witness>Press ARROW KEYS or WASD to "
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"slide the photo."
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"Tip: keeping the FIRST ROW in place."
+"Press ARROW KEYS or WASD to slide the photo."
 ]
 },
 {
