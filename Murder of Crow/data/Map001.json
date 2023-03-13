@@ -1770,8 +1770,8 @@ null,
 "pages": [
 {
 "conditions": {
-"actorId": 2,
-"actorValid": true,
+"actorId": 1,
+"actorValid": false,
 "itemId": 1,
 "itemValid": false,
 "selfSwitchCh": "A",
@@ -1781,6 +1781,74 @@ null,
 "switch2Id": 5,
 "switch2Valid": false,
 "variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"tileId": 0,
+"characterName": "$slyskunkwitness",
+"direction": 6,
+"pattern": 1,
+"characterIndex": 0
+},
+"list": [
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"skunkhead_sheet",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"..."
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 2,
+"moveType": 0,
+"priorityType": 1,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 2,
+"actorValid": true,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 41,
+"switch1Valid": false,
+"switch2Id": 5,
+"switch2Valid": false,
+"variableId": 21,
 "variableValid": false,
 "variableValue": 0
 },
@@ -2407,74 +2475,6 @@ null,
 "through": false,
 "trigger": 0,
 "walkAnime": true
-},
-{
-"conditions": {
-"actorId": 1,
-"actorValid": false,
-"itemId": 1,
-"itemValid": false,
-"selfSwitchCh": "A",
-"selfSwitchValid": false,
-"switch1Id": 1,
-"switch1Valid": false,
-"switch2Id": 5,
-"switch2Valid": false,
-"variableId": 1,
-"variableValid": false,
-"variableValue": 0
-},
-"directionFix": false,
-"image": {
-"tileId": 0,
-"characterName": "$slyskunkwitness",
-"direction": 6,
-"pattern": 1,
-"characterIndex": 0
-},
-"list": [
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"skunkhead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"..."
-]
-},
-{
-"code": 0,
-"indent": 0,
-"parameters": []
-}
-],
-"moveFrequency": 3,
-"moveRoute": {
-"list": [
-{
-"code": 0,
-"parameters": []
-}
-],
-"repeat": true,
-"skippable": false,
-"wait": false
-},
-"moveSpeed": 2,
-"moveType": 0,
-"priorityType": 1,
-"stepAnime": false,
-"through": false,
-"trigger": 0,
-"walkAnime": true
 }
 ],
 "x": 5,
@@ -2561,13 +2561,6 @@ null,
 "parameters": [
 1,
 1,
-0
-]
-},
-{
-"code": 135,
-"indent": 0,
-"parameters": [
 0
 ]
 },
@@ -4018,26 +4011,12 @@ null,
 {
 "list": [
 {
-"code": 34,
-"indent": null
-},
-{
 "code": 0
 }
 ],
 "repeat": true,
 "skippable": false,
 "wait": false
-}
-]
-},
-{
-"code": 505,
-"indent": 1,
-"parameters": [
-{
-"code": 34,
-"indent": null
 }
 ]
 },
@@ -4133,21 +4112,12 @@ null,
 ]
 },
 {
-"code": 113,
-"indent": 2,
-"parameters": []
-},
-{
 "code": 205,
 "indent": 2,
 "parameters": [
 -1,
 {
 "list": [
-{
-"code": 33,
-"indent": null
-},
 {
 "code": 0
 }
@@ -4159,14 +4129,9 @@ null,
 ]
 },
 {
-"code": 505,
+"code": 113,
 "indent": 2,
-"parameters": [
-{
-"code": 33,
-"indent": null
-}
-]
+"parameters": []
 },
 {
 "code": 0,
@@ -4177,6 +4142,23 @@ null,
 "code": 411,
 "indent": 1,
 "parameters": []
+},
+{
+"code": 205,
+"indent": 2,
+"parameters": [
+-1,
+{
+"list": [
+{
+"code": 0
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+}
+]
 },
 {
 "code": 250,
@@ -4325,26 +4307,12 @@ null,
 {
 "list": [
 {
-"code": 34,
-"indent": null
-},
-{
 "code": 0
 }
 ],
 "repeat": true,
 "skippable": false,
 "wait": false
-}
-]
-},
-{
-"code": 505,
-"indent": 1,
-"parameters": [
-{
-"code": 34,
-"indent": null
 }
 ]
 },
@@ -4461,21 +4429,12 @@ null,
 ]
 },
 {
-"code": 113,
-"indent": 2,
-"parameters": []
-},
-{
 "code": 205,
 "indent": 2,
 "parameters": [
 -1,
 {
 "list": [
-{
-"code": 33,
-"indent": null
-},
 {
 "code": 0
 }
@@ -4487,14 +4446,9 @@ null,
 ]
 },
 {
-"code": 505,
+"code": 113,
 "indent": 2,
-"parameters": [
-{
-"code": 33,
-"indent": null
-}
-]
+"parameters": []
 },
 {
 "code": 0,
@@ -4505,6 +4459,23 @@ null,
 "code": 411,
 "indent": 1,
 "parameters": []
+},
+{
+"code": 205,
+"indent": 2,
+"parameters": [
+-1,
+{
+"list": [
+{
+"code": 0
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+}
+]
 },
 {
 "code": 250,
@@ -4661,26 +4632,12 @@ null,
 {
 "list": [
 {
-"code": 34,
-"indent": null
-},
-{
 "code": 0
 }
 ],
 "repeat": true,
 "skippable": false,
 "wait": false
-}
-]
-},
-{
-"code": 505,
-"indent": 1,
-"parameters": [
-{
-"code": 34,
-"indent": null
 }
 ]
 },
@@ -4797,21 +4754,12 @@ null,
 ]
 },
 {
-"code": 113,
-"indent": 2,
-"parameters": []
-},
-{
 "code": 205,
 "indent": 2,
 "parameters": [
 -1,
 {
 "list": [
-{
-"code": 33,
-"indent": null
-},
 {
 "code": 0
 }
@@ -4823,14 +4771,9 @@ null,
 ]
 },
 {
-"code": 505,
+"code": 113,
 "indent": 2,
-"parameters": [
-{
-"code": 33,
-"indent": null
-}
-]
+"parameters": []
 },
 {
 "code": 0,
@@ -4850,26 +4793,12 @@ null,
 {
 "list": [
 {
-"code": 34,
-"indent": null
-},
-{
 "code": 0
 }
 ],
 "repeat": true,
 "skippable": false,
 "wait": false
-}
-]
-},
-{
-"code": 505,
-"indent": 2,
-"parameters": [
-{
-"code": 34,
-"indent": null
 }
 ]
 },

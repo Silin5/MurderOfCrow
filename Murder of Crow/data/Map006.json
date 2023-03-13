@@ -1646,6 +1646,15 @@ null,
 ]
 },
 {
+"code": 121,
+"indent": 0,
+"parameters": [
+63,
+63,
+0
+]
+},
+{
 "code": 123,
 "indent": 0,
 "parameters": [
@@ -2257,11 +2266,102 @@ null,
 ]
 },
 {
+"code": 121,
+"indent": 0,
+"parameters": [
+62,
+62,
+0
+]
+},
+{
 "code": 123,
 "indent": 0,
 "parameters": [
-"A",
-1
+"B",
+0
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "B",
+"selfSwitchValid": true,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+6,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"The hook on the wall with some hanging"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"wire... maybe I should check the murder"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"board to see if I can piece this together!"
 ]
 },
 {
