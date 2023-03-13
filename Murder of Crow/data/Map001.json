@@ -6405,7 +6405,7 @@ false
 "code": 401,
 "indent": 1,
 "parameters": [
-"\\n<Kiwi>if you say so..."
+"\\n<Kiwi>If you say so..."
 ]
 },
 {
@@ -6849,6 +6849,246 @@ false
 ]
 },
 {
+"code": 250,
+"indent": 1,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 1,
+"parameters": [
+"crowleyfaces",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"\\n<Crowley>You were at home last night,"
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"huh...?"
+]
+},
+{
+"code": 250,
+"indent": 1,
+"parameters": [
+{
+"name": "npc_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 1,
+"parameters": [
+"vendorfaces",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"\\n<Jay>Erhm, yeah! I already told you"
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"that Crowley!"
+]
+},
+{
+"code": 250,
+"indent": 1,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 1,
+"parameters": [
+"crowleyfaces",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"\\n<Crowley>Care to explain why the wire"
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"in your storeroom appears to be the same"
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"wire tied to the body?!?"
+]
+},
+{
+"code": 250,
+"indent": 1,
+"parameters": [
+{
+"name": "npc_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 1,
+"parameters": [
+"vendorfaces",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"\\n<Jay>Heh, uhm... the culprit and I both, "
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"uh, shop at the same store...?"
+]
+},
+{
+"code": 250,
+"indent": 1,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 1,
+"parameters": [
+"crowleyfaces",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"\\n<Crowley>Seems convenient, don't ya "
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"think?"
+]
+},
+{
+"code": 250,
+"indent": 1,
+"parameters": [
+{
+"name": "npc_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 1,
+"parameters": [
+"vendorfaces",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"\\n<Jay>\"Seems Convenient\" IS the"
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"name of the store after all..."
+]
+},
+{
+"code": 101,
+"indent": 1,
+"parameters": [
+"crowleyfaces",
+1,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"\\n<Crowley>..."
+]
+},
+{
 "code": 0,
 "indent": 1,
 "parameters": []
@@ -6859,6 +7099,216 @@ false
 "parameters": [
 1,
 "Sly"
+]
+},
+{
+"code": 250,
+"indent": 1,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 1,
+"parameters": [
+"crowleyfaces",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"\\n<Crowley>It's quite the coincidence you"
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"captured whoever did this last night AND"
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"found the body today, don't you think...?"
+]
+},
+{
+"code": 250,
+"indent": 1,
+"parameters": [
+{
+"name": "sly",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 1,
+"parameters": [
+"skunkhead_sheet",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"\\n<Sly>Y-you don't think I d-did this,"
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"do you?!"
+]
+},
+{
+"code": 250,
+"indent": 1,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 1,
+"parameters": [
+"crowleyfaces",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"\\n<Crowley>You're a newsie, right? Maybe"
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"you also thought our town was too quiet..."
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"Figured you needed to create a stink and"
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"make some of your own \"news?\""
+]
+},
+{
+"code": 101,
+"indent": 1,
+"parameters": [
+"crowleyfaces",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"\\n<Crowley>You were desperate for a story,"
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"and thought croaking an innocent bird"
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"would bring you the recognition you've"
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"been seeking as a reporter..."
+]
+},
+{
+"code": 250,
+"indent": 1,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 1,
+"parameters": [
+"updated_kiwihead_sheet",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"\\n<Kiwi>Boss? We technically don't know if"
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"this bird is innocent, seeing as how they"
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"aren't a local..."
 ]
 },
 {

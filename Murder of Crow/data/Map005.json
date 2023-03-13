@@ -9724,7 +9724,14 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"Jay’s Jams and Jellies! Open Everyday 6-6!"
+"        Jay’s Jams and Jellies! Open every day "
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"                      from 6 am to 6pm!"
 ]
 },
 {
