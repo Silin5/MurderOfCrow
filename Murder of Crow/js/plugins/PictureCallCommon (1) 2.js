@@ -291,7 +291,7 @@
  *      1  : Left click หมายเลข 1 คือ เมื่อคลิกเมาส์ซ้าย
  *      2  : Right click หมายเลข 2 คือ เมื่อคลิกเมาส์ขวา
  *      3  : Long click หมายเลข 3 คือ เมื่อคลิกซ้ายค้างไว้
- *      4  : Mouse over หมายเลข 4 คือ เมื่อวางเมาส์บนรูปภาพ
+ *      4  : Mouse over หมายเลข 4 คือ เมื่อวางเมาส์บนรูปภา
  *      5  : Mouse out หมายเลข 5 คือ เมื่อนำเมาส์ออกจากรูปภาพ
  *      6  : Mouse release หมายเลข 6 คือ เมื่อปล่อยเมาส์
  *      7  : Mouse repeat click หมายเลข 7 คือ เมื่อคลิกเมาส์ซ้ำๆ
@@ -831,7 +831,6 @@
         this._triggerHandler[1]  = this.isTriggered;
         this._triggerHandler[2]  = this.isCancelled;
         this._triggerHandler[3]  = this.isLongPressed;
-        this._triggerHandler[4]  = this.isOnFocus;
         this._triggerHandler[5]  = this.isOutFocus;
         this._triggerHandler[6]  = this.isReleased;
         this._triggerHandler[7]  = this.isRepeated;
@@ -840,9 +839,6 @@
         this._triggerHandler[10] = this.isDoubleTriggered;
         this._triggerHandler[11] = this.isMoved;
         this._triggerHandler[12] = this.isMovedAndPressed;
-        this._onMouse            = false;
-        this._outMouse           = false;
-        this._wasOnMouse         = false;
     };
 
     var _Sprite_update              = Sprite_Picture.prototype.update;
@@ -852,22 +848,10 @@
     };
 
     Sprite_Picture.prototype.updateTouch = function() {
-        this.updateMouseMove();
         this.updateStroke();
         this.updatePointer();
     };
 
-    Sprite_Picture.prototype.updateMouseMove = function() {
-        if (this.isIncludePointer()) {
-            if (!this._wasOnMouse) {
-                this._onMouse    = true;
-                this._wasOnMouse = true;
-            }
-        } else if (this._wasOnMouse) {
-                this._outMouse   = true;
-                this._wasOnMouse = false;
-            }
-    };
 
     Sprite_Picture.prototype.isIncludePointer = function() {
         return this.isTouchable() && this.isTouchPosInRect() && !this.isTransparent();
@@ -910,8 +894,6 @@
             TouchInput.suppressEvents();
         }
         if (this.triggerIsLongPressed(i)) TouchInput._pressedTime = -60;
-        if (this.triggerIsOnFocus(i)) this._onMouse = false;
-        if (this.triggerIsOutFocus(i)) this._outMouse = false;
         $gameTemp.onTouchPicture(commandIds[i], this._pictureId);
     };
 
@@ -1032,13 +1014,6 @@
         return this.isTouchEvent(TouchInput.isRepeated);
     };
 
-    Sprite_Picture.prototype.isOnFocus = function() {
-        return this._onMouse;
-    };
-
-    Sprite_Picture.prototype.isOutFocus = function() {
-        return this._outMouse;
-    };
 
     Sprite_Picture.prototype.isMoved = function() {
         return this.isTouchEvent(TouchInput.isMoved);
@@ -1122,12 +1097,6 @@
         this._released        = false;
         this._wheelTriggered  = false;
         this._doubleTriggered = false;
-    };
-
-    TouchInput._onMouseMove = function(event) {
-        var x = Graphics.pageToCanvasX(event.pageX);
-        var y = Graphics.pageToCanvasY(event.pageY);
-        this._onMove(x, y);
     };
 
     var _TouchInput_clear = TouchInput.clear;
