@@ -6068,8 +6068,8 @@ null,
 "code": 121,
 "indent": 0,
 "parameters": [
-124,
-124,
+129,
+129,
 0
 ]
 },
@@ -9289,6 +9289,37 @@ false
 },
 "list": [
 {
+"code": 205,
+"indent": 0,
+"parameters": [
+0,
+{
+"list": [
+{
+"code": 25,
+"indent": null
+},
+{
+"code": 0
+}
+],
+"repeat": false,
+"skippable": false,
+"wait": true
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 25,
+"indent": null
+}
+]
+},
+{
 "code": 250,
 "indent": 0,
 "parameters": [
@@ -9467,6 +9498,37 @@ false
 },
 "list": [
 {
+"code": 205,
+"indent": 0,
+"parameters": [
+0,
+{
+"list": [
+{
+"code": 25,
+"indent": null
+},
+{
+"code": 0
+}
+],
+"repeat": false,
+"skippable": false,
+"wait": true
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 25,
+"indent": null
+}
+]
+},
+{
 "code": 250,
 "indent": 0,
 "parameters": [
@@ -9637,6 +9699,37 @@ false
 },
 "list": [
 {
+"code": 205,
+"indent": 0,
+"parameters": [
+0,
+{
+"list": [
+{
+"code": 25,
+"indent": null
+},
+{
+"code": 0
+}
+],
+"repeat": false,
+"skippable": false,
+"wait": true
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 25,
+"indent": null
+}
+]
+},
+{
 "code": 101,
 "indent": 0,
 "parameters": [
@@ -9718,6 +9811,65 @@ false
 "\\n<Kiwi>Maybe we should take a closer look!"
 ]
 },
+{
+"code": 123,
+"indent": 0,
+"parameters": [
+"A",
+0
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 1,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": true,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"tileId": 0,
+"characterName": "$kiwiSheet",
+"direction": 6,
+"pattern": 1,
+"characterIndex": 0
+},
+"list": [
 {
 "code": 0,
 "indent": 0,
@@ -11404,57 +11556,6 @@ false
 "itemValid": false,
 "selfSwitchCh": "A",
 "selfSwitchValid": false,
-"switch1Id": 128,
-"switch1Valid": true,
-"switch2Id": 1,
-"switch2Valid": false,
-"variableId": 1,
-"variableValid": false,
-"variableValue": 0
-},
-"directionFix": false,
-"image": {
-"tileId": 0,
-"characterName": "$babyraccoon_overworld",
-"direction": 2,
-"pattern": 1,
-"characterIndex": 0
-},
-"list": [
-{
-"code": 0,
-"indent": 0,
-"parameters": []
-}
-],
-"moveFrequency": 3,
-"moveRoute": {
-"list": [
-{
-"code": 0,
-"parameters": []
-}
-],
-"repeat": true,
-"skippable": false,
-"wait": false
-},
-"moveSpeed": 3,
-"moveType": 0,
-"priorityType": 1,
-"stepAnime": false,
-"through": false,
-"trigger": 0,
-"walkAnime": true
-},
-{
-"conditions": {
-"actorId": 1,
-"actorValid": false,
-"itemId": 1,
-"itemValid": false,
-"selfSwitchCh": "A",
-"selfSwitchValid": false,
 "switch1Id": 123,
 "switch1Valid": true,
 "switch2Id": 127,
@@ -11632,6 +11733,109 @@ false
 "itemValid": false,
 "selfSwitchCh": "A",
 "selfSwitchValid": false,
+"switch1Id": 131,
+"switch1Valid": true,
+"switch2Id": 123,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"tileId": 0,
+"characterName": "$babyraccoon_overworld",
+"direction": 2,
+"pattern": 1,
+"characterIndex": 0
+},
+"list": [
+{
+"code": 203,
+"indent": 0,
+"parameters": [
+0,
+0,
+11,
+6,
+0
+]
+},
+{
+"code": 122,
+"indent": 0,
+"parameters": [
+122,
+122,
+1,
+0,
+1
+]
+},
+{
+"code": 111,
+"indent": 0,
+"parameters": [
+1,
+122,
+0,
+2,
+0
+]
+},
+{
+"code": 121,
+"indent": 1,
+"parameters": [
+131,
+131,
+1
+]
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 412,
+"indent": 0,
+"parameters": []
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 1,
+"stepAnime": false,
+"through": false,
+"trigger": 4,
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
 "switch1Id": 123,
 "switch1Valid": true,
 "switch2Id": 183,
@@ -11649,6 +11853,23 @@ false
 "characterIndex": 0
 },
 "list": [
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"rascal page 3 execution"
+]
+},
 {
 "code": 205,
 "indent": 0,
@@ -11831,6 +12052,57 @@ false
 "through": false,
 "trigger": 4,
 "walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 128,
+"switch1Valid": true,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"tileId": 0,
+"characterName": "$babyraccoon_overworld",
+"direction": 2,
+"pattern": 1,
+"characterIndex": 0
+},
+"list": [
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 1,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
 }
 ],
 "x": 11,
@@ -11890,57 +12162,6 @@ false
 "stepAnime": false,
 "through": false,
 "trigger": 3,
-"walkAnime": true
-},
-{
-"conditions": {
-"actorId": 1,
-"actorValid": false,
-"itemId": 1,
-"itemValid": false,
-"selfSwitchCh": "A",
-"selfSwitchValid": false,
-"switch1Id": 128,
-"switch1Valid": true,
-"switch2Id": 1,
-"switch2Valid": false,
-"variableId": 1,
-"variableValid": false,
-"variableValue": 0
-},
-"directionFix": false,
-"image": {
-"tileId": 0,
-"characterName": "$mamaraccoon_overworld",
-"direction": 2,
-"pattern": 1,
-"characterIndex": 0
-},
-"list": [
-{
-"code": 0,
-"indent": 0,
-"parameters": []
-}
-],
-"moveFrequency": 3,
-"moveRoute": {
-"list": [
-{
-"code": 0,
-"parameters": []
-}
-],
-"repeat": true,
-"skippable": false,
-"wait": false
-},
-"moveSpeed": 3,
-"moveType": 0,
-"priorityType": 1,
-"stepAnime": false,
-"through": false,
-"trigger": 0,
 "walkAnime": true
 },
 {
@@ -12424,11 +12645,165 @@ false
 "code": 121,
 "indent": 0,
 "parameters": [
-125,
-125,
+130,
+130,
 0
 ]
 },
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 1,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 131,
+"switch1Valid": true,
+"switch2Id": 123,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"tileId": 0,
+"characterName": "$mamaraccoon_overworld",
+"direction": 2,
+"pattern": 1,
+"characterIndex": 0
+},
+"list": [
+{
+"code": 203,
+"indent": 0,
+"parameters": [
+0,
+0,
+12,
+6,
+0
+]
+},
+{
+"code": 122,
+"indent": 0,
+"parameters": [
+122,
+122,
+1,
+0,
+1
+]
+},
+{
+"code": 111,
+"indent": 0,
+"parameters": [
+1,
+122,
+0,
+2,
+0
+]
+},
+{
+"code": 121,
+"indent": 1,
+"parameters": [
+131,
+131,
+1
+]
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 412,
+"indent": 0,
+"parameters": []
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 1,
+"stepAnime": false,
+"through": false,
+"trigger": 4,
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 128,
+"switch1Valid": true,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"tileId": 0,
+"characterName": "$mamaraccoon_overworld",
+"direction": 2,
+"pattern": 1,
+"characterIndex": 0
+},
+"list": [
 {
 "code": 0,
 "indent": 0,
@@ -12472,9 +12847,9 @@ false
 "itemValid": false,
 "selfSwitchCh": "A",
 "selfSwitchValid": false,
-"switch1Id": 125,
+"switch1Id": 129,
 "switch1Valid": true,
-"switch2Id": 124,
+"switch2Id": 130,
 "switch2Valid": true,
 "variableId": 1,
 "variableValid": false,
@@ -13903,23 +14278,6 @@ false
 ]
 },
 {
-"code": 101,
-"indent": 0,
-"parameters": [
-"",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"go inspect body now"
-]
-},
-{
 "code": 121,
 "indent": 0,
 "parameters": [
@@ -14305,6 +14663,66 @@ false
 ],
 "x": 14,
 "y": 8
+},
+{
+"id": 32,
+"name": "EV032",
+"note": "",
+"pages": [
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+}
+],
+"x": 9,
+"y": 5
 }
 ]
 }
