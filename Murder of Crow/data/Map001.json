@@ -2676,11 +2676,11 @@ null,
 },
 "directionFix": false,
 "image": {
-"tileId": 768,
+"tileId": 0,
 "characterName": "",
-"characterIndex": 0,
-"direction": 2,
-"pattern": 0
+"direction": 8,
+"pattern": 0,
+"characterIndex": 0
 },
 "list": [
 {

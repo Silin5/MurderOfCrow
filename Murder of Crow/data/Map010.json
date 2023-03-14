@@ -32,23 +32,23 @@
 "tilesetId": 1,
 "width": 16,
 "data": [
-7428,
-7452,
-7452,
-7452,
-7452,
-7452,
-7452,
-7452,
-7452,
-7452,
-7452,
-7452,
-7452,
-7452,
-7452,
-7432,
-7448,
+5988,
+6012,
+6012,
+6012,
+6012,
+6012,
+6012,
+6012,
+6012,
+6012,
+6012,
+6012,
+6012,
+6012,
+6012,
+5992,
+6008,
 5922,
 5908,
 5908,
@@ -63,8 +63,8 @@
 5908,
 5908,
 5924,
-7440,
-7448,
+6000,
+6008,
 5904,
 5888,
 5888,
@@ -79,8 +79,8 @@
 5888,
 5888,
 5912,
-7440,
-7448,
+6000,
+6008,
 5904,
 5888,
 5888,
@@ -95,8 +95,8 @@
 5888,
 5888,
 5912,
-7440,
-7448,
+6000,
+6008,
 5904,
 5888,
 5888,
@@ -111,8 +111,8 @@
 5888,
 5888,
 5912,
-7440,
-7448,
+6000,
+6008,
 5904,
 5888,
 5888,
@@ -127,8 +127,8 @@
 5888,
 5888,
 5912,
-7440,
-7448,
+6000,
+6008,
 5904,
 5888,
 5888,
@@ -143,8 +143,8 @@
 5888,
 5888,
 5912,
-7440,
-7448,
+6000,
+6008,
 5904,
 5888,
 5888,
@@ -159,8 +159,8 @@
 5888,
 5888,
 5912,
-7440,
-7448,
+6000,
+6008,
 5904,
 5888,
 5888,
@@ -175,8 +175,8 @@
 5888,
 5888,
 5912,
-7440,
-7448,
+6000,
+6008,
 5904,
 5888,
 5888,
@@ -191,8 +191,8 @@
 5888,
 5888,
 5912,
-7440,
-7448,
+6000,
+6008,
 5904,
 5888,
 5888,
@@ -207,8 +207,8 @@
 5888,
 5888,
 5912,
-7440,
-7448,
+6000,
+6008,
 5928,
 5916,
 5916,
@@ -223,23 +223,23 @@
 5916,
 5916,
 5926,
-7440,
-7426,
-7444,
-7444,
-7444,
-7444,
-7444,
-7444,
-7444,
-7444,
-7444,
-7444,
-7444,
-7444,
-7444,
-7444,
-7425,
+6000,
+5986,
+6004,
+6004,
+6004,
+6004,
+6004,
+6004,
+6004,
+6004,
+6004,
+6004,
+6004,
+6004,
+6004,
+6004,
+5985,
 0,
 0,
 0,
@@ -483,13 +483,15 @@
 0,
 0,
 0,
+768,
 0,
 0,
 0,
-1,
 0,
 0,
 0,
+768,
+769,
 0,
 0,
 0,
@@ -501,12 +503,11 @@
 0,
 0,
 0,
-1,
-1,
-1,
 0,
 0,
 0,
+776,
+777,
 0,
 0,
 0,
@@ -519,9 +520,10 @@
 0,
 0,
 0,
-1,
 0,
 0,
+784,
+785,
 0,
 0,
 0,
@@ -536,6 +538,8 @@
 0,
 0,
 0,
+792,
+793,
 0,
 0,
 0,
@@ -548,11 +552,10 @@
 0,
 0,
 0,
-7,
-3,
-7,
 0,
 0,
+800,
+801,
 0,
 0,
 0,
@@ -565,10 +568,10 @@
 0,
 0,
 0,
-3,
-3,
 0,
 0,
+808,
+809,
 0,
 0,
 0,
@@ -581,9 +584,10 @@
 0,
 0,
 0,
-3,
 0,
 0,
+816,
+817,
 0,
 0,
 0,
@@ -598,18 +602,24 @@
 0,
 0,
 0,
+824,
+825,
 0,
-3,
 0,
 0,
 0,
 0,
 0,
+841,
+842,
+843,
 0,
 0,
 0,
 0,
 0,
+832,
+833,
 0,
 0,
 0,
@@ -680,156 +690,158 @@
 0,
 0,
 0,
+768,
+769,
+770,
+771,
+772,
+773,
+774,
+775,
+896,
+897,
+898,
+899,
 0,
 0,
 0,
 0,
+776,
+777,
+778,
+779,
+780,
+781,
+782,
+783,
+904,
+905,
+906,
+907,
 0,
 0,
 0,
 0,
+784,
+785,
+786,
+787,
+788,
+789,
+790,
+791,
+912,
+913,
+914,
+915,
 0,
 0,
 0,
-513,
-514,
-515,
-516,
-517,
-518,
-519,
-640,
-641,
-642,
-643,
 0,
+792,
+793,
+794,
+795,
+796,
+797,
+798,
+799,
+920,
+921,
+922,
+923,
 0,
 0,
 0,
-520,
-521,
-522,
-523,
-524,
-525,
-526,
-527,
-648,
-649,
-650,
-651,
 0,
+800,
+801,
+802,
+803,
+804,
+805,
+806,
+807,
+928,
+929,
+930,
+931,
 0,
 0,
 0,
-528,
-529,
-530,
-531,
-532,
-533,
-534,
-535,
-656,
-657,
-658,
-659,
 0,
+808,
+809,
+810,
+811,
+812,
+813,
+814,
+815,
+936,
+937,
+938,
+939,
 0,
 0,
 0,
-536,
-537,
-538,
-539,
-540,
-541,
-542,
-543,
-664,
-665,
-666,
-667,
 0,
+816,
+817,
+818,
+819,
+820,
+821,
+822,
+823,
+944,
+945,
+946,
+947,
 0,
 0,
 0,
-544,
-545,
-546,
-547,
-548,
-549,
-550,
-551,
-672,
-673,
-674,
-675,
 0,
+824,
+825,
+826,
+827,
+828,
+829,
+830,
+831,
+952,
+953,
+954,
+955,
 0,
 0,
 0,
-552,
-553,
-554,
-555,
-556,
-557,
-558,
-559,
-680,
-681,
-682,
-683,
+840,
+832,
+833,
+834,
+835,
+836,
+837,
+838,
+839,
+960,
+961,
+962,
+963,
 0,
 0,
 0,
 0,
-560,
-561,
-562,
-563,
-564,
-565,
-566,
-567,
-688,
-689,
-690,
-691,
 0,
 0,
 0,
 0,
-568,
-569,
-570,
-571,
-572,
-573,
-574,
-575,
-696,
-697,
-698,
-699,
 0,
 0,
 0,
 0,
-576,
-577,
-578,
-579,
-580,
-581,
-582,
-583,
-704,
-705,
-706,
-707,
 0,
 0,
 0,
@@ -1001,18 +1013,6 @@
 0,
 0,
 0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-2,
 0,
 0,
 0,
@@ -1285,7 +1285,7 @@
 null,
 {
 "id": 1,
-"name": "make characters invisible",
+"name": "Cotton",
 "note": "",
 "pages": [
 {
@@ -1314,320 +1314,27 @@ null,
 },
 "list": [
 {
-"code": 121,
+"code": 101,
 "indent": 0,
 "parameters": [
-83,
-83,
-0
-]
-},
-{
-"code": 211,
-"indent": 0,
-"parameters": [
-0
-]
-},
-{
-"code": 241,
-"indent": 0,
-"parameters": [
-{
-"name": "event_song",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 111,
-"indent": 0,
-"parameters": [
-1,
-41,
-0,
+"crowleyfaces",
 4,
-0
-]
-},
-{
-"code": 121,
-"indent": 1,
-"parameters": [
-83,
-83,
-1
-]
-},
-{
-"code": 123,
-"indent": 1,
-"parameters": [
-"A",
-0
-]
-},
-{
-"code": 0,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 0,
-"parameters": []
-},
-{
-"code": 0,
-"indent": 0,
-"parameters": []
-}
-],
-"moveFrequency": 3,
-"moveRoute": {
-"list": [
-{
-"code": 0,
-"parameters": []
-}
-],
-"repeat": true,
-"skippable": false,
-"wait": false
-},
-"moveSpeed": 3,
-"moveType": 0,
-"priorityType": 0,
-"stepAnime": false,
-"through": false,
-"trigger": 4,
-"walkAnime": true
-},
-{
-"conditions": {
-"actorId": 1,
-"actorValid": false,
-"itemId": 1,
-"itemValid": false,
-"selfSwitchCh": "A",
-"selfSwitchValid": true,
-"switch1Id": 1,
-"switch1Valid": false,
-"switch2Id": 1,
-"switch2Valid": false,
-"variableId": 1,
-"variableValid": false,
-"variableValue": 0
-},
-"directionFix": false,
-"image": {
-"characterIndex": 0,
-"characterName": "",
-"direction": 2,
-"pattern": 0,
-"tileId": 0
-},
-"list": [
-{
-"code": 117,
-"indent": 0,
-"parameters": [
-1
-]
-},
-{
-"code": 129,
-"indent": 0,
-"parameters": [
-2,
 0,
-false
+2
 ]
 },
 {
-"code": 211,
+"code": 401,
 "indent": 0,
 "parameters": [
-1
+"\\n<Crowley>Well I... I don’t believe my"
 ]
 },
 {
-"code": 201,
+"code": 401,
 "indent": 0,
 "parameters": [
-1,
-81,
-82,
-83,
-0,
-0
-]
-},
-{
-"code": 123,
-"indent": 0,
-"parameters": [
-"B",
-0
-]
-},
-{
-"code": 123,
-"indent": 0,
-"parameters": [
-"A",
-1
-]
-},
-{
-"code": 0,
-"indent": 0,
-"parameters": []
-}
-],
-"moveFrequency": 3,
-"moveRoute": {
-"list": [
-{
-"code": 0,
-"parameters": []
-}
-],
-"repeat": true,
-"skippable": false,
-"wait": false
-},
-"moveSpeed": 3,
-"moveType": 0,
-"priorityType": 0,
-"stepAnime": false,
-"through": false,
-"trigger": 3,
-"walkAnime": true
-},
-{
-"conditions": {
-"actorId": 1,
-"actorValid": false,
-"itemId": 1,
-"itemValid": false,
-"selfSwitchCh": "B",
-"selfSwitchValid": true,
-"switch1Id": 1,
-"switch1Valid": false,
-"switch2Id": 1,
-"switch2Valid": false,
-"variableId": 1,
-"variableValid": false,
-"variableValue": 0
-},
-"directionFix": false,
-"image": {
-"characterIndex": 0,
-"characterName": "",
-"direction": 2,
-"pattern": 0,
-"tileId": 0
-},
-"list": [
-{
-"code": 0,
-"indent": 0,
-"parameters": []
-}
-],
-"moveFrequency": 3,
-"moveRoute": {
-"list": [
-{
-"code": 0,
-"parameters": []
-}
-],
-"repeat": true,
-"skippable": false,
-"wait": false
-},
-"moveSpeed": 3,
-"moveType": 0,
-"priorityType": 0,
-"stepAnime": false,
-"through": false,
-"trigger": 0,
-"walkAnime": true
-}
-],
-"x": 0,
-"y": 0
-},
-{
-"id": 2,
-"name": "Head -- red stain",
-"note": "",
-"pages": [
-{
-"conditions": {
-"actorId": 1,
-"actorValid": false,
-"itemId": 1,
-"itemValid": false,
-"selfSwitchCh": "A",
-"selfSwitchValid": false,
-"switch1Id": 1,
-"switch1Valid": false,
-"switch2Id": 1,
-"switch2Valid": false,
-"variableId": 1,
-"variableValid": false,
-"variableValue": 0
-},
-"directionFix": false,
-"image": {
-"characterIndex": 0,
-"characterName": "",
-"direction": 2,
-"pattern": 0,
-"tileId": 0
-},
-"list": [
-{
-"code": 108,
-"indent": 0,
-"parameters": [
-"<hover_icon: 2>"
-]
-},
-{
-"code": 108,
-"indent": 0,
-"parameters": [
-"<click_activate>"
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "select",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "crowley_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
+"peepers!"
 ]
 },
 {
@@ -1644,26 +1351,21 @@ false
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Crowley>These feathers are coated with stains..."
+"n\\<Crowley>Someone stuffed this poor crow"
 ]
 },
 {
-"code": 250,
+"code": 401,
 "indent": 0,
 "parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
+"after they knocked them off! "
 ]
 },
 {
 "code": 101,
 "indent": 0,
 "parameters": [
-"updated_kiwihead_sheet",
+"crowleyfaces",
 4,
 0,
 2
@@ -1673,505 +1375,14 @@ false
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Kiwi>I wonder why."
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"updated_kiwihead_sheet",
-4,
-0,
-2
+"n\\<Crowley>Kiwi, you don’t think..."
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Kiwi>What's dark red and sticky?"
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "crowley_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"crowleyfaces",
-5,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Crowley>I think that should be obvious... Blood."
-]
-},
-{
-"code": 111,
-"indent": 0,
-"parameters": [
-1,
-42,
-0,
-0,
-0
-]
-},
-{
-"code": 122,
-"indent": 1,
-"parameters": [
-41,
-41,
-1,
-0,
-1
-]
-},
-{
-"code": 122,
-"indent": 1,
-"parameters": [
-42,
-42,
-1,
-0,
-1
-]
-},
-{
-"code": 101,
-"indent": 1,
-"parameters": [
-"",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 1,
-"parameters": [
-"You have obtained evidence: red stain!"
-]
-},
-{
-"code": 0,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 0,
-"parameters": []
-},
-{
-"code": 111,
-"indent": 0,
-"parameters": [
-1,
-41,
-0,
-4,
-0
-]
-},
-{
-"code": 250,
-"indent": 1,
-"parameters": [
-{
-"name": "crowley_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 1,
-"parameters": [
-"crowleyfaces",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 1,
-"parameters": [
-"\\n<Crowley>That's all the evidence I'll find here"
-]
-},
-{
-"code": 122,
-"indent": 1,
-"parameters": [
-23,
-23,
-1,
-0,
-1
-]
-},
-{
-"code": 121,
-"indent": 1,
-"parameters": [
-20,
-20,
-0
-]
-},
-{
-"code": 111,
-"indent": 1,
-"parameters": [
-1,
-21,
-0,
-0,
-0
-]
-},
-{
-"code": 250,
-"indent": 2,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"\\n<Kiwi>If you haven't already, you should"
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"go talk to the eye-witness!"
-]
-},
-{
-"code": 0,
-"indent": 2,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 111,
-"indent": 1,
-"parameters": [
-1,
-23,
-0,
-2,
-0
-]
-},
-{
-"code": 250,
-"indent": 2,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"updated_kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"\\n<Kiwi>Looks like the other witnesses left. "
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Should we check out the Farmer's Market?"
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"\\n<Kiwi>Or we could look for leads elsewhere."
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Your choice, boss!"
-]
-},
-{
-"code": 0,
-"indent": 2,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 121,
-"indent": 1,
-"parameters": [
-91,
-91,
-0
-]
-},
-{
-"code": 0,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 0,
-"parameters": []
-},
-{
-"code": 0,
-"indent": 0,
-"parameters": []
-}
-],
-"moveFrequency": 3,
-"moveRoute": {
-"list": [
-{
-"code": 0,
-"parameters": []
-}
-],
-"repeat": true,
-"skippable": false,
-"wait": false
-},
-"moveSpeed": 3,
-"moveType": 0,
-"priorityType": 0,
-"stepAnime": false,
-"through": false,
-"trigger": 0,
-"walkAnime": true
-},
-{
-"conditions": {
-"actorId": 1,
-"actorValid": false,
-"itemId": 1,
-"itemValid": false,
-"selfSwitchCh": "A",
-"selfSwitchValid": false,
-"switch1Id": 20,
-"switch1Valid": true,
-"switch2Id": 1,
-"switch2Valid": false,
-"variableId": 1,
-"variableValid": false,
-"variableValue": 0
-},
-"directionFix": false,
-"image": {
-"characterIndex": 0,
-"characterName": "",
-"direction": 2,
-"pattern": 0,
-"tileId": 0
-},
-"list": [
-{
-"code": 108,
-"indent": 0,
-"parameters": [
-"<hover_icon: 16>"
-]
-},
-{
-"code": 108,
-"indent": 0,
-"parameters": [
-"<click_activate>"
-]
-},
-{
-"code": 0,
-"indent": 0,
-"parameters": []
-}
-],
-"moveFrequency": 3,
-"moveRoute": {
-"list": [
-{
-"code": 0,
-"parameters": []
-}
-],
-"repeat": true,
-"skippable": false,
-"wait": false
-},
-"moveSpeed": 3,
-"moveType": 0,
-"priorityType": 0,
-"stepAnime": false,
-"through": false,
-"trigger": 0,
-"walkAnime": true
-}
-],
-"x": 6,
-"y": 5
-},
-{
-"id": 3,
-"name": "Chest -- thin wire",
-"note": "",
-"pages": [
-{
-"conditions": {
-"actorId": 1,
-"actorValid": false,
-"itemId": 1,
-"itemValid": false,
-"selfSwitchCh": "A",
-"selfSwitchValid": false,
-"switch1Id": 1,
-"switch1Valid": false,
-"switch2Id": 1,
-"switch2Valid": false,
-"variableId": 1,
-"variableValid": false,
-"variableValue": 0
-},
-"directionFix": false,
-"image": {
-"tileId": 0,
-"characterName": "",
-"direction": 2,
-"pattern": 0,
-"characterIndex": 0
-},
-"list": [
-{
-"code": 108,
-"indent": 0,
-"parameters": [
-"<hover_icon: 2>"
-]
-},
-{
-"code": 108,
-"indent": 0,
-"parameters": [
-"<click_activate>"
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "select",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"crowleyfaces",
-2,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Crowley>How strange..."
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"There is a wire tied around the torso."
+"The kid couldn’t’ve done this, could they?!"
 ]
 },
 {
@@ -2188,435 +1399,14 @@ false
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Kiwi>Oh wow. Good eye!"
-]
-},
-{
-"code": 111,
-"indent": 0,
-"parameters": [
-1,
-43,
-0,
-0,
-0
-]
-},
-{
-"code": 122,
-"indent": 1,
-"parameters": [
-41,
-41,
-1,
-0,
-1
-]
-},
-{
-"code": 122,
-"indent": 1,
-"parameters": [
-43,
-43,
-1,
-0,
-1
-]
-},
-{
-"code": 101,
-"indent": 1,
-"parameters": [
-"",
-0,
-0,
-2
+"\\n<Kiwi>Erhm, uh, boss... I – I don’t"
 ]
 },
 {
 "code": 401,
-"indent": 1,
-"parameters": [
-"You have obtained evidence: thin wire!"
-]
-},
-{
-"code": 0,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 0,
-"parameters": []
-},
-{
-"code": 111,
 "indent": 0,
 "parameters": [
-1,
-41,
-0,
-4,
-0
-]
-},
-{
-"code": 250,
-"indent": 1,
-"parameters": [
-{
-"name": "crowley_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 1,
-"parameters": [
-"crowleyfaces",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 1,
-"parameters": [
-"\\n<Crowley>That's all the evidence I'll find here"
-]
-},
-{
-"code": 122,
-"indent": 1,
-"parameters": [
-23,
-23,
-1,
-0,
-1
-]
-},
-{
-"code": 121,
-"indent": 1,
-"parameters": [
-20,
-20,
-0
-]
-},
-{
-"code": 111,
-"indent": 1,
-"parameters": [
-1,
-21,
-0,
-0,
-0
-]
-},
-{
-"code": 250,
-"indent": 2,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"\\n<Kiwi>If you haven't already, you should"
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"go talk to the eye-witness!"
-]
-},
-{
-"code": 0,
-"indent": 2,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 111,
-"indent": 1,
-"parameters": [
-1,
-23,
-0,
-2,
-0
-]
-},
-{
-"code": 250,
-"indent": 2,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"updated_kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"\\n<Kiwi>Looks like the other witnesses left. "
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Should we check out the Farmer's Market?"
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"\\n<Kiwi>Or we could look for leads elsewhere."
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Your choice, boss!"
-]
-},
-{
-"code": 0,
-"indent": 2,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 121,
-"indent": 1,
-"parameters": [
-91,
-91,
-0
-]
-},
-{
-"code": 0,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 0,
-"parameters": []
-},
-{
-"code": 0,
-"indent": 0,
-"parameters": []
-}
-],
-"moveFrequency": 3,
-"moveRoute": {
-"list": [
-{
-"code": 0,
-"parameters": []
-}
-],
-"repeat": true,
-"skippable": false,
-"wait": false
-},
-"moveSpeed": 3,
-"moveType": 0,
-"priorityType": 0,
-"stepAnime": false,
-"through": false,
-"trigger": 0,
-"walkAnime": true
-},
-{
-"conditions": {
-"actorId": 1,
-"actorValid": false,
-"itemId": 1,
-"itemValid": false,
-"selfSwitchCh": "A",
-"selfSwitchValid": false,
-"switch1Id": 20,
-"switch1Valid": true,
-"switch2Id": 1,
-"switch2Valid": false,
-"variableId": 1,
-"variableValid": false,
-"variableValue": 0
-},
-"directionFix": false,
-"image": {
-"characterIndex": 0,
-"characterName": "",
-"direction": 2,
-"pattern": 0,
-"tileId": 0
-},
-"list": [
-{
-"code": 108,
-"indent": 0,
-"parameters": [
-"<hover_icon: 16>"
-]
-},
-{
-"code": 108,
-"indent": 0,
-"parameters": [
-"<click_activate>"
-]
-},
-{
-"code": 0,
-"indent": 0,
-"parameters": []
-}
-],
-"moveFrequency": 3,
-"moveRoute": {
-"list": [
-{
-"code": 0,
-"parameters": []
-}
-],
-"repeat": true,
-"skippable": false,
-"wait": false
-},
-"moveSpeed": 3,
-"moveType": 0,
-"priorityType": 0,
-"stepAnime": false,
-"through": false,
-"trigger": 0,
-"walkAnime": true
-}
-],
-"x": 8,
-"y": 6
-},
-{
-"id": 4,
-"name": "Chest -- thin wire",
-"note": "",
-"pages": [
-{
-"conditions": {
-"actorId": 1,
-"actorValid": false,
-"itemId": 1,
-"itemValid": false,
-"selfSwitchCh": "A",
-"selfSwitchValid": false,
-"switch1Id": 1,
-"switch1Valid": false,
-"switch2Id": 1,
-"switch2Valid": false,
-"variableId": 1,
-"variableValid": false,
-"variableValue": 0
-},
-"directionFix": false,
-"image": {
-"tileId": 0,
-"characterName": "",
-"direction": 2,
-"pattern": 0,
-"characterIndex": 0
-},
-"list": [
-{
-"code": 108,
-"indent": 0,
-"parameters": [
-"<hover_icon: 2>"
-]
-},
-{
-"code": 108,
-"indent": 0,
-"parameters": [
-"<click_activate>"
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "select",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
+"think we’re dealing with a dead body..."
 ]
 },
 {
@@ -2624,30 +1414,6 @@ false
 "indent": 0,
 "parameters": [
 "crowleyfaces",
-2,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Crowley>How strange..."
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"There is a wire tied around the torso."
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"updated_kiwihead_sheet",
 5,
 0,
 2
@@ -2657,95 +1423,67 @@ false
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Kiwi>Oh wow. Good eye!"
+"\\n<Crowley>This crime has surely flown to a"
 ]
 },
 {
-"code": 111,
+"code": 401,
 "indent": 0,
 "parameters": [
-1,
-43,
-0,
-0,
-0
-]
-},
-{
-"code": 122,
-"indent": 1,
-"parameters": [
-41,
-41,
-1,
-0,
-1
-]
-},
-{
-"code": 122,
-"indent": 1,
-"parameters": [
-43,
-43,
-1,
-0,
-1
+"new level! "
 ]
 },
 {
 "code": 101,
-"indent": 1,
+"indent": 0,
 "parameters": [
-"",
-0,
+"updated_kiwihead_sheet",
+4,
 0,
 2
 ]
 },
 {
 "code": 401,
-"indent": 1,
+"indent": 0,
 "parameters": [
-"You have obtained evidence: thin wire!"
+"\\n<Kiwi>Say, Crowley, doesn’t that wire"
 ]
 },
 {
-"code": 0,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 0,
-"parameters": []
-},
-{
-"code": 111,
+"code": 401,
 "indent": 0,
 "parameters": [
-1,
-41,
-0,
-4,
-0
+"around the torso seem similar to the one"
 ]
 },
 {
-"code": 250,
-"indent": 1,
+"code": 401,
+"indent": 0,
 "parameters": [
-{
-"name": "crowley_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
+"hanging in Jay’s storeroom?"
 ]
 },
 {
 "code": 101,
-"indent": 1,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>How unusual."
+]
+},
+{
+"code": 101,
+"indent": 0,
 "parameters": [
 "crowleyfaces",
 0,
@@ -2755,251 +1493,25 @@ false
 },
 {
 "code": 401,
-"indent": 1,
+"indent": 0,
 "parameters": [
-"\\n<Crowley>That's all the evidence I'll find here"
+"\\n<Crowley>We need more information to"
 ]
 },
 {
-"code": 122,
-"indent": 1,
+"code": 401,
+"indent": 0,
 "parameters": [
-23,
-23,
-1,
-0,
-1
+"get to the bottom of it."
 ]
 },
 {
 "code": 121,
-"indent": 1,
-"parameters": [
-20,
-20,
-0
-]
-},
-{
-"code": 111,
-"indent": 1,
-"parameters": [
-1,
-21,
-0,
-0,
-0
-]
-},
-{
-"code": 250,
-"indent": 2,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"\\n<Kiwi>If you haven't already, you should"
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"go talk to the eye-witness!"
-]
-},
-{
-"code": 0,
-"indent": 2,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 111,
-"indent": 1,
-"parameters": [
-1,
-23,
-0,
-2,
-0
-]
-},
-{
-"code": 250,
-"indent": 2,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"updated_kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"\\n<Kiwi>Looks like the other witnesses left. "
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Should we check out the Farmer's Market?"
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"\\n<Kiwi>Or we could look for leads elsewhere."
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Your choice, boss!"
-]
-},
-{
-"code": 0,
-"indent": 2,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 121,
-"indent": 1,
-"parameters": [
-91,
-91,
-0
-]
-},
-{
-"code": 0,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 0,
-"parameters": []
-},
-{
-"code": 0,
-"indent": 0,
-"parameters": []
-}
-],
-"moveFrequency": 3,
-"moveRoute": {
-"list": [
-{
-"code": 0,
-"parameters": []
-}
-],
-"repeat": true,
-"skippable": false,
-"wait": false
-},
-"moveSpeed": 3,
-"moveType": 0,
-"priorityType": 0,
-"stepAnime": false,
-"through": false,
-"trigger": 0,
-"walkAnime": true
-},
-{
-"conditions": {
-"actorId": 1,
-"actorValid": false,
-"itemId": 1,
-"itemValid": false,
-"selfSwitchCh": "A",
-"selfSwitchValid": false,
-"switch1Id": 20,
-"switch1Valid": true,
-"switch2Id": 1,
-"switch2Valid": false,
-"variableId": 1,
-"variableValid": false,
-"variableValue": 0
-},
-"directionFix": false,
-"image": {
-"characterIndex": 0,
-"characterName": "",
-"direction": 2,
-"pattern": 0,
-"tileId": 0
-},
-"list": [
-{
-"code": 108,
 "indent": 0,
 "parameters": [
-"<hover_icon: 16>"
-]
-},
-{
-"code": 108,
-"indent": 0,
-"parameters": [
-"<click_activate>"
+124,
+124,
+0
 ]
 },
 {
@@ -3033,8 +1545,8 @@ false
 "y": 6
 },
 {
-"id": 5,
-"name": "EV005",
+"id": 2,
+"name": "Cotton",
 "note": "",
 "pages": [
 {
@@ -3063,10 +1575,204 @@ false
 },
 "list": [
 {
-"code": 108,
+"code": 101,
 "indent": 0,
 "parameters": [
-"<hover_icon: 3>"
+"crowleyfaces",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>Well I... I don’t believe my"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"peepers!"
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"n\\<Crowley>Someone stuffed this poor crow"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"after they knocked them off! "
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"n\\<Crowley>Kiwi, you don’t think..."
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"The kid couldn’t’ve done this, could they?!"
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"updated_kiwihead_sheet",
+5,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Kiwi>Erhm, uh, boss... I – I don’t"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"think we’re dealing with a dead body..."
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+5,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>This crime has surely flown to a"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"new level! "
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"updated_kiwihead_sheet",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Kiwi>Say, Crowley, doesn’t that wire"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"around the torso seem similar to the one"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"hanging in Jay’s storeroom?"
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>How unusual."
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>We need more information to"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"get to the bottom of it."
+]
+},
+{
+"code": 121,
+"indent": 0,
+"parameters": [
+124,
+124,
+0
 ]
 },
 {
@@ -3097,7 +1803,790 @@ false
 }
 ],
 "x": 10,
-"y": 4
+"y": 6
+},
+{
+"id": 3,
+"name": "Cotton",
+"note": "",
+"pages": [
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>Well I... I don’t believe my"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"peepers!"
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"n\\<Crowley>Someone stuffed this poor crow"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"after they knocked them off! "
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"n\\<Crowley>Kiwi, you don’t think..."
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"The kid couldn’t’ve done this, could they?!"
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"updated_kiwihead_sheet",
+5,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Kiwi>Erhm, uh, boss... I – I don’t"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"think we’re dealing with a dead body..."
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+5,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>This crime has surely flown to a"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"new level! "
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"updated_kiwihead_sheet",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Kiwi>Say, Crowley, doesn’t that wire"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"around the torso seem similar to the one"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"hanging in Jay’s storeroom?"
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>How unusual."
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>We need more information to"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"get to the bottom of it."
+]
+},
+{
+"code": 121,
+"indent": 0,
+"parameters": [
+124,
+124,
+0
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+}
+],
+"x": 10,
+"y": 7
+},
+{
+"id": 4,
+"name": "Cotton",
+"note": "",
+"pages": [
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>Well I... I don’t believe my"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"peepers!"
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"n\\<Crowley>Someone stuffed this poor crow"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"after they knocked them off! "
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"n\\<Crowley>Kiwi, you don’t think..."
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"The kid couldn’t’ve done this, could they?!"
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"updated_kiwihead_sheet",
+5,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Kiwi>Erhm, uh, boss... I – I don’t"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"think we’re dealing with a dead body..."
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+5,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>This crime has surely flown to a"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"new level! "
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"updated_kiwihead_sheet",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Kiwi>Say, Crowley, doesn’t that wire"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"around the torso seem similar to the one"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"hanging in Jay’s storeroom?"
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>How unusual."
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>We need more information to"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"get to the bottom of it."
+]
+},
+{
+"code": 121,
+"indent": 0,
+"parameters": [
+124,
+124,
+0
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+}
+],
+"x": 9,
+"y": 7
+},
+{
+"id": 5,
+"name": "Cotton",
+"note": "",
+"pages": [
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>Well I... I don’t believe my"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"peepers!"
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"n\\<Crowley>Someone stuffed this poor crow"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"after they knocked them off! "
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"n\\<Crowley>Kiwi, you don’t think..."
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"The kid couldn’t’ve done this, could they?!"
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"updated_kiwihead_sheet",
+5,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Kiwi>Erhm, uh, boss... I – I don’t"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"think we’re dealing with a dead body..."
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+5,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>This crime has surely flown to a"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"new level! "
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"updated_kiwihead_sheet",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Kiwi>Say, Crowley, doesn’t that wire"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"around the torso seem similar to the one"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"hanging in Jay’s storeroom?"
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>How unusual."
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>We need more information to"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"get to the bottom of it."
+]
+},
+{
+"code": 121,
+"indent": 0,
+"parameters": [
+124,
+124,
+0
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+}
+],
+"x": 8,
+"y": 7
 },
 {
 "id": 6,
@@ -3163,8 +2652,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 10,
-"y": 9
+"x": 1,
+"y": 1
 },
 {
 "id": 7,
@@ -3230,12 +2719,12 @@ false
 "walkAnime": true
 }
 ],
-"x": 4,
-"y": 4
+"x": 3,
+"y": 1
 },
 {
 "id": 8,
-"name": "Ground -- broken glass",
+"name": "EV008",
 "note": "",
 "pages": [
 {
@@ -3267,433 +2756,7 @@ false
 "code": 108,
 "indent": 0,
 "parameters": [
-"<hover_icon: 2>"
-]
-},
-{
-"code": 108,
-"indent": 0,
-"parameters": [
-"<click_activate>"
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "select",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"updated_kiwihead_sheet",
-4,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Kiwi>Could that be the murder weapon?"
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "crowley_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"crowleyfaces",
-2,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Crowley>I think not... There are "
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"no signs of a cut or stab wound."
-]
-},
-{
-"code": 111,
-"indent": 0,
-"parameters": [
-1,
-44,
-0,
-0,
-0
-]
-},
-{
-"code": 122,
-"indent": 1,
-"parameters": [
-41,
-41,
-1,
-0,
-1
-]
-},
-{
-"code": 122,
-"indent": 1,
-"parameters": [
-44,
-44,
-1,
-0,
-1
-]
-},
-{
-"code": 101,
-"indent": 1,
-"parameters": [
-"",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 1,
-"parameters": [
-"You have obtained evidence: broken glass!"
-]
-},
-{
-"code": 0,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 0,
-"parameters": []
-},
-{
-"code": 111,
-"indent": 0,
-"parameters": [
-1,
-41,
-0,
-4,
-0
-]
-},
-{
-"code": 250,
-"indent": 1,
-"parameters": [
-{
-"name": "crowley_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 1,
-"parameters": [
-"crowleyfaces",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 1,
-"parameters": [
-"\\n<Crowley>That's all the evidence I'll find here"
-]
-},
-{
-"code": 122,
-"indent": 1,
-"parameters": [
-23,
-23,
-1,
-0,
-1
-]
-},
-{
-"code": 121,
-"indent": 1,
-"parameters": [
-20,
-20,
-0
-]
-},
-{
-"code": 111,
-"indent": 1,
-"parameters": [
-1,
-21,
-0,
-0,
-0
-]
-},
-{
-"code": 250,
-"indent": 2,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"\\n<Kiwi>If you haven't already, you should"
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"go talk to the eye-witness!"
-]
-},
-{
-"code": 0,
-"indent": 2,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 111,
-"indent": 1,
-"parameters": [
-1,
-23,
-0,
-2,
-0
-]
-},
-{
-"code": 250,
-"indent": 2,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"updated_kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"\\n<Kiwi>Looks like the other witnesses left. "
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Should we check out the Farmer's Market?"
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"\\n<Kiwi>Or we could look for leads elsewhere."
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Your choice, boss!"
-]
-},
-{
-"code": 0,
-"indent": 2,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 121,
-"indent": 1,
-"parameters": [
-91,
-91,
-0
-]
-},
-{
-"code": 0,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 0,
-"parameters": []
-},
-{
-"code": 0,
-"indent": 0,
-"parameters": []
-}
-],
-"moveFrequency": 3,
-"moveRoute": {
-"list": [
-{
-"code": 0,
-"parameters": []
-}
-],
-"repeat": true,
-"skippable": false,
-"wait": false
-},
-"moveSpeed": 3,
-"moveType": 0,
-"priorityType": 0,
-"stepAnime": false,
-"through": false,
-"trigger": 0,
-"walkAnime": true
-},
-{
-"conditions": {
-"actorId": 1,
-"actorValid": false,
-"itemId": 1,
-"itemValid": false,
-"selfSwitchCh": "A",
-"selfSwitchValid": false,
-"switch1Id": 20,
-"switch1Valid": true,
-"switch2Id": 1,
-"switch2Valid": false,
-"variableId": 1,
-"variableValid": false,
-"variableValue": 0
-},
-"directionFix": false,
-"image": {
-"characterIndex": 0,
-"characterName": "",
-"direction": 2,
-"pattern": 0,
-"tileId": 0
-},
-"list": [
-{
-"code": 108,
-"indent": 0,
-"parameters": [
-"<hover_icon: 16>"
-]
-},
-{
-"code": 108,
-"indent": 0,
-"parameters": [
-"<click_activate>"
+"<hover_icon: 3>"
 ]
 },
 {
@@ -3723,8 +2786,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 4,
-"y": 8
+"x": 2,
+"y": 1
 },
 {
 "id": 9,
@@ -3790,8 +2853,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 8,
-"y": 10
+"x": 4,
+"y": 1
 },
 {
 "id": 10,
@@ -3857,8 +2920,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 4,
-"y": 7
+"x": 6,
+"y": 1
 },
 {
 "id": 11,
@@ -3924,12 +2987,12 @@ false
 "walkAnime": true
 }
 ],
-"x": 5,
-"y": 7
+"x": 10,
+"y": 2
 },
 {
 "id": 12,
-"name": "Wings -- ruffled feathers",
+"name": "EV012",
 "note": "",
 "pages": [
 {
@@ -3961,462 +3024,7 @@ false
 "code": 108,
 "indent": 0,
 "parameters": [
-"<hover_icon: 2>"
-]
-},
-{
-"code": 108,
-"indent": 0,
-"parameters": [
-"<click_activate>"
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "select",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "crowley_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"crowleyfaces",
-2,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Crowley>Hmm... these feathers are ruffled"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"and the whole body is covered in dirt. "
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"updated_kiwihead_sheet",
-4,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Kiwi>Sounds like signs of a struggle."
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "crowley_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"crowleyfaces",
-5,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Crowley>That is possible..."
-]
-},
-{
-"code": 111,
-"indent": 0,
-"parameters": [
-1,
-121,
-0,
-0,
-0
-]
-},
-{
-"code": 122,
-"indent": 1,
-"parameters": [
-41,
-41,
-1,
-0,
-1
-]
-},
-{
-"code": 122,
-"indent": 1,
-"parameters": [
-121,
-121,
-1,
-0,
-1
-]
-},
-{
-"code": 101,
-"indent": 1,
-"parameters": [
-"",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 1,
-"parameters": [
-"You have obtained evidence: ruffled feathers!"
-]
-},
-{
-"code": 0,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 0,
-"parameters": []
-},
-{
-"code": 111,
-"indent": 0,
-"parameters": [
-1,
-41,
-0,
-4,
-0
-]
-},
-{
-"code": 250,
-"indent": 1,
-"parameters": [
-{
-"name": "crowley_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 1,
-"parameters": [
-"crowleyfaces",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 1,
-"parameters": [
-"\\n<Crowley>That's all the evidence I'll find here"
-]
-},
-{
-"code": 122,
-"indent": 1,
-"parameters": [
-23,
-23,
-1,
-0,
-1
-]
-},
-{
-"code": 121,
-"indent": 1,
-"parameters": [
-20,
-20,
-0
-]
-},
-{
-"code": 111,
-"indent": 1,
-"parameters": [
-1,
-21,
-0,
-0,
-0
-]
-},
-{
-"code": 250,
-"indent": 2,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"\\n<Kiwi>If you haven't already, you should"
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"go talk to the eye-witness!"
-]
-},
-{
-"code": 0,
-"indent": 2,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 111,
-"indent": 1,
-"parameters": [
-1,
-23,
-0,
-2,
-0
-]
-},
-{
-"code": 250,
-"indent": 2,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"updated_kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"\\n<Kiwi>Looks like the other witnesses left. "
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Should we check out the Farmer's Market?"
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"\\n<Kiwi>Or we could look for leads elsewhere."
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Your choice, boss!"
-]
-},
-{
-"code": 0,
-"indent": 2,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 121,
-"indent": 1,
-"parameters": [
-91,
-91,
-0
-]
-},
-{
-"code": 0,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 0,
-"parameters": []
-},
-{
-"code": 0,
-"indent": 0,
-"parameters": []
-}
-],
-"moveFrequency": 3,
-"moveRoute": {
-"list": [
-{
-"code": 0,
-"parameters": []
-}
-],
-"repeat": true,
-"skippable": false,
-"wait": false
-},
-"moveSpeed": 3,
-"moveType": 0,
-"priorityType": 0,
-"stepAnime": false,
-"through": false,
-"trigger": 0,
-"walkAnime": true
-},
-{
-"conditions": {
-"actorId": 1,
-"actorValid": false,
-"itemId": 1,
-"itemValid": false,
-"selfSwitchCh": "A",
-"selfSwitchValid": false,
-"switch1Id": 20,
-"switch1Valid": true,
-"switch2Id": 1,
-"switch2Valid": false,
-"variableId": 1,
-"variableValid": false,
-"variableValue": 0
-},
-"directionFix": false,
-"image": {
-"characterIndex": 0,
-"characterName": "",
-"direction": 2,
-"pattern": 0,
-"tileId": 0
-},
-"list": [
-{
-"code": 108,
-"indent": 0,
-"parameters": [
-"<hover_icon: 16>"
-]
-},
-{
-"code": 108,
-"indent": 0,
-"parameters": [
-"<click_activate>"
+"<hover_icon: 3>"
 ]
 },
 {
@@ -4446,12 +3054,12 @@ false
 "walkAnime": true
 }
 ],
-"x": 6,
-"y": 7
+"x": 11,
+"y": 3
 },
 {
 "id": 13,
-"name": "Wings -- ruffled feathers",
+"name": "EV013",
 "note": "",
 "pages": [
 {
@@ -4483,462 +3091,7 @@ false
 "code": 108,
 "indent": 0,
 "parameters": [
-"<hover_icon: 2>"
-]
-},
-{
-"code": 108,
-"indent": 0,
-"parameters": [
-"<click_activate>"
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "select",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "crowley_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"crowleyfaces",
-2,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Crowley>Hmm... these feathers are ruffled"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"and the whole body is covered in dirt. "
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"updated_kiwihead_sheet",
-4,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Kiwi>Sounds like signs of a struggle."
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "crowley_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"crowleyfaces",
-5,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Crowley>That is possible..."
-]
-},
-{
-"code": 111,
-"indent": 0,
-"parameters": [
-1,
-121,
-0,
-0,
-0
-]
-},
-{
-"code": 122,
-"indent": 1,
-"parameters": [
-41,
-41,
-1,
-0,
-1
-]
-},
-{
-"code": 122,
-"indent": 1,
-"parameters": [
-121,
-121,
-1,
-0,
-1
-]
-},
-{
-"code": 101,
-"indent": 1,
-"parameters": [
-"",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 1,
-"parameters": [
-"You have obtained evidence: ruffled feathers!"
-]
-},
-{
-"code": 0,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 0,
-"parameters": []
-},
-{
-"code": 111,
-"indent": 0,
-"parameters": [
-1,
-41,
-0,
-4,
-0
-]
-},
-{
-"code": 250,
-"indent": 1,
-"parameters": [
-{
-"name": "crowley_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 1,
-"parameters": [
-"crowleyfaces",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 1,
-"parameters": [
-"\\n<Crowley>That's all the evidence I'll find here"
-]
-},
-{
-"code": 122,
-"indent": 1,
-"parameters": [
-23,
-23,
-1,
-0,
-1
-]
-},
-{
-"code": 121,
-"indent": 1,
-"parameters": [
-20,
-20,
-0
-]
-},
-{
-"code": 111,
-"indent": 1,
-"parameters": [
-1,
-21,
-0,
-0,
-0
-]
-},
-{
-"code": 250,
-"indent": 2,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"\\n<Kiwi>If you haven't already, you should"
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"go talk to the eye-witness!"
-]
-},
-{
-"code": 0,
-"indent": 2,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 111,
-"indent": 1,
-"parameters": [
-1,
-23,
-0,
-2,
-0
-]
-},
-{
-"code": 250,
-"indent": 2,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"updated_kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"\\n<Kiwi>Looks like the other witnesses left. "
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Should we check out the Farmer's Market?"
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"\\n<Kiwi>Or we could look for leads elsewhere."
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Your choice, boss!"
-]
-},
-{
-"code": 0,
-"indent": 2,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 121,
-"indent": 1,
-"parameters": [
-91,
-91,
-0
-]
-},
-{
-"code": 0,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 0,
-"parameters": []
-},
-{
-"code": 0,
-"indent": 0,
-"parameters": []
-}
-],
-"moveFrequency": 3,
-"moveRoute": {
-"list": [
-{
-"code": 0,
-"parameters": []
-}
-],
-"repeat": true,
-"skippable": false,
-"wait": false
-},
-"moveSpeed": 3,
-"moveType": 0,
-"priorityType": 0,
-"stepAnime": false,
-"through": false,
-"trigger": 0,
-"walkAnime": true
-},
-{
-"conditions": {
-"actorId": 1,
-"actorValid": false,
-"itemId": 1,
-"itemValid": false,
-"selfSwitchCh": "A",
-"selfSwitchValid": false,
-"switch1Id": 20,
-"switch1Valid": true,
-"switch2Id": 1,
-"switch2Valid": false,
-"variableId": 1,
-"variableValid": false,
-"variableValue": 0
-},
-"directionFix": false,
-"image": {
-"characterIndex": 0,
-"characterName": "",
-"direction": 2,
-"pattern": 0,
-"tileId": 0
-},
-"list": [
-{
-"code": 108,
-"indent": 0,
-"parameters": [
-"<hover_icon: 16>"
-]
-},
-{
-"code": 108,
-"indent": 0,
-"parameters": [
-"<click_activate>"
+"<hover_icon: 3>"
 ]
 },
 {
@@ -4968,8 +3121,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 7,
-"y": 7
+"x": 13,
+"y": 2
 },
 {
 "id": 14,
@@ -5035,8 +3188,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 7,
-"y": 4
+"x": 14,
+"y": 1
 },
 {
 "id": 15,
@@ -5102,8 +3255,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 6,
-"y": 4
+"x": 13,
+"y": 1
 },
 {
 "id": 16,
@@ -5169,8 +3322,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 8,
-"y": 4
+"x": 12,
+"y": 1
 },
 {
 "id": 17,
@@ -5236,8 +3389,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 9,
-"y": 5
+"x": 11,
+"y": 1
 },
 {
 "id": 18,
@@ -5303,8 +3456,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 1,
-"y": 10
+"x": 10,
+"y": 1
 },
 {
 "id": 19,
@@ -5370,8 +3523,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 3,
-"y": 7
+"x": 9,
+"y": 1
 },
 {
 "id": 20,
@@ -5437,8 +3590,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 2,
-"y": 7
+"x": 8,
+"y": 1
 },
 {
 "id": 21,
@@ -5504,8 +3657,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 2,
-"y": 6
+"x": 7,
+"y": 1
 },
 {
 "id": 22,
@@ -5571,8 +3724,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 3,
-"y": 6
+"x": 5,
+"y": 1
 },
 {
 "id": 23,
@@ -5639,7 +3792,7 @@ false
 }
 ],
 "x": 1,
-"y": 5
+"y": 2
 },
 {
 "id": 24,
@@ -5706,7 +3859,7 @@ false
 }
 ],
 "x": 1,
-"y": 4
+"y": 3
 },
 {
 "id": 25,
@@ -5772,7 +3925,7 @@ false
 "walkAnime": true
 }
 ],
-"x": 4,
+"x": 1,
 "y": 5
 },
 {
@@ -5839,8 +3992,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 3,
-"y": 5
+"x": 1,
+"y": 7
 },
 {
 "id": 27,
@@ -5906,8 +4059,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 5,
-"y": 4
+"x": 2,
+"y": 9
 },
 {
 "id": 28,
@@ -5973,8 +4126,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 1,
-"y": 1
+"x": 6,
+"y": 9
 },
 {
 "id": 29,
@@ -6040,8 +4193,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 1,
-"y": 2
+"x": 3,
+"y": 7
 },
 {
 "id": 30,
@@ -6107,8 +4260,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 3,
-"y": 2
+"x": 1,
+"y": 4
 },
 {
 "id": 31,
@@ -6175,7 +4328,7 @@ false
 }
 ],
 "x": 2,
-"y": 4
+"y": 2
 },
 {
 "id": 32,
@@ -6241,8 +4394,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 2,
-"y": 5
+"x": 4,
+"y": 2
 },
 {
 "id": 33,
@@ -6308,8 +4461,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 1,
-"y": 6
+"x": 5,
+"y": 2
 },
 {
 "id": 34,
@@ -6375,8 +4528,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 1,
-"y": 7
+"x": 3,
+"y": 2
 },
 {
 "id": 35,
@@ -6442,8 +4595,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 1,
-"y": 8
+"x": 2,
+"y": 3
 },
 {
 "id": 36,
@@ -6509,8 +4662,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 1,
-"y": 9
+"x": 3,
+"y": 3
 },
 {
 "id": 37,
@@ -6576,8 +4729,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 3,
-"y": 10
+"x": 4,
+"y": 3
 },
 {
 "id": 38,
@@ -6643,8 +4796,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 3,
-"y": 8
+"x": 5,
+"y": 3
 },
 {
 "id": 39,
@@ -6710,8 +4863,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 7,
-"y": 5
+"x": 6,
+"y": 3
 },
 {
 "id": 40,
@@ -6777,8 +4930,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 11,
-"y": 4
+"x": 8,
+"y": 3
 },
 {
 "id": 41,
@@ -6844,12 +4997,12 @@ false
 "walkAnime": true
 }
 ],
-"x": 2,
-"y": 8
+"x": 10,
+"y": 3
 },
 {
 "id": 42,
-"name": "Head -- red stain",
+"name": "EV042",
 "note": "",
 "pages": [
 {
@@ -6881,472 +5034,7 @@ false
 "code": 108,
 "indent": 0,
 "parameters": [
-"<hover_icon: 2>"
-]
-},
-{
-"code": 108,
-"indent": 0,
-"parameters": [
-"<click_activate>"
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "select",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "crowley_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"crowleyfaces",
-2,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Crowley>These feathers are coated with stains..."
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"updated_kiwihead_sheet",
-4,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Kiwi>I wonder why."
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"updated_kiwihead_sheet",
-4,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Kiwi>What's dark red and sticky?"
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "crowley_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"crowleyfaces",
-5,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Crowley>I think that should be obvious... Blood."
-]
-},
-{
-"code": 111,
-"indent": 0,
-"parameters": [
-1,
-42,
-0,
-0,
-0
-]
-},
-{
-"code": 122,
-"indent": 1,
-"parameters": [
-41,
-41,
-1,
-0,
-1
-]
-},
-{
-"code": 122,
-"indent": 1,
-"parameters": [
-42,
-42,
-1,
-0,
-1
-]
-},
-{
-"code": 101,
-"indent": 1,
-"parameters": [
-"",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 1,
-"parameters": [
-"You have obtained evidence: red stain!"
-]
-},
-{
-"code": 0,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 0,
-"parameters": []
-},
-{
-"code": 111,
-"indent": 0,
-"parameters": [
-1,
-41,
-0,
-4,
-0
-]
-},
-{
-"code": 250,
-"indent": 1,
-"parameters": [
-{
-"name": "crowley_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 1,
-"parameters": [
-"crowleyfaces",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 1,
-"parameters": [
-"\\n<Crowley>That's all the evidence I'll find here"
-]
-},
-{
-"code": 122,
-"indent": 1,
-"parameters": [
-23,
-23,
-1,
-0,
-1
-]
-},
-{
-"code": 121,
-"indent": 1,
-"parameters": [
-20,
-20,
-0
-]
-},
-{
-"code": 111,
-"indent": 1,
-"parameters": [
-1,
-21,
-0,
-0,
-0
-]
-},
-{
-"code": 250,
-"indent": 2,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"\\n<Kiwi>If you haven't already, you should"
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"go talk to the eye-witness!"
-]
-},
-{
-"code": 0,
-"indent": 2,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 111,
-"indent": 1,
-"parameters": [
-1,
-23,
-0,
-2,
-0
-]
-},
-{
-"code": 250,
-"indent": 2,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"updated_kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"\\n<Kiwi>Looks like the other witnesses left. "
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Should we check out the Farmer's Market?"
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"\\n<Kiwi>Or we could look for leads elsewhere."
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Your choice, boss!"
-]
-},
-{
-"code": 0,
-"indent": 2,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 121,
-"indent": 1,
-"parameters": [
-91,
-91,
-0
-]
-},
-{
-"code": 0,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 0,
-"parameters": []
-},
-{
-"code": 0,
-"indent": 0,
-"parameters": []
-}
-],
-"moveFrequency": 3,
-"moveRoute": {
-"list": [
-{
-"code": 0,
-"parameters": []
-}
-],
-"repeat": true,
-"skippable": false,
-"wait": false
-},
-"moveSpeed": 3,
-"moveType": 0,
-"priorityType": 0,
-"stepAnime": false,
-"through": false,
-"trigger": 0,
-"walkAnime": true
-},
-{
-"conditions": {
-"actorId": 1,
-"actorValid": false,
-"itemId": 1,
-"itemValid": false,
-"selfSwitchCh": "A",
-"selfSwitchValid": false,
-"switch1Id": 20,
-"switch1Valid": true,
-"switch2Id": 1,
-"switch2Valid": false,
-"variableId": 1,
-"variableValid": false,
-"variableValue": 0
-},
-"directionFix": false,
-"image": {
-"characterIndex": 0,
-"characterName": "",
-"direction": 2,
-"pattern": 0,
-"tileId": 0
-},
-"list": [
-{
-"code": 108,
-"indent": 0,
-"parameters": [
-"<hover_icon: 16>"
-]
-},
-{
-"code": 108,
-"indent": 0,
-"parameters": [
-"<click_activate>"
+"<hover_icon: 3>"
 ]
 },
 {
@@ -7376,8 +5064,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 5,
-"y": 5
+"x": 9,
+"y": 3
 },
 {
 "id": 43,
@@ -7443,7 +5131,7 @@ false
 "walkAnime": true
 }
 ],
-"x": 2,
+"x": 7,
 "y": 3
 },
 {
@@ -7510,8 +5198,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 3,
-"y": 3
+"x": 6,
+"y": 2
 },
 {
 "id": 45,
@@ -7577,8 +5265,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 1,
-"y": 3
+"x": 7,
+"y": 2
 },
 {
 "id": 46,
@@ -7644,7 +5332,7 @@ false
 "walkAnime": true
 }
 ],
-"x": 2,
+"x": 8,
 "y": 2
 },
 {
@@ -7711,8 +5399,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 2,
-"y": 1
+"x": 9,
+"y": 2
 },
 {
 "id": 48,
@@ -7778,8 +5466,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 3,
-"y": 1
+"x": 12,
+"y": 2
 },
 {
 "id": 49,
@@ -7845,8 +5533,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 4,
-"y": 1
+"x": 11,
+"y": 2
 },
 {
 "id": 50,
@@ -7912,8 +5600,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 4,
-"y": 2
+"x": 12,
+"y": 3
 },
 {
 "id": 51,
@@ -7979,12 +5667,12 @@ false
 "walkAnime": true
 }
 ],
-"x": 4,
+"x": 13,
 "y": 3
 },
 {
 "id": 52,
-"name": "Head -- red stain",
+"name": "EV052",
 "note": "",
 "pages": [
 {
@@ -8016,472 +5704,7 @@ false
 "code": 108,
 "indent": 0,
 "parameters": [
-"<hover_icon: 2>"
-]
-},
-{
-"code": 108,
-"indent": 0,
-"parameters": [
-"<click_activate>"
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "select",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "crowley_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"crowleyfaces",
-2,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Crowley>These feathers are coated with stains..."
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"updated_kiwihead_sheet",
-4,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Kiwi>I wonder why."
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"updated_kiwihead_sheet",
-4,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Kiwi>What's dark red and sticky?"
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "crowley_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"crowleyfaces",
-5,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Crowley>I think that should be obvious... Blood."
-]
-},
-{
-"code": 111,
-"indent": 0,
-"parameters": [
-1,
-42,
-0,
-0,
-0
-]
-},
-{
-"code": 122,
-"indent": 1,
-"parameters": [
-41,
-41,
-1,
-0,
-1
-]
-},
-{
-"code": 122,
-"indent": 1,
-"parameters": [
-42,
-42,
-1,
-0,
-1
-]
-},
-{
-"code": 101,
-"indent": 1,
-"parameters": [
-"",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 1,
-"parameters": [
-"You have obtained evidence: red stain!"
-]
-},
-{
-"code": 0,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 0,
-"parameters": []
-},
-{
-"code": 111,
-"indent": 0,
-"parameters": [
-1,
-41,
-0,
-4,
-0
-]
-},
-{
-"code": 250,
-"indent": 1,
-"parameters": [
-{
-"name": "crowley_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 1,
-"parameters": [
-"crowleyfaces",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 1,
-"parameters": [
-"\\n<Crowley>That's all the evidence I'll find here"
-]
-},
-{
-"code": 122,
-"indent": 1,
-"parameters": [
-23,
-23,
-1,
-0,
-1
-]
-},
-{
-"code": 121,
-"indent": 1,
-"parameters": [
-20,
-20,
-0
-]
-},
-{
-"code": 111,
-"indent": 1,
-"parameters": [
-1,
-21,
-0,
-0,
-0
-]
-},
-{
-"code": 250,
-"indent": 2,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"\\n<Kiwi>If you haven't already, you should"
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"go talk to the eye-witness!"
-]
-},
-{
-"code": 0,
-"indent": 2,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 111,
-"indent": 1,
-"parameters": [
-1,
-23,
-0,
-2,
-0
-]
-},
-{
-"code": 250,
-"indent": 2,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"updated_kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"\\n<Kiwi>Looks like the other witnesses left. "
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Should we check out the Farmer's Market?"
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"\\n<Kiwi>Or we could look for leads elsewhere."
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Your choice, boss!"
-]
-},
-{
-"code": 0,
-"indent": 2,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 121,
-"indent": 1,
-"parameters": [
-91,
-91,
-0
-]
-},
-{
-"code": 0,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 0,
-"parameters": []
-},
-{
-"code": 0,
-"indent": 0,
-"parameters": []
-}
-],
-"moveFrequency": 3,
-"moveRoute": {
-"list": [
-{
-"code": 0,
-"parameters": []
-}
-],
-"repeat": true,
-"skippable": false,
-"wait": false
-},
-"moveSpeed": 3,
-"moveType": 0,
-"priorityType": 0,
-"stepAnime": false,
-"through": false,
-"trigger": 0,
-"walkAnime": true
-},
-{
-"conditions": {
-"actorId": 1,
-"actorValid": false,
-"itemId": 1,
-"itemValid": false,
-"selfSwitchCh": "A",
-"selfSwitchValid": false,
-"switch1Id": 20,
-"switch1Valid": true,
-"switch2Id": 1,
-"switch2Valid": false,
-"variableId": 1,
-"variableValid": false,
-"variableValue": 0
-},
-"directionFix": false,
-"image": {
-"characterIndex": 0,
-"characterName": "",
-"direction": 2,
-"pattern": 0,
-"tileId": 0
-},
-"list": [
-{
-"code": 108,
-"indent": 0,
-"parameters": [
-"<hover_icon: 16>"
-]
-},
-{
-"code": 108,
-"indent": 0,
-"parameters": [
-"<click_activate>"
+"<hover_icon: 3>"
 ]
 },
 {
@@ -8511,8 +5734,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 5,
-"y": 6
+"x": 14,
+"y": 3
 },
 {
 "id": 53,
@@ -8578,8 +5801,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 2,
-"y": 9
+"x": 14,
+"y": 2
 },
 {
 "id": 54,
@@ -8645,8 +5868,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 5,
-"y": 8
+"x": 14,
+"y": 5
 },
 {
 "id": 55,
@@ -8712,8 +5935,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 4,
-"y": 10
+"x": 14,
+"y": 4
 },
 {
 "id": 56,
@@ -8779,8 +6002,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 5,
-"y": 10
+"x": 14,
+"y": 6
 },
 {
 "id": 57,
@@ -8846,8 +6069,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 6,
-"y": 10
+"x": 14,
+"y": 7
 },
 {
 "id": 58,
@@ -8913,7 +6136,7 @@ false
 "walkAnime": true
 }
 ],
-"x": 5,
+"x": 14,
 "y": 9
 },
 {
@@ -8980,8 +6203,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 6,
-"y": 9
+"x": 14,
+"y": 8
 },
 {
 "id": 60,
@@ -9047,12 +6270,12 @@ false
 "walkAnime": true
 }
 ],
-"x": 3,
-"y": 9
+"x": 14,
+"y": 10
 },
 {
 "id": 61,
-"name": "Wings -- ruffled feathers",
+"name": "EV061",
 "note": "",
 "pages": [
 {
@@ -9084,462 +6307,7 @@ false
 "code": 108,
 "indent": 0,
 "parameters": [
-"<hover_icon: 2>"
-]
-},
-{
-"code": 108,
-"indent": 0,
-"parameters": [
-"<click_activate>"
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "select",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "crowley_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"crowleyfaces",
-2,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Crowley>Hmm... these feathers are ruffled"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"and the whole body is covered in dirt. "
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"updated_kiwihead_sheet",
-4,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Kiwi>Sounds like signs of a struggle."
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "crowley_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"crowleyfaces",
-5,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Crowley>That is possible..."
-]
-},
-{
-"code": 111,
-"indent": 0,
-"parameters": [
-1,
-121,
-0,
-0,
-0
-]
-},
-{
-"code": 122,
-"indent": 1,
-"parameters": [
-41,
-41,
-1,
-0,
-1
-]
-},
-{
-"code": 122,
-"indent": 1,
-"parameters": [
-121,
-121,
-1,
-0,
-1
-]
-},
-{
-"code": 101,
-"indent": 1,
-"parameters": [
-"",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 1,
-"parameters": [
-"You have obtained evidence: ruffled feathers!"
-]
-},
-{
-"code": 0,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 0,
-"parameters": []
-},
-{
-"code": 111,
-"indent": 0,
-"parameters": [
-1,
-41,
-0,
-4,
-0
-]
-},
-{
-"code": 250,
-"indent": 1,
-"parameters": [
-{
-"name": "crowley_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 1,
-"parameters": [
-"crowleyfaces",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 1,
-"parameters": [
-"\\n<Crowley>That's all the evidence I'll find here"
-]
-},
-{
-"code": 122,
-"indent": 1,
-"parameters": [
-23,
-23,
-1,
-0,
-1
-]
-},
-{
-"code": 121,
-"indent": 1,
-"parameters": [
-20,
-20,
-0
-]
-},
-{
-"code": 111,
-"indent": 1,
-"parameters": [
-1,
-21,
-0,
-0,
-0
-]
-},
-{
-"code": 250,
-"indent": 2,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"\\n<Kiwi>If you haven't already, you should"
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"go talk to the eye-witness!"
-]
-},
-{
-"code": 0,
-"indent": 2,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 111,
-"indent": 1,
-"parameters": [
-1,
-23,
-0,
-2,
-0
-]
-},
-{
-"code": 250,
-"indent": 2,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"updated_kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"\\n<Kiwi>Looks like the other witnesses left. "
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Should we check out the Farmer's Market?"
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"\\n<Kiwi>Or we could look for leads elsewhere."
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Your choice, boss!"
-]
-},
-{
-"code": 0,
-"indent": 2,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 121,
-"indent": 1,
-"parameters": [
-91,
-91,
-0
-]
-},
-{
-"code": 0,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 0,
-"parameters": []
-},
-{
-"code": 0,
-"indent": 0,
-"parameters": []
-}
-],
-"moveFrequency": 3,
-"moveRoute": {
-"list": [
-{
-"code": 0,
-"parameters": []
-}
-],
-"repeat": true,
-"skippable": false,
-"wait": false
-},
-"moveSpeed": 3,
-"moveType": 0,
-"priorityType": 0,
-"stepAnime": false,
-"through": false,
-"trigger": 0,
-"walkAnime": true
-},
-{
-"conditions": {
-"actorId": 1,
-"actorValid": false,
-"itemId": 1,
-"itemValid": false,
-"selfSwitchCh": "A",
-"selfSwitchValid": false,
-"switch1Id": 20,
-"switch1Valid": true,
-"switch2Id": 1,
-"switch2Valid": false,
-"variableId": 1,
-"variableValid": false,
-"variableValue": 0
-},
-"directionFix": false,
-"image": {
-"characterIndex": 0,
-"characterName": "",
-"direction": 2,
-"pattern": 0,
-"tileId": 0
-},
-"list": [
-{
-"code": 108,
-"indent": 0,
-"parameters": [
-"<hover_icon: 16>"
-]
-},
-{
-"code": 108,
-"indent": 0,
-"parameters": [
-"<click_activate>"
+"<hover_icon: 3>"
 ]
 },
 {
@@ -9569,8 +6337,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 6,
-"y": 8
+"x": 14,
+"y": 11
 },
 {
 "id": 62,
@@ -9636,8 +6404,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 6,
-"y": 3
+"x": 13,
+"y": 11
 },
 {
 "id": 63,
@@ -9703,8 +6471,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 5,
-"y": 1
+"x": 12,
+"y": 11
 },
 {
 "id": 64,
@@ -9770,8 +6538,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 6,
-"y": 2
+"x": 11,
+"y": 11
 },
 {
 "id": 65,
@@ -9837,8 +6605,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 6,
-"y": 1
+"x": 10,
+"y": 11
 },
 {
 "id": 66,
@@ -9904,8 +6672,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 7,
-"y": 1
+"x": 9,
+"y": 11
 },
 {
 "id": 67,
@@ -9971,8 +6739,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 7,
-"y": 2
+"x": 8,
+"y": 11
 },
 {
 "id": 68,
@@ -10039,7 +6807,7 @@ false
 }
 ],
 "x": 7,
-"y": 3
+"y": 11
 },
 {
 "id": 69,
@@ -10105,12 +6873,12 @@ false
 "walkAnime": true
 }
 ],
-"x": 5,
-"y": 2
+"x": 6,
+"y": 11
 },
 {
 "id": 70,
-"name": "Wings -- ruffled feathers",
+"name": "EV070",
 "note": "",
 "pages": [
 {
@@ -10142,462 +6910,7 @@ false
 "code": 108,
 "indent": 0,
 "parameters": [
-"<hover_icon: 2>"
-]
-},
-{
-"code": 108,
-"indent": 0,
-"parameters": [
-"<click_activate>"
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "select",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "crowley_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"crowleyfaces",
-2,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Crowley>Hmm... these feathers are ruffled"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"and the whole body is covered in dirt. "
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"updated_kiwihead_sheet",
-4,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Kiwi>Sounds like signs of a struggle."
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "crowley_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"crowleyfaces",
-5,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Crowley>That is possible..."
-]
-},
-{
-"code": 111,
-"indent": 0,
-"parameters": [
-1,
-121,
-0,
-0,
-0
-]
-},
-{
-"code": 122,
-"indent": 1,
-"parameters": [
-41,
-41,
-1,
-0,
-1
-]
-},
-{
-"code": 122,
-"indent": 1,
-"parameters": [
-121,
-121,
-1,
-0,
-1
-]
-},
-{
-"code": 101,
-"indent": 1,
-"parameters": [
-"",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 1,
-"parameters": [
-"You have obtained evidence: ruffled feathers!"
-]
-},
-{
-"code": 0,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 0,
-"parameters": []
-},
-{
-"code": 111,
-"indent": 0,
-"parameters": [
-1,
-41,
-0,
-4,
-0
-]
-},
-{
-"code": 250,
-"indent": 1,
-"parameters": [
-{
-"name": "crowley_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 1,
-"parameters": [
-"crowleyfaces",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 1,
-"parameters": [
-"\\n<Crowley>That's all the evidence I'll find here"
-]
-},
-{
-"code": 122,
-"indent": 1,
-"parameters": [
-23,
-23,
-1,
-0,
-1
-]
-},
-{
-"code": 121,
-"indent": 1,
-"parameters": [
-20,
-20,
-0
-]
-},
-{
-"code": 111,
-"indent": 1,
-"parameters": [
-1,
-21,
-0,
-0,
-0
-]
-},
-{
-"code": 250,
-"indent": 2,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"\\n<Kiwi>If you haven't already, you should"
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"go talk to the eye-witness!"
-]
-},
-{
-"code": 0,
-"indent": 2,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 111,
-"indent": 1,
-"parameters": [
-1,
-23,
-0,
-2,
-0
-]
-},
-{
-"code": 250,
-"indent": 2,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"updated_kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"\\n<Kiwi>Looks like the other witnesses left. "
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Should we check out the Farmer's Market?"
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"\\n<Kiwi>Or we could look for leads elsewhere."
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Your choice, boss!"
-]
-},
-{
-"code": 0,
-"indent": 2,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 121,
-"indent": 1,
-"parameters": [
-91,
-91,
-0
-]
-},
-{
-"code": 0,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 0,
-"parameters": []
-},
-{
-"code": 0,
-"indent": 0,
-"parameters": []
-}
-],
-"moveFrequency": 3,
-"moveRoute": {
-"list": [
-{
-"code": 0,
-"parameters": []
-}
-],
-"repeat": true,
-"skippable": false,
-"wait": false
-},
-"moveSpeed": 3,
-"moveType": 0,
-"priorityType": 0,
-"stepAnime": false,
-"through": false,
-"trigger": 0,
-"walkAnime": true
-},
-{
-"conditions": {
-"actorId": 1,
-"actorValid": false,
-"itemId": 1,
-"itemValid": false,
-"selfSwitchCh": "A",
-"selfSwitchValid": false,
-"switch1Id": 20,
-"switch1Valid": true,
-"switch2Id": 1,
-"switch2Valid": false,
-"variableId": 1,
-"variableValid": false,
-"variableValue": 0
-},
-"directionFix": false,
-"image": {
-"characterIndex": 0,
-"characterName": "",
-"direction": 2,
-"pattern": 0,
-"tileId": 0
-},
-"list": [
-{
-"code": 108,
-"indent": 0,
-"parameters": [
-"<hover_icon: 16>"
-]
-},
-{
-"code": 108,
-"indent": 0,
-"parameters": [
-"<click_activate>"
+"<hover_icon: 3>"
 ]
 },
 {
@@ -10627,12 +6940,12 @@ false
 "walkAnime": true
 }
 ],
-"x": 8,
-"y": 5
+"x": 5,
+"y": 11
 },
 {
 "id": 71,
-"name": "Head -- red stain",
+"name": "EV071",
 "note": "",
 "pages": [
 {
@@ -10664,472 +6977,7 @@ false
 "code": 108,
 "indent": 0,
 "parameters": [
-"<hover_icon: 2>"
-]
-},
-{
-"code": 108,
-"indent": 0,
-"parameters": [
-"<click_activate>"
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "select",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "crowley_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"crowleyfaces",
-2,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Crowley>These feathers are coated with stains..."
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"updated_kiwihead_sheet",
-4,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Kiwi>I wonder why."
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"updated_kiwihead_sheet",
-4,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Kiwi>What's dark red and sticky?"
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "crowley_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"crowleyfaces",
-5,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Crowley>I think that should be obvious... Blood."
-]
-},
-{
-"code": 111,
-"indent": 0,
-"parameters": [
-1,
-42,
-0,
-0,
-0
-]
-},
-{
-"code": 122,
-"indent": 1,
-"parameters": [
-41,
-41,
-1,
-0,
-1
-]
-},
-{
-"code": 122,
-"indent": 1,
-"parameters": [
-42,
-42,
-1,
-0,
-1
-]
-},
-{
-"code": 101,
-"indent": 1,
-"parameters": [
-"",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 1,
-"parameters": [
-"You have obtained evidence: red stain!"
-]
-},
-{
-"code": 0,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 0,
-"parameters": []
-},
-{
-"code": 111,
-"indent": 0,
-"parameters": [
-1,
-41,
-0,
-4,
-0
-]
-},
-{
-"code": 250,
-"indent": 1,
-"parameters": [
-{
-"name": "crowley_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 1,
-"parameters": [
-"crowleyfaces",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 1,
-"parameters": [
-"\\n<Crowley>That's all the evidence I'll find here"
-]
-},
-{
-"code": 122,
-"indent": 1,
-"parameters": [
-23,
-23,
-1,
-0,
-1
-]
-},
-{
-"code": 121,
-"indent": 1,
-"parameters": [
-20,
-20,
-0
-]
-},
-{
-"code": 111,
-"indent": 1,
-"parameters": [
-1,
-21,
-0,
-0,
-0
-]
-},
-{
-"code": 250,
-"indent": 2,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"\\n<Kiwi>If you haven't already, you should"
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"go talk to the eye-witness!"
-]
-},
-{
-"code": 0,
-"indent": 2,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 111,
-"indent": 1,
-"parameters": [
-1,
-23,
-0,
-2,
-0
-]
-},
-{
-"code": 250,
-"indent": 2,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"updated_kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"\\n<Kiwi>Looks like the other witnesses left. "
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Should we check out the Farmer's Market?"
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"\\n<Kiwi>Or we could look for leads elsewhere."
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Your choice, boss!"
-]
-},
-{
-"code": 0,
-"indent": 2,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 121,
-"indent": 1,
-"parameters": [
-91,
-91,
-0
-]
-},
-{
-"code": 0,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 0,
-"parameters": []
-},
-{
-"code": 0,
-"indent": 0,
-"parameters": []
-}
-],
-"moveFrequency": 3,
-"moveRoute": {
-"list": [
-{
-"code": 0,
-"parameters": []
-}
-],
-"repeat": true,
-"skippable": false,
-"wait": false
-},
-"moveSpeed": 3,
-"moveType": 0,
-"priorityType": 0,
-"stepAnime": false,
-"through": false,
-"trigger": 0,
-"walkAnime": true
-},
-{
-"conditions": {
-"actorId": 1,
-"actorValid": false,
-"itemId": 1,
-"itemValid": false,
-"selfSwitchCh": "A",
-"selfSwitchValid": false,
-"switch1Id": 20,
-"switch1Valid": true,
-"switch2Id": 1,
-"switch2Valid": false,
-"variableId": 1,
-"variableValid": false,
-"variableValue": 0
-},
-"directionFix": false,
-"image": {
-"characterIndex": 0,
-"characterName": "",
-"direction": 2,
-"pattern": 0,
-"tileId": 0
-},
-"list": [
-{
-"code": 108,
-"indent": 0,
-"parameters": [
-"<hover_icon: 16>"
-]
-},
-{
-"code": 108,
-"indent": 0,
-"parameters": [
-"<click_activate>"
+"<hover_icon: 3>"
 ]
 },
 {
@@ -11160,7 +7008,7 @@ false
 }
 ],
 "x": 4,
-"y": 6
+"y": 11
 },
 {
 "id": 72,
@@ -11226,8 +7074,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 8,
-"y": 7
+"x": 3,
+"y": 11
 },
 {
 "id": 73,
@@ -11293,8 +7141,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 7,
-"y": 10
+"x": 2,
+"y": 11
 },
 {
 "id": 74,
@@ -11360,8 +7208,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 7,
-"y": 9
+"x": 1,
+"y": 11
 },
 {
 "id": 75,
@@ -11427,8 +7275,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 10,
-"y": 5
+"x": 1,
+"y": 10
 },
 {
 "id": 76,
@@ -11494,8 +7342,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 9,
-"y": 10
+"x": 1,
+"y": 9
 },
 {
 "id": 77,
@@ -11561,8 +7409,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 10,
-"y": 7
+"x": 1,
+"y": 8
 },
 {
 "id": 78,
@@ -11628,12 +7476,12 @@ false
 "walkAnime": true
 }
 ],
-"x": 8,
-"y": 8
+"x": 1,
+"y": 6
 },
 {
 "id": 79,
-"name": "Ground -- broken glass",
+"name": "EV079",
 "note": "",
 "pages": [
 {
@@ -11665,433 +7513,7 @@ false
 "code": 108,
 "indent": 0,
 "parameters": [
-"<hover_icon: 2>"
-]
-},
-{
-"code": 108,
-"indent": 0,
-"parameters": [
-"<click_activate>"
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "select",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"updated_kiwihead_sheet",
-4,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Kiwi>Could that be the murder weapon?"
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "crowley_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"crowleyfaces",
-2,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Crowley>I think not... There are "
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"no signs of a cut or stab wound."
-]
-},
-{
-"code": 111,
-"indent": 0,
-"parameters": [
-1,
-44,
-0,
-0,
-0
-]
-},
-{
-"code": 122,
-"indent": 1,
-"parameters": [
-41,
-41,
-1,
-0,
-1
-]
-},
-{
-"code": 122,
-"indent": 1,
-"parameters": [
-44,
-44,
-1,
-0,
-1
-]
-},
-{
-"code": 101,
-"indent": 1,
-"parameters": [
-"",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 1,
-"parameters": [
-"You have obtained evidence: broken glass!"
-]
-},
-{
-"code": 0,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 0,
-"parameters": []
-},
-{
-"code": 111,
-"indent": 0,
-"parameters": [
-1,
-41,
-0,
-4,
-0
-]
-},
-{
-"code": 250,
-"indent": 1,
-"parameters": [
-{
-"name": "crowley_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 1,
-"parameters": [
-"crowleyfaces",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 1,
-"parameters": [
-"\\n<Crowley>That's all the evidence I'll find here"
-]
-},
-{
-"code": 122,
-"indent": 1,
-"parameters": [
-23,
-23,
-1,
-0,
-1
-]
-},
-{
-"code": 121,
-"indent": 1,
-"parameters": [
-20,
-20,
-0
-]
-},
-{
-"code": 111,
-"indent": 1,
-"parameters": [
-1,
-21,
-0,
-0,
-0
-]
-},
-{
-"code": 250,
-"indent": 2,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"\\n<Kiwi>If you haven't already, you should"
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"go talk to the eye-witness!"
-]
-},
-{
-"code": 0,
-"indent": 2,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 111,
-"indent": 1,
-"parameters": [
-1,
-23,
-0,
-2,
-0
-]
-},
-{
-"code": 250,
-"indent": 2,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"updated_kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"\\n<Kiwi>Looks like the other witnesses left. "
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Should we check out the Farmer's Market?"
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"\\n<Kiwi>Or we could look for leads elsewhere."
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Your choice, boss!"
-]
-},
-{
-"code": 0,
-"indent": 2,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 121,
-"indent": 1,
-"parameters": [
-91,
-91,
-0
-]
-},
-{
-"code": 0,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 0,
-"parameters": []
-},
-{
-"code": 0,
-"indent": 0,
-"parameters": []
-}
-],
-"moveFrequency": 3,
-"moveRoute": {
-"list": [
-{
-"code": 0,
-"parameters": []
-}
-],
-"repeat": true,
-"skippable": false,
-"wait": false
-},
-"moveSpeed": 3,
-"moveType": 0,
-"priorityType": 0,
-"stepAnime": false,
-"through": false,
-"trigger": 0,
-"walkAnime": true
-},
-{
-"conditions": {
-"actorId": 1,
-"actorValid": false,
-"itemId": 1,
-"itemValid": false,
-"selfSwitchCh": "A",
-"selfSwitchValid": false,
-"switch1Id": 20,
-"switch1Valid": true,
-"switch2Id": 1,
-"switch2Valid": false,
-"variableId": 1,
-"variableValid": false,
-"variableValue": 0
-},
-"directionFix": false,
-"image": {
-"characterIndex": 0,
-"characterName": "",
-"direction": 2,
-"pattern": 0,
-"tileId": 0
-},
-"list": [
-{
-"code": 108,
-"indent": 0,
-"parameters": [
-"<hover_icon: 16>"
-]
-},
-{
-"code": 108,
-"indent": 0,
-"parameters": [
-"<click_activate>"
+"<hover_icon: 3>"
 ]
 },
 {
@@ -12121,8 +7543,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 4,
-"y": 9
+"x": 2,
+"y": 6
 },
 {
 "id": 80,
@@ -12188,7 +7610,7 @@ false
 "walkAnime": true
 }
 ],
-"x": 6,
+"x": 3,
 "y": 6
 },
 {
@@ -12255,8 +7677,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 5,
-"y": 3
+"x": 4,
+"y": 6
 },
 {
 "id": 82,
@@ -12322,8 +7744,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 8,
-"y": 3
+"x": 4,
+"y": 5
 },
 {
 "id": 83,
@@ -12389,8 +7811,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 8,
-"y": 2
+"x": 3,
+"y": 5
 },
 {
 "id": 84,
@@ -12456,8 +7878,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 8,
-"y": 1
+"x": 2,
+"y": 5
 },
 {
 "id": 85,
@@ -12523,8 +7945,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 9,
-"y": 1
+"x": 2,
+"y": 4
 },
 {
 "id": 86,
@@ -12590,8 +8012,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 9,
-"y": 2
+"x": 3,
+"y": 4
 },
 {
 "id": 87,
@@ -12657,8 +8079,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 9,
-"y": 3
+"x": 4,
+"y": 4
 },
 {
 "id": 88,
@@ -12724,7 +8146,7 @@ false
 "walkAnime": true
 }
 ],
-"x": 9,
+"x": 6,
 "y": 4
 },
 {
@@ -12791,8 +8213,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 7,
-"y": 6
+"x": 5,
+"y": 4
 },
 {
 "id": 90,
@@ -12858,7 +8280,7 @@ false
 "walkAnime": true
 }
 ],
-"x": 3,
+"x": 8,
 "y": 4
 },
 {
@@ -12925,8 +8347,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 2,
-"y": 10
+"x": 7,
+"y": 4
 },
 {
 "id": 92,
@@ -12993,7 +8415,7 @@ false
 }
 ],
 "x": 9,
-"y": 7
+"y": 4
 },
 {
 "id": 93,
@@ -13059,8 +8481,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 9,
-"y": 8
+"x": 10,
+"y": 4
 },
 {
 "id": 94,
@@ -13126,8 +8548,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 9,
-"y": 9
+"x": 11,
+"y": 4
 },
 {
 "id": 95,
@@ -13193,8 +8615,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 8,
-"y": 9
+"x": 12,
+"y": 4
 },
 {
 "id": 96,
@@ -13260,8 +8682,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 10,
-"y": 6
+"x": 13,
+"y": 4
 },
 {
 "id": 97,
@@ -13327,8 +8749,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 10,
-"y": 10
+"x": 13,
+"y": 5
 },
 {
 "id": 98,
@@ -13394,12 +8816,12 @@ false
 "walkAnime": true
 }
 ],
-"x": 10,
-"y": 8
+"x": 13,
+"y": 6
 },
 {
 "id": 99,
-"name": "Wings -- ruffled feathers",
+"name": "EV099",
 "note": "",
 "pages": [
 {
@@ -13431,462 +8853,7 @@ false
 "code": 108,
 "indent": 0,
 "parameters": [
-"<hover_icon: 2>"
-]
-},
-{
-"code": 108,
-"indent": 0,
-"parameters": [
-"<click_activate>"
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "select",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "crowley_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"crowleyfaces",
-2,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Crowley>Hmm... these feathers are ruffled"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"and the whole body is covered in dirt. "
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"updated_kiwihead_sheet",
-4,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Kiwi>Sounds like signs of a struggle."
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "crowley_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"crowleyfaces",
-5,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Crowley>That is possible..."
-]
-},
-{
-"code": 111,
-"indent": 0,
-"parameters": [
-1,
-121,
-0,
-0,
-0
-]
-},
-{
-"code": 122,
-"indent": 1,
-"parameters": [
-41,
-41,
-1,
-0,
-1
-]
-},
-{
-"code": 122,
-"indent": 1,
-"parameters": [
-121,
-121,
-1,
-0,
-1
-]
-},
-{
-"code": 101,
-"indent": 1,
-"parameters": [
-"",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 1,
-"parameters": [
-"You have obtained evidence: ruffled feathers!"
-]
-},
-{
-"code": 0,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 0,
-"parameters": []
-},
-{
-"code": 111,
-"indent": 0,
-"parameters": [
-1,
-41,
-0,
-4,
-0
-]
-},
-{
-"code": 250,
-"indent": 1,
-"parameters": [
-{
-"name": "crowley_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 1,
-"parameters": [
-"crowleyfaces",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 1,
-"parameters": [
-"\\n<Crowley>That's all the evidence I'll find here"
-]
-},
-{
-"code": 122,
-"indent": 1,
-"parameters": [
-23,
-23,
-1,
-0,
-1
-]
-},
-{
-"code": 121,
-"indent": 1,
-"parameters": [
-20,
-20,
-0
-]
-},
-{
-"code": 111,
-"indent": 1,
-"parameters": [
-1,
-21,
-0,
-0,
-0
-]
-},
-{
-"code": 250,
-"indent": 2,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"\\n<Kiwi>If you haven't already, you should"
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"go talk to the eye-witness!"
-]
-},
-{
-"code": 0,
-"indent": 2,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 111,
-"indent": 1,
-"parameters": [
-1,
-23,
-0,
-2,
-0
-]
-},
-{
-"code": 250,
-"indent": 2,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"updated_kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"\\n<Kiwi>Looks like the other witnesses left. "
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Should we check out the Farmer's Market?"
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"\\n<Kiwi>Or we could look for leads elsewhere."
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Your choice, boss!"
-]
-},
-{
-"code": 0,
-"indent": 2,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 121,
-"indent": 1,
-"parameters": [
-91,
-91,
-0
-]
-},
-{
-"code": 0,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 0,
-"parameters": []
-},
-{
-"code": 0,
-"indent": 0,
-"parameters": []
-}
-],
-"moveFrequency": 3,
-"moveRoute": {
-"list": [
-{
-"code": 0,
-"parameters": []
-}
-],
-"repeat": true,
-"skippable": false,
-"wait": false
-},
-"moveSpeed": 3,
-"moveType": 0,
-"priorityType": 0,
-"stepAnime": false,
-"through": false,
-"trigger": 0,
-"walkAnime": true
-},
-{
-"conditions": {
-"actorId": 1,
-"actorValid": false,
-"itemId": 1,
-"itemValid": false,
-"selfSwitchCh": "A",
-"selfSwitchValid": false,
-"switch1Id": 20,
-"switch1Valid": true,
-"switch2Id": 1,
-"switch2Valid": false,
-"variableId": 1,
-"variableValid": false,
-"variableValue": 0
-},
-"directionFix": false,
-"image": {
-"characterIndex": 0,
-"characterName": "",
-"direction": 2,
-"pattern": 0,
-"tileId": 0
-},
-"list": [
-{
-"code": 108,
-"indent": 0,
-"parameters": [
-"<hover_icon: 16>"
-]
-},
-{
-"code": 108,
-"indent": 0,
-"parameters": [
-"<click_activate>"
+"<hover_icon: 3>"
 ]
 },
 {
@@ -13916,8 +8883,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 7,
-"y": 8
+"x": 13,
+"y": 7
 },
 {
 "id": 100,
@@ -13983,8 +8950,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 11,
-"y": 5
+"x": 13,
+"y": 8
 },
 {
 "id": 101,
@@ -14050,8 +9017,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 11,
-"y": 6
+"x": 13,
+"y": 9
 },
 {
 "id": 102,
@@ -14117,8 +9084,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 11,
-"y": 7
+"x": 13,
+"y": 10
 },
 {
 "id": 103,
@@ -14184,8 +9151,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 11,
-"y": 8
+"x": 12,
+"y": 10
 },
 {
 "id": 104,
@@ -14252,7 +9219,7 @@ false
 }
 ],
 "x": 11,
-"y": 9
+"y": 10
 },
 {
 "id": 105,
@@ -14318,7 +9285,7 @@ false
 "walkAnime": true
 }
 ],
-"x": 11,
+"x": 10,
 "y": 10
 },
 {
@@ -14385,7 +9352,7 @@ false
 "walkAnime": true
 }
 ],
-"x": 12,
+"x": 9,
 "y": 10
 },
 {
@@ -14452,8 +9419,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 12,
-"y": 9
+"x": 7,
+"y": 10
 },
 {
 "id": 108,
@@ -14519,8 +9486,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 12,
-"y": 8
+"x": 6,
+"y": 10
 },
 {
 "id": 109,
@@ -14586,8 +9553,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 12,
-"y": 7
+"x": 5,
+"y": 10
 },
 {
 "id": 110,
@@ -14653,8 +9620,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 12,
-"y": 6
+"x": 4,
+"y": 10
 },
 {
 "id": 111,
@@ -14720,8 +9687,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 12,
-"y": 5
+"x": 3,
+"y": 10
 },
 {
 "id": 112,
@@ -14787,8 +9754,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 12,
-"y": 4
+"x": 2,
+"y": 10
 },
 {
 "id": 113,
@@ -14854,8 +9821,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 11,
-"y": 3
+"x": 2,
+"y": 7
 },
 {
 "id": 114,
@@ -14921,8 +9888,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 10,
-"y": 3
+"x": 2,
+"y": 8
 },
 {
 "id": 115,
@@ -14988,8 +9955,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 10,
-"y": 2
+"x": 3,
+"y": 8
 },
 {
 "id": 116,
@@ -15055,8 +10022,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 10,
-"y": 1
+"x": 3,
+"y": 9
 },
 {
 "id": 117,
@@ -15122,8 +10089,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 11,
-"y": 1
+"x": 4,
+"y": 9
 },
 {
 "id": 118,
@@ -15189,8 +10156,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 11,
-"y": 2
+"x": 5,
+"y": 9
 },
 {
 "id": 119,
@@ -15256,8 +10223,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 12,
-"y": 2
+"x": 4,
+"y": 8
 },
 {
 "id": 120,
@@ -15323,8 +10290,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 12,
-"y": 1
+"x": 5,
+"y": 5
 },
 {
 "id": 121,
@@ -15390,8 +10357,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 13,
-"y": 1
+"x": 5,
+"y": 6
 },
 {
 "id": 122,
@@ -15457,8 +10424,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 14,
-"y": 1
+"x": 4,
+"y": 7
 },
 {
 "id": 123,
@@ -15524,8 +10491,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 14,
-"y": 2
+"x": 5,
+"y": 7
 },
 {
 "id": 124,
@@ -15591,8 +10558,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 13,
-"y": 2
+"x": 5,
+"y": 8
 },
 {
 "id": 125,
@@ -15658,8 +10625,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 13,
-"y": 3
+"x": 6,
+"y": 8
 },
 {
 "id": 126,
@@ -15725,8 +10692,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 12,
-"y": 3
+"x": 7,
+"y": 9
 },
 {
 "id": 127,
@@ -15792,8 +10759,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 14,
-"y": 3
+"x": 8,
+"y": 10
 },
 {
 "id": 128,
@@ -15859,8 +10826,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 14,
-"y": 4
+"x": 8,
+"y": 9
 },
 {
 "id": 129,
@@ -15926,8 +10893,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 14,
-"y": 5
+"x": 9,
+"y": 9
 },
 {
 "id": 130,
@@ -15993,8 +10960,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 14,
-"y": 6
+"x": 10,
+"y": 9
 },
 {
 "id": 131,
@@ -16060,8 +11027,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 14,
-"y": 7
+"x": 11,
+"y": 9
 },
 {
 "id": 132,
@@ -16127,8 +11094,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 14,
-"y": 8
+"x": 12,
+"y": 9
 },
 {
 "id": 133,
@@ -16194,8 +11161,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 14,
-"y": 9
+"x": 12,
+"y": 8
 },
 {
 "id": 134,
@@ -16261,8 +11228,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 14,
-"y": 10
+"x": 12,
+"y": 7
 },
 {
 "id": 135,
@@ -16328,8 +11295,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 13,
-"y": 10
+"x": 12,
+"y": 6
 },
 {
 "id": 136,
@@ -16395,8 +11362,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 13,
-"y": 9
+"x": 12,
+"y": 5
 },
 {
 "id": 137,
@@ -16462,8 +11429,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 13,
-"y": 8
+"x": 11,
+"y": 5
 },
 {
 "id": 138,
@@ -16529,8 +11496,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 13,
-"y": 7
+"x": 10,
+"y": 5
 },
 {
 "id": 139,
@@ -16596,8 +11563,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 13,
-"y": 6
+"x": 9,
+"y": 5
 },
 {
 "id": 140,
@@ -16663,7 +11630,7 @@ false
 "walkAnime": true
 }
 ],
-"x": 13,
+"x": 8,
 "y": 5
 },
 {
@@ -16730,8 +11697,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 13,
-"y": 4
+"x": 7,
+"y": 5
 },
 {
 "id": 142,
@@ -16797,8 +11764,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 1,
-"y": 11
+"x": 6,
+"y": 5
 },
 {
 "id": 143,
@@ -16864,8 +11831,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 2,
-"y": 11
+"x": 7,
+"y": 6
 },
 {
 "id": 144,
@@ -16931,8 +11898,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 3,
-"y": 11
+"x": 8,
+"y": 6
 },
 {
 "id": 145,
@@ -16998,8 +11965,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 4,
-"y": 11
+"x": 6,
+"y": 6
 },
 {
 "id": 146,
@@ -17065,8 +12032,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 5,
-"y": 11
+"x": 6,
+"y": 7
 },
 {
 "id": 147,
@@ -17132,8 +12099,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 6,
-"y": 11
+"x": 7,
+"y": 7
 },
 {
 "id": 148,
@@ -17200,7 +12167,7 @@ false
 }
 ],
 "x": 7,
-"y": 11
+"y": 8
 },
 {
 "id": 149,
@@ -17267,7 +12234,7 @@ false
 }
 ],
 "x": 8,
-"y": 11
+"y": 8
 },
 {
 "id": 150,
@@ -17334,7 +12301,7 @@ false
 }
 ],
 "x": 9,
-"y": 11
+"y": 8
 },
 {
 "id": 151,
@@ -17401,7 +12368,7 @@ false
 }
 ],
 "x": 10,
-"y": 11
+"y": 8
 },
 {
 "id": 152,
@@ -17468,7 +12435,7 @@ false
 }
 ],
 "x": 11,
-"y": 11
+"y": 8
 },
 {
 "id": 153,
@@ -17534,8 +12501,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 12,
-"y": 11
+"x": 11,
+"y": 7
 },
 {
 "id": 154,
@@ -17601,12 +12568,12 @@ false
 "walkAnime": true
 }
 ],
-"x": 13,
-"y": 11
+"x": 11,
+"y": 6
 },
 {
 "id": 155,
-"name": "EV155",
+"name": "Transfer to/from ts",
 "note": "",
 "pages": [
 {
@@ -17617,6 +12584,121 @@ false
 "itemValid": false,
 "selfSwitchCh": "A",
 "selfSwitchValid": false,
+"switch1Id": 124,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 121,
+"indent": 0,
+"parameters": [
+83,
+83,
+0
+]
+},
+{
+"code": 211,
+"indent": 0,
+"parameters": [
+0
+]
+},
+{
+"code": 241,
+"indent": 0,
+"parameters": [
+{
+"name": "event_song",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 111,
+"indent": 0,
+"parameters": [
+0,
+124,
+0
+]
+},
+{
+"code": 121,
+"indent": 1,
+"parameters": [
+83,
+83,
+1
+]
+},
+{
+"code": 123,
+"indent": 1,
+"parameters": [
+"A",
+0
+]
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 412,
+"indent": 0,
+"parameters": []
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": true,
 "switch1Id": 1,
 "switch1Valid": false,
 "switch2Id": 1,
@@ -17635,10 +12717,54 @@ false
 },
 "list": [
 {
-"code": 108,
+"code": 117,
 "indent": 0,
 "parameters": [
-"<hover_icon: 3>"
+1
+]
+},
+{
+"code": 129,
+"indent": 0,
+"parameters": [
+2,
+0,
+false
+]
+},
+{
+"code": 201,
+"indent": 0,
+"parameters": [
+1,
+81,
+82,
+83,
+0,
+0
+]
+},
+{
+"code": 211,
+"indent": 0,
+"parameters": [
+1
+]
+},
+{
+"code": 123,
+"indent": 0,
+"parameters": [
+"B",
+0
+]
+},
+{
+"code": 123,
+"indent": 0,
+"parameters": [
+"A",
+1
 ]
 },
 {
@@ -17666,10 +12792,61 @@ false
 "through": false,
 "trigger": 0,
 "walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "B",
+"selfSwitchValid": true,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 0,
+"indent": 0,
+"parameters": []
 }
 ],
-"x": 14,
-"y": 11
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+}
+],
+"x": 0,
+"y": 0
 }
 ]
 }
