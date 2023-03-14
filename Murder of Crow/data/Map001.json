@@ -3983,21 +3983,7 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"\\n<Crowley>I should hop over to Kiwi first to see"
-]
-},
-{
-"code": 401,
-"indent": 1,
-"parameters": [
-"if she knows what all the commotion is"
-]
-},
-{
-"code": 401,
-"indent": 1,
-"parameters": [
-"about."
+"\\n<Crowley>I need investigate."
 ]
 },
 {
@@ -4160,21 +4146,7 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"\\n<Crowley>I should hop over to Kiwi first to see"
-]
-},
-{
-"code": 401,
-"indent": 1,
-"parameters": [
-"if she knows what all the commotion is"
-]
-},
-{
-"code": 401,
-"indent": 1,
-"parameters": [
-"about."
+"\\n<Crowley>I need investigate."
 ]
 },
 {
@@ -5511,7 +5483,7 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"\\n<Crowley>I need to chat with Kiwi first."
+"\\n<Crowley>I need investigate."
 ]
 },
 {
@@ -10611,7 +10583,7 @@ false
 "code": 401,
 "indent": 1,
 "parameters": [
-"\\n<Crowley>I need to chat with Kiwi first."
+"\\n<Crowley>I need investigate."
 ]
 },
 {
@@ -10722,7 +10694,7 @@ false
 1,
 23,
 0,
-1,
+2,
 1
 ]
 },
@@ -10774,7 +10746,7 @@ false
 "code": 401,
 "indent": 1,
 "parameters": [
-"\\n<Crowley>I need to chat with Kiwi first."
+"\\n<Crowley>I need investigate."
 ]
 },
 {
@@ -12990,6 +12962,37 @@ false
 ]
 },
 {
+"code": 205,
+"indent": 0,
+"parameters": [
+15,
+{
+"list": [
+{
+"code": 25,
+"indent": null
+},
+{
+"code": 0
+}
+],
+"repeat": false,
+"skippable": false,
+"wait": true
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 25,
+"indent": null
+}
+]
+},
+{
 "code": 101,
 "indent": 0,
 "parameters": [
@@ -13152,27 +13155,18 @@ false
 "indent": null
 },
 {
-"code": 4,
-"indent": null
-},
-{
-"code": 4,
-"indent": null
-},
-{
-"code": 3,
-"indent": null
-},
-{
-"code": 3,
-"indent": null
-},
-{
-"code": 3,
+"code": 45,
+"parameters": [
+"MOVE TO: 10, 6"
+],
 "indent": null
 },
 {
 "code": 32,
+"indent": null
+},
+{
+"code": 18,
 "indent": null
 },
 {
@@ -13200,47 +13194,10 @@ false
 "indent": 0,
 "parameters": [
 {
-"code": 4,
-"indent": null
-}
-]
-},
-{
-"code": 505,
-"indent": 0,
+"code": 45,
 "parameters": [
-{
-"code": 4,
-"indent": null
-}
-]
-},
-{
-"code": 505,
-"indent": 0,
-"parameters": [
-{
-"code": 3,
-"indent": null
-}
-]
-},
-{
-"code": 505,
-"indent": 0,
-"parameters": [
-{
-"code": 3,
-"indent": null
-}
-]
-},
-{
-"code": 505,
-"indent": 0,
-"parameters": [
-{
-"code": 3,
+"MOVE TO: 10, 6"
+],
 "indent": null
 }
 ]
@@ -13251,6 +13208,16 @@ false
 "parameters": [
 {
 "code": 32,
+"indent": null
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 18,
 "indent": null
 }
 ]
