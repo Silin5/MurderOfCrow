@@ -9208,6 +9208,17 @@ null,
 ]
 },
 {
+"code": 122,
+"indent": 1,
+"parameters": [
+11,
+11,
+1,
+0,
+1
+]
+},
+{
 "code": 123,
 "indent": 1,
 "parameters": [
@@ -9299,7 +9310,7 @@ null,
 "priorityType": 0,
 "stepAnime": false,
 "through": false,
-"trigger": 0,
+"trigger": 4,
 "walkAnime": true
 }
 ],

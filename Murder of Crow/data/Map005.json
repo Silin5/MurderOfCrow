@@ -9809,9 +9809,10 @@ null,
 "y": 4
 },
 null,
+null,
 {
-"id": 18,
-"name": "EV018",
+"id": 19,
+"name": "EV019",
 "note": "",
 "pages": [
 {
@@ -9857,6 +9858,17 @@ null,
 121,
 121,
 0
+]
+},
+{
+"code": 122,
+"indent": 1,
+"parameters": [
+11,
+11,
+1,
+0,
+1
 ]
 },
 {
@@ -9951,7 +9963,7 @@ null,
 "priorityType": 0,
 "stepAnime": false,
 "through": false,
-"trigger": 0,
+"trigger": 4,
 "walkAnime": true
 }
 ],
