@@ -2775,7 +2775,7 @@ null,
 "code": 401,
 "indent": 2,
 "parameters": [
-"\\n<Crowley>Time to inspect the body..."
+"\\n<Crowley>I guess I'll inspect the body..."
 ]
 },
 {
@@ -2876,8 +2876,8 @@ null,
 "code": 101,
 "indent": 1,
 "parameters": [
-"crowleyfaces",
-6,
+"",
+0,
 0,
 2
 ]
@@ -2886,14 +2886,7 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"\\n<Crowley>This is where our investigation began,"
-]
-},
-{
-"code": 401,
-"indent": 1,
-"parameters": [
-"but we already inspected the body..."
+"It's a body..."
 ]
 },
 {
@@ -2982,7 +2975,7 @@ null,
 "code": 101,
 "indent": 0,
 "parameters": [
-"updated_kiwihead_sheet",
+"kiwihead_sheet",
 0,
 0,
 2
@@ -3012,7 +3005,7 @@ null,
 "indent": 0,
 "parameters": [
 "crowleyfaces",
-5,
+0,
 0,
 2
 ]
@@ -3040,8 +3033,8 @@ null,
 "code": 101,
 "indent": 0,
 "parameters": [
-"updated_kiwihead_sheet",
-2,
+"kiwihead_sheet",
+0,
 0,
 2
 ]
@@ -3061,20 +3054,10 @@ null,
 ]
 },
 {
-"code": 101,
-"indent": 0,
-"parameters": [
-"updated_kiwihead_sheet",
-5,
-0,
-2
-]
-},
-{
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Kiwi>But why don’t you see for yourself?"
+"But why don’t you see for yourself?"
 ]
 },
 {
@@ -3190,8 +3173,8 @@ null,
 "code": 101,
 "indent": 0,
 "parameters": [
-"updated_kiwihead_sheet",
-4,
+"kiwihead_sheet",
+0,
 0,
 2
 ]
@@ -3200,38 +3183,21 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Kiwi>Not much. I’m not the expert"
+"\\n<Kiwi>Not much. I’m not the expert sleuth, after "
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"sleuth, after all! "
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"updated_kiwihead_sheet",
-2,
-0,
-2
+"all! But, you might want to speak with Sly."
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Kiwi>But, you might want to speak with Sly"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"over there. They found the body."
+"They found the body."
 ]
 },
 {
@@ -4568,38 +4534,28 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"               You have found your first clue!"
+"You found your first clue!"
 ]
 },
 {
 "code": 401,
 "indent": 1,
 "parameters": [
-"             Press M to open the Murder Board!"
-]
-},
-{
-"code": 101,
-"indent": 1,
-"parameters": [
-"",
-0,
-0,
-2
+"Press M to open the Murder Board!"
 ]
 },
 {
 "code": 401,
 "indent": 1,
 "parameters": [
-"           Click on a clue to peep its description."
+"Click on a clue to read its description, "
 ]
 },
 {
 "code": 401,
 "indent": 1,
 "parameters": [
-"               Press ESC to close the Board! "
+"and press ESC to close."
 ]
 },
 {
@@ -4862,7 +4818,7 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"            Press M to open the Murder Board!"
+"Press M to open the Murder Board!"
 ]
 },
 {
@@ -4879,14 +4835,14 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"           Click on a clue to peep its description."
+"Click on a clue to read its description, "
 ]
 },
 {
 "code": 401,
 "indent": 1,
 "parameters": [
-"               Press ESC to close the Board! "
+"and press ESC to close."
 ]
 },
 {
@@ -5187,7 +5143,7 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"            Press M to open the Murder Board!"
+"Press M to open the Murder Board!"
 ]
 },
 {
@@ -5204,14 +5160,14 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"           Click on a clue to peep its description."
+"Click on a clue to read its description, "
 ]
 },
 {
 "code": 401,
 "indent": 1,
 "parameters": [
-"               Press ESC to close the Board! "
+"and press ESC to close."
 ]
 },
 {
@@ -5827,6 +5783,87 @@ null,
 "name": "Cue Ending",
 "note": "prompt player to go to TS",
 "pages": [
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 121,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 111,
+"indent": 0,
+"parameters": [
+1,
+11,
+0,
+10,
+0
+]
+},
+{
+"code": 121,
+"indent": 1,
+"parameters": [
+121,
+121,
+0
+]
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 412,
+"indent": 0,
+"parameters": []
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+},
 {
 "conditions": {
 "actorId": 1,
