@@ -3931,7 +3931,7 @@ null,
 1,
 23,
 0,
-1,
+2,
 1
 ]
 },
@@ -4108,7 +4108,7 @@ null,
 1,
 23,
 0,
-1,
+2,
 1
 ]
 },
@@ -5459,7 +5459,7 @@ null,
 1,
 23,
 0,
-1,
+2,
 1
 ]
 },
@@ -5469,7 +5469,7 @@ null,
 "parameters": [
 0,
 5,
-36,
+34,
 14,
 8,
 0
@@ -5582,7 +5582,7 @@ null,
 "walkAnime": true
 }
 ],
-"x": 13,
+"x": 12,
 "y": 1
 },
 {
@@ -7310,7 +7310,7 @@ false
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Kiwi>I wonder how it ended up there..."
+"I wonder how it ended up there..."
 ]
 },
 {
@@ -9484,7 +9484,7 @@ false
 "switch1Valid": true,
 "switch2Id": 1,
 "switch2Valid": false,
-"variableId": 1,
+"variableId": 123,
 "variableValid": false,
 "variableValue": 0
 },
@@ -9589,6 +9589,15 @@ false
 ]
 },
 {
+"code": 121,
+"indent": 1,
+"parameters": [
+125,
+125,
+1
+]
+},
+{
 "code": 0,
 "indent": 1,
 "parameters": []
@@ -9647,6 +9656,57 @@ false
 "indent": 0,
 "parameters": []
 },
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 1,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "C",
+"selfSwitchValid": true,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"tileId": 0,
+"characterName": "$kiwiSheet",
+"direction": 6,
+"pattern": 1,
+"characterIndex": 0
+},
+"list": [
 {
 "code": 0,
 "indent": 0,
@@ -10499,7 +10559,7 @@ false
 1,
 23,
 0,
-1,
+2,
 1
 ]
 },
@@ -10672,7 +10732,7 @@ false
 "parameters": [
 0,
 5,
-35,
+34,
 14,
 8,
 0
@@ -10785,7 +10845,7 @@ false
 "walkAnime": true
 }
 ],
-"x": 12,
+"x": 13,
 "y": 1
 },
 {
@@ -13772,6 +13832,210 @@ false
 },
 "list": [
 {
+"code": 205,
+"indent": 0,
+"parameters": [
+-1,
+{
+"list": [
+{
+"code": 15,
+"parameters": [
+15
+],
+"indent": null
+},
+{
+"code": 19,
+"indent": null
+},
+{
+"code": 0
+}
+],
+"repeat": false,
+"skippable": false,
+"wait": true
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 15,
+"parameters": [
+15
+],
+"indent": null
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 19,
+"indent": null
+}
+]
+},
+{
+"code": 205,
+"indent": 0,
+"parameters": [
+15,
+{
+"list": [
+{
+"code": 15,
+"parameters": [
+15
+],
+"indent": null
+},
+{
+"code": 19,
+"indent": null
+},
+{
+"code": 0
+}
+],
+"repeat": false,
+"skippable": false,
+"wait": true
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 15,
+"parameters": [
+15
+],
+"indent": null
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 19,
+"indent": null
+}
+]
+},
+{
+"code": 205,
+"indent": 0,
+"parameters": [
+13,
+{
+"list": [
+{
+"code": 15,
+"parameters": [
+15
+],
+"indent": null
+},
+{
+"code": 19,
+"indent": null
+},
+{
+"code": 0
+}
+],
+"repeat": false,
+"skippable": false,
+"wait": true
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 15,
+"parameters": [
+15
+],
+"indent": null
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 19,
+"indent": null
+}
+]
+},
+{
+"code": 205,
+"indent": 0,
+"parameters": [
+24,
+{
+"list": [
+{
+"code": 15,
+"parameters": [
+15
+],
+"indent": null
+},
+{
+"code": 19,
+"indent": null
+},
+{
+"code": 0
+}
+],
+"repeat": false,
+"skippable": false,
+"wait": true
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 15,
+"parameters": [
+15
+],
+"indent": null
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 19,
+"indent": null
+}
+]
+},
+{
 "code": 243,
 "indent": 0,
 "parameters": []
@@ -14326,7 +14590,7 @@ false
 "priorityType": 0,
 "stepAnime": false,
 "through": false,
-"trigger": 4,
+"trigger": 3,
 "walkAnime": true
 },
 {
