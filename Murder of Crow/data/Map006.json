@@ -1646,12 +1646,41 @@ null,
 ]
 },
 {
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "cluefound",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 121,
 "indent": 0,
 "parameters": [
 63,
 63,
 0
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"The Murder Board has been updated!"
 ]
 },
 {
@@ -1810,6 +1839,35 @@ null,
 "indent": 0,
 "parameters": [
 {
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+6,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>An open window...?"
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
 "name": "kiwi_voice",
 "volume": 90,
 "pitch": 100,
@@ -1831,14 +1889,21 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Kiwi>I wonder if this is Jay's secret to "
+"\\n<Kiwi>I wonder if the cool air is Jay's"
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"keeping his jams and jellies so delicious."
+"secret to keeping his jams and jellies"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"so fresh."
 ]
 },
 {
@@ -1867,21 +1932,43 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Crowley>*CAW* Kiwi, take a closer peep"
+"\\n<Crowley>Wait, take a closer peep Kiwi!"
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"at the ground. The glass is INSIDE the "
+"The window isn't open, it's..."
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"updated_kiwihead_sheet",
+2,
+0,
+2
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"room. "
+"\\n<Kiwi>SMASHED!"
 ]
 },
 {
@@ -1898,7 +1985,7 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Crowley>Seems to me like it might be a beak in..."
+"\\n<Crowley>Seems to me it might be a beak in..."
 ]
 },
 {
@@ -1977,10 +2064,20 @@ null,
 ]
 },
 {
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+1,
+0,
+2
+]
+},
+{
 "code": 401,
 "indent": 0,
 "parameters": [
-"I didn't have time to even peck my"
+"\\n<Crowley>I didn't have time to even peck my"
 ]
 },
 {
@@ -1994,7 +2091,7 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"moment I heard the streets beckon me..."
+"moment I heard the streets beckoning me..."
 ]
 },
 {
@@ -2002,7 +2099,7 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "kiwi_voice",
+"name": "cluefound",
 "volume": 90,
 "pitch": 100,
 "pan": 0
@@ -2013,7 +2110,7 @@ null,
 "code": 101,
 "indent": 0,
 "parameters": [
-"updated_kiwihead_sheet",
+"",
 0,
 0,
 2
@@ -2023,93 +2120,7 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Kiwi>Besides, we're surrounded by jars!"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"The floor has a bit of glass scattered"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"about."
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "crowley_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"crowleyfaces",
-6,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Crowley>Hmmm... Maybe you're right."
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"updated_kiwihead_sheet",
-1,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Kiwi>Jay's probably too shy to admit"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"he eats his jams and jellies as much as"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"everyone else!"
+"The Murder Board has been updated!"
 ]
 },
 {
@@ -2176,35 +2187,6 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"updated_kiwihead_sheet",
-4,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Kiwi>A hook attached to the wall?"
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
 "name": "crowley_voice",
 "volume": 90,
 "pitch": 100,
@@ -2226,14 +2208,31 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Crowley>No Kiwi, look closer. There's an"
+"\\n<Crowley>Is that a hook?"
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+6,
+0,
+2
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"almost missable wire hanging from it!"
+"\\n<Crowley>What could Jay have been hanging"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"from the wall..."
 ]
 },
 {
@@ -2262,7 +2261,7 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"You have obtained evidence: hook and thin wire!"
+"The Murder Board has been updated!"
 ]
 },
 {

@@ -11744,14 +11744,31 @@ null,
 "code": 401,
 "indent": 2,
 "parameters": [
-"at our crime scene today. We suspect the"
+"at our crime scene today."
+]
+},
+{
+"code": 101,
+"indent": 2,
+"parameters": [
+"crowleyfaces",
+2,
+0,
+2
 ]
 },
 {
 "code": 401,
 "indent": 2,
 "parameters": [
-"incident happened late last night."
+"\\n<Crowley>We suspect the incident happened"
+]
+},
+{
+"code": 401,
+"indent": 2,
+"parameters": [
+"late last night."
 ]
 },
 {
@@ -11804,7 +11821,14 @@ null,
 "code": 401,
 "indent": 2,
 "parameters": [
-"about, but is there any way I can help?"
+"about, but is there any"
+]
+},
+{
+"code": 401,
+"indent": 2,
+"parameters": [
+"way I can help?"
 ]
 },
 {
@@ -11876,14 +11900,14 @@ null,
 "code": 401,
 "indent": 2,
 "parameters": [
-"names. A lot of people come through here"
+"names. A lot of people come"
 ]
 },
 {
 "code": 401,
 "indent": 2,
 "parameters": [
-"in a day."
+"through here in a day."
 ]
 },
 {
@@ -12020,7 +12044,14 @@ null,
 "code": 401,
 "indent": 2,
 "parameters": [
-"I have to stay here and serve customers."
+"I have to stay here and"
+]
+},
+{
+"code": 401,
+"indent": 2,
+"parameters": [
+"serve customers."
 ]
 },
 {

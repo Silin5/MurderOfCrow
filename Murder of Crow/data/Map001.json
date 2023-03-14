@@ -2775,7 +2775,7 @@ null,
 "code": 401,
 "indent": 2,
 "parameters": [
-"\\n<Crowley>I guess I'll inspect the body..."
+"\\n<Crowley>Time to inspect the body..."
 ]
 },
 {
@@ -2876,8 +2876,8 @@ null,
 "code": 101,
 "indent": 1,
 "parameters": [
-"",
-0,
+"crowleyfaces",
+6,
 0,
 2
 ]
@@ -2886,7 +2886,14 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"It's a body..."
+"\\n<Crowley>This is where our investigation began,"
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"but we already inspected the body..."
 ]
 },
 {
@@ -2975,7 +2982,7 @@ null,
 "code": 101,
 "indent": 0,
 "parameters": [
-"kiwihead_sheet",
+"updated_kiwihead_sheet",
 0,
 0,
 2
@@ -3005,7 +3012,7 @@ null,
 "indent": 0,
 "parameters": [
 "crowleyfaces",
-0,
+5,
 0,
 2
 ]
@@ -3033,8 +3040,8 @@ null,
 "code": 101,
 "indent": 0,
 "parameters": [
-"kiwihead_sheet",
-0,
+"updated_kiwihead_sheet",
+2,
 0,
 2
 ]
@@ -3054,10 +3061,20 @@ null,
 ]
 },
 {
+"code": 101,
+"indent": 0,
+"parameters": [
+"updated_kiwihead_sheet",
+5,
+0,
+2
+]
+},
+{
 "code": 401,
 "indent": 0,
 "parameters": [
-"But why don’t you see for yourself?"
+"\\n<Kiwi>But why don’t you see for yourself?"
 ]
 },
 {
@@ -3173,8 +3190,8 @@ null,
 "code": 101,
 "indent": 0,
 "parameters": [
-"kiwihead_sheet",
-0,
+"updated_kiwihead_sheet",
+4,
 0,
 2
 ]
@@ -3183,21 +3200,38 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Kiwi>Not much. I’m not the expert sleuth, after "
+"\\n<Kiwi>Not much. I’m not the expert"
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"all! But, you might want to speak with Sly."
+"sleuth, after all! "
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"updated_kiwihead_sheet",
+2,
+0,
+2
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"They found the body."
+"\\n<Kiwi>But, you might want to speak with Sly"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"over there. They found the body."
 ]
 },
 {
@@ -4534,28 +4568,38 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"You found your first clue!"
+"               You have found your first clue!"
 ]
 },
 {
 "code": 401,
 "indent": 1,
 "parameters": [
-"Press M to open the Murder Board!"
+"             Press M to open the Murder Board!"
+]
+},
+{
+"code": 101,
+"indent": 1,
+"parameters": [
+"",
+0,
+0,
+2
 ]
 },
 {
 "code": 401,
 "indent": 1,
 "parameters": [
-"Click on a clue to read its description, "
+"           Click on a clue to peep its description."
 ]
 },
 {
 "code": 401,
 "indent": 1,
 "parameters": [
-"and press ESC to close."
+"               Press ESC to close the Board! "
 ]
 },
 {
@@ -4818,7 +4862,7 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"Press M to open the Murder Board!"
+"            Press M to open the Murder Board!"
 ]
 },
 {
@@ -4835,14 +4879,14 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"Click on a clue to read its description, "
+"           Click on a clue to peep its description."
 ]
 },
 {
 "code": 401,
 "indent": 1,
 "parameters": [
-"and press ESC to close."
+"               Press ESC to close the Board! "
 ]
 },
 {
@@ -5143,7 +5187,7 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"Press M to open the Murder Board!"
+"            Press M to open the Murder Board!"
 ]
 },
 {
@@ -5160,14 +5204,14 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"Click on a clue to read its description, "
+"           Click on a clue to peep its description."
 ]
 },
 {
 "code": 401,
 "indent": 1,
 "parameters": [
-"and press ESC to close."
+"               Press ESC to close the Board! "
 ]
 },
 {
