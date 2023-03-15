@@ -12118,6 +12118,18 @@ null,
 ]
 },
 {
+"code": 250,
+"indent": 2,
+"parameters": [
+{
+"name": "npc_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 2,
 "parameters": [
@@ -12180,6 +12192,18 @@ null,
 "indent": 2,
 "parameters": [
 "up the stairs. Can't miss it!"
+]
+},
+{
+"code": 250,
+"indent": 2,
+"parameters": [
+{
+"name": "npc_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
