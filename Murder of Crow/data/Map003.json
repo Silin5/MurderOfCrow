@@ -1710,7 +1710,7 @@ false
 "indent": 0,
 "parameters": [
 "crowleyfaces",
-5,
+2,
 0,
 2
 ]
@@ -1719,7 +1719,48 @@ false
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Crowley>I think that should be obvious... Blood."
+"\\n<Crowley>I think that should be obvious..."
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>Blood..."
 ]
 },
 {
@@ -1810,7 +1851,7 @@ false
 "indent": 1,
 "parameters": [
 "crowleyfaces",
-0,
+6,
 0,
 2
 ]
@@ -1819,7 +1860,7 @@ false
 "code": 401,
 "indent": 1,
 "parameters": [
-"\\n<Crowley>That's all the evidence I'll find here"
+"\\n<Crowley>That's all the evidence I'll find here."
 ]
 },
 {
@@ -1897,7 +1938,7 @@ false
 "code": 401,
 "indent": 2,
 "parameters": [
-"go talk to the eye-witness!"
+"go talk to Sly, the eye-witness!"
 ]
 },
 {
@@ -2162,6 +2203,18 @@ false
 ]
 },
 {
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 0,
 "parameters": [
@@ -2179,10 +2232,32 @@ false
 ]
 },
 {
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+2,
+0,
+2
+]
+},
+{
 "code": 401,
 "indent": 0,
 "parameters": [
-"There is a wire tied around the torso."
+"\\n<Crowley>There is a wire tied around the torso."
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
@@ -2290,7 +2365,7 @@ false
 "indent": 1,
 "parameters": [
 "crowleyfaces",
-0,
+6,
 0,
 2
 ]
@@ -2299,7 +2374,7 @@ false
 "code": 401,
 "indent": 1,
 "parameters": [
-"\\n<Crowley>That's all the evidence I'll find here"
+"\\n<Crowley>That's all the evidence I'll find here."
 ]
 },
 {
@@ -2377,7 +2452,7 @@ false
 "code": 401,
 "indent": 2,
 "parameters": [
-"go talk to the eye-witness!"
+"go talk to Sly, the eye-witness!"
 ]
 },
 {
@@ -2642,6 +2717,18 @@ false
 ]
 },
 {
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 0,
 "parameters": [
@@ -2663,6 +2750,18 @@ false
 "indent": 0,
 "parameters": [
 "There is a wire tied around the torso."
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
@@ -2770,7 +2869,7 @@ false
 "indent": 1,
 "parameters": [
 "crowleyfaces",
-0,
+6,
 0,
 2
 ]
@@ -2779,7 +2878,7 @@ false
 "code": 401,
 "indent": 1,
 "parameters": [
-"\\n<Crowley>That's all the evidence I'll find here"
+"\\n<Crowley>That's all the evidence I'll find here."
 ]
 },
 {
@@ -2857,7 +2956,7 @@ false
 "code": 401,
 "indent": 2,
 "parameters": [
-"go talk to the eye-witness!"
+"go talk to Sly, the eye-witness!"
 ]
 },
 {
@@ -3377,14 +3476,14 @@ false
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Crowley>I think not... There are "
+"\\n<Crowley>I think not... There are no signs"
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"no signs of a cut or stab wound."
+"of a cut or stab wound."
 ]
 },
 {
@@ -3475,7 +3574,7 @@ false
 "indent": 1,
 "parameters": [
 "crowleyfaces",
-0,
+6,
 0,
 2
 ]
@@ -3484,7 +3583,7 @@ false
 "code": 401,
 "indent": 1,
 "parameters": [
-"\\n<Crowley>That's all the evidence I'll find here"
+"\\n<Crowley>That's all the evidence I'll find here."
 ]
 },
 {
@@ -3562,7 +3661,7 @@ false
 "code": 401,
 "indent": 2,
 "parameters": [
-"go talk to the eye-witness!"
+"go talk to Sly, the eye-witness!"
 ]
 },
 {
@@ -4209,7 +4308,7 @@ false
 "indent": 1,
 "parameters": [
 "crowleyfaces",
-0,
+6,
 0,
 2
 ]
@@ -4218,7 +4317,7 @@ false
 "code": 401,
 "indent": 1,
 "parameters": [
-"\\n<Crowley>That's all the evidence I'll find here"
+"\\n<Crowley>That's all the evidence I'll find here."
 ]
 },
 {
@@ -4296,7 +4395,7 @@ false
 "code": 401,
 "indent": 2,
 "parameters": [
-"go talk to the eye-witness!"
+"go talk to Sly, the eye-witness!"
 ]
 },
 {
@@ -4742,7 +4841,7 @@ false
 "indent": 1,
 "parameters": [
 "crowleyfaces",
-0,
+6,
 0,
 2
 ]
@@ -4751,7 +4850,7 @@ false
 "code": 401,
 "indent": 1,
 "parameters": [
-"\\n<Crowley>That's all the evidence I'll find here"
+"\\n<Crowley>That's all the evidence I'll find here."
 ]
 },
 {
@@ -4829,7 +4928,7 @@ false
 "code": 401,
 "indent": 2,
 "parameters": [
-"go talk to the eye-witness!"
+"go talk to Sly, the eye-witness!"
 ]
 },
 {
@@ -7061,7 +7160,7 @@ false
 "indent": 0,
 "parameters": [
 "crowleyfaces",
-5,
+2,
 0,
 2
 ]
@@ -7070,7 +7169,48 @@ false
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Crowley>I think that should be obvious... Blood."
+"\\n<Crowley>I think that should be obvious..."
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>Blood..."
 ]
 },
 {
@@ -7161,7 +7301,7 @@ false
 "indent": 1,
 "parameters": [
 "crowleyfaces",
-0,
+6,
 0,
 2
 ]
@@ -7170,7 +7310,7 @@ false
 "code": 401,
 "indent": 1,
 "parameters": [
-"\\n<Crowley>That's all the evidence I'll find here"
+"\\n<Crowley>That's all the evidence I'll find here."
 ]
 },
 {
@@ -7248,7 +7388,7 @@ false
 "code": 401,
 "indent": 2,
 "parameters": [
-"go talk to the eye-witness!"
+"go talk to Sly, the eye-witness!"
 ]
 },
 {
@@ -8207,7 +8347,7 @@ false
 "indent": 0,
 "parameters": [
 "crowleyfaces",
-5,
+2,
 0,
 2
 ]
@@ -8216,7 +8356,48 @@ false
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Crowley>I think that should be obvious... Blood."
+"\\n<Crowley>I think that should be obvious..."
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>Blood..."
 ]
 },
 {
@@ -8307,7 +8488,7 @@ false
 "indent": 1,
 "parameters": [
 "crowleyfaces",
-0,
+6,
 0,
 2
 ]
@@ -8316,7 +8497,7 @@ false
 "code": 401,
 "indent": 1,
 "parameters": [
-"\\n<Crowley>That's all the evidence I'll find here"
+"\\n<Crowley>That's all the evidence I'll find here."
 ]
 },
 {
@@ -8394,7 +8575,7 @@ false
 "code": 401,
 "indent": 2,
 "parameters": [
-"go talk to the eye-witness!"
+"go talk to Sly, the eye-witness!"
 ]
 },
 {
@@ -9376,7 +9557,7 @@ false
 "indent": 1,
 "parameters": [
 "crowleyfaces",
-0,
+6,
 0,
 2
 ]
@@ -9385,7 +9566,7 @@ false
 "code": 401,
 "indent": 1,
 "parameters": [
-"\\n<Crowley>That's all the evidence I'll find here"
+"\\n<Crowley>That's all the evidence I'll find here."
 ]
 },
 {
@@ -9463,7 +9644,7 @@ false
 "code": 401,
 "indent": 2,
 "parameters": [
-"go talk to the eye-witness!"
+"go talk to Sly, the eye-witness!"
 ]
 },
 {
@@ -10422,7 +10603,7 @@ false
 "indent": 0,
 "parameters": [
 "crowleyfaces",
-5,
+2,
 0,
 2
 ]
@@ -10431,7 +10612,48 @@ false
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Crowley>I think that should be obvious... Blood."
+"\\n<Crowley>I think that should be obvious..."
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>Blood..."
 ]
 },
 {
@@ -10522,7 +10744,7 @@ false
 "indent": 1,
 "parameters": [
 "crowleyfaces",
-0,
+6,
 0,
 2
 ]
@@ -10531,7 +10753,7 @@ false
 "code": 401,
 "indent": 1,
 "parameters": [
-"\\n<Crowley>That's all the evidence I'll find here"
+"\\n<Crowley>That's all the evidence I'll find here."
 ]
 },
 {
@@ -10609,7 +10831,7 @@ false
 "code": 401,
 "indent": 2,
 "parameters": [
-"go talk to the eye-witness!"
+"go talk to Sly, the eye-witness!"
 ]
 },
 {
@@ -11397,14 +11619,14 @@ false
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Crowley>I think not... There are "
+"\\n<Crowley>I think not... There are no signs"
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"no signs of a cut or stab wound."
+"of a cut or stab wound."
 ]
 },
 {
@@ -11495,7 +11717,7 @@ false
 "indent": 1,
 "parameters": [
 "crowleyfaces",
-0,
+6,
 0,
 2
 ]
@@ -11504,7 +11726,7 @@ false
 "code": 401,
 "indent": 1,
 "parameters": [
-"\\n<Crowley>That's all the evidence I'll find here"
+"\\n<Crowley>That's all the evidence I'll find here."
 ]
 },
 {
@@ -11582,7 +11804,7 @@ false
 "code": 401,
 "indent": 2,
 "parameters": [
-"go talk to the eye-witness!"
+"go talk to Sly, the eye-witness!"
 ]
 },
 {
@@ -13301,7 +13523,7 @@ false
 "indent": 1,
 "parameters": [
 "crowleyfaces",
-0,
+6,
 0,
 2
 ]
@@ -13310,7 +13532,7 @@ false
 "code": 401,
 "indent": 1,
 "parameters": [
-"\\n<Crowley>That's all the evidence I'll find here"
+"\\n<Crowley>That's all the evidence I'll find here."
 ]
 },
 {
@@ -13388,7 +13610,7 @@ false
 "code": 401,
 "indent": 2,
 "parameters": [
-"go talk to the eye-witness!"
+"go talk to Sly, the eye-witness!"
 ]
 },
 {

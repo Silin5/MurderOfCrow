@@ -1977,7 +1977,7 @@ null,
 "indent": 0,
 "parameters": [
 "skunkhead_sheet",
-0,
+2,
 0,
 2
 ]
@@ -2054,7 +2054,7 @@ null,
 "indent": 0,
 "parameters": [
 "skunkhead_sheet",
-0,
+1,
 0,
 2
 ]
@@ -2316,7 +2316,7 @@ null,
 "indent": 0,
 "parameters": [
 "skunkhead_sheet",
-0,
+2,
 0,
 2
 ]
@@ -2489,7 +2489,7 @@ null,
 "indent": 0,
 "parameters": [
 "skunkhead_sheet",
-0,
+1,
 0,
 2
 ]
@@ -2822,7 +2822,7 @@ null,
 "indent": 2,
 "parameters": [
 "crowleyfaces",
-6,
+4,
 0,
 2
 ]
@@ -2831,14 +2831,31 @@ null,
 "code": 401,
 "indent": 2,
 "parameters": [
-"\\n<Crowley>I should probably talk to Kiwi"
+"\\n<Crowley>Is that what I think it is...?"
+]
+},
+{
+"code": 101,
+"indent": 2,
+"parameters": [
+"crowleyfaces",
+5,
+0,
+2
 ]
 },
 {
 "code": 401,
 "indent": 2,
 "parameters": [
-"first to see what's going on here."
+"\\n<Crowley>I should probably talk to Kiwi to"
+]
+},
+{
+"code": 401,
+"indent": 2,
+"parameters": [
+"see what's going on here."
 ]
 },
 {
@@ -2877,7 +2894,7 @@ null,
 "code": 401,
 "indent": 2,
 "parameters": [
-"\\n<Crowley>I guess I'll inspect the body..."
+"\\n<Crowley>Time to inspect the body..."
 ]
 },
 {
@@ -2978,7 +2995,7 @@ null,
 "code": 101,
 "indent": 1,
 "parameters": [
-"",
+"crowleyfaces",
 0,
 0,
 2
@@ -2988,7 +3005,14 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"It's a body..."
+"\\n<Crowley>This is where the investigation began,"
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"but we already inspected the body..."
 ]
 },
 {
@@ -3210,8 +3234,8 @@ null,
 "code": 101,
 "indent": 0,
 "parameters": [
-"kiwihead_sheet",
-0,
+"updated_kiwihead_sheet",
+2,
 0,
 2
 ]
@@ -3220,21 +3244,53 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Kiwi>Word is, a murder. Just thinking "
+"\\n<Kiwi>Word is, a murder."
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"updated_kiwihead_sheet",
+5,
+0,
+2
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"about it ruffles my feathers."
+"\\n<Kiwi>Just thinking about it ruffles my feathers."
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"updated_kiwihead_sheet",
+2,
+0,
+2
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"But why don’t you see for yourself?"
+"\\n<Kiwi>But why don’t you see for yourself?"
 ]
 },
 {
@@ -3360,21 +3416,38 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Kiwi>Not much. I’m not the expert sleuth, after "
+"\\n<Kiwi>Not much. I’m not the expert sleuth,"
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"all! But, you might want to speak with Sly."
+"after all! "
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"updated_kiwihead_sheet",
+4,
+0,
+2
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"They found the body."
+"\\n<Kiwi>But, you might want to speak with Sly"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"over there. They found the body."
 ]
 },
 {
@@ -3983,7 +4056,7 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"\\n<Crowley>I need investigate."
+"\\n<Crowley>I should investigate Town Square first."
 ]
 },
 {
@@ -4146,7 +4219,7 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"\\n<Crowley>I need investigate."
+"\\n<Crowley>I should investigate Town Square first."
 ]
 },
 {
@@ -4313,28 +4386,38 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"You found your first clue!"
+"               You have found your first clue!"
 ]
 },
 {
 "code": 401,
 "indent": 1,
 "parameters": [
-"Press M to open the Murder Board!"
+"            Press M to open the Murder Board!"
+]
+},
+{
+"code": 101,
+"indent": 1,
+"parameters": [
+"",
+0,
+0,
+2
 ]
 },
 {
 "code": 401,
 "indent": 1,
 "parameters": [
-"Click on a clue to read its description, "
+"           Click on a clue to peep its description."
 ]
 },
 {
 "code": 401,
 "indent": 1,
 "parameters": [
-"and press ESC to close."
+"               Press ESC to close the Board!"
 ]
 },
 {
@@ -4597,7 +4680,14 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"Press M to open the Murder Board!"
+""
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"            Press M to open the Murder Board!"
 ]
 },
 {
@@ -4614,14 +4704,14 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"Click on a clue to read its description, "
+"           Click on a clue to peep its description."
 ]
 },
 {
 "code": 401,
 "indent": 1,
 "parameters": [
-"and press ESC to close."
+"               Press ESC to close the Board!"
 ]
 },
 {
@@ -4922,7 +5012,14 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"Press M to open the Murder Board!"
+""
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"            Press M to open the Murder Board!"
 ]
 },
 {
@@ -4939,14 +5036,14 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"Click on a clue to read its description, "
+"           Click on a clue to peep its description."
 ]
 },
 {
 "code": 401,
 "indent": 1,
 "parameters": [
-"and press ESC to close."
+"               Press ESC to close the Board!"
 ]
 },
 {
@@ -5181,11 +5278,6 @@ null,
 ]
 },
 {
-"code": 113,
-"indent": 2,
-"parameters": []
-},
-{
 "code": 205,
 "indent": 2,
 "parameters": [
@@ -5215,6 +5307,11 @@ null,
 "indent": null
 }
 ]
+},
+{
+"code": 113,
+"indent": 2,
+"parameters": []
 },
 {
 "code": 0,
@@ -5452,7 +5549,7 @@ null,
 "indent": 1,
 "parameters": [
 {
-"name": "market",
+"name": "narrows",
 "volume": 90,
 "pitch": 100,
 "pan": 0
@@ -5483,7 +5580,7 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"\\n<Crowley>I need investigate."
+"\\n<Crowley>I should investigate Town Square first."
 ]
 },
 {
@@ -10552,7 +10649,7 @@ false
 "indent": 1,
 "parameters": [
 {
-"name": "market",
+"name": "narrows",
 "volume": 90,
 "pitch": 100,
 "pan": 0
@@ -10583,7 +10680,7 @@ false
 "code": 401,
 "indent": 1,
 "parameters": [
-"\\n<Crowley>I need investigate."
+"\\n<Crowley>I should investigate Town Square first."
 ]
 },
 {
@@ -10715,7 +10812,7 @@ false
 "indent": 1,
 "parameters": [
 {
-"name": "market",
+"name": "narrows",
 "volume": 90,
 "pitch": 100,
 "pan": 0
@@ -10746,7 +10843,7 @@ false
 "code": 401,
 "indent": 1,
 "parameters": [
-"\\n<Crowley>I need investigate."
+"\\n<Crowley>I should investigate Town Square first."
 ]
 },
 {
