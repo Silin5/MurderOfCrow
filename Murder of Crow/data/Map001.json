@@ -5762,8 +5762,8 @@ null,
 "selfSwitchValid": false,
 "switch1Id": 123,
 "switch1Valid": true,
-"switch2Id": 1,
-"switch2Valid": false,
+"switch2Id": 130,
+"switch2Valid": true,
 "variableId": 1,
 "variableValid": false,
 "variableValue": 0
@@ -14021,7 +14021,7 @@ false
 "code": 401,
 "indent": 0,
 "parameters": [
-"Who better to promote my goods than"
+"\\n<Jay>Who better to promote my goods than"
 ]
 },
 {
@@ -14127,14 +14127,14 @@ false
 "code": 401,
 "indent": 0,
 "parameters": [
-"Just maybe don’t put it up near the stall..."
+"\\n<Jay>Just maybe don’t put it up near the"
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"Wouldn't want to alarm customers."
+"stall... Wouldn't want to alarm customers."
 ]
 },
 {
@@ -14180,7 +14180,7 @@ false
 "code": 401,
 "indent": 0,
 "parameters": [
-"What now?"
+"\\n<Kiwi>What now?"
 ]
 },
 {
