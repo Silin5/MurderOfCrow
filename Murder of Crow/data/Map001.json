@@ -3576,6 +3576,57 @@ null,
 "through": false,
 "trigger": 3,
 "walkAnime": false
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 134,
+"switch1Valid": true,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"tileId": 256,
+"characterName": "",
+"characterIndex": 0,
+"direction": 2,
+"pattern": 0
+},
+"list": [
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 3,
+"walkAnime": false
 }
 ],
 "x": 11,
@@ -12819,7 +12870,7 @@ null,
 "priorityType": 1,
 "stepAnime": false,
 "through": false,
-"trigger": 3,
+"trigger": 4,
 "walkAnime": true
 },
 {
@@ -12870,7 +12921,7 @@ null,
 "priorityType": 1,
 "stepAnime": false,
 "through": false,
-"trigger": 3,
+"trigger": 4,
 "walkAnime": true
 },
 {
@@ -12921,7 +12972,7 @@ null,
 "priorityType": 1,
 "stepAnime": false,
 "through": false,
-"trigger": 3,
+"trigger": 4,
 "walkAnime": true
 },
 {
@@ -15155,6 +15206,51 @@ null,
 ]
 },
 {
+"code": 205,
+"indent": 0,
+"parameters": [
+26,
+{
+"list": [
+{
+"code": 16,
+"indent": null
+},
+{
+"code": 12,
+"indent": null
+},
+{
+"code": 0
+}
+],
+"repeat": false,
+"skippable": false,
+"wait": false
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 16,
+"indent": null
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 12,
+"indent": null
+}
+]
+},
+{
 "code": 250,
 "indent": 0,
 "parameters": [
@@ -15506,7 +15602,7 @@ null,
 {
 "list": [
 {
-"code": 33,
+"code": 31,
 "indent": null
 },
 {
@@ -15526,7 +15622,7 @@ null,
 "indent": 0
 },
 {
-"code": 34,
+"code": 32,
 "indent": null
 },
 {
@@ -15548,7 +15644,7 @@ null,
 "indent": 0,
 "parameters": [
 {
-"code": 33,
+"code": 31,
 "indent": null
 }
 ]
@@ -15598,7 +15694,7 @@ null,
 "indent": 0,
 "parameters": [
 {
-"code": 34,
+"code": 32,
 "indent": null
 }
 ]
@@ -15672,21 +15768,19 @@ null,
 ]
 },
 {
-"code": 121,
-"indent": 0,
-"parameters": [
-128,
-128,
-0
-]
-},
-{
 "code": 205,
 "indent": 0,
 "parameters": [
 25,
 {
 "list": [
+{
+"code": 27,
+"parameters": [
+134
+],
+"indent": 0
+},
 {
 "code": 41,
 "parameters": [
@@ -15714,6 +15808,19 @@ null,
 "repeat": false,
 "skippable": false,
 "wait": true
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 27,
+"parameters": [
+134
+],
+"indent": 0
 }
 ]
 },
@@ -15769,7 +15876,11 @@ null,
 {
 "list": [
 {
-"code": 1,
+"code": 16,
+"indent": null
+},
+{
+"code": 32,
 "indent": null
 },
 {
@@ -15787,9 +15898,28 @@ null,
 "indent": 0,
 "parameters": [
 {
-"code": 1,
+"code": 16,
 "indent": null
 }
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 32,
+"indent": null
+}
+]
+},
+{
+"code": 121,
+"indent": 0,
+"parameters": [
+128,
+128,
+0
 ]
 },
 {
