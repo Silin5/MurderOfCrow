@@ -1947,14 +1947,6 @@ null,
 ]
 },
 {
-"code": 123,
-"indent": 0,
-"parameters": [
-"A",
-0
-]
-},
-{
 "code": 0,
 "indent": 0,
 "parameters": []
@@ -1987,9 +1979,9 @@ null,
 "itemId": 1,
 "itemValid": false,
 "selfSwitchCh": "A",
-"selfSwitchValid": true,
-"switch1Id": 1,
-"switch1Valid": false,
+"selfSwitchValid": false,
+"switch1Id": 62,
+"switch1Valid": true,
 "switch2Id": 1,
 "switch2Valid": false,
 "variableId": 1,
@@ -2549,14 +2541,6 @@ null,
 ]
 },
 {
-"code": 123,
-"indent": 0,
-"parameters": [
-"A",
-0
-]
-},
-{
 "code": 0,
 "indent": 0,
 "parameters": []
@@ -2589,9 +2573,9 @@ null,
 "itemId": 1,
 "itemValid": false,
 "selfSwitchCh": "A",
-"selfSwitchValid": true,
-"switch1Id": 1,
-"switch1Valid": false,
+"selfSwitchValid": false,
+"switch1Id": 62,
+"switch1Valid": true,
 "switch2Id": 1,
 "switch2Valid": false,
 "variableId": 1,
