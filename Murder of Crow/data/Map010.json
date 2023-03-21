@@ -1776,18 +1776,6 @@ null,
 ]
 },
 {
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "crowley_voice",
-"volume": 70,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
 "code": 101,
 "indent": 0,
 "parameters": [
