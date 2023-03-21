@@ -6615,6 +6615,18 @@ null,
 ]
 },
 {
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "npc_voice",
+"volume": 60,
+"pitch": 90,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 0,
 "parameters": [
@@ -6926,6 +6938,85 @@ null,
 "stepAnime": false,
 "through": false,
 "trigger": 0,
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 124,
+"switch1Valid": true,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"tileId": 0,
+"characterName": "$jayvendor",
+"direction": 6,
+"pattern": 1,
+"characterIndex": 0
+},
+"list": [
+{
+"code": 111,
+"indent": 0,
+"parameters": [
+0,
+129,
+1
+]
+},
+{
+"code": 213,
+"indent": 1,
+"parameters": [
+0,
+6,
+false
+]
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 412,
+"indent": 0,
+"parameters": []
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 1,
+"stepAnime": false,
+"through": false,
+"trigger": 4,
 "walkAnime": true
 },
 {
@@ -10605,6 +10696,18 @@ null,
 ]
 },
 {
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 0,
 "parameters": [
@@ -10629,6 +10732,18 @@ null,
 ]
 },
 {
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 0,
 "parameters": [
@@ -10643,6 +10758,18 @@ null,
 "indent": 0,
 "parameters": [
 "\\n<Crowley>A kid hugging a dead body?!"
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
@@ -12414,6 +12541,15 @@ null,
 ]
 },
 {
+"code": 121,
+"indent": 0,
+"parameters": [
+135,
+135,
+0
+]
+},
+{
 "code": 0,
 "indent": 0,
 "parameters": []
@@ -12437,6 +12573,85 @@ null,
 "stepAnime": false,
 "through": false,
 "trigger": 0,
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 124,
+"switch1Valid": true,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"tileId": 0,
+"characterName": "$slyskunkwitness",
+"direction": 8,
+"pattern": 1,
+"characterIndex": 0
+},
+"list": [
+{
+"code": 111,
+"indent": 0,
+"parameters": [
+0,
+135,
+1
+]
+},
+{
+"code": 213,
+"indent": 1,
+"parameters": [
+0,
+8,
+false
+]
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 412,
+"indent": 0,
+"parameters": []
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 1,
+"stepAnime": false,
+"through": false,
+"trigger": 4,
 "walkAnime": true
 },
 {
@@ -12612,6 +12827,18 @@ null,
 ]
 },
 {
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "rac_baby",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 0,
 "parameters": [
@@ -12658,6 +12885,18 @@ null,
 ]
 },
 {
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "rac_baby",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 0,
 "parameters": [
@@ -12701,6 +12940,18 @@ null,
 "indent": 0,
 "parameters": [
 "\\n<Crowley>How long have you been friends?"
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "rac_baby",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
@@ -13270,6 +13521,18 @@ null,
 ]
 },
 {
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "rac_mama",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 0,
 "parameters": [
@@ -13315,6 +13578,18 @@ null,
 "indent": 0,
 "parameters": [
 "antics. We don’t mean you any trouble."
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "rac_mama",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
@@ -13375,6 +13650,18 @@ null,
 "indent": 0,
 "parameters": [
 "to a string of robberies in the Narrows."
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "rac_mama",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
@@ -13452,6 +13739,18 @@ null,
 "indent": 0,
 "parameters": [
 "attached to."
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "rac_mama",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
@@ -13554,6 +13853,18 @@ null,
 ]
 },
 {
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "rac_mama",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 0,
 "parameters": [
@@ -13621,6 +13932,18 @@ null,
 ]
 },
 {
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "rac_mama",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 0,
 "parameters": [
@@ -13678,6 +14001,18 @@ null,
 "indent": 0,
 "parameters": [
 "other. Nothing unusual happened?"
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "rac_mama",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
@@ -13814,6 +14149,85 @@ null,
 "stepAnime": false,
 "through": false,
 "trigger": 0,
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 124,
+"switch1Valid": true,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"tileId": 0,
+"characterName": "$mamaraccoon_overworld",
+"direction": 2,
+"pattern": 1,
+"characterIndex": 0
+},
+"list": [
+{
+"code": 111,
+"indent": 0,
+"parameters": [
+0,
+130,
+1
+]
+},
+{
+"code": 213,
+"indent": 1,
+"parameters": [
+0,
+2,
+false
+]
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 412,
+"indent": 0,
+"parameters": []
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 1,
+"stepAnime": false,
+"through": false,
+"trigger": 4,
 "walkAnime": true
 },
 {
@@ -14137,6 +14551,18 @@ null,
 ]
 },
 {
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "rac_mama",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 0,
 "parameters": [
@@ -14194,6 +14620,18 @@ null,
 "indent": 0,
 "parameters": [
 "this establishment you’re so fond of?"
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "rac_mama",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
@@ -14261,6 +14699,18 @@ null,
 "indent": 0,
 "parameters": [
 "storeroom. "
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "rac_mama",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
@@ -14367,6 +14817,18 @@ null,
 ]
 },
 {
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "npc_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 0,
 "parameters": [
@@ -14388,6 +14850,18 @@ null,
 "indent": 0,
 "parameters": [
 "the MARKET! 6am to 6pm! "
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "rac_mama",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
@@ -14461,6 +14935,18 @@ null,
 ]
 },
 {
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "rac_baby",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 0,
 "parameters": [
@@ -14475,6 +14961,18 @@ null,
 "indent": 0,
 "parameters": [
 "\\n<Rascal>Mama, I’m tired... Can we go now?"
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "rac_mama",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
@@ -14567,6 +15065,18 @@ null,
 ]
 },
 {
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "npc_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 0,
 "parameters": [
@@ -14588,6 +15098,18 @@ null,
 "indent": 0,
 "parameters": [
 "consequences!"
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "rac_mama",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
@@ -14632,6 +15154,18 @@ null,
 ]
 },
 {
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "npc_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 0,
 "parameters": [
@@ -14653,6 +15187,18 @@ null,
 "indent": 0,
 "parameters": [
 "your favourite..."
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "npc_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
@@ -14680,6 +15226,18 @@ null,
 ]
 },
 {
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "rac_mama",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 0,
 "parameters": [
@@ -14694,6 +15252,18 @@ null,
 "indent": 0,
 "parameters": [
 "\\n<Moxie>What are you suggesting?"
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "npc_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
@@ -14745,6 +15315,18 @@ null,
 ]
 },
 {
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "rac_mama",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 0,
 "parameters": [
@@ -14759,6 +15341,18 @@ null,
 "indent": 0,
 "parameters": [
 "\\n<Moxie>I’d be happy to."
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "rac_mama",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
@@ -14786,6 +15380,18 @@ null,
 ]
 },
 {
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "rac_baby",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 0,
 "parameters": [
@@ -14803,6 +15409,18 @@ null,
 ]
 },
 {
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "npc_voice",
+"volume": 85,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 0,
 "parameters": [
@@ -14816,7 +15434,7 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Jay>Erm… sure. Your “crow friend”"
+"\\n<Jay>Erm... sure. Your “crow friend”"
 ]
 },
 {
@@ -15832,6 +16450,18 @@ null,
 ]
 },
 {
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "rac_mama",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 0,
 "parameters": [
@@ -15849,6 +16479,18 @@ null,
 ]
 },
 {
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "rac_baby",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 0,
 "parameters": [
@@ -15863,6 +16505,18 @@ null,
 "indent": 0,
 "parameters": [
 "\\n<Rascal>But maa-"
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "rac_mama",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
