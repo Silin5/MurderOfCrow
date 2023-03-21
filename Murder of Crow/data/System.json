@@ -152,7 +152,7 @@ true
 "optFollowers": true,
 "optSideView": false,
 "optSlipDeath": false,
-"optTransparent": false,
+"optTransparent": true,
 "partyMembers": [
 1
 ],
@@ -320,9 +320,9 @@ true
 "volume": 90
 }
 ],
-"startMapId": 1,
-"startX": 14,
-"startY": 11,
+"startMapId": 8,
+"startX": 0,
+"startY": 0,
 "switches": [
 "",
 "Cutscene",
@@ -456,8 +456,8 @@ true
 "Final Jay dialogue",
 "Final Moxie Dialogue",
 "Reset the racoons",
-"",
-"",
+"Final Cutscene Played",
+"Body Picked Up",
 "",
 "",
 "",

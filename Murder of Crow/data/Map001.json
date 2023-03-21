@@ -1253,7 +1253,7 @@
 0,
 29,
 30,
-256,
+0,
 0,
 0,
 0,
@@ -2791,6 +2791,242 @@ null,
 "itemValid": false,
 "selfSwitchCh": "A",
 "selfSwitchValid": false,
+"switch1Id": 7,
+"switch1Valid": true,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"tileId": 0,
+"characterName": "$slyskunkwitness",
+"direction": 6,
+"pattern": 1,
+"characterIndex": 0
+},
+"list": [
+{
+"code": 205,
+"indent": 0,
+"parameters": [
+1,
+{
+"list": [
+{
+"code": 31,
+"indent": null
+},
+{
+"code": 16,
+"indent": null
+},
+{
+"code": 1,
+"indent": null
+},
+{
+"code": 1,
+"indent": null
+},
+{
+"code": 1,
+"indent": null
+},
+{
+"code": 1,
+"indent": null
+},
+{
+"code": 1,
+"indent": null
+},
+{
+"code": 1,
+"indent": null
+},
+{
+"code": 1,
+"indent": null
+},
+{
+"code": 1,
+"indent": null
+},
+{
+"code": 39,
+"indent": null
+},
+{
+"code": 32,
+"indent": null
+},
+{
+"code": 0
+}
+],
+"repeat": false,
+"skippable": false,
+"wait": true
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 31,
+"indent": null
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 16,
+"indent": null
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 1,
+"indent": null
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 1,
+"indent": null
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 1,
+"indent": null
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 1,
+"indent": null
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 1,
+"indent": null
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 1,
+"indent": null
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 1,
+"indent": null
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 1,
+"indent": null
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 39,
+"indent": null
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 32,
+"indent": null
+}
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 1,
+"stepAnime": false,
+"through": false,
+"trigger": 4,
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
 "switch1Id": 6,
 "switch1Valid": true,
 "switch2Id": 5,
@@ -2918,189 +3154,7 @@ null,
 "x": 5,
 "y": 6
 },
-{
-"id": 2,
-"name": "EV002",
-"note": "",
-"pages": [
-{
-"conditions": {
-"actorId": 1,
-"actorValid": false,
-"itemId": 1,
-"itemValid": false,
-"selfSwitchCh": "A",
-"selfSwitchValid": false,
-"switch1Id": 1,
-"switch1Valid": false,
-"switch2Id": 1,
-"switch2Valid": false,
-"variableId": 1,
-"variableValid": false,
-"variableValue": 0
-},
-"directionFix": false,
-"image": {
-"characterIndex": 0,
-"characterName": "",
-"direction": 2,
-"pattern": 0,
-"tileId": 0
-},
-"list": [
-{
-"code": 242,
-"indent": 0,
-"parameters": [
-1
-]
-},
-{
-"code": 111,
-"indent": 0,
-"parameters": [
-0,
-1,
-1
-]
-},
-{
-"code": 221,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 261,
-"indent": 1,
-"parameters": [
-"Cutscene1"
-]
-},
-{
-"code": 222,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 0,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 0,
-"parameters": []
-},
-{
-"code": 241,
-"indent": 0,
-"parameters": [
-{
-"name": "townsquare",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 121,
-"indent": 0,
-"parameters": [
-1,
-1,
-0
-]
-},
-{
-"code": 123,
-"indent": 0,
-"parameters": [
-"A",
-0
-]
-},
-{
-"code": 0,
-"indent": 0,
-"parameters": []
-}
-],
-"moveFrequency": 3,
-"moveRoute": {
-"list": [
-{
-"code": 0,
-"parameters": []
-}
-],
-"repeat": true,
-"skippable": false,
-"wait": false
-},
-"moveSpeed": 3,
-"moveType": 0,
-"priorityType": 0,
-"stepAnime": false,
-"through": false,
-"trigger": 4,
-"walkAnime": true
-},
-{
-"conditions": {
-"actorId": 1,
-"actorValid": false,
-"itemId": 1,
-"itemValid": false,
-"selfSwitchCh": "A",
-"selfSwitchValid": true,
-"switch1Id": 1,
-"switch1Valid": false,
-"switch2Id": 1,
-"switch2Valid": false,
-"variableId": 1,
-"variableValid": false,
-"variableValue": 0
-},
-"directionFix": false,
-"image": {
-"characterIndex": 0,
-"characterName": "",
-"direction": 2,
-"pattern": 0,
-"tileId": 0
-},
-"list": [
-{
-"code": 0,
-"indent": 0,
-"parameters": []
-}
-],
-"moveFrequency": 3,
-"moveRoute": {
-"list": [
-{
-"code": 0,
-"parameters": []
-}
-],
-"repeat": true,
-"skippable": false,
-"wait": false
-},
-"moveSpeed": 3,
-"moveType": 0,
-"priorityType": 0,
-"stepAnime": false,
-"through": false,
-"trigger": 0,
-"walkAnime": true
-}
-],
-"x": 0,
-"y": 0
-},
+null,
 {
 "id": 3,
 "name": "DeadCrow",
@@ -3124,11 +3178,11 @@ null,
 },
 "directionFix": false,
 "image": {
-"tileId": 0,
+"tileId": 256,
 "characterName": "",
-"direction": 8,
-"pattern": 0,
-"characterIndex": 0
+"characterIndex": 0,
+"direction": 2,
+"pattern": 0
 },
 "list": [
 {
@@ -3415,11 +3469,11 @@ null,
 },
 "directionFix": false,
 "image": {
-"characterIndex": 0,
+"tileId": 256,
 "characterName": "",
+"characterIndex": 0,
 "direction": 2,
-"pattern": 0,
-"tileId": 0
+"pattern": 0
 },
 "list": [
 {
@@ -3471,6 +3525,57 @@ null,
 "through": false,
 "trigger": 0,
 "walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 133,
+"switch1Valid": true,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 3,
+"walkAnime": false
 }
 ],
 "x": 11,
@@ -3847,14 +3952,6 @@ null,
 "tileId": 0
 },
 "list": [
-{
-"code": 123,
-"indent": 0,
-"parameters": [
-"D",
-0
-]
-},
 {
 "code": 0,
 "indent": 0,
@@ -6666,7 +6763,7 @@ null,
 "itemValid": false,
 "selfSwitchCh": "A",
 "selfSwitchValid": false,
-"switch1Id": 128,
+"switch1Id": 132,
 "switch1Valid": true,
 "switch2Id": 1,
 "switch2Valid": false,
@@ -6896,12 +6993,10 @@ null,
 ]
 },
 {
-"code": 129,
+"code": 216,
 "indent": 0,
 "parameters": [
-2,
-1,
-false
+1
 ]
 },
 {
@@ -7109,7 +7204,7 @@ false
 ],
 -1,
 -1,
-2,
+1,
 0
 ]
 },
@@ -7501,7 +7596,7 @@ false
 ],
 -1,
 -1,
-2,
+1,
 0
 ]
 },
@@ -7884,7 +7979,7 @@ false
 ],
 -1,
 -1,
-2,
+1,
 0
 ]
 },
@@ -8209,7 +8304,7 @@ false
 ],
 -1,
 -1,
-2,
+1,
 0
 ]
 },
@@ -8547,7 +8642,7 @@ false
 ],
 -1,
 -1,
-2,
+1,
 0
 ]
 },
@@ -8900,7 +8995,7 @@ false
 ],
 -1,
 -1,
-2,
+1,
 0
 ]
 },
@@ -10502,6 +10597,73 @@ false
 "through": false,
 "trigger": 0,
 "walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 124,
+"switch1Valid": true,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"tileId": 0,
+"characterName": "$kiwiSheet",
+"direction": 8,
+"pattern": 1,
+"characterIndex": 0
+},
+"list": [
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 19,
+"indent": null
+},
+{
+"code": 4,
+"indent": null
+},
+{
+"code": 4,
+"indent": null
+},
+{
+"code": 17,
+"indent": null
+},
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 3,
+"priorityType": 1,
+"stepAnime": false,
+"through": false,
+"trigger": 4,
+"walkAnime": true
 }
 ],
 "x": 12,
@@ -11877,7 +12039,7 @@ false
 "tileId": 0,
 "characterName": "$slyskunkwitness",
 "direction": 4,
-"pattern": 2,
+"pattern": 1,
 "characterIndex": 0
 },
 "list": [
@@ -12551,159 +12713,28 @@ false
 "itemValid": false,
 "selfSwitchCh": "A",
 "selfSwitchValid": false,
-"switch1Id": 123,
+"switch1Id": 133,
 "switch1Valid": true,
-"switch2Id": 183,
+"switch2Id": 1,
 "switch2Valid": false,
-"variableId": 22,
-"variableValid": true,
-"variableValue": 100
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
 },
 "directionFix": false,
 "image": {
 "tileId": 0,
-"characterName": "$mamaraccoon_overworld",
+"characterName": "$pickup_body_overworld",
 "direction": 2,
 "pattern": 1,
 "characterIndex": 0
 },
 "list": [
 {
-"code": 101,
+"code": 230,
 "indent": 0,
 "parameters": [
-"",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"rascal page 3 execution"
-]
-},
-{
-"code": 205,
-"indent": 0,
-"parameters": [
-0,
-{
-"list": [
-{
-"code": 15,
-"parameters": [
-30
-],
-"indent": null
-},
-{
-"code": 16,
-"indent": null
-},
-{
-"code": 31,
-"indent": null
-},
-{
-"code": 1,
-"indent": null
-},
-{
-"code": 1,
-"indent": null
-},
-{
-"code": 1,
-"indent": null
-},
-{
-"code": 1,
-"indent": null
-},
-{
-"code": 0
-}
-],
-"repeat": false,
-"skippable": false,
-"wait": true
-}
-]
-},
-{
-"code": 505,
-"indent": 0,
-"parameters": [
-{
-"code": 15,
-"parameters": [
-30
-],
-"indent": null
-}
-]
-},
-{
-"code": 505,
-"indent": 0,
-"parameters": [
-{
-"code": 16,
-"indent": null
-}
-]
-},
-{
-"code": 505,
-"indent": 0,
-"parameters": [
-{
-"code": 31,
-"indent": null
-}
-]
-},
-{
-"code": 505,
-"indent": 0,
-"parameters": [
-{
-"code": 1,
-"indent": null
-}
-]
-},
-{
-"code": 505,
-"indent": 0,
-"parameters": [
-{
-"code": 1,
-"indent": null
-}
-]
-},
-{
-"code": 505,
-"indent": 0,
-"parameters": [
-{
-"code": 1,
-"indent": null
-}
-]
-},
-{
-"code": 505,
-"indent": 0,
-"parameters": [
-{
-"code": 1,
-"indent": null
-}
+15
 ]
 },
 {
@@ -12724,33 +12755,56 @@ false
 "moveRoute": {
 "list": [
 {
-"code": 31,
-"indent": null
-},
-{
-"code": 1,
-"indent": null
-},
-{
-"code": 1,
-"indent": null
-},
-{
-"code": 1,
-"indent": null
-},
-{
-"code": 1,
-"indent": null
-},
-{
-"code": 41,
-"parameters": [
-"$pickup_body_overworld",
-0
+"code": 0,
+"parameters": []
+}
 ],
-"indent": null
+"repeat": true,
+"skippable": false,
+"wait": false
 },
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 1,
+"stepAnime": false,
+"through": false,
+"trigger": 4,
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "B",
+"selfSwitchValid": true,
+"switch1Id": 133,
+"switch1Valid": true,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"tileId": 0,
+"characterName": "$pickup_body_overworld",
+"direction": 4,
+"pattern": 0,
+"characterIndex": 0
+},
+"list": [
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
 {
 "code": 0,
 "parameters": []
@@ -12763,9 +12817,111 @@ false
 "moveSpeed": 3,
 "moveType": 0,
 "priorityType": 1,
-"stepAnime": true,
+"stepAnime": false,
 "through": false,
-"trigger": 4,
+"trigger": 3,
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "C",
+"selfSwitchValid": true,
+"switch1Id": 133,
+"switch1Valid": true,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"tileId": 0,
+"characterName": "$pickup_body_overworld",
+"direction": 4,
+"pattern": 1,
+"characterIndex": 0
+},
+"list": [
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 1,
+"stepAnime": false,
+"through": false,
+"trigger": 3,
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "D",
+"selfSwitchValid": true,
+"switch1Id": 133,
+"switch1Valid": true,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"tileId": 0,
+"characterName": "$pickup_body_overworld",
+"direction": 4,
+"pattern": 2,
+"characterIndex": 0
+},
+"list": [
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 1,
+"stepAnime": false,
+"through": false,
+"trigger": 3,
 "walkAnime": true
 },
 {
@@ -12776,7 +12932,7 @@ false
 "itemValid": false,
 "selfSwitchCh": "A",
 "selfSwitchValid": false,
-"switch1Id": 128,
+"switch1Id": 132,
 "switch1Valid": true,
 "switch2Id": 1,
 "switch2Valid": false,
@@ -12816,7 +12972,7 @@ false
 "priorityType": 1,
 "stepAnime": false,
 "through": false,
-"trigger": 0,
+"trigger": 3,
 "walkAnime": true
 }
 ],
@@ -13598,7 +13754,7 @@ false
 "itemValid": false,
 "selfSwitchCh": "A",
 "selfSwitchValid": false,
-"switch1Id": 128,
+"switch1Id": 132,
 "switch1Valid": true,
 "switch2Id": 1,
 "switch2Valid": false,
@@ -13638,7 +13794,7 @@ false
 "priorityType": 1,
 "stepAnime": false,
 "through": false,
-"trigger": 0,
+"trigger": 3,
 "walkAnime": true
 }
 ],
@@ -13702,7 +13858,7 @@ false
 }
 ],
 "repeat": false,
-"skippable": true,
+"skippable": false,
 "wait": true
 }
 ]
@@ -14674,6 +14830,18 @@ false
 },
 "list": [
 {
+"code": 243,
+"indent": 0,
+"parameters": []
+},
+{
+"code": 242,
+"indent": 0,
+"parameters": [
+1
+]
+},
+{
 "code": 205,
 "indent": 0,
 "parameters": [
@@ -14748,7 +14916,7 @@ false
 ],
 "repeat": false,
 "skippable": false,
-"wait": true
+"wait": false
 }
 ]
 },
@@ -14799,7 +14967,7 @@ false
 ],
 "repeat": false,
 "skippable": false,
-"wait": true
+"wait": false
 }
 ]
 },
@@ -14850,7 +15018,7 @@ false
 ],
 "repeat": false,
 "skippable": false,
-"wait": true
+"wait": false
 }
 ]
 },
@@ -14875,18 +15043,6 @@ false
 "code": 19,
 "indent": null
 }
-]
-},
-{
-"code": 243,
-"indent": 0,
-"parameters": []
-},
-{
-"code": 242,
-"indent": 0,
-"parameters": [
-1
 ]
 },
 {
@@ -14923,7 +15079,7 @@ false
 "indent": null
 },
 {
-"code": 1,
+"code": 16,
 "indent": null
 },
 {
@@ -14932,14 +15088,6 @@ false
 },
 {
 "code": 1,
-"indent": null
-},
-{
-"code": 1,
-"indent": null
-},
-{
-"code": 17,
 "indent": null
 },
 {
@@ -14952,7 +15100,7 @@ false
 ],
 "repeat": false,
 "skippable": false,
-"wait": true
+"wait": false
 }
 ]
 },
@@ -14971,7 +15119,7 @@ false
 "indent": 0,
 "parameters": [
 {
-"code": 1,
+"code": 16,
 "indent": null
 }
 ]
@@ -14992,26 +15140,6 @@ false
 "parameters": [
 {
 "code": 1,
-"indent": null
-}
-]
-},
-{
-"code": 505,
-"indent": 0,
-"parameters": [
-{
-"code": 1,
-"indent": null
-}
-]
-},
-{
-"code": 505,
-"indent": 0,
-"parameters": [
-{
-"code": 17,
 "indent": null
 }
 ]
@@ -15081,14 +15209,14 @@ false
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Sly>W-well how was I to know? I only ever saw them"
+"\\n<Sly>W-well how was I to know? I only ever"
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"in the dark!"
+"saw them in the dark!"
 ]
 },
 {
@@ -15121,6 +15249,65 @@ false
 ]
 },
 {
+"code": 205,
+"indent": 0,
+"parameters": [
+25,
+{
+"list": [
+{
+"code": 37,
+"indent": null
+},
+{
+"code": 12,
+"indent": null
+},
+{
+"code": 12,
+"indent": null
+},
+{
+"code": 0
+}
+],
+"repeat": false,
+"skippable": false,
+"wait": false
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 37,
+"indent": null
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 12,
+"indent": null
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 12,
+"indent": null
+}
+]
+},
+{
 "code": 250,
 "indent": 0,
 "parameters": [
@@ -15147,6 +15334,57 @@ false
 "indent": 0,
 "parameters": [
 "\\n<Jay>Wait, kid, where are you going?"
+]
+},
+{
+"code": 205,
+"indent": 0,
+"parameters": [
+25,
+{
+"list": [
+{
+"code": 12,
+"indent": null
+},
+{
+"code": 27,
+"parameters": [
+133
+],
+"indent": null
+},
+{
+"code": 0
+}
+],
+"repeat": false,
+"skippable": false,
+"wait": true
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 12,
+"indent": null
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 27,
+"parameters": [
+133
+],
+"indent": null
+}
 ]
 },
 {
@@ -15272,17 +15510,6 @@ false
 "indent": null
 },
 {
-"code": 17,
-"indent": 0
-},
-{
-"code": 15,
-"parameters": [
-15
-],
-"indent": 0
-},
-{
 "code": 1,
 "indent": 0
 },
@@ -15303,12 +15530,16 @@ false
 "indent": null
 },
 {
+"code": 17,
+"indent": null
+},
+{
 "code": 0
 }
 ],
 "repeat": false,
 "skippable": false,
-"wait": true
+"wait": false
 }
 ]
 },
@@ -15327,29 +15558,6 @@ false
 "indent": 0,
 "parameters": [
 {
-"code": 17,
-"indent": 0
-}
-]
-},
-{
-"code": 505,
-"indent": 0,
-"parameters": [
-{
-"code": 15,
-"parameters": [
-15
-],
-"indent": 0
-}
-]
-},
-{
-"code": 505,
-"indent": 0,
-"parameters": [
-{
 "code": 1,
 "indent": 0
 }
@@ -15391,6 +15599,16 @@ false
 "parameters": [
 {
 "code": 34,
+"indent": null
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 17,
 "indent": null
 }
 ]
@@ -15463,11 +15681,115 @@ false
 ]
 },
 {
-"code": 123,
+"code": 205,
 "indent": 0,
 "parameters": [
-"A",
+25,
+{
+"list": [
+{
+"code": 41,
+"parameters": [
+"$babyraccoon_overworld",
 0
+],
+"indent": null
+},
+{
+"code": 13,
+"indent": null
+},
+{
+"code": 38,
+"indent": null
+},
+{
+"code": 18,
+"indent": null
+},
+{
+"code": 0
+}
+],
+"repeat": false,
+"skippable": false,
+"wait": true
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 41,
+"parameters": [
+"$babyraccoon_overworld",
+0
+],
+"indent": null
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 13,
+"indent": null
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 38,
+"indent": null
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 18,
+"indent": null
+}
+]
+},
+{
+"code": 205,
+"indent": 0,
+"parameters": [
+26,
+{
+"list": [
+{
+"code": 1,
+"indent": null
+},
+{
+"code": 0
+}
+],
+"repeat": false,
+"skippable": false,
+"wait": false
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 1,
+"indent": null
+}
 ]
 },
 {
@@ -15476,6 +15798,14 @@ false
 "parameters": [
 127,
 127,
+0
+]
+},
+{
+"code": 123,
+"indent": 0,
+"parameters": [
+"A",
 0
 ]
 },
@@ -15777,8 +16107,8 @@ false
 "walkAnime": true
 }
 ],
-"x": 11,
-"y": 9
+"x": 12,
+"y": 8
 },
 {
 "id": 31,
