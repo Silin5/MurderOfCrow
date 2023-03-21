@@ -5898,7 +5898,7 @@ null,
 "itemId": 1,
 "itemValid": false,
 "selfSwitchCh": "A",
-"selfSwitchValid": true,
+"selfSwitchValid": false,
 "switch1Id": 1,
 "switch1Valid": false,
 "switch2Id": 1,
@@ -5966,7 +5966,7 @@ null,
 "indent": 0,
 "parameters": [
 "A",
-1
+0
 ]
 },
 {
@@ -5992,7 +5992,7 @@ null,
 "priorityType": 0,
 "stepAnime": false,
 "through": false,
-"trigger": 0,
+"trigger": 3,
 "walkAnime": true
 },
 {
@@ -6002,7 +6002,7 @@ null,
 "itemId": 1,
 "itemValid": false,
 "selfSwitchCh": "A",
-"selfSwitchValid": false,
+"selfSwitchValid": true,
 "switch1Id": 1,
 "switch1Valid": false,
 "switch2Id": 1,
@@ -6154,7 +6154,7 @@ null,
 "priorityType": 0,
 "stepAnime": false,
 "through": false,
-"trigger": 0,
+"trigger": 3,
 "walkAnime": true
 }
 ],

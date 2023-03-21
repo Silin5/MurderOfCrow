@@ -9276,7 +9276,7 @@ null,
 },
 {
 "id": 14,
-"name": "EV014",
+"name": "Storeroom entry",
 "note": "",
 "pages": [
 {
@@ -9327,7 +9327,7 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"Jay’s Jams and Jellies! Open Everyday 6-6!"
+"Jay’s Jams and Jellies!"
 ]
 },
 {
@@ -9340,8 +9340,29 @@ null,
 ]
 },
 {
-"code": 101,
+"code": 111,
 "indent": 2,
+"parameters": [
+0,
+135,
+1
+]
+},
+{
+"code": 250,
+"indent": 3,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 3,
 "parameters": [
 "updated_kiwihead_sheet",
 1,
@@ -9351,10 +9372,66 @@ null,
 },
 {
 "code": 401,
-"indent": 2,
+"indent": 3,
 "parameters": [
 "\\n<Kiwi>This must be the place boss!"
 ]
+},
+{
+"code": 0,
+"indent": 3,
+"parameters": []
+},
+{
+"code": 411,
+"indent": 2,
+"parameters": []
+},
+{
+"code": 250,
+"indent": 3,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 3,
+"parameters": [
+"updated_kiwihead_sheet",
+1,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 3,
+"parameters": [
+"\\n<Kiwi>Silly goose, we don't have the key"
+]
+},
+{
+"code": 401,
+"indent": 3,
+"parameters": [
+"anymore!"
+]
+},
+{
+"code": 0,
+"indent": 3,
+"parameters": []
+},
+{
+"code": 412,
+"indent": 2,
+"parameters": []
 },
 {
 "code": 0,
@@ -9367,6 +9444,18 @@ null,
 "parameters": []
 },
 {
+"code": 250,
+"indent": 2,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 2,
 "parameters": [
@@ -9380,14 +9469,14 @@ null,
 "code": 401,
 "indent": 2,
 "parameters": [
-"\\n<Kiwi>Sounds delicious but I don't think we can "
+"\\n<Kiwi>Smells delicious but I don't think"
 ]
 },
 {
 "code": 401,
 "indent": 2,
 "parameters": [
-"go in there boss"
+"we can go in there boss."
 ]
 },
 {
@@ -9501,7 +9590,7 @@ null,
 },
 {
 "id": 15,
-"name": "EV015",
+"name": "Storeroom entry",
 "note": "",
 "pages": [
 {
@@ -9552,7 +9641,7 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"Jay’s Jams and Jellies! Open Everyday 6-6!"
+"Jay’s Jams and Jellies!"
 ]
 },
 {
@@ -9565,8 +9654,29 @@ null,
 ]
 },
 {
-"code": 101,
+"code": 111,
 "indent": 2,
+"parameters": [
+0,
+135,
+1
+]
+},
+{
+"code": 250,
+"indent": 3,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 3,
 "parameters": [
 "updated_kiwihead_sheet",
 1,
@@ -9576,10 +9686,66 @@ null,
 },
 {
 "code": 401,
-"indent": 2,
+"indent": 3,
 "parameters": [
 "\\n<Kiwi>This must be the place boss!"
 ]
+},
+{
+"code": 0,
+"indent": 3,
+"parameters": []
+},
+{
+"code": 411,
+"indent": 2,
+"parameters": []
+},
+{
+"code": 250,
+"indent": 3,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 3,
+"parameters": [
+"updated_kiwihead_sheet",
+1,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 3,
+"parameters": [
+"\\n<Kiwi>Silly goose, we don't have the key"
+]
+},
+{
+"code": 401,
+"indent": 3,
+"parameters": [
+"anymore!"
+]
+},
+{
+"code": 0,
+"indent": 3,
+"parameters": []
+},
+{
+"code": 412,
+"indent": 2,
+"parameters": []
 },
 {
 "code": 0,
@@ -9592,6 +9758,18 @@ null,
 "parameters": []
 },
 {
+"code": 250,
+"indent": 2,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 2,
 "parameters": [
@@ -9605,14 +9783,14 @@ null,
 "code": 401,
 "indent": 2,
 "parameters": [
-"\\n<Kiwi>Sounds delicious but I don't think we can "
+"\\n<Kiwi>Smells delicious but I don't think"
 ]
 },
 {
 "code": 401,
 "indent": 2,
 "parameters": [
-"go in there boss"
+"we can go in there boss."
 ]
 },
 {

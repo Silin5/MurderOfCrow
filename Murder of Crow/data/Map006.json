@@ -2974,7 +2974,7 @@ null,
 null,
 {
 "id": 7,
-"name": "EV007",
+"name": "Storeroom Complete",
 "note": "",
 "pages": [
 {
@@ -3007,6 +3007,42 @@ null,
 "indent": 0,
 "parameters": [
 {
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"updated_kiwihead_sheet",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Kiwi>When you're ready, we should go"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"return Jay’s key."
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
 "name": "crowley_voice",
 "volume": 90,
 "pitch": 100,
@@ -3028,14 +3064,14 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Crowley>I don’t see anything else suspicious "
+"\\n<Crowley>Right. Perhaps I should take"
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"in here."
+"another gander before we leave..."
 ]
 },
 {
@@ -3064,43 +3100,7 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Kiwi>We should return Jay’s key then."
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "crowley_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"crowleyfaces",
-6,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Crowley>Sound plan. We need to discuss our "
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"findings with him."
+"\\n<Kiwi>I'll follow your lead!"
 ]
 },
 {
