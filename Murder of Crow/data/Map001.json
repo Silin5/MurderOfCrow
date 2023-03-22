@@ -3510,7 +3510,7 @@ null,
 "moveType": 0,
 "priorityType": 1,
 "stepAnime": false,
-"through": true,
+"through": false,
 "trigger": 4,
 "walkAnime": true
 },
@@ -12745,7 +12745,7 @@ null,
 "code": 230,
 "indent": 0,
 "parameters": [
-25
+30
 ]
 },
 {
@@ -13007,11 +13007,27 @@ null,
 "moveRoute": {
 "list": [
 {
+"code": 16,
+"indent": null
+},
+{
+"code": 13,
+"indent": null
+},
+{
+"code": 34,
+"indent": null
+},
+{
+"code": 18,
+"indent": null
+},
+{
 "code": 0,
 "parameters": []
 }
 ],
-"repeat": true,
+"repeat": false,
 "skippable": false,
 "wait": false
 },
@@ -13019,7 +13035,7 @@ null,
 "moveType": 0,
 "priorityType": 1,
 "stepAnime": false,
-"through": true,
+"through": false,
 "trigger": 4,
 "walkAnime": true
 },
@@ -15777,7 +15793,7 @@ null,
 {
 "list": [
 {
-"code": 31,
+"code": 33,
 "indent": null
 },
 {
@@ -15793,7 +15809,7 @@ null,
 "indent": null
 },
 {
-"code": 32,
+"code": 34,
 "indent": null
 },
 {
@@ -15811,7 +15827,7 @@ null,
 "indent": 0,
 "parameters": [
 {
-"code": 31,
+"code": 33,
 "indent": null
 }
 ]
@@ -15851,7 +15867,7 @@ null,
 "indent": 0,
 "parameters": [
 {
-"code": 32,
+"code": 34,
 "indent": null
 }
 ]
@@ -15868,7 +15884,15 @@ null,
 "indent": null
 },
 {
+"code": 33,
+"indent": null
+},
+{
 "code": 12,
+"indent": null
+},
+{
+"code": 34,
 "indent": null
 },
 {
@@ -15896,7 +15920,27 @@ null,
 "indent": 0,
 "parameters": [
 {
+"code": 33,
+"indent": null
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
 "code": 12,
+"indent": null
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 34,
 "indent": null
 }
 ]
@@ -16007,11 +16051,19 @@ null,
 "indent": null
 },
 {
+"code": 33,
+"indent": null
+},
+{
 "code": 12,
 "indent": null
 },
 {
 "code": 12,
+"indent": null
+},
+{
+"code": 34,
 "indent": null
 },
 {
@@ -16039,6 +16091,16 @@ null,
 "indent": 0,
 "parameters": [
 {
+"code": 33,
+"indent": null
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
 "code": 12,
 "indent": null
 }
@@ -16050,6 +16112,16 @@ null,
 "parameters": [
 {
 "code": 12,
+"indent": null
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 34,
 "indent": null
 }
 ]
@@ -16253,7 +16325,7 @@ null,
 {
 "list": [
 {
-"code": 31,
+"code": 33,
 "indent": null
 },
 {
@@ -16274,6 +16346,10 @@ null,
 },
 {
 "code": 32,
+"indent": null
+},
+{
+"code": 34,
 "indent": null
 },
 {
@@ -16295,7 +16371,7 @@ null,
 "indent": 0,
 "parameters": [
 {
-"code": 31,
+"code": 33,
 "indent": null
 }
 ]
@@ -16346,6 +16422,16 @@ null,
 "parameters": [
 {
 "code": 32,
+"indent": null
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 34,
 "indent": null
 }
 ]
@@ -16462,29 +16548,27 @@ null,
 {
 "list": [
 {
-"code": 16,
+"code": 37,
 "indent": null
 },
 {
-"code": 28,
+"code": 41,
 "parameters": [
-133
+"$babyraccoon_overworld",
+0
 ],
 "indent": null
 },
 {
-"code": 27,
-"parameters": [
-134
-],
-"indent": 0
-},
-{
-"code": 13,
+"code": 4,
 "indent": null
 },
 {
 "code": 18,
+"indent": null
+},
+{
+"code": 38,
 "indent": null
 },
 {
@@ -16493,7 +16577,7 @@ null,
 ],
 "repeat": false,
 "skippable": false,
-"wait": true
+"wait": false
 }
 ]
 },
@@ -16502,7 +16586,7 @@ null,
 "indent": 0,
 "parameters": [
 {
-"code": 16,
+"code": 37,
 "indent": null
 }
 ]
@@ -16512,9 +16596,10 @@ null,
 "indent": 0,
 "parameters": [
 {
-"code": 28,
+"code": 41,
 "parameters": [
-133
+"$babyraccoon_overworld",
+0
 ],
 "indent": null
 }
@@ -16525,20 +16610,7 @@ null,
 "indent": 0,
 "parameters": [
 {
-"code": 27,
-"parameters": [
-134
-],
-"indent": 0
-}
-]
-},
-{
-"code": 505,
-"indent": 0,
-"parameters": [
-{
-"code": 13,
+"code": 4,
 "indent": null
 }
 ]
@@ -16551,6 +16623,34 @@ null,
 "code": 18,
 "indent": null
 }
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 38,
+"indent": null
+}
+]
+},
+{
+"code": 121,
+"indent": 0,
+"parameters": [
+134,
+134,
+0
+]
+},
+{
+"code": 121,
+"indent": 0,
+"parameters": [
+133,
+133,
+1
 ]
 },
 {
@@ -16565,7 +16665,7 @@ null,
 "indent": null
 },
 {
-"code": 32,
+"code": 34,
 "indent": null
 },
 {
@@ -16574,7 +16674,7 @@ null,
 ],
 "repeat": false,
 "skippable": false,
-"wait": true
+"wait": false
 }
 ]
 },
@@ -16593,7 +16693,7 @@ null,
 "indent": 0,
 "parameters": [
 {
-"code": 32,
+"code": 34,
 "indent": null
 }
 ]
