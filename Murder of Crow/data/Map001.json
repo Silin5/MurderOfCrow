@@ -186,9 +186,9 @@
 6656,
 6656,
 6656,
-2837,
-2861,
+2852,
 4002,
+3988,
 3988,
 3988,
 4004,
@@ -209,8 +209,8 @@
 6656,
 6656,
 2854,
-4011,
-3997,
+4008,
+3996,
 3996,
 3996,
 4006,
@@ -539,8 +539,8 @@
 0,
 0,
 0,
-0,
 4050,
+4036,
 4036,
 4036,
 4052,
@@ -561,8 +561,8 @@
 0,
 0,
 0,
-4059,
-4045,
+4056,
+4044,
 4044,
 4044,
 4054,
@@ -3115,7 +3115,246 @@ null,
 "x": 5,
 "y": 6
 },
-null,
+{
+"id": 2,
+"name": "EV002",
+"note": "",
+"pages": [
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 111,
+"indent": 0,
+"parameters": [
+1,
+23,
+0,
+2,
+1
+]
+},
+{
+"code": 111,
+"indent": 1,
+"parameters": [
+0,
+122,
+0
+]
+},
+{
+"code": 101,
+"indent": 2,
+"parameters": [
+"crowleyfaces",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 2,
+"parameters": [
+"n\\<Crowley>I must stay and solve the case!"
+]
+},
+{
+"code": 205,
+"indent": 2,
+"parameters": [
+-1,
+{
+"list": [
+{
+"code": 1,
+"indent": null
+},
+{
+"code": 0
+}
+],
+"repeat": false,
+"skippable": false,
+"wait": true
+}
+]
+},
+{
+"code": 505,
+"indent": 2,
+"parameters": [
+{
+"code": 1,
+"indent": null
+}
+]
+},
+{
+"code": 0,
+"indent": 2,
+"parameters": []
+},
+{
+"code": 411,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 201,
+"indent": 2,
+"parameters": [
+0,
+5,
+36,
+14,
+8,
+0
+]
+},
+{
+"code": 241,
+"indent": 2,
+"parameters": [
+{
+"name": "narrows",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 0,
+"indent": 2,
+"parameters": []
+},
+{
+"code": 412,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 411,
+"indent": 0,
+"parameters": []
+},
+{
+"code": 101,
+"indent": 1,
+"parameters": [
+"crowleyfaces",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"\\n<Crowley>I should investigate Town Square first."
+]
+},
+{
+"code": 205,
+"indent": 1,
+"parameters": [
+-1,
+{
+"list": [
+{
+"code": 1,
+"indent": null
+},
+{
+"code": 0
+}
+],
+"repeat": false,
+"skippable": false,
+"wait": true
+}
+]
+},
+{
+"code": 505,
+"indent": 1,
+"parameters": [
+{
+"code": 1,
+"indent": null
+}
+]
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 412,
+"indent": 0,
+"parameters": []
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 1,
+"walkAnime": true
+}
+],
+"x": 12,
+"y": 1
+},
 {
 "id": 3,
 "name": "DeadCrow",
@@ -4515,8 +4754,75 @@ null,
 ]
 },
 {
-"code": 201,
+"code": 111,
 "indent": 1,
+"parameters": [
+0,
+122,
+0
+]
+},
+{
+"code": 101,
+"indent": 2,
+"parameters": [
+"crowleyfaces",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 2,
+"parameters": [
+"n\\<Crowley>I must stay and solve the case!"
+]
+},
+{
+"code": 205,
+"indent": 2,
+"parameters": [
+-1,
+{
+"list": [
+{
+"code": 3,
+"indent": null
+},
+{
+"code": 0
+}
+],
+"repeat": false,
+"skippable": false,
+"wait": true
+}
+]
+},
+{
+"code": 505,
+"indent": 2,
+"parameters": [
+{
+"code": 3,
+"indent": null
+}
+]
+},
+{
+"code": 0,
+"indent": 2,
+"parameters": []
+},
+{
+"code": 411,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 201,
+"indent": 2,
 "parameters": [
 0,
 2,
@@ -4528,7 +4834,7 @@ null,
 },
 {
 "code": 241,
-"indent": 1,
+"indent": 2,
 "parameters": [
 {
 "name": "market",
@@ -4537,6 +4843,16 @@ null,
 "pan": 0
 }
 ]
+},
+{
+"code": 0,
+"indent": 2,
+"parameters": []
+},
+{
+"code": 412,
+"indent": 1,
+"parameters": []
 },
 {
 "code": 0,
@@ -4553,7 +4869,7 @@ null,
 "indent": 1,
 "parameters": [
 "crowleyfaces",
-5,
+0,
 0,
 2
 ]
@@ -4678,20 +4994,87 @@ null,
 ]
 },
 {
-"code": 201,
+"code": 111,
 "indent": 1,
+"parameters": [
+0,
+122,
+0
+]
+},
+{
+"code": 101,
+"indent": 2,
+"parameters": [
+"crowleyfaces",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 2,
+"parameters": [
+"n\\<Crowley>I must stay and solve the case!"
+]
+},
+{
+"code": 205,
+"indent": 2,
+"parameters": [
+-1,
+{
+"list": [
+{
+"code": 3,
+"indent": null
+},
+{
+"code": 0
+}
+],
+"repeat": false,
+"skippable": false,
+"wait": true
+}
+]
+},
+{
+"code": 505,
+"indent": 2,
+"parameters": [
+{
+"code": 3,
+"indent": null
+}
+]
+},
+{
+"code": 0,
+"indent": 2,
+"parameters": []
+},
+{
+"code": 411,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 201,
+"indent": 2,
 "parameters": [
 0,
 2,
 16,
-6,
+5,
 0,
 0
 ]
 },
 {
 "code": 241,
-"indent": 1,
+"indent": 2,
 "parameters": [
 {
 "name": "market",
@@ -4700,6 +5083,16 @@ null,
 "pan": 0
 }
 ]
+},
+{
+"code": 0,
+"indent": 2,
+"parameters": []
+},
+{
+"code": 412,
+"indent": 1,
+"parameters": []
 },
 {
 "code": 0,
@@ -4716,7 +5109,7 @@ null,
 "indent": 1,
 "parameters": [
 "crowleyfaces",
-5,
+0,
 0,
 2
 ]
@@ -6039,12 +6432,79 @@ null,
 ]
 },
 {
-"code": 201,
+"code": 111,
 "indent": 1,
 "parameters": [
 0,
+122,
+0
+]
+},
+{
+"code": 101,
+"indent": 2,
+"parameters": [
+"crowleyfaces",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 2,
+"parameters": [
+"n\\<Crowley>I must stay and solve the case!"
+]
+},
+{
+"code": 205,
+"indent": 2,
+"parameters": [
+-1,
+{
+"list": [
+{
+"code": 1,
+"indent": null
+},
+{
+"code": 0
+}
+],
+"repeat": false,
+"skippable": false,
+"wait": true
+}
+]
+},
+{
+"code": 505,
+"indent": 2,
+"parameters": [
+{
+"code": 1,
+"indent": null
+}
+]
+},
+{
+"code": 0,
+"indent": 2,
+"parameters": []
+},
+{
+"code": 411,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 201,
+"indent": 2,
+"parameters": [
+0,
 5,
-35,
+36,
 14,
 8,
 0
@@ -6052,7 +6512,7 @@ null,
 },
 {
 "code": 241,
-"indent": 1,
+"indent": 2,
 "parameters": [
 {
 "name": "narrows",
@@ -6061,6 +6521,16 @@ null,
 "pan": 0
 }
 ]
+},
+{
+"code": 0,
+"indent": 2,
+"parameters": []
+},
+{
+"code": 412,
+"indent": 1,
+"parameters": []
 },
 {
 "code": 0,
@@ -6077,7 +6547,7 @@ null,
 "indent": 1,
 "parameters": [
 "crowleyfaces",
-5,
+0,
 0,
 2
 ]
@@ -6157,7 +6627,7 @@ null,
 "walkAnime": true
 }
 ],
-"x": 12,
+"x": 11,
 "y": 1
 },
 {
@@ -10364,8 +10834,8 @@ null,
 "code": 123,
 "indent": 1,
 "parameters": [
-"B",
-1
+"A",
+0
 ]
 },
 {
@@ -10427,57 +10897,6 @@ null,
 "indent": 0,
 "parameters": []
 },
-{
-"code": 0,
-"indent": 0,
-"parameters": []
-}
-],
-"moveFrequency": 3,
-"moveRoute": {
-"list": [
-{
-"code": 0,
-"parameters": []
-}
-],
-"repeat": true,
-"skippable": false,
-"wait": false
-},
-"moveSpeed": 3,
-"moveType": 0,
-"priorityType": 1,
-"stepAnime": false,
-"through": false,
-"trigger": 0,
-"walkAnime": true
-},
-{
-"conditions": {
-"actorId": 1,
-"actorValid": false,
-"itemId": 1,
-"itemValid": false,
-"selfSwitchCh": "C",
-"selfSwitchValid": true,
-"switch1Id": 1,
-"switch1Valid": false,
-"switch2Id": 1,
-"switch2Valid": false,
-"variableId": 1,
-"variableValid": false,
-"variableValue": 0
-},
-"directionFix": false,
-"image": {
-"tileId": 0,
-"characterName": "$kiwiSheet",
-"direction": 6,
-"pattern": 1,
-"characterIndex": 0
-},
-"list": [
 {
 "code": 0,
 "indent": 0,
@@ -11449,59 +11868,34 @@ null,
 ]
 },
 {
-"code": 201,
+"code": 111,
 "indent": 1,
 "parameters": [
 0,
-5,
-34,
-14,
-8,
+122,
 0
 ]
 },
 {
-"code": 241,
-"indent": 1,
-"parameters": [
-{
-"name": "narrows",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 0,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 411,
-"indent": 0,
-"parameters": []
-},
-{
 "code": 101,
-"indent": 1,
+"indent": 2,
 "parameters": [
 "crowleyfaces",
-5,
+0,
 0,
 2
 ]
 },
 {
 "code": 401,
-"indent": 1,
+"indent": 2,
 "parameters": [
-"\\n<Crowley>I should investigate Town Square first."
+"n\\<Crowley>I must stay and solve the case!"
 ]
 },
 {
 "code": 205,
-"indent": 1,
+"indent": 2,
 "parameters": [
 -1,
 {
@@ -11522,7 +11916,7 @@ null,
 },
 {
 "code": 505,
-"indent": 1,
+"indent": 2,
 "parameters": [
 {
 "code": 1,
@@ -11532,88 +11926,17 @@ null,
 },
 {
 "code": 0,
+"indent": 2,
+"parameters": []
+},
+{
+"code": 411,
 "indent": 1,
 "parameters": []
-},
-{
-"code": 412,
-"indent": 0,
-"parameters": []
-},
-{
-"code": 0,
-"indent": 0,
-"parameters": []
-}
-],
-"moveFrequency": 3,
-"moveRoute": {
-"list": [
-{
-"code": 0,
-"parameters": []
-}
-],
-"repeat": true,
-"skippable": false,
-"wait": false
-},
-"moveSpeed": 3,
-"moveType": 0,
-"priorityType": 0,
-"stepAnime": false,
-"through": false,
-"trigger": 1,
-"walkAnime": true
-}
-],
-"x": 11,
-"y": 1
-},
-{
-"id": 21,
-"name": "EV021",
-"note": "",
-"pages": [
-{
-"conditions": {
-"actorId": 1,
-"actorValid": false,
-"itemId": 1,
-"itemValid": false,
-"selfSwitchCh": "A",
-"selfSwitchValid": false,
-"switch1Id": 1,
-"switch1Valid": false,
-"switch2Id": 1,
-"switch2Valid": false,
-"variableId": 1,
-"variableValid": false,
-"variableValue": 0
-},
-"directionFix": false,
-"image": {
-"characterIndex": 0,
-"characterName": "",
-"direction": 2,
-"pattern": 0,
-"tileId": 0
-},
-"list": [
-{
-"code": 111,
-"indent": 0,
-"parameters": [
-1,
-23,
-0,
-2,
-1
-]
 },
 {
 "code": 201,
-"indent": 1,
+"indent": 2,
 "parameters": [
 0,
 5,
@@ -11625,7 +11948,7 @@ null,
 },
 {
 "code": 241,
-"indent": 1,
+"indent": 2,
 "parameters": [
 {
 "name": "narrows",
@@ -11634,6 +11957,16 @@ null,
 "pan": 0
 }
 ]
+},
+{
+"code": 0,
+"indent": 2,
+"parameters": []
+},
+{
+"code": 412,
+"indent": 1,
+"parameters": []
 },
 {
 "code": 0,
@@ -11650,7 +11983,7 @@ null,
 "indent": 1,
 "parameters": [
 "crowleyfaces",
-5,
+0,
 0,
 2
 ]
@@ -11733,6 +12066,7 @@ null,
 "x": 13,
 "y": 1
 },
+null,
 {
 "id": 22,
 "name": "EV022",
@@ -12570,109 +12904,6 @@ null,
 "itemValid": false,
 "selfSwitchCh": "A",
 "selfSwitchValid": false,
-"switch1Id": 131,
-"switch1Valid": true,
-"switch2Id": 123,
-"switch2Valid": false,
-"variableId": 1,
-"variableValid": false,
-"variableValue": 0
-},
-"directionFix": false,
-"image": {
-"tileId": 0,
-"characterName": "$babyraccoon_overworld",
-"direction": 2,
-"pattern": 1,
-"characterIndex": 0
-},
-"list": [
-{
-"code": 203,
-"indent": 0,
-"parameters": [
-0,
-0,
-11,
-6,
-0
-]
-},
-{
-"code": 122,
-"indent": 0,
-"parameters": [
-122,
-122,
-1,
-0,
-1
-]
-},
-{
-"code": 111,
-"indent": 0,
-"parameters": [
-1,
-122,
-0,
-2,
-0
-]
-},
-{
-"code": 121,
-"indent": 1,
-"parameters": [
-131,
-131,
-1
-]
-},
-{
-"code": 0,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 0,
-"parameters": []
-},
-{
-"code": 0,
-"indent": 0,
-"parameters": []
-}
-],
-"moveFrequency": 3,
-"moveRoute": {
-"list": [
-{
-"code": 0,
-"parameters": []
-}
-],
-"repeat": true,
-"skippable": false,
-"wait": false
-},
-"moveSpeed": 3,
-"moveType": 0,
-"priorityType": 1,
-"stepAnime": false,
-"through": false,
-"trigger": 4,
-"walkAnime": true
-},
-{
-"conditions": {
-"actorId": 1,
-"actorValid": false,
-"itemId": 1,
-"itemValid": false,
-"selfSwitchCh": "A",
-"selfSwitchValid": false,
 "switch1Id": 132,
 "switch1Valid": true,
 "switch2Id": 1,
@@ -12980,7 +13211,58 @@ null,
 "itemValid": false,
 "selfSwitchCh": "A",
 "selfSwitchValid": false,
-"switch1Id": 134,
+"switch1Id": 1,
+"switch1Valid": true,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 127,
 "switch1Valid": true,
 "switch2Id": 1,
 "switch2Valid": false,
@@ -13007,27 +13289,11 @@ null,
 "moveRoute": {
 "list": [
 {
-"code": 16,
-"indent": null
-},
-{
-"code": 13,
-"indent": null
-},
-{
-"code": 34,
-"indent": null
-},
-{
-"code": 18,
-"indent": null
-},
-{
 "code": 0,
 "parameters": []
 }
 ],
-"repeat": false,
+"repeat": true,
 "skippable": false,
 "wait": false
 },
@@ -13047,7 +13313,7 @@ null,
 "itemValid": false,
 "selfSwitchCh": "A",
 "selfSwitchValid": false,
-"switch1Id": 127,
+"switch1Id": 124,
 "switch1Valid": true,
 "switch2Id": 127,
 "switch2Valid": false,
@@ -13059,7 +13325,7 @@ null,
 "image": {
 "tileId": 0,
 "characterName": "$babyraccoon_overworld",
-"direction": 2,
+"direction": 6,
 "pattern": 1,
 "characterIndex": 0
 },
@@ -13298,6 +13564,109 @@ null,
 "stepAnime": false,
 "through": false,
 "trigger": 0,
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 131,
+"switch1Valid": true,
+"switch2Id": 123,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"tileId": 0,
+"characterName": "$babyraccoon_overworld",
+"direction": 2,
+"pattern": 1,
+"characterIndex": 0
+},
+"list": [
+{
+"code": 203,
+"indent": 0,
+"parameters": [
+0,
+0,
+11,
+6,
+0
+]
+},
+{
+"code": 122,
+"indent": 0,
+"parameters": [
+122,
+122,
+1,
+0,
+1
+]
+},
+{
+"code": 111,
+"indent": 0,
+"parameters": [
+1,
+122,
+0,
+2,
+0
+]
+},
+{
+"code": 121,
+"indent": 1,
+"parameters": [
+131,
+131,
+1
+]
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 412,
+"indent": 0,
+"parameters": []
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 1,
+"stepAnime": false,
+"through": false,
+"trigger": 4,
 "walkAnime": true
 }
 ],
@@ -16564,11 +16933,10 @@ null,
 "indent": null
 },
 {
-"code": 18,
-"indent": null
-},
-{
-"code": 38,
+"code": 15,
+"parameters": [
+15
+],
 "indent": null
 },
 {
@@ -16620,17 +16988,10 @@ null,
 "indent": 0,
 "parameters": [
 {
-"code": 18,
-"indent": null
-}
-]
-},
-{
-"code": 505,
-"indent": 0,
+"code": 15,
 "parameters": [
-{
-"code": 38,
+15
+],
 "indent": null
 }
 ]
@@ -16642,15 +17003,6 @@ null,
 134,
 134,
 0
-]
-},
-{
-"code": 121,
-"indent": 0,
-"parameters": [
-133,
-133,
-1
 ]
 },
 {
@@ -16674,7 +17026,7 @@ null,
 ],
 "repeat": false,
 "skippable": false,
-"wait": false
+"wait": true
 }
 ]
 },

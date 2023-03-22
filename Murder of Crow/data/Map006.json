@@ -1726,7 +1726,7 @@ null,
 "stepAnime": false,
 "through": false,
 "trigger": 0,
-"walkAnime": true
+"walkAnime": false
 },
 {
 "conditions": {
