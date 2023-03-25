@@ -2372,14 +2372,14 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Sly>Wouldn’t y-you be too if you had"
+"\\n<Sly>Wouldn’t y-you be too if you had caught"
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"caught the c-culprit on camera?"
+"the c-culprit on camera?"
 ]
 },
 {
@@ -2437,14 +2437,14 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Sly>W-well, not exactly. I was trying to get"
+"\\n<Sly>W-well, not exactly. I was trying to"
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"the s-scoop on another story, something"
+"get the s-scoop on another story, something"
 ]
 },
 {
@@ -2504,21 +2504,14 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Sly>I thought my camera flash would"
+"\\n<Sly>I thought my camera flash would scare"
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"scare them off. But when I went to"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"develop my photo..."
+"them off. But when I went to develop my photo..."
 ]
 },
 {
@@ -2639,21 +2632,21 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Sly>S-sorry it’s in pieces, I didn’t expect it"
+"\\n<Sly>S-sorry it’s in pieces, I didn’t"
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"would turn into evidence. H-hopefully you"
+"expect it would turn into evidence."
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"can make sense of it?"
+"H-hopefully you can make sense of it?"
 ]
 },
 {
@@ -6868,14 +6861,14 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Crowley>I know there’s something you’re"
+"\\n<Crowley>I know there’s something you’re not"
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"not telling me."
+"telling me."
 ]
 },
 {
@@ -6933,14 +6926,14 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Crowley>All the clues seem to lead back"
+"\\n<Crowley>All the clues seem to lead back to"
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"to your storeroom."
+"your storeroom."
 ]
 },
 {
@@ -6969,14 +6962,7 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Crowley>Care to explain why that"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"would be?"
+"\\n<Crowley>Care to explain why that would be?"
 ]
 },
 {
@@ -7121,14 +7107,14 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Jay>It’s a prop. It was meant to"
+"\\n<Jay>It’s a prop. It was meant to scare"
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"scare whoever’s been nicking my goods."
+"whoever’s been nicking my goods."
 ]
 },
 {
@@ -7157,14 +7143,14 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Crowley>Are you telling me you"
+"\\n<Crowley>Are you telling me you KNEW"
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"KNEW that it wasn’t a body?!"
+"that it wasn’t a body?!"
 ]
 },
 {
@@ -7222,7 +7208,7 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Jay>Didn’t get a good look this morning "
+"\\n<Jay>Didn’t get a good look this morning"
 ]
 },
 {
@@ -7258,21 +7244,14 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Jay>I figured if it WAS my "
+"\\n<Jay>I figured if it WAS my scarecrow,"
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"scarecrow, you’d find out in the"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"investigation anyway..."
+"you’d find out in the investigation anyway..."
 ]
 },
 {
@@ -7582,14 +7561,14 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Kiwi>It might be helpful to review the "
+"\\n<Kiwi>It might be helpful to review the clues"
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"clues first. Let me know when you’re done!"
+"first. Let me know when you’re done!"
 ]
 },
 {
@@ -7871,7 +7850,7 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"\\n<Kiwi>That's where we found those damaged "
+"\\n<Kiwi>That's where we found those damaged"
 ]
 },
 {
@@ -7978,14 +7957,14 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"\\n<Kiwi>I don’t recall any evidence that "
+"\\n<Kiwi>I don’t recall any evidence that the"
 ]
 },
 {
 "code": 401,
 "indent": 1,
 "parameters": [
-"the body was ever there!"
+"body was ever there!"
 ]
 },
 {
@@ -8027,7 +8006,7 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"\\n<Kiwi>The body was here to begin with? "
+"\\n<Kiwi>The body was here to begin with?"
 ]
 },
 {
@@ -8063,14 +8042,7 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"\\n<Kiwi>What about the drag marks in the "
-]
-},
-{
-"code": 401,
-"indent": 1,
-"parameters": [
-"Narrows?"
+"\\n<Kiwi>What about the drag marks in the Narrows?"
 ]
 },
 {
@@ -8109,7 +8081,7 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Kiwi>What’s your take on the feathers "
+"\\n<Kiwi>What’s your take on the feathers"
 ]
 },
 {
@@ -8174,14 +8146,14 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Kiwi>Right! But why were they there, "
+"\\n<Kiwi>Right! But what were those feathers"
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"do you reckon?"
+"there for, do you reckon?"
 ]
 },
 {
@@ -8283,7 +8255,7 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"\\n<Kiwi>I agree! The body was most likely "
+"\\n<Kiwi>I agree! The body was most likely"
 ]
 },
 {
@@ -8332,14 +8304,14 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"\\n<Kiwi>And... left feathers behind in a "
+"\\n<Kiwi>And... left feathers behind in a shady"
 ]
 },
 {
 "code": 401,
 "indent": 1,
 "parameters": [
-"shady corner of the Narrows?"
+"corner of the Narrows?"
 ]
 },
 {
@@ -8398,14 +8370,14 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"\\n<Kiwi>The feathers were lost while they"
+"\\n<Kiwi>The feathers were lost while they were"
 ]
 },
 {
 "code": 401,
 "indent": 1,
 "parameters": [
-"were nicking from Jay’s storeroom? "
+"nicking from Jay’s storeroom? "
 ]
 },
 {
@@ -8504,7 +8476,7 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Crowley>There was broken glass and a "
+"\\n<Crowley>There was broken glass and a"
 ]
 },
 {
@@ -8528,7 +8500,7 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Crowley>We inspected goods at the "
+"\\n<Crowley>We inspected goods at the"
 ]
 },
 {
@@ -8564,7 +8536,14 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"I wonder how it ended up there..."
+"I wonder how a shard from a broken jar"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"ended up there...?"
 ]
 },
 {
@@ -8617,14 +8596,14 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"\\n<Kiwi>It’s possible. But that begs the"
+"\\n<Kiwi>It’s possible. But that begs"
 ]
 },
 {
 "code": 401,
 "indent": 1,
 "parameters": [
-"question: what for?"
+"the question: what for?"
 ]
 },
 {
@@ -8715,14 +8694,14 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"\\n<Kiwi>Hm... Why would they leave "
+"\\n<Kiwi>Hm... Why would they leave something"
 ]
 },
 {
 "code": 401,
 "indent": 1,
 "parameters": [
-"something like that behind?"
+"like that behind?"
 ]
 },
 {
@@ -8751,14 +8730,14 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"\\n<Crowley>I suspect the culprit was in a "
+"\\n<Crowley>I suspect the culprit was in a rush"
 ]
 },
 {
 "code": 401,
 "indent": 1,
 "parameters": [
-"rush to flee the scene."
+"to flee the scene."
 ]
 },
 {
@@ -8846,7 +8825,7 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Crowley>We should discuss Sly’s "
+"\\n<Crowley>We should discuss the eye-witness"
 ]
 },
 {
@@ -8882,14 +8861,14 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Kiwi>Right! What do you think they "
+"\\n<Kiwi>Right! What do you think Sly caught"
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"caught on camera?"
+"on camera?"
 ]
 },
 {
@@ -8984,14 +8963,14 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"\\n<Kiwi>I dunno. The silhouette in the "
+"\\n<Kiwi>Boss, the silhouette in the image"
 ]
 },
 {
 "code": 401,
 "indent": 1,
 "parameters": [
-"image looks nothing like the body we found."
+"looks nothing like the body we found."
 ]
 },
 {
@@ -9050,7 +9029,7 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"\\n<Kiwi>Maybe we’d have solved the case "
+"\\n<Kiwi>Maybe we’d have solved the case"
 ]
 },
 {
@@ -9128,14 +9107,7 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"\\n<Crowley>It was just a trick of the "
-]
-},
-{
-"code": 401,
-"indent": 1,
-"parameters": [
-"shadows."
+"\\n<Crowley>It was just a trick of the shadows."
 ]
 },
 {
@@ -9227,7 +9199,21 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Kiwi>How does it fit into all this?"
+"\\n<Kiwi>Strange that a wire was strung"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"around their torso like that."
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"How does it fit into all this?"
 ]
 },
 {
@@ -9329,14 +9315,7 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"\\n<Kiwi>That does line up with the other "
-]
-},
-{
-"code": 401,
-"indent": 1,
-"parameters": [
-"evidence."
+"\\n<Kiwi>That does line up with the other evidence."
 ]
 },
 {
@@ -9353,7 +9332,7 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"\\n<Kiwi>But... that wire is so thin. "
+"\\n<Kiwi>That wire is so thin..."
 ]
 },
 {
@@ -9402,14 +9381,14 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"\\n<Kiwi>I didn’t know— uh... waist wire is"
+"\\n<Kiwi>I didn’t know— uh... waist wire"
 ]
 },
 {
 "code": 401,
 "indent": 1,
 "parameters": [
-"in fashion."
+"is in fashion."
 ]
 },
 {
@@ -9480,14 +9459,7 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"\\n<Crowley>It feels like we’re missing"
-]
-},
-{
-"code": 401,
-"indent": 1,
-"parameters": [
-"something."
+"\\n<Crowley>It feels like we’re missing something."
 ]
 },
 {
@@ -9504,14 +9476,7 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"\\n<Crowley>There’s something deeper going"
-]
-},
-{
-"code": 401,
-"indent": 1,
-"parameters": [
-"on here..."
+"\\n<Crowley>There’s something deeper going on..."
 ]
 },
 {
@@ -9550,14 +9515,14 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Kiwi>I’m still not sure what to make of"
+"\\n<Kiwi>I’m still not sure what to make"
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"all this."
+"of all this."
 ]
 },
 {
@@ -9574,14 +9539,14 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Kiwi>Is there anyone we should question"
+"\\n<Kiwi>Is there anyone we should"
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"further? "
+"question further? "
 ]
 },
 {
@@ -9684,14 +9649,7 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"\\n<Crowley>You were at home last night,"
-]
-},
-{
-"code": 401,
-"indent": 1,
-"parameters": [
-"huh...?"
+"\\n<Crowley>You were at home last night, huh...?"
 ]
 },
 {
@@ -9720,14 +9678,14 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"\\n<Jay>Erhm, yeah! I already told you"
+"\\n<Jay>Erhm, yeah! I already told you that,"
 ]
 },
 {
 "code": 401,
 "indent": 1,
 "parameters": [
-"that Crowley!"
+"Crowley!"
 ]
 },
 {
@@ -9756,14 +9714,14 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"\\n<Crowley>Care to explain why the wire"
+"\\n<Crowley>Care to explain why the wire in"
 ]
 },
 {
 "code": 401,
 "indent": 1,
 "parameters": [
-"in your storeroom appears to be the same"
+"your storeroom appears to be the same"
 ]
 },
 {
@@ -9799,7 +9757,7 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"\\n<Jay>Heh, uhm... the culprit and I both, "
+"\\n<Jay>Heh, uhm... the culprit and I both,"
 ]
 },
 {
@@ -9835,14 +9793,7 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"\\n<Crowley>Seems convenient, don't ya "
-]
-},
-{
-"code": 401,
-"indent": 1,
-"parameters": [
-"think?"
+"\\n<Crowley>Seems convenient, don't ya think?"
 ]
 },
 {
@@ -9871,14 +9822,14 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"\\n<Jay>\"Seems Convenient\" IS the"
+"\\n<Jay>\"Seems Convenient\" IS the name of"
 ]
 },
 {
 "code": 401,
 "indent": 1,
 "parameters": [
-"name of the store after all..."
+"the store, after all..."
 ]
 },
 {
@@ -9995,7 +9946,7 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"captured whoever did this last night AND"
+"saw whoever did this last night AND"
 ]
 },
 {
@@ -10031,14 +9982,7 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"\\n<Sly>Y-you don't think I d-did this,"
-]
-},
-{
-"code": 401,
-"indent": 1,
-"parameters": [
-"do you?!"
+"\\n<Sly>Y-you don't think I d-did this, do you?!"
 ]
 },
 {
@@ -10067,14 +10011,14 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"\\n<Crowley>You're a newsie, right? Maybe"
+"\\n<Crowley>You're a newsie, right? Maybe you also"
 ]
 },
 {
 "code": 401,
 "indent": 1,
 "parameters": [
-"you also thought our town was too quiet..."
+"thought our town was too quiet..."
 ]
 },
 {
@@ -10088,7 +10032,7 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"make some of your own \"news?\""
+"make some \"news\" of your own?"
 ]
 },
 {
@@ -10105,28 +10049,28 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"\\n<Crowley>You were desperate for a story,"
+"\\n<Crowley>You were desperate for a story, and"
 ]
 },
 {
 "code": 401,
 "indent": 1,
 "parameters": [
-"and thought croaking an innocent bird"
+"thought croaking an innocent bird would"
 ]
 },
 {
 "code": 401,
 "indent": 1,
 "parameters": [
-"would bring you the recognition you've"
+"bring you the recognition you've been"
 ]
 },
 {
 "code": 401,
 "indent": 1,
 "parameters": [
-"been seeking as a reporter..."
+"seeking as a reporter..."
 ]
 },
 {
@@ -10155,14 +10099,14 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"\\n<Kiwi>Boss? We technically don't know if"
+"\\n<Kiwi>Boss? We technically don't know if this"
 ]
 },
 {
 "code": 401,
 "indent": 1,
 "parameters": [
-"this bird is innocent, seeing as how they"
+"bird is innocent, seeing as how they "
 ]
 },
 {
@@ -10228,7 +10172,7 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"\\n<Kiwi>Oh wow, you must know who did it! "
+"\\n<Kiwi>Oh wow, you must know who did it!"
 ]
 },
 {
@@ -10339,14 +10283,14 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"\\n<Kiwi>Aw come on, boss. Don’t keep me "
+"\\n<Kiwi>Aw come on, boss. Don’t keep me out"
 ]
 },
 {
 "code": 401,
 "indent": 1,
 "parameters": [
-"out of the loop now!"
+"of the loop now!"
 ]
 },
 {
@@ -10660,7 +10604,7 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"\\n<Kiwi>Oh, alright. I’ll wait here until "
+"\\n<Kiwi>Oh, alright. I’ll wait here until"
 ]
 },
 {
@@ -10877,7 +10821,7 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"\\n<Kiwi>Oh, alright. I’ll wait here until "
+"\\n<Kiwi>Oh, alright. I’ll wait here until"
 ]
 },
 {
@@ -11005,14 +10949,7 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Kiwi>Boss, are you seeing what"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"I’m seeing?"
+"\\n<Kiwi>Boss, are you seeing what I’m seeing?"
 ]
 },
 {
@@ -12615,14 +12552,14 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Sly>And here I thought I’d stumbled"
+"\\n<Sly>And here I thought I’d stumbled onto"
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"onto the scoop of the century!"
+"the scoop of the century!"
 ]
 },
 {
@@ -12651,14 +12588,7 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Crowley>There’s still a criminal in"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"our midst."
+"\\n<Crowley>There’s still a criminal in our midst."
 ]
 },
 {
@@ -12716,14 +12646,7 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Sly>I have an insider exclusive on the"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"case..."
+"\\n<Sly>I have an insider exclusive on the case..."
 ]
 },
 {
@@ -12740,14 +12663,7 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Sly>I wonder if it’ll make the front"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"page!"
+"\\n<Sly>I wonder if it’ll make the front page!"
 ]
 },
 {
@@ -13305,14 +13221,14 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Crowley>So furball, what were you"
+"\\n<Crowley>So furball, what were you thinking,"
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"thinking, picking up a body like that?"
+"picking up a body like that?"
 ]
 },
 {
@@ -13780,14 +13696,14 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Crowley>I don’t think I’ve seen you "
+"\\n<Crowley>I don’t think I’ve seen you around."
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"around. Who are you?"
+"Who are you?"
 ]
 },
 {
@@ -13816,14 +13732,14 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Moxie>Ah yes, we’re not often out "
+"\\n<Moxie>Ah yes, we’re not often out when"
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"when the sun’s up. My name’s Moxie. "
+"the sun’s up. My name’s Moxie. "
 ]
 },
 {
@@ -13852,14 +13768,14 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Moxie>Please excuse my little Rascal’s"
+"\\n<Moxie>Please excuse my little Rascal’s antics."
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"antics. We don’t mean you any trouble."
+"We don’t mean you any trouble."
 ]
 },
 {
@@ -13888,14 +13804,7 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Moxie>May I ask what you’re"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"investigating?"
+"\\n<Moxie>May I ask what you’re investigating?"
 ]
 },
 {
@@ -13924,14 +13833,14 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Crowley>A murder. It seems connected"
+"\\n<Crowley>A murder. It seems connected to"
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"to a string of robberies in the Narrows."
+"a string of robberies in the Narrows."
 ]
 },
 {
@@ -13960,14 +13869,14 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Moxie>My word, that’s terrible! Who was"
+"\\n<Moxie>My word, that’s terrible!"
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"the poor soul?"
+"Who was the poor soul?"
 ]
 },
 {
@@ -14013,14 +13922,7 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Crowley>The crow your kid’s awfully"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"attached to."
+"\\n<Crowley>The crow your kid’s awfully attached to."
 ]
 },
 {
@@ -14049,14 +13951,14 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Moxie>What?! I think there’s been "
+"\\n<Moxie>What?! I think there’s been a"
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"a misunderstanding."
+"misunderstanding."
 ]
 },
 {
@@ -14172,21 +14074,21 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Moxie>I took Rascal on a scavenging "
+"\\n<Moxie>I took Rascal on a scavenging trip."
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"trip. Then for a bite at our favourite "
+"Then for a bite at our favourite buffet."
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"buffet. A tradition of ours."
+"A tradition of ours."
 ]
 },
 {
@@ -14215,14 +14117,14 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Crowley>Huh, I wasn’t aware our "
+"\\n<Crowley>Huh, I wasn’t aware our city "
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"city had any buffets."
+"had any buffets."
 ]
 },
 {
@@ -14251,14 +14153,14 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Moxie>Not surprised! The place "
+"\\n<Moxie>Not surprised! The place we like"
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"we like is a real hole in the wall."
+"is a real hole in the wall."
 ]
 },
 {
@@ -14287,14 +14189,14 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Crowley>So, it was a night like any"
+"\\n<Crowley>So, it was a night like any other."
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"other. Nothing unusual happened?"
+"Nothing unusual happened?"
 ]
 },
 {
@@ -14323,14 +14225,14 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Moxie>Not really. We headed home"
+"\\n<Moxie>Not really. We headed home somewhat"
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"somewhat earlier than normal. "
+"earlier than normal. "
 ]
 },
 {
@@ -14359,14 +14261,14 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Moxie>But my poor baby was nearly "
+"\\n<Moxie>But my poor baby was nearly asleep"
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"asleep on their feet! "
+"on their feet! "
 ]
 },
 {
@@ -14395,14 +14297,14 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"After they had a little spill, my sole"
+"After they had a little spill, my sole focus"
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"focus was to get them straight to bed."
+"was to get them straight to bed."
 ]
 },
 {
@@ -14764,14 +14666,14 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Moxie>I believe Rascal found it"
+"\\n<Moxie>I believe Rascal found it on our way"
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"on our way out of the buffet."
+"out of the buffet."
 ]
 },
 {
@@ -14843,14 +14745,14 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"on the north side. There is a staircase, but the front"
+"on the north side. There is a staircase,"
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"door doesn't seem to work."
+"but the front door doesn't seem to work."
 ]
 },
 {
@@ -14879,14 +14781,7 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Crowley>Ma’am... that’s a private"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"storeroom. "
+"\\n<Crowley>Ma’am... that’s a private storeroom. "
 ]
 },
 {
@@ -14915,14 +14810,14 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Moxie>No no, the sign says you can go"
+"\\n<Moxie>No no, the sign says you can go get"
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"get jam from 6 to 6!"
+"jam from 6 to 6!"
 ]
 },
 {
@@ -15030,14 +14925,14 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Jay>Those are the hours to come to"
+"\\n<Jay>Those are the hours to come to the "
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"the MARKET! 6am to 6pm! "
+"MARKET! 6am to 6pm! "
 ]
 },
 {
@@ -15095,14 +14990,14 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Moxie>But with those hours, we’d never be able"
+"\\n<Moxie>But with those hours, we’d never be"
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"to come by!"
+"able to come by!"
 ]
 },
 {
@@ -15218,14 +15113,14 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Crowley>Now hold on. You’re wanted"
+"\\n<Crowley>Now hold on. You’re wanted thieves!"
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"thieves! We can’t just let you leave."
+"We can’t just let you leave."
 ]
 },
 {
@@ -15326,14 +15221,14 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Moxie>Of course. How could I possibly"
+"\\n<Moxie>Of course. How could I possibly make"
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"make it up to you? "
+"it up to you? "
 ]
 },
 {
@@ -15379,14 +15274,14 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Jay>You did say that my “buffet” was"
+"\\n<Jay>You did say that my “buffet” was your"
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"your favourite..."
+"favourite..."
 ]
 },
 {
@@ -15480,14 +15375,14 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Jay>How’d you like to cover for me at"
+"\\n<Jay>How’d you like to cover for me at the"
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"the market during off hours?"
+"market during off hours?"
 ]
 },
 {
@@ -15516,14 +15411,14 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Jay>Who better to promote my goods than"
+"\\n<Jay>Who better to promote my goods than the"
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"the thieves who kept coming back for more!"
+"thieves who kept coming back for more!"
 ]
 },
 {
@@ -15581,14 +15476,14 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Moxie>And Rascal, hon, you’ll be"
+"\\n<Moxie>And Rascal, hon, you’ll keep me"
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"keeping me company, won’t you?"
+"company, won’t you?"
 ]
 },
 {
@@ -15646,14 +15541,14 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Jay>Erm... sure. Your “crow friend”"
+"\\n<Jay>Erm... sure. Your “crow friend” can"
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"can tag along. "
+"tag along. "
 ]
 },
 {
@@ -15682,14 +15577,14 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Jay>Just maybe don’t put it up near the"
+"\\n<Jay>Just maybe don’t put it up near the stall..."
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"stall... Wouldn't want to alarm customers."
+"Wouldn't want to alarm customers."
 ]
 },
 {
@@ -15776,14 +15671,14 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Crowley>Now, we wait and see what"
+"\\n<Crowley>Now, we wait and see what mysteries"
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"mysteries tomorrow brings. "
+"tomorrow brings. "
 ]
 },
 {
