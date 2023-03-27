@@ -17213,8 +17213,28 @@ null,
 },
 "list": [
 {
-"code": 101,
+"code": 111,
 "indent": 0,
+"parameters": [
+1,
+23,
+0,
+2,
+1
+]
+},
+{
+"code": 111,
+"indent": 1,
+"parameters": [
+0,
+122,
+0
+]
+},
+{
+"code": 101,
+"indent": 2,
 "parameters": [
 "crowleyfaces",
 0,
@@ -17224,27 +17244,20 @@ null,
 },
 {
 "code": 401,
-"indent": 0,
+"indent": 2,
 "parameters": [
-"\\n<Crowley>There's no time to sit and roost"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"at the Nest! I need to focus on the case."
+"n\\<Crowley>I must stay and solve the case!"
 ]
 },
 {
 "code": 205,
-"indent": 0,
+"indent": 2,
 "parameters": [
 -1,
 {
 "list": [
 {
-"code": 4,
+"code": 3,
 "indent": null
 },
 {
@@ -17259,13 +17272,120 @@ null,
 },
 {
 "code": 505,
-"indent": 0,
+"indent": 2,
 "parameters": [
 {
-"code": 4,
+"code": 3,
 "indent": null
 }
 ]
+},
+{
+"code": 0,
+"indent": 2,
+"parameters": []
+},
+{
+"code": 411,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 201,
+"indent": 2,
+"parameters": [
+0,
+9,
+1,
+1,
+0,
+0
+]
+},
+{
+"code": 0,
+"indent": 2,
+"parameters": []
+},
+{
+"code": 412,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 411,
+"indent": 0,
+"parameters": []
+},
+{
+"code": 101,
+"indent": 1,
+"parameters": [
+"crowleyfaces",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"\\n<Crowley>There's no time to sit and roost"
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"at the Nest! I need to focus on the case."
+]
+},
+{
+"code": 205,
+"indent": 1,
+"parameters": [
+-1,
+{
+"list": [
+{
+"code": 3,
+"indent": null
+},
+{
+"code": 0
+}
+],
+"repeat": false,
+"skippable": false,
+"wait": true
+}
+]
+},
+{
+"code": 505,
+"indent": 1,
+"parameters": [
+{
+"code": 3,
+"indent": null
+}
+]
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 412,
+"indent": 0,
+"parameters": []
 },
 {
 "code": 0,
@@ -17290,7 +17410,7 @@ null,
 "priorityType": 0,
 "stepAnime": false,
 "through": false,
-"trigger": 1,
+"trigger": 0,
 "walkAnime": true
 }
 ],
@@ -17328,58 +17448,15 @@ null,
 },
 "list": [
 {
-"code": 101,
+"code": 201,
 "indent": 0,
 "parameters": [
-"crowleyfaces",
 0,
+9,
+2,
+1,
 0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Crowley>There's no time to sit and roost"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"at the Nest! I need to focus on the case."
-]
-},
-{
-"code": 205,
-"indent": 0,
-"parameters": [
--1,
-{
-"list": [
-{
-"code": 4,
-"indent": null
-},
-{
-"code": 0
-}
-],
-"repeat": false,
-"skippable": false,
-"wait": true
-}
-]
-},
-{
-"code": 505,
-"indent": 0,
-"parameters": [
-{
-"code": 4,
-"indent": null
-}
+0
 ]
 },
 {
