@@ -12003,7 +12003,78 @@ null,
 "x": 13,
 "y": 1
 },
-null,
+{
+"id": 21,
+"name": "EV021",
+"note": "",
+"pages": [
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"tileId": 0,
+"characterName": "Actor3",
+"direction": 2,
+"pattern": 0,
+"characterIndex": 0
+},
+"list": [
+{
+"code": 201,
+"indent": 0,
+"parameters": [
+0,
+13,
+1,
+0,
+0,
+0
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 1,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+}
+],
+"x": 12,
+"y": 5
+},
 {
 "id": 22,
 "name": "EV022",
