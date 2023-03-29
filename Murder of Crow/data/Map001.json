@@ -7779,10 +7779,11 @@ null,
 [
 "the Narrows",
 "the Farmer’s Market",
-"the Town Square"
+"the Town Square",
+"the Nest"
 ],
 -1,
--1,
+4,
 1,
 0
 ]
@@ -8033,6 +8034,55 @@ null,
 "indent": 1,
 "parameters": [
 "updated_kiwihead_sheet",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"\\n<Kiwi>What about the drag marks in the"
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"Narrows?"
+]
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 402,
+"indent": 0,
+"parameters": [
+3,
+"the Nest"
+]
+},
+{
+"code": 250,
+"indent": 1,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 1,
+"parameters": [
+"updated_kiwihead_sheet",
 3,
 0,
 2
@@ -8042,7 +8092,43 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"\\n<Kiwi>What about the drag marks in the Narrows?"
+"\\n<Kiwi>But that’s on the other side of town!"
+]
+},
+{
+"code": 250,
+"indent": 1,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 1,
+"parameters": [
+"updated_kiwihead_sheet",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"\\n<Kiwi>Plus, we didn’t find any physical"
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"evidence over that way."
 ]
 },
 {
@@ -9556,6 +9642,7 @@ null,
 [
 "Jay",
 "Sly",
+"Bill",
 "No"
 ],
 -1,
@@ -10126,6 +10213,365 @@ null,
 "indent": 0,
 "parameters": [
 2,
+"Bill"
+]
+},
+{
+"code": 205,
+"indent": 1,
+"parameters": [
+-1,
+{
+"list": [
+{
+"code": 45,
+"parameters": [
+"MOVE TO: EVENT 35"
+],
+"indent": null
+},
+{
+"code": 17,
+"indent": null
+},
+{
+"code": 0
+}
+],
+"repeat": false,
+"skippable": false,
+"wait": true
+}
+]
+},
+{
+"code": 505,
+"indent": 1,
+"parameters": [
+{
+"code": 45,
+"parameters": [
+"MOVE TO: EVENT 35"
+],
+"indent": null
+}
+]
+},
+{
+"code": 505,
+"indent": 1,
+"parameters": [
+{
+"code": 17,
+"indent": null
+}
+]
+},
+{
+"code": 250,
+"indent": 1,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 1,
+"parameters": [
+"crowleyfaces",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"\\n<Crowley>Is there really nothing else you"
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"know about what might have happened last "
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"night?"
+]
+},
+{
+"code": 250,
+"indent": 1,
+"parameters": [
+{
+"name": "npc_voice",
+"volume": 90,
+"pitch": 80,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 1,
+"parameters": [
+"",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"\\n<Bill>I’ve heard plenty a rumour. But who’s to say"
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"any of ‘em are solid? Besides, seems to me like ya"
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"don’t always take me at my word."
+]
+},
+{
+"code": 250,
+"indent": 1,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 90,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 1,
+"parameters": [
+"updated_kiwihead_sheet",
+3,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"\\n<Kiwi>Well you DID twist Sly’s story..."
+]
+},
+{
+"code": 250,
+"indent": 1,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 1,
+"parameters": [
+"crowleyfaces",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"\\n<Crowley>Let’s call that water under the"
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"bridge. What more can you tell us?"
+]
+},
+{
+"code": 250,
+"indent": 1,
+"parameters": [
+{
+"name": "npc_voice",
+"volume": 90,
+"pitch": 80,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 1,
+"parameters": [
+"",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"\\n<Bill>Come to think of it, you aren’t often out late,"
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"so I suppose ya wouldn’t be aware..."
+]
+},
+{
+"code": 250,
+"indent": 1,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 1,
+"parameters": [
+"crowleyfaces",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"\\n<Crowley>About what?"
+]
+},
+{
+"code": 250,
+"indent": 1,
+"parameters": [
+{
+"name": "npc_voice",
+"volume": 90,
+"pitch": 80,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 1,
+"parameters": [
+"",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"\\n<Bill>Plenty of regulars only come ‘round during wee"
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"hours of the night! Frankly, the nocturnal clientele"
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"are where I pick up some of the most interesting rumours. "
+]
+},
+{
+"code": 250,
+"indent": 1,
+"parameters": [
+{
+"name": "npc_voice",
+"volume": 80,
+"pitch": 80,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 1,
+"parameters": [
+"",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"\\n<Bill>The city is something else in the dark. It’ll"
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"give ya a whole ‘nother perspective..."
+]
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 402,
+"indent": 0,
+"parameters": [
+3,
 "No"
 ]
 },
@@ -17072,7 +17518,288 @@ null,
 "x": 6,
 "y": 0
 },
-null,
+{
+"id": 29,
+"name": "Bill (ending)",
+"note": "",
+"pages": [
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 125,
+"switch1Valid": true,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"tileId": 0,
+"characterName": "$sagittariusbird",
+"direction": 8,
+"pattern": 1,
+"characterIndex": 0
+},
+"list": [
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "npc_voice",
+"volume": 90,
+"pitch": 80,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Bill>A little birdie told me folks were gatherin' "
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"in town square. Came to see what the fuss is about!"
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 1,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 123,
+"switch1Valid": true,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"tileId": 0,
+"characterName": "$sagittariusbird",
+"direction": 8,
+"pattern": 1,
+"characterIndex": 0
+},
+"list": [
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Bill>I gotta say, that's certainly not somethin' ya"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"see everyday..."
+]
+},
+{
+"code": 121,
+"indent": 0,
+"parameters": [
+138,
+138,
+0
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 1,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 128,
+"switch1Valid": true,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"tileId": 0,
+"characterName": "$sagittariusbird",
+"direction": 6,
+"pattern": 1,
+"characterIndex": 0
+},
+"list": [
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 1,
+"stepAnime": false,
+"through": false,
+"trigger": 3,
+"walkAnime": true
+}
+],
+"x": 9,
+"y": 10
+},
 {
 "id": 30,
 "name": "CROWWALK",
@@ -17560,6 +18287,65 @@ null,
 "x": 5,
 "y": 15
 },
-null
+{
+"id": 35,
+"name": "BillWalkHere",
+"note": "",
+"pages": [
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+}
+],
+"x": 10,
+"y": 10
+}
 ]
 }

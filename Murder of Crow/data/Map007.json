@@ -1355,10 +1355,10 @@ null,
 "directionFix": false,
 "image": {
 "tileId": 0,
-"characterName": "Nature",
+"characterName": "$sagittariusbird",
 "direction": 2,
 "pattern": 1,
-"characterIndex": 2
+"characterIndex": 0
 },
 "list": [
 {
@@ -2308,7 +2308,7 @@ null,
 "walkAnime": true
 }
 ],
-"x": 5,
+"x": 6,
 "y": 2
 },
 {
@@ -2788,8 +2788,8 @@ null,
 "walkAnime": true
 }
 ],
-"x": 6,
-"y": 4
+"x": 7,
+"y": 9
 },
 {
 "id": 3,
