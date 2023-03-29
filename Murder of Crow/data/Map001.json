@@ -777,9 +777,9 @@
 0,
 0,
 0,
-0,
-0,
-0,
+278,
+279,
+400,
 50,
 59,
 41,
@@ -1107,9 +1107,9 @@
 0,
 0,
 0,
-270,
-271,
-392,
+274,
+275,
+276,
 50,
 50,
 50,
@@ -1129,9 +1129,9 @@
 0,
 0,
 0,
-278,
-279,
-400,
+282,
+283,
+284,
 58,
 58,
 58,
@@ -6698,7 +6698,7 @@ null,
 "directionFix": false,
 "image": {
 "tileId": 0,
-"characterName": "$jayvendor",
+"characterName": "$jayvendor (1)",
 "direction": 6,
 "pattern": 1,
 "characterIndex": 0
@@ -6778,7 +6778,7 @@ null,
 "directionFix": false,
 "image": {
 "tileId": 0,
-"characterName": "$jayvendor",
+"characterName": "$jayvendor (1)",
 "direction": 6,
 "pattern": 1,
 "characterIndex": 0
@@ -6829,7 +6829,7 @@ null,
 "directionFix": false,
 "image": {
 "tileId": 0,
-"characterName": "$jayvendor",
+"characterName": "$jayvendor (1)",
 "direction": 6,
 "pattern": 1,
 "characterIndex": 0
@@ -8018,18 +8018,6 @@ null,
 ]
 },
 {
-"code": 250,
-"indent": 1,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
 "code": 101,
 "indent": 1,
 "parameters": [
@@ -8093,18 +8081,6 @@ null,
 "indent": 1,
 "parameters": [
 "\\n<Kiwi>But that’s on the other side of town!"
-]
-},
-{
-"code": 250,
-"indent": 1,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
 ]
 },
 {
@@ -8253,7 +8229,7 @@ null,
 "The victim is the thief"
 ],
 -1,
--1,
+4,
 1,
 0
 ]
@@ -8643,7 +8619,7 @@ null,
 "Jay found the body and dropped a jar out of shock"
 ],
 -1,
--1,
+4,
 1,
 0
 ]
@@ -8968,7 +8944,7 @@ null,
 "Nothing"
 ],
 -1,
--1,
+4,
 1,
 0
 ]
@@ -9313,7 +9289,7 @@ null,
 "Not sure"
 ],
 -1,
--1,
+4,
 1,
 0
 ]
@@ -10357,8 +10333,8 @@ null,
 "code": 101,
 "indent": 1,
 "parameters": [
-"",
-0,
+"billfaces",
+2,
 0,
 2
 ]
@@ -10367,21 +10343,38 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"\\n<Bill>I’ve heard plenty a rumour. But who’s to say"
+"\\n<Bill>I’ve heard plenty a rumour. But"
 ]
 },
 {
 "code": 401,
 "indent": 1,
 "parameters": [
-"any of ‘em are solid? Besides, seems to me like ya"
+"who’s to say any of ‘em are solid?"
+]
+},
+{
+"code": 101,
+"indent": 1,
+"parameters": [
+"billfaces",
+1,
+0,
+2
 ]
 },
 {
 "code": 401,
 "indent": 1,
 "parameters": [
-"don’t always take me at my word."
+"\\n<Bill>Besides, seems to me like ya don’t"
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"always take me at my word."
 ]
 },
 {
@@ -10465,8 +10458,8 @@ null,
 "code": 101,
 "indent": 1,
 "parameters": [
-"",
-0,
+"billfaces",
+2,
 0,
 2
 ]
@@ -10475,14 +10468,21 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"\\n<Bill>Come to think of it, you aren’t often out late,"
+"\\n<Bill>Come to think of it, you lot aren’t"
 ]
 },
 {
 "code": 401,
 "indent": 1,
 "parameters": [
-"so I suppose ya wouldn’t be aware..."
+"often out late, so I suppose ya wouldn’t be"
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"aware..."
 ]
 },
 {
@@ -10530,7 +10530,7 @@ null,
 "code": 101,
 "indent": 1,
 "parameters": [
-"",
+"billfaces",
 0,
 0,
 2
@@ -10540,21 +10540,28 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"\\n<Bill>Plenty of regulars only come ‘round during wee"
+"\\n<Bill>Plenty of regulars only come ‘round"
 ]
 },
 {
 "code": 401,
 "indent": 1,
 "parameters": [
-"hours of the night! Frankly, the nocturnal clientele"
+"during wee hours of the night! Frankly, the"
 ]
 },
 {
 "code": 401,
 "indent": 1,
 "parameters": [
-"are where I pick up some of the most interesting rumours. "
+"nocturnal clientele are where I pick up"
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"some of the most interesting rumours. "
 ]
 },
 {
@@ -10573,8 +10580,8 @@ null,
 "code": 101,
 "indent": 1,
 "parameters": [
-"",
-0,
+"billfaces",
+2,
 0,
 2
 ]
@@ -10583,14 +10590,14 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"\\n<Bill>The city is something else in the dark. It’ll"
+"\\n<Bill>The city is something else in the dark."
 ]
 },
 {
 "code": 401,
 "indent": 1,
 "parameters": [
-"give ya a whole ‘nother perspective..."
+"It’ll give ya a whole ‘nother perspective..."
 ]
 },
 {
@@ -17678,11 +17685,11 @@ null,
 },
 "directionFix": false,
 "image": {
-"tileId": 0,
-"characterName": "$sagittariusbird",
-"direction": 8,
-"pattern": 1,
-"characterIndex": 0
+"tileId": 394,
+"characterName": "",
+"characterIndex": 0,
+"direction": 2,
+"pattern": 0
 },
 "list": [
 {
@@ -17701,7 +17708,7 @@ null,
 "code": 101,
 "indent": 0,
 "parameters": [
-"",
+"billfaces",
 0,
 0,
 2
@@ -17711,14 +17718,21 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Bill>A little birdie told me folks were gatherin' "
+"\\n<Bill>A little birdie told me folks were"
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"in town square. Came to see what the fuss is about!"
+"gatherin' in town square. I just had to see"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"what the fuss is about!"
 ]
 },
 {
@@ -17741,7 +17755,7 @@ null,
 },
 "moveSpeed": 3,
 "moveType": 0,
-"priorityType": 1,
+"priorityType": 0,
 "stepAnime": false,
 "through": false,
 "trigger": 0,
@@ -17765,19 +17779,31 @@ null,
 },
 "directionFix": false,
 "image": {
-"tileId": 0,
-"characterName": "$sagittariusbird",
-"direction": 8,
-"pattern": 1,
-"characterIndex": 0
+"tileId": 394,
+"characterName": "",
+"characterIndex": 0,
+"direction": 2,
+"pattern": 0
 },
 "list": [
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "npc_voice",
+"volume": 90,
+"pitch": 80,
+"pan": 0
+}
+]
+},
 {
 "code": 101,
 "indent": 0,
 "parameters": [
-"",
-0,
+"billfaces",
+1,
 0,
 2
 ]
@@ -17786,14 +17812,14 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Bill>I gotta say, that's certainly not somethin' ya"
+"\\n<Bill>I gotta say, that's certainly not"
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"see everyday..."
+"somethin' ya see everyday..."
 ]
 },
 {
@@ -17825,7 +17851,7 @@ null,
 },
 "moveSpeed": 3,
 "moveType": 0,
-"priorityType": 1,
+"priorityType": 0,
 "stepAnime": false,
 "through": false,
 "trigger": 0,
@@ -17849,11 +17875,11 @@ null,
 },
 "directionFix": false,
 "image": {
-"tileId": 0,
-"characterName": "$sagittariusbird",
-"direction": 6,
-"pattern": 1,
-"characterIndex": 0
+"tileId": 394,
+"characterName": "",
+"characterIndex": 0,
+"direction": 2,
+"pattern": 0
 },
 "list": [
 {
@@ -17876,7 +17902,7 @@ null,
 },
 "moveSpeed": 3,
 "moveType": 0,
-"priorityType": 1,
+"priorityType": 0,
 "stepAnime": false,
 "through": false,
 "trigger": 3,
