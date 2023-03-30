@@ -1424,18 +1424,18 @@ null,
 "directionFix": false,
 "image": {
 "tileId": 0,
-"characterName": "Nature",
-"direction": 6,
+"characterName": "!$moleoverworldsitting",
+"direction": 2,
 "pattern": 1,
-"characterIndex": 2
+"characterIndex": 0
 },
 "list": [
 {
 "code": 101,
 "indent": 0,
 "parameters": [
-"Nature",
-2,
+"molecloseuup",
+1,
 0,
 2
 ]
@@ -1465,8 +1465,8 @@ null,
 "code": 101,
 "indent": 0,
 "parameters": [
-"Nature",
-2,
+"molecloseuup",
+1,
 0,
 2
 ]
@@ -1573,18 +1573,18 @@ null,
 "directionFix": false,
 "image": {
 "tileId": 0,
-"characterName": "Nature",
-"direction": 6,
+"characterName": "!$moleoverworldsitting",
+"direction": 2,
 "pattern": 1,
-"characterIndex": 2
+"characterIndex": 0
 },
 "list": [
 {
 "code": 101,
 "indent": 0,
 "parameters": [
-"Nature",
-2,
+"molecloseuup",
+1,
 0,
 2
 ]
@@ -1622,8 +1622,8 @@ null,
 "code": 101,
 "indent": 1,
 "parameters": [
-"Nature",
-2,
+"molecloseuup",
+1,
 0,
 2
 ]
@@ -1689,8 +1689,8 @@ null,
 "code": 101,
 "indent": 1,
 "parameters": [
-"Nature",
-2,
+"molecloseuup",
+1,
 0,
 2
 ]
@@ -1780,8 +1780,8 @@ null,
 "code": 101,
 "indent": 1,
 "parameters": [
-"Nature",
-2,
+"molecloseuup",
+3,
 0,
 2
 ]
@@ -1848,10 +1848,10 @@ null,
 "directionFix": false,
 "image": {
 "tileId": 0,
-"characterName": "Nature",
-"direction": 6,
+"characterName": "!$moleoverworldsitting",
+"direction": 2,
 "pattern": 1,
-"characterIndex": 2
+"characterIndex": 0
 },
 "list": [
 {
@@ -1902,8 +1902,8 @@ null,
 "code": 101,
 "indent": 4,
 "parameters": [
-"Nature",
-2,
+"molecloseuup",
+4,
 0,
 2
 ]
@@ -1999,8 +1999,8 @@ null,
 "code": 101,
 "indent": 2,
 "parameters": [
-"Nature",
-2,
+"molecloseuup",
+0,
 0,
 2
 ]
@@ -2023,8 +2023,8 @@ null,
 "code": 101,
 "indent": 2,
 "parameters": [
-"Nature",
-2,
+"molecloseuup",
+3,
 0,
 2
 ]
@@ -2099,7 +2099,7 @@ null,
 "code": 101,
 "indent": 2,
 "parameters": [
-"Nature",
+"molecloseuup",
 2,
 0,
 2

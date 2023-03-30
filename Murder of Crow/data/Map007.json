@@ -2395,7 +2395,14 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Sly>H-had any luck with the investigation?"
+"\\n<Sly>Have you had any luck with"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"the investigation?"
 ]
 },
 {
@@ -2612,14 +2619,14 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Crowley>When we spoke earlier, you didn’t"
+"\\n<Crowley>When we spoke earlier, you didn’t mention"
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"mention spotting the “monster” and the body"
+"spotting the “monster” and the body"
 ]
 },
 {
@@ -3272,18 +3279,366 @@ null,
 "variableValid": false,
 "variableValue": 0
 },
-"directionFix": true,
+"directionFix": false,
 "image": {
 "tileId": 0,
 "characterName": "!$moleoverworldsitting",
 "direction": 2,
-"pattern": 0,
+"pattern": 1,
 "characterIndex": 0
 },
 "list": [
 {
-"code": 201,
+"code": 101,
 "indent": 0,
+"parameters": [
+"molecloseuup",
+5,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Patron>Psst, hey you."
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"updated_kiwihead_sheet",
+1,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Kiwi>Me?"
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"molecloseuup",
+5,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Patron>Nah, I got something for ya' copper"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"friend."
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+1,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>I'm not a cop, I'm a private detective."
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"There's a difference..."
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"molecloseuup",
+3,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Patron>Tomato, potato. You're investigating"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"that birdy in Town Square, right?"
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"updated_kiwihead_sheet",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Kiwi>I don't think that's how the saying goes..."
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"molecloseuup",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Patron>Whateva' kid. Ya want the lowdown"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"or not?"
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"molecloseuup",
+5,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<The Mole>My name’s Mikey, but ehhh, they"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"call me The Mole. I gotta’ lotta’ dirt on"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"the critters of this town, yenno?"
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>Alright Mikey, I'm listening."
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"Spill the tea!"
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"molecloseuup",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<The Mole>Woaah copper, slow ya' roll. I"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"ain't snitchin' that easily. I may be a "
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"mole, but a critters gotta earn my trust"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"before I sing!"
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"molecloseuup",
+1,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<The Mole>Care to play a game? If ya' win,"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"I'll tell ya' what I know. If you lose..."
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"well... you and your friend will be left"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"in the dark. Whaddya say?"
+]
+},
+{
+"code": 102,
+"indent": 0,
+"parameters": [
+[
+"Sure, I'll bite! Let's play!",
+"Maybe later..."
+],
+1,
+0,
+2,
+0
+]
+},
+{
+"code": 402,
+"indent": 0,
+"parameters": [
+0,
+"Sure, I'll bite! Let's play!"
+]
+},
+{
+"code": 201,
+"indent": 1,
 "parameters": [
 0,
 13,
@@ -3294,29 +3649,84 @@ null,
 ]
 },
 {
+"code": 123,
+"indent": 1,
+"parameters": [
+"B",
+0
+]
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 402,
+"indent": 0,
+"parameters": [
+1,
+"Maybe later..."
+]
+},
+{
+"code": 101,
+"indent": 1,
+"parameters": [
+"molecloseuup",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"\\n<The Mole>I didn't take ya' for someone who'd back"
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"down from a challenge! If ya' change your"
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"mind, I'll be waitin' here."
+]
+},
+{
+"code": 123,
+"indent": 1,
+"parameters": [
+"A",
+0
+]
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 404,
+"indent": 0,
+"parameters": []
+},
+{
 "code": 0,
 "indent": 0,
 "parameters": []
 }
 ],
-"moveFrequency": 1,
+"moveFrequency": 3,
 "moveRoute": {
 "list": [
-{
-"code": 33,
-"indent": null
-},
-{
-"code": 34,
-"indent": null
-},
-{
-"code": 15,
-"parameters": [
-15
-],
-"indent": null
-},
 {
 "code": 0,
 "parameters": []
@@ -3326,13 +3736,283 @@ null,
 "skippable": false,
 "wait": false
 },
-"moveSpeed": 1,
-"moveType": 3,
+"moveSpeed": 3,
+"moveType": 0,
 "priorityType": 1,
-"stepAnime": true,
+"stepAnime": false,
 "through": false,
 "trigger": 0,
-"walkAnime": false
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": true,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"tileId": 0,
+"characterName": "!$moleoverworldsitting",
+"direction": 2,
+"pattern": 1,
+"characterIndex": 0
+},
+"list": [
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"molecloseuup",
+5,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<The Mole>Back for more dirt? I ain't sharin'"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"nothin' 'til you beat my game. "
+]
+},
+{
+"code": 102,
+"indent": 0,
+"parameters": [
+[
+"I'm ready to play!",
+"I still need some time..."
+],
+1,
+0,
+2,
+0
+]
+},
+{
+"code": 402,
+"indent": 0,
+"parameters": [
+0,
+"I'm ready to play!"
+]
+},
+{
+"code": 101,
+"indent": 1,
+"parameters": [
+"molecloseuup",
+5,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"\\n<The Mole>Good. I was worried for a moment"
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"that the famous Detective Crowley was"
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"actually a chicken! *snicker*"
+]
+},
+{
+"code": 201,
+"indent": 1,
+"parameters": [
+0,
+13,
+1,
+0,
+0,
+0
+]
+},
+{
+"code": 123,
+"indent": 1,
+"parameters": [
+"B",
+0
+]
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 402,
+"indent": 0,
+"parameters": [
+1,
+"I still need some time..."
+]
+},
+{
+"code": 101,
+"indent": 1,
+"parameters": [
+"molecloseuup",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"\\n<The Mole>Really? *scoffs* Fine, fine."
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"I'll be here waitin' for ya. "
+]
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 404,
+"indent": 0,
+"parameters": []
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 1,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "B",
+"selfSwitchValid": true,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"tileId": 0,
+"characterName": "!$moleoverworldsitting",
+"direction": 2,
+"pattern": 1,
+"characterIndex": 0
+},
+"list": [
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"molecloseuup",
+5,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<The Mole>Heh, ya' got good ears. Alright,"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"I'll tell ya' what I know like promised. "
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 1,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
 }
 ],
 "x": 16,
@@ -3784,14 +4464,14 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Crowley>Bill, we need facts, not tall"
+"\\n<Crowley>Bill, we need facts, not tall tales."
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"tales. Got anything less fanciful to relay?"
+"Got anything less fanciful to relay?"
 ]
 },
 {
@@ -4058,14 +4738,14 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Crowley>We don’t usually get migratory"
+"\\n<Crowley>We don’t usually get migratory visitors"
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"visitors this time of year. What might they"
+"this time of year. What might they"
 ]
 },
 {
@@ -4352,6 +5032,781 @@ null,
 ],
 "x": 6,
 "y": 4
+},
+{
+"id": 11,
+"name": "EV011",
+"note": "",
+"pages": [
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"tileId": 0,
+"characterName": "$chinstrappenguin",
+"direction": 6,
+"pattern": 0,
+"characterIndex": 0
+},
+"list": [
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"vendorfaces",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Patron>Hoho, don't ask me about any rumours."
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"I'm keeping my bill clean! I don't want"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"the monster coming after me"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"for something I said..."
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 1,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": false
+}
+],
+"x": 5,
+"y": 9
+},
+{
+"id": 12,
+"name": "EV012",
+"note": "",
+"pages": [
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"tileId": 0,
+"characterName": "$sagittariusbird",
+"direction": 2,
+"pattern": 1,
+"characterIndex": 0
+},
+"list": [
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"vendorfaces",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Patron>..."
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 1,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": false
+}
+],
+"x": 11,
+"y": 8
+},
+{
+"id": 13,
+"name": "EV013",
+"note": "",
+"pages": [
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"tileId": 0,
+"characterName": "$defaultCrow",
+"direction": 4,
+"pattern": 1,
+"characterIndex": 0
+},
+"list": [
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"Actor4_temp",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Patron>..."
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 2,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 2,
+"moveType": 1,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+}
+],
+"x": 13,
+"y": 5
+},
+{
+"id": 14,
+"name": "EV014",
+"note": "",
+"pages": [
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"tileId": 0,
+"characterName": "$defaultCrow",
+"direction": 2,
+"pattern": 1,
+"characterIndex": 0
+},
+"list": [
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"Actor4_temp",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Patron>Who'da thought there'd be a MURDER in"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"our quaint town..."
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 1,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 2,
+"moveType": 1,
+"priorityType": 1,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+}
+],
+"x": 3,
+"y": 5
+},
+{
+"id": 15,
+"name": "EV015",
+"note": "",
+"pages": [
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"tileId": 0,
+"characterName": "$honeybadgervendor",
+"direction": 2,
+"pattern": 1,
+"characterIndex": 0
+},
+"list": [
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"vendorfaces",
+1,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Patron>..."
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 2,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 2,
+"moveType": 1,
+"priorityType": 1,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+}
+],
+"x": 10,
+"y": 1
+},
+{
+"id": 16,
+"name": "EV016",
+"note": "",
+"pages": [
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"tileId": 0,
+"characterName": "$chinstrappenguin",
+"direction": 4,
+"pattern": 1,
+"characterIndex": 0
+},
+"list": [
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>Can you tell us anything about"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"the rumours flying around this joint?"
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"vendorfaces",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Patron>Well... I heard something about Jay's jam"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"going missing! "
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+1,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>I meant anything about the unkown"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"bird in Town Square..."
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"vendorfaces",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Patron>What bird in Town Square?"
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+1,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>The one we're inquiring information "
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"about for our ongoing murder investigation?"
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"vendorfaces",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Patron>THERE'S BEEN A MURDER?!"
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+1,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>...Never mind."
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"updated_kiwihead_sheet",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Kiwi>Well, at least we know they're not"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"a suspect!"
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>Unless that's what they WANT"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"us to think!"
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"updated_kiwihead_sheet",
+1,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Kiwi>C'mon boss, don't be silly! Let's"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"chat with some other patrons first."
+]
+},
+{
+"code": 123,
+"indent": 0,
+"parameters": [
+"A",
+0
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 2,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 2,
+"moveType": 1,
+"priorityType": 1,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": true,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"tileId": 0,
+"characterName": "$chinstrappenguin",
+"direction": 4,
+"pattern": 1,
+"characterIndex": 0
+},
+"list": [
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"vendorfaces",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Patron>Let me know if you hear anything about"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"Jay's missing jam!"
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 1,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+}
+],
+"x": 8,
+"y": 5
 }
 ]
 }
