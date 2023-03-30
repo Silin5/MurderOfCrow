@@ -1,13 +1,13 @@
 {
 "airship": {
 "bgm": {
-"name": "Ship3",
+"name": "",
 "pan": 0,
 "pitch": 100,
 "volume": 90
 },
 "characterIndex": 3,
-"characterName": "Vehicle",
+"characterName": "",
 "startMapId": 0,
 "startX": 0,
 "startY": 0
@@ -28,55 +28,55 @@
 },
 {
 "type": 1,
-"weaponImageId": 1
+"weaponImageId": 0
 },
 {
 "type": 1,
-"weaponImageId": 2
+"weaponImageId": 0
 },
 {
 "type": 1,
-"weaponImageId": 3
+"weaponImageId": 0
 },
 {
 "type": 1,
-"weaponImageId": 4
+"weaponImageId": 0
 },
 {
 "type": 1,
-"weaponImageId": 5
+"weaponImageId": 0
 },
 {
 "type": 1,
-"weaponImageId": 6
+"weaponImageId": 0
 },
 {
 "type": 2,
-"weaponImageId": 7
+"weaponImageId": 0
 },
 {
 "type": 2,
-"weaponImageId": 8
+"weaponImageId": 0
 },
 {
 "type": 2,
-"weaponImageId": 9
+"weaponImageId": 0
 },
 {
 "type": 0,
-"weaponImageId": 10
+"weaponImageId": 0
 },
 {
 "type": 0,
-"weaponImageId": 11
+"weaponImageId": 0
 },
 {
 "type": 0,
-"weaponImageId": 12
+"weaponImageId": 0
 }
 ],
 "battleBgm": {
-"name": "Battle1",
+"name": "",
 "pan": 0,
 "pitch": 100,
 "volume": 90
@@ -87,13 +87,13 @@
 "battlerName": "Dragon",
 "boat": {
 "bgm": {
-"name": "Ship1",
+"name": "",
 "pan": 0,
 "pitch": 100,
 "volume": 90
 },
 "characterIndex": 0,
-"characterName": "Vehicle",
+"characterName": "",
 "startMapId": 0,
 "startX": 0,
 "startY": 0
@@ -158,13 +158,13 @@ true
 ],
 "ship": {
 "bgm": {
-"name": "Ship2",
+"name": "",
 "pan": 0,
 "pitch": 100,
 "volume": 90
 },
 "characterIndex": 1,
-"characterName": "Vehicle",
+"characterName": "",
 "startMapId": 0,
 "startX": 0,
 "startY": 0
@@ -188,7 +188,7 @@ true
 "volume": 90
 },
 {
-"name": "select",
+"name": "back",
 "pan": 0,
 "pitch": 60,
 "volume": 90
@@ -218,7 +218,7 @@ true
 "volume": 90
 },
 {
-"name": "Battle1",
+"name": "",
 "pan": 0,
 "pitch": 100,
 "volume": 90
@@ -230,79 +230,79 @@ true
 "volume": 90
 },
 {
-"name": "Attack3",
+"name": "",
 "pan": 0,
 "pitch": 100,
 "volume": 90
 },
 {
-"name": "Damage4",
+"name": "",
 "pan": 0,
 "pitch": 100,
 "volume": 90
 },
 {
-"name": "Collapse1",
+"name": "",
 "pan": 0,
 "pitch": 100,
 "volume": 90
 },
 {
-"name": "Collapse2",
+"name": "",
 "pan": 0,
 "pitch": 100,
 "volume": 90
 },
 {
-"name": "Collapse3",
+"name": "",
 "pan": 0,
 "pitch": 100,
 "volume": 90
 },
 {
-"name": "Damage5",
+"name": "",
 "pan": 0,
 "pitch": 100,
 "volume": 90
 },
 {
-"name": "Collapse4",
+"name": "",
 "pan": 0,
 "pitch": 100,
 "volume": 90
 },
 {
-"name": "Recovery",
+"name": "",
 "pan": 0,
 "pitch": 100,
 "volume": 90
 },
 {
-"name": "Miss",
+"name": "",
 "pan": 0,
 "pitch": 100,
 "volume": 90
 },
 {
-"name": "Evasion1",
+"name": "",
 "pan": 0,
 "pitch": 100,
 "volume": 90
 },
 {
-"name": "Evasion2",
+"name": "",
 "pan": 0,
 "pitch": 100,
 "volume": 90
 },
 {
-"name": "Reflection",
+"name": "",
 "pan": 0,
 "pitch": 100,
 "volume": 90
 },
 {
-"name": "Shop1",
+"name": "",
 "pan": 0,
 "pitch": 100,
 "volume": 90
@@ -894,7 +894,7 @@ null,
 ],
 "versionId": 0,
 "victoryMe": {
-"name": "Victory1",
+"name": "",
 "pan": 0,
 "pitch": 100,
 "volume": 90
