@@ -80,9 +80,9 @@
 7636,
 7636,
 7636,
-7636,
 7652,
 4002,
+3988,
 3988,
 4004,
 7650,
@@ -136,8 +136,8 @@
 0,
 0,
 0,
-0,
 4050,
+4036,
 4036,
 4052,
 0,
@@ -301,8 +301,8 @@
 0,
 0,
 0,
-0,
 5,
+0,
 0,
 0,
 0,
@@ -434,7 +434,7 @@ null,
 "walkAnime": true
 }
 ],
-"x": 6,
+"x": 5,
 "y": 4
 },
 {
@@ -506,7 +506,7 @@ null,
 "walkAnime": true
 }
 ],
-"x": 7,
+"x": 6,
 "y": 4
 },
 {
@@ -575,6 +575,78 @@ null,
 "stepAnime": false,
 "through": false,
 "trigger": 1,
+"walkAnime": true
+}
+],
+"x": 7,
+"y": 4
+},
+{
+"id": 4,
+"name": "EV004",
+"note": "",
+"pages": [
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 201,
+"indent": 0,
+"parameters": [
+0,
+7,
+13,
+1,
+0,
+0
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
 "walkAnime": true
 }
 ],
