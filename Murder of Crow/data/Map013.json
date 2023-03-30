@@ -1640,7 +1640,7 @@ null,
 "indent": 1,
 "parameters": [
 {
-"name": "glass1",
+"name": "Book1",
 "volume": 90,
 "pitch": 100,
 "pan": 0
@@ -1659,7 +1659,7 @@ null,
 "indent": 1,
 "parameters": [
 {
-"name": "glass2",
+"name": "Blow2",
 "volume": 90,
 "pitch": 100,
 "pan": 0
@@ -1678,7 +1678,7 @@ null,
 "indent": 1,
 "parameters": [
 {
-"name": "glass3",
+"name": "Wind4",
 "volume": 90,
 "pitch": 100,
 "pan": 0
@@ -2293,7 +2293,7 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "glass1",
+"name": "Book1",
 "volume": 90,
 "pitch": 100,
 "pan": 0
@@ -2370,7 +2370,7 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "glass1",
+"name": "Book1",
 "volume": 90,
 "pitch": 100,
 "pan": 0
@@ -2478,7 +2478,7 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "glass2",
+"name": "Blow2",
 "volume": 90,
 "pitch": 100,
 "pan": 0
@@ -2555,7 +2555,7 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "glass2",
+"name": "Blow2",
 "volume": 90,
 "pitch": 100,
 "pan": 0
@@ -2663,7 +2663,7 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "glass3",
+"name": "Wind4",
 "volume": 90,
 "pitch": 100,
 "pan": 0
@@ -2740,7 +2740,7 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "glass3",
+"name": "Wind4",
 "volume": 90,
 "pitch": 100,
 "pan": 0
