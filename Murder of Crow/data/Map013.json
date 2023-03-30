@@ -1421,7 +1421,7 @@ null,
 "variableValid": false,
 "variableValue": 0
 },
-"directionFix": false,
+"directionFix": true,
 "image": {
 "tileId": 0,
 "characterName": "!$moleoverworldsitting",
@@ -1552,7 +1552,7 @@ null,
 "stepAnime": false,
 "through": false,
 "trigger": 4,
-"walkAnime": true
+"walkAnime": false
 },
 {
 "conditions": {
@@ -1570,7 +1570,7 @@ null,
 "variableValid": false,
 "variableValue": 0
 },
-"directionFix": false,
+"directionFix": true,
 "image": {
 "tileId": 0,
 "characterName": "!$moleoverworldsitting",
@@ -1845,7 +1845,7 @@ null,
 "variableValid": false,
 "variableValue": 3
 },
-"directionFix": false,
+"directionFix": true,
 "image": {
 "tileId": 0,
 "characterName": "!$moleoverworldsitting",
@@ -1919,6 +1919,15 @@ null,
 "code": 121,
 "indent": 4,
 "parameters": [
+103,
+103,
+0
+]
+},
+{
+"code": 121,
+"indent": 4,
+"parameters": [
 102,
 102,
 1
@@ -1943,14 +1952,23 @@ null,
 ]
 },
 {
+"code": 121,
+"indent": 4,
+"parameters": [
+104,
+104,
+0
+]
+},
+{
 "code": 201,
 "indent": 4,
 "parameters": [
 0,
-1,
-13,
-5,
-0,
+7,
+15,
+4,
+6,
 0
 ]
 },
@@ -2123,6 +2141,15 @@ null,
 "code": 121,
 "indent": 2,
 "parameters": [
+103,
+103,
+1
+]
+},
+{
+"code": 121,
+"indent": 2,
+"parameters": [
 102,
 102,
 1
@@ -2147,14 +2174,23 @@ null,
 ]
 },
 {
+"code": 121,
+"indent": 2,
+"parameters": [
+104,
+104,
+0
+]
+},
+{
 "code": 201,
 "indent": 2,
 "parameters": [
 0,
-1,
-13,
-5,
-0,
+7,
+15,
+4,
+6,
 0
 ]
 },
