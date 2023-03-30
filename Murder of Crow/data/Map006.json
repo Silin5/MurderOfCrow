@@ -3638,7 +3638,7 @@ null,
 }
 ],
 "x": 5,
-"y": 10
+"y": 11
 },
 {
 "id": 9,
@@ -3715,7 +3715,7 @@ null,
 }
 ],
 "x": 6,
-"y": 10
+"y": 11
 },
 {
 "id": 10,
@@ -3799,7 +3799,7 @@ null,
 }
 ],
 "x": 12,
-"y": 7
+"y": 8
 },
 {
 "id": 11,
@@ -3883,7 +3883,7 @@ null,
 }
 ],
 "x": 11,
-"y": 7
+"y": 8
 },
 {
 "id": 12,
@@ -4044,7 +4044,7 @@ null,
 }
 ],
 "x": 5,
-"y": 3
+"y": 4
 },
 {
 "id": 14,
@@ -4128,7 +4128,7 @@ null,
 }
 ],
 "x": 6,
-"y": 3
+"y": 4
 },
 {
 "id": 15,
@@ -4205,7 +4205,7 @@ null,
 }
 ],
 "x": 5,
-"y": 7
+"y": 8
 },
 {
 "id": 16,
@@ -4282,7 +4282,84 @@ null,
 }
 ],
 "x": 6,
-"y": 7
+"y": 8
+},
+{
+"id": 17,
+"name": "EV017",
+"note": "",
+"pages": [
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+3,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>All this jam is quite tempting..."
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+}
+],
+"x": 7,
+"y": 10
 }
 ]
 }

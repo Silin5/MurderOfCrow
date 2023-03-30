@@ -10244,37 +10244,6 @@ null,
 ]
 },
 {
-"code": 205,
-"indent": 1,
-"parameters": [
-29,
-{
-"list": [
-{
-"code": 10,
-"indent": null
-},
-{
-"code": 0
-}
-],
-"repeat": false,
-"skippable": false,
-"wait": true
-}
-]
-},
-{
-"code": 505,
-"indent": 1,
-"parameters": [
-{
-"code": 10,
-"indent": null
-}
-]
-},
-{
 "code": 250,
 "indent": 1,
 "parameters": [
@@ -10547,7 +10516,7 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"during wee hours of the night! Frankly, the"
+"during wee hours of the night! Frankly,"
 ]
 },
 {
