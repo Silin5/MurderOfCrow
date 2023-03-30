@@ -23070,21 +23070,14 @@ false
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Kiwi>Erh... it does look odd..."
+"\\n<Kiwi>Erh... it does look odd... But it’s"
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"But it’s hard to tell from such a dark "
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"photo..."
+"hard to tell from such a dark photo..."
 ]
 },
 {
@@ -23131,7 +23124,7 @@ false
 "code": 401,
 "indent": 1,
 "parameters": [
-"Should we check out the Farmers Market?"
+"Should we check out the Farmer's Market?"
 ]
 },
 {
