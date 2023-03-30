@@ -2444,14 +2444,14 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"get the s-scoop on another story, something"
+"get the s-scoop on another story,"
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"about stolen goods..."
+"something about stolen goods..."
 ]
 },
 {
@@ -2511,7 +2511,14 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"them off. But when I went to develop my photo..."
+"them off. But when I went to develop"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"my photo..."
 ]
 },
 {
