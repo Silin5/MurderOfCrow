@@ -1,5 +1,5 @@
 {
-"autoplayBgm": false,
+"autoplayBgm": true,
 "autoplayBgs": false,
 "battleback1Name": "",
 "battleback2Name": "",
@@ -1964,11 +1964,11 @@ null,
 "code": 201,
 "indent": 4,
 "parameters": [
-0,
-7,
-15,
-4,
-6,
+1,
+89,
+90,
+91,
+2,
 0
 ]
 },
@@ -2186,11 +2186,11 @@ null,
 "code": 201,
 "indent": 2,
 "parameters": [
+1,
+89,
+90,
+91,
 0,
-7,
-15,
-4,
-6,
 0
 ]
 },
