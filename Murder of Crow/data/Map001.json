@@ -17739,11 +17739,11 @@ null,
 },
 "directionFix": false,
 "image": {
-"tileId": 394,
-"characterName": "",
-"characterIndex": 0,
+"tileId": 0,
+"characterName": "$billoverworld",
 "direction": 2,
-"pattern": 0
+"pattern": 0,
+"characterIndex": 0
 },
 "list": [
 {
@@ -17809,7 +17809,7 @@ null,
 },
 "moveSpeed": 3,
 "moveType": 0,
-"priorityType": 0,
+"priorityType": 1,
 "stepAnime": false,
 "through": false,
 "trigger": 0,
@@ -17833,11 +17833,11 @@ null,
 },
 "directionFix": false,
 "image": {
-"tileId": 394,
-"characterName": "",
-"characterIndex": 0,
+"tileId": 0,
+"characterName": "$billoverworld",
 "direction": 2,
-"pattern": 0
+"pattern": 1,
+"characterIndex": 0
 },
 "list": [
 {
@@ -17905,7 +17905,7 @@ null,
 },
 "moveSpeed": 3,
 "moveType": 0,
-"priorityType": 0,
+"priorityType": 1,
 "stepAnime": false,
 "through": false,
 "trigger": 0,
@@ -17929,11 +17929,11 @@ null,
 },
 "directionFix": false,
 "image": {
-"tileId": 394,
-"characterName": "",
-"characterIndex": 0,
+"tileId": 0,
+"characterName": "$billoverworld",
 "direction": 2,
-"pattern": 0
+"pattern": 1,
+"characterIndex": 0
 },
 "list": [
 {
@@ -17956,7 +17956,7 @@ null,
 },
 "moveSpeed": 3,
 "moveType": 0,
-"priorityType": 0,
+"priorityType": 1,
 "stepAnime": false,
 "through": false,
 "trigger": 3,
