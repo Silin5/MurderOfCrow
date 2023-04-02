@@ -30,7 +30,7 @@
 "scrollType": 0,
 "specifyBattleback": false,
 "tilesetId": 3,
-"width": 18,
+"width": 19,
 "data": [
 6752,
 6776,
@@ -41,15 +41,16 @@
 6322,
 6322,
 6322,
+6322,
+6322,
+6322,
 6326,
-0,
-0,
-6796,
-6327,
 6327,
 6323,
+6322,
+6322,
 6326,
-6960,
+7008,
 6752,
 6776,
 6329,
@@ -59,15 +60,16 @@
 6328,
 6328,
 6328,
+6328,
+6328,
+6328,
 6332,
-0,
-0,
-0,
 6325,
 6329,
 6328,
+6328,
 6332,
-6960,
+7008,
 6752,
 6776,
 3234,
@@ -84,16 +86,17 @@
 6333,
 6379,
 6378,
-6378,
-6960,
+6382,
+1570,
+7008,
 6752,
 6776,
 3216,
 3224,
 0,
 0,
-0,
-0,
+6846,
+6942,
 0,
 0,
 0,
@@ -102,8 +105,9 @@
 0,
 6323,
 6990,
-8002,
-6960,
+8007,
+1570,
+7008,
 6752,
 6776,
 3240,
@@ -118,10 +122,11 @@
 0,
 0,
 0,
-6325,
+6321,
 8010,
-8008,
-6960,
+8012,
+1570,
+7008,
 6780,
 6790,
 3618,
@@ -136,10 +141,11 @@
 0,
 0,
 0,
-6325,
-6978,
-6964,
-6945,
+6321,
+7803,
+7793,
+7805,
+7008,
 6323,
 6326,
 3602,
@@ -154,10 +160,11 @@
 0,
 0,
 0,
-6325,
-6960,
-6944,
-6944,
+6321,
+7026,
+7012,
+7012,
+6993,
 6329,
 6332,
 3616,
@@ -172,10 +179,11 @@
 0,
 0,
 0,
-6325,
-6960,
-6944,
-6944,
+6321,
+7008,
+6992,
+6992,
+6992,
 6689,
 6701,
 3616,
@@ -190,10 +198,11 @@
 0,
 0,
 0,
-6325,
-6960,
-6944,
-6944,
+6321,
+7008,
+6992,
+6992,
+6992,
 0,
 0,
 3628,
@@ -208,10 +217,11 @@
 0,
 0,
 0,
-6325,
-6960,
-6944,
-6944,
+6321,
+7008,
+6992,
+6992,
+6992,
 0,
 0,
 0,
@@ -226,42 +236,30 @@
 0,
 0,
 0,
-6333,
-6960,
-6944,
-6944,
-6964,
-6964,
-6964,
-6964,
-6964,
-6964,
-6964,
-6964,
-6964,
-6964,
-6964,
-6964,
-6964,
-6964,
-6964,
-6945,
-6944,
-6944,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-3504,
-3488,
-3488,
-3512,
+6329,
+7008,
+6992,
+6992,
+6992,
+7012,
+7012,
+7012,
+7012,
+7012,
+7012,
+7012,
+7012,
+7012,
+7012,
+7012,
+7012,
+7012,
+7012,
+7012,
+6993,
+6992,
+6992,
+6992,
 0,
 0,
 0,
@@ -276,10 +274,26 @@
 0,
 0,
 0,
-3504,
-3488,
-3488,
-3512,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -289,15 +303,16 @@
 3522,
 3508,
 3508,
+3509,
+3521,
+3521,
+3510,
 3508,
 3508,
 3508,
 3508,
 3508,
-3489,
-3488,
-3488,
-3490,
+3508,
 3508,
 3508,
 3524,
@@ -307,9 +322,29 @@
 3504,
 3488,
 3488,
+3512,
+0,
+0,
+3504,
 3488,
 3488,
 3488,
+3488,
+3488,
+3488,
+3488,
+3488,
+3512,
+0,
+0,
+0,
+3504,
+3488,
+3488,
+3490,
+3508,
+3508,
+3489,
 3488,
 3488,
 3488,
@@ -336,6 +371,7 @@
 3488,
 3492,
 3516,
+3516,
 3526,
 0,
 0,
@@ -358,23 +394,6 @@
 0,
 0,
 0,
-3504,
-3488,
-3488,
-3488,
-3488,
-3488,
-3488,
-3488,
-3488,
-3488,
-3488,
-3488,
-3512,
-0,
-0,
-0,
-0,
 0,
 3504,
 3488,
@@ -389,6 +408,7 @@
 3488,
 3488,
 3512,
+0,
 0,
 0,
 0,
@@ -410,6 +430,7 @@
 0,
 0,
 0,
+0,
 4160,
 4184,
 3504,
@@ -425,6 +446,7 @@
 3488,
 3488,
 3512,
+0,
 0,
 0,
 0,
@@ -486,121 +508,18 @@
 0,
 0,
 0,
+0,
+0,
+0,
 217,
 218,
 0,
 0,
 0,
 0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-527,
-196,
-197,
-196,
-196,
-0,
-0,
-0,
-0,
-0,
-0,
+554,
 0,
 538,
-0,
-0,
-0,
-0,
-0,
-712,
-714,
-714,
-715,
-712,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-572,
-573,
-0,
-0,
 554,
 555,
 0,
@@ -614,115 +533,7 @@
 0,
 0,
 0,
-579,
-580,
-581,
 0,
-0,
-0,
-0,
-539,
-577,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-588,
-589,
-0,
-0,
-0,
-543,
-588,
-585,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-672,
-596,
-597,
-0,
-0,
-0,
-0,
-592,
-593,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-602,
-0,
-604,
-605,
-601,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-656,
-535,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-216,
-648,
-533,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-224,
-225,
-226,
-394,
 0,
 0,
 0,
@@ -739,9 +550,238 @@
 0,
 196,
 518,
+197,
+196,
+196,
+196,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+722,
+0,
+722,
+512,
+514,
+513,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+542,
+543,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+576,
+0,
+0,
+554,
+555,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+512,
+514,
+664,
+514,
+513,
+0,
+0,
+0,
+0,
+539,
+577,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+520,
+522,
+672,
+522,
+521,
+0,
+0,
+0,
+543,
+588,
+585,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+592,
+593,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+656,
+535,
+0,
+68,
+69,
+0,
+0,
+0,
+0,
+0,
+0,
+68,
+69,
+0,
+0,
+0,
+0,
+0,
+216,
+648,
+533,
+0,
+76,
+77,
+0,
+528,
+555,
+533,
+530,
+531,
+76,
+77,
+0,
+0,
+0,
+0,
+0,
+224,
+225,
+226,
+394,
+0,
+0,
+0,
+562,
+563,
+546,
+562,
+563,
+0,
+0,
+0,
+0,
+0,
+0,
 196,
 525,
-572,
+196,
+196,
+535,
+519,
+516,
 0,
 0,
 0,
@@ -749,17 +789,18 @@
 0,
 0,
 0,
-532,
 0,
 0,
 0,
 0,
 0,
 260,
+722,
 393,
-260,
-714,
-260,
+722,
+722,
+722,
+722,
 0,
 0,
 0,
@@ -767,26 +808,17 @@
 0,
 0,
 0,
-546,
+527,
+527,
 0,
 0,
 0,
 0,
 0,
 0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
+520,
+522,
+521,
 0,
 0,
 0,
@@ -795,8 +827,8 @@
 0,
 0,
 0,
-0,
-0,
+550,
+551,
 0,
 0,
 0,
@@ -810,11 +842,22 @@
 0,
 0,
 0,
-570,
-571,
 0,
-568,
-569,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+578,
+579,
+579,
+576,
+577,
 0,
 0,
 536,
@@ -828,11 +871,12 @@
 0,
 0,
 0,
-578,
-579,
-583,
-576,
-577,
+0,
+586,
+587,
+525,
+584,
+585,
 0,
 0,
 562,
@@ -846,11 +890,12 @@
 0,
 0,
 0,
-586,
-587,
-664,
-584,
-585,
+0,
+594,
+595,
+524,
+592,
+593,
 0,
 0,
 542,
@@ -864,11 +909,12 @@
 0,
 0,
 0,
-594,
-595,
-527,
-592,
-593,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 550,
@@ -882,17 +928,19 @@
 0,
 0,
 0,
-602,
-603,
-603,
-600,
-601,
-605,
 0,
 0,
 0,
-600,
-601,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -906,14 +954,15 @@
 0,
 0,
 0,
-5,
+0,
 0,
 0,
 0,
 0,
 0,
 10,
-5,
+0,
+0,
 0,
 10,
 5,
@@ -924,14 +973,15 @@
 0,
 0,
 0,
-5,
+0,
 0,
 0,
 0,
 0,
 0,
 10,
-5,
+0,
+0,
 0,
 10,
 5,
@@ -951,14 +1001,15 @@
 10,
 5,
 0,
+0,
 10,
 5,
 4,
 2,
 3,
-1,
-11,
-4,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -968,13 +1019,27 @@
 0,
 10,
 5,
+0,
 0,
 10,
 5,
 13,
 12,
 12,
-12,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+5,
+0,
+14,
 14,
 5,
 0,
@@ -983,12 +1048,6 @@
 0,
 0,
 0,
-10,
-15,
-5,
-14,
-14,
-5,
 0,
 0,
 0,
@@ -999,11 +1058,6 @@
 0,
 0,
 0,
-0,
-0,
-7,
-7,
-5,
 -2147483648,
 0,
 5,
@@ -1019,18 +1073,6 @@
 0,
 0,
 0,
-5,
-0,
-0,
-0,
-0,
-5,
-0,
-0,
-0,
-0,
-0,
-0,
 0,
 0,
 0,
@@ -1038,6 +1080,20 @@
 0,
 0,
 5,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 -2147483645,
@@ -1055,7 +1111,8 @@
 0,
 0,
 0,
-5,
+0,
+0,
 0,
 0,
 0,
@@ -1073,43 +1130,58 @@
 15,
 0,
 11,
-5,
 0,
 0,
 0,
 0,
 0,
 0,
-8,
-14,
-15,
-13,
-14,
 0,
 0,
 0,
 0,
-8,
-14,
-5,
 0,
 0,
-3,
-3,
-3,
-3,
-3,
-3,
-3,
-15,
-15,
-15,
-15,
-3,
-3,
-7,
-3,
-1,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -2824,7 +2896,7 @@ null,
 }
 ],
 "x": 7,
-"y": 9
+"y": 8
 },
 {
 "id": 3,
@@ -3073,15 +3145,265 @@ null,
 },
 "list": [
 {
-"code": 201,
+"code": 101,
 "indent": 0,
 "parameters": [
+"billfaces",
+1,
 0,
-12,
-5,
-3,
-0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Bill>Hey, you can't be back here!"
+]
+},
+{
+"code": 205,
+"indent": 0,
+"parameters": [
+-1,
+{
+"list": [
+{
+"code": 3,
+"indent": null
+},
+{
+"code": 0
+}
+],
+"repeat": false,
+"skippable": false,
+"wait": true
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 3,
+"indent": null
+}
+]
+},
+{
+"code": 123,
+"indent": 0,
+"parameters": [
+"A",
 0
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 1,
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": true,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"billfaces",
+1,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Bill>Crowley! Don't make me say it again!"
+]
+},
+{
+"code": 205,
+"indent": 0,
+"parameters": [
+-1,
+{
+"list": [
+{
+"code": 3,
+"indent": null
+},
+{
+"code": 0
+}
+],
+"repeat": false,
+"skippable": false,
+"wait": true
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 3,
+"indent": null
+}
+]
+},
+{
+"code": 123,
+"indent": 0,
+"parameters": [
+"B",
+0
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 1,
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "B",
+"selfSwitchValid": true,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"billfaces",
+1,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Bill>Quit that!"
+]
+},
+{
+"code": 205,
+"indent": 0,
+"parameters": [
+-1,
+{
+"list": [
+{
+"code": 3,
+"indent": null
+},
+{
+"code": 0
+}
+],
+"repeat": false,
+"skippable": false,
+"wait": true
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 3,
+"indent": null
+}
 ]
 },
 {
@@ -3111,8 +3433,8 @@ null,
 "walkAnime": true
 }
 ],
-"x": 10,
-"y": 0
+"x": 8,
+"y": 2
 },
 {
 "id": 7,
@@ -3127,11 +3449,11 @@ null,
 "itemValid": false,
 "selfSwitchCh": "A",
 "selfSwitchValid": false,
-"switch1Id": 1,
+"switch1Id": 105,
 "switch1Valid": false,
 "switch2Id": 1,
 "switch2Valid": false,
-"variableId": 1,
+"variableId": 107,
 "variableValid": false,
 "variableValue": 0
 },
@@ -3145,14 +3467,27 @@ null,
 },
 "list": [
 {
-"code": 201,
+"code": 101,
 "indent": 0,
 "parameters": [
+"",
 0,
-12,
-6,
-3,
 0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<???>  Psst!"
+]
+},
+{
+"code": 123,
+"indent": 0,
+"parameters": [
+"A",
 0
 ]
 },
@@ -3181,10 +3516,61 @@ null,
 "through": false,
 "trigger": 1,
 "walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": true,
+"switch1Id": 105,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 0,
+"indent": 0,
+"parameters": []
 }
 ],
-"x": 11,
-"y": 0
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 3,
+"walkAnime": true
+}
+],
+"x": 12,
+"y": 4
 },
 {
 "id": 8,
@@ -3199,7 +3585,7 @@ null,
 "itemValid": false,
 "selfSwitchCh": "A",
 "selfSwitchValid": false,
-"switch1Id": 1,
+"switch1Id": 105,
 "switch1Valid": false,
 "switch2Id": 1,
 "switch2Valid": false,
@@ -3217,14 +3603,27 @@ null,
 },
 "list": [
 {
-"code": 201,
+"code": 101,
 "indent": 0,
 "parameters": [
+"",
 0,
-12,
-7,
-3,
 0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<???> Hey you!"
+]
+},
+{
+"code": 123,
+"indent": 0,
+"parameters": [
+"A",
 0
 ]
 },
@@ -3253,10 +3652,61 @@ null,
 "through": false,
 "trigger": 1,
 "walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": true,
+"switch1Id": 105,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 0,
+"indent": 0,
+"parameters": []
 }
 ],
-"x": 12,
-"y": 0
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 3,
+"walkAnime": true
+}
+],
+"x": 13,
+"y": 5
 },
 {
 "id": 9,
@@ -3773,7 +4223,7 @@ null,
 "priorityType": 1,
 "stepAnime": false,
 "through": false,
-"trigger": 2,
+"trigger": 1,
 "walkAnime": false
 },
 {
@@ -3876,6 +4326,45 @@ null,
 "indent": 1,
 "parameters": [
 "actually a chicken! *snicker*"
+]
+},
+{
+"code": 122,
+"indent": 1,
+"parameters": [
+89,
+89,
+0,
+3,
+7,
+0,
+0
+]
+},
+{
+"code": 122,
+"indent": 1,
+"parameters": [
+90,
+90,
+0,
+3,
+5,
+-1,
+0
+]
+},
+{
+"code": 122,
+"indent": 1,
+"parameters": [
+91,
+91,
+0,
+3,
+5,
+-1,
+1
 ]
 },
 {
@@ -4604,7 +5093,7 @@ null,
 }
 ],
 "x": 16,
-"y": 4
+"y": 3
 },
 {
 "id": 10,
@@ -5717,7 +6206,7 @@ null,
 }
 ],
 "x": 5,
-"y": 9
+"y": 8
 },
 {
 "id": 12,
@@ -5744,7 +6233,7 @@ null,
 "image": {
 "tileId": 0,
 "characterName": "$sagittariusbird",
-"direction": 2,
+"direction": 4,
 "pattern": 1,
 "characterIndex": 0
 },
@@ -5776,25 +6265,92 @@ null,
 "moveRoute": {
 "list": [
 {
+"code": 2,
+"indent": null
+},
+{
+"code": 2,
+"indent": null
+},
+{
+"code": 2,
+"indent": null
+},
+{
+"code": 2,
+"indent": null
+},
+{
+"code": 2,
+"indent": null
+},
+{
+"code": 2,
+"indent": null
+},
+{
+"code": 2,
+"indent": null
+},
+{
+"code": 19,
+"indent": null
+},
+{
+"code": 15,
+"parameters": [
+60
+],
+"indent": null
+},
+{
+"code": 3,
+"indent": null
+},
+{
+"code": 3,
+"indent": null
+},
+{
+"code": 3,
+"indent": null
+},
+{
+"code": 3,
+"indent": null
+},
+{
+"code": 3,
+"indent": null
+},
+{
+"code": 3,
+"indent": null
+},
+{
+"code": 19,
+"indent": null
+},
+{
 "code": 0,
 "parameters": []
 }
 ],
-"repeat": true,
+"repeat": false,
 "skippable": false,
 "wait": false
 },
 "moveSpeed": 3,
-"moveType": 0,
+"moveType": 3,
 "priorityType": 1,
 "stepAnime": false,
 "through": false,
 "trigger": 0,
-"walkAnime": false
+"walkAnime": true
 }
 ],
-"x": 11,
-"y": 8
+"x": 12,
+"y": 10
 },
 {
 "id": 13,
@@ -5821,8 +6377,8 @@ null,
 "image": {
 "tileId": 0,
 "characterName": "$defaultCrow",
-"direction": 4,
-"pattern": 1,
+"direction": 8,
+"pattern": 2,
 "characterIndex": 0
 },
 "list": [
@@ -5840,7 +6396,14 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Patron>..."
+"\\n<Patron>Who'da thought there'd be a MURDER in"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"our quaint town..."
 ]
 },
 {
@@ -5849,20 +6412,28 @@ null,
 "parameters": []
 }
 ],
-"moveFrequency": 2,
+"moveFrequency": 3,
 "moveRoute": {
 "list": [
+{
+"code": 4,
+"indent": null
+},
+{
+"code": 4,
+"indent": null
+},
 {
 "code": 0,
 "parameters": []
 }
 ],
-"repeat": true,
+"repeat": false,
 "skippable": false,
 "wait": false
 },
 "moveSpeed": 2,
-"moveType": 1,
+"moveType": 3,
 "priorityType": 1,
 "stepAnime": false,
 "through": false,
@@ -5870,8 +6441,8 @@ null,
 "walkAnime": true
 }
 ],
-"x": 13,
-"y": 5
+"x": 3,
+"y": 6
 },
 {
 "id": 14,
@@ -5933,20 +6504,109 @@ null,
 "parameters": []
 }
 ],
-"moveFrequency": 1,
+"moveFrequency": 3,
 "moveRoute": {
 "list": [
+{
+"code": 17,
+"indent": null
+},
+{
+"code": 15,
+"parameters": [
+120
+],
+"indent": null
+},
+{
+"code": 2,
+"indent": null
+},
+{
+"code": 2,
+"indent": null
+},
+{
+"code": 2,
+"indent": null
+},
+{
+"code": 4,
+"indent": null
+},
+{
+"code": 15,
+"parameters": [
+100
+],
+"indent": null
+},
+{
+"code": 4,
+"indent": null
+},
+{
+"code": 4,
+"indent": null
+},
+{
+"code": 4,
+"indent": null
+},
+{
+"code": 4,
+"indent": null
+},
+{
+"code": 4,
+"indent": null
+},
+{
+"code": 15,
+"parameters": [
+100
+],
+"indent": null
+},
+{
+"code": 3,
+"indent": null
+},
+{
+"code": 4,
+"indent": null
+},
+{
+"code": 3,
+"indent": null
+},
+{
+"code": 4,
+"indent": null
+},
+{
+"code": 4,
+"indent": null
+},
+{
+"code": 4,
+"indent": null
+},
+{
+"code": 16,
+"indent": null
+},
 {
 "code": 0,
 "parameters": []
 }
 ],
-"repeat": true,
+"repeat": false,
 "skippable": false,
 "wait": false
 },
-"moveSpeed": 2,
-"moveType": 1,
+"moveSpeed": 3,
+"moveType": 0,
 "priorityType": 1,
 "stepAnime": false,
 "through": false,
@@ -5954,8 +6614,8 @@ null,
 "walkAnime": true
 }
 ],
-"x": 3,
-"y": 5
+"x": 11,
+"y": 8
 },
 {
 "id": 15,
@@ -5982,7 +6642,7 @@ null,
 "image": {
 "tileId": 0,
 "characterName": "$honeybadgervendor",
-"direction": 2,
+"direction": 8,
 "pattern": 1,
 "characterIndex": 0
 },
@@ -6010,20 +6670,36 @@ null,
 "parameters": []
 }
 ],
-"moveFrequency": 2,
+"moveFrequency": 3,
 "moveRoute": {
 "list": [
+{
+"code": 17,
+"indent": null
+},
+{
+"code": 2,
+"indent": null
+},
+{
+"code": 2,
+"indent": null
+},
+{
+"code": 16,
+"indent": null
+},
 {
 "code": 0,
 "parameters": []
 }
 ],
-"repeat": true,
+"repeat": false,
 "skippable": false,
 "wait": false
 },
 "moveSpeed": 2,
-"moveType": 1,
+"moveType": 3,
 "priorityType": 1,
 "stepAnime": false,
 "through": false,
@@ -6031,8 +6707,8 @@ null,
 "walkAnime": true
 }
 ],
-"x": 10,
-"y": 1
+"x": 15,
+"y": 2
 },
 {
 "id": 16,
@@ -6059,7 +6735,7 @@ null,
 "image": {
 "tileId": 0,
 "characterName": "$chinstrappenguin",
-"direction": 4,
+"direction": 2,
 "pattern": 1,
 "characterIndex": 0
 },
@@ -6219,78 +6895,6 @@ null,
 ]
 },
 {
-"code": 101,
-"indent": 0,
-"parameters": [
-"updated_kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Kiwi>Well, at least we know they're not"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"a suspect!"
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"crowleyfaces",
-2,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Crowley>Unless that's what they WANT"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"us to think!"
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"updated_kiwihead_sheet",
-1,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Kiwi>C'mon boss, don't be silly! Let's"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"chat with some other patrons first."
-]
-},
-{
 "code": 123,
 "indent": 0,
 "parameters": [
@@ -6304,20 +6908,79 @@ null,
 "parameters": []
 }
 ],
-"moveFrequency": 2,
+"moveFrequency": 3,
 "moveRoute": {
 "list": [
+{
+"code": 1,
+"indent": null
+},
+{
+"code": 1,
+"indent": null
+},
+{
+"code": 1,
+"indent": null
+},
+{
+"code": 2,
+"indent": null
+},
+{
+"code": 2,
+"indent": null
+},
+{
+"code": 4,
+"indent": null
+},
+{
+"code": 15,
+"parameters": [
+999
+],
+"indent": null
+},
+{
+"code": 1,
+"indent": null
+},
+{
+"code": 3,
+"indent": null
+},
+{
+"code": 3,
+"indent": null
+},
+{
+"code": 4,
+"indent": null
+},
+{
+"code": 4,
+"indent": null
+},
+{
+"code": 4,
+"indent": null
+},
+{
+"code": 16,
+"indent": null
+},
 {
 "code": 0,
 "parameters": []
 }
 ],
-"repeat": true,
+"repeat": false,
 "skippable": false,
 "wait": false
 },
-"moveSpeed": 2,
-"moveType": 1,
+"moveSpeed": 3,
+"moveType": 3,
 "priorityType": 1,
 "stepAnime": false,
 "through": false,
@@ -6400,8 +7063,8 @@ null,
 "walkAnime": true
 }
 ],
-"x": 8,
-"y": 5
+"x": 10,
+"y": 2
 },
 {
 "id": 17,
@@ -6416,7 +7079,7 @@ null,
 "itemValid": false,
 "selfSwitchCh": "A",
 "selfSwitchValid": false,
-"switch1Id": 1,
+"switch1Id": 105,
 "switch1Valid": false,
 "switch2Id": 1,
 "switch2Valid": false,
@@ -6434,14 +7097,27 @@ null,
 },
 "list": [
 {
-"code": 201,
+"code": 101,
 "indent": 0,
 "parameters": [
+"",
 0,
-12,
-8,
-3,
 0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<???>Over here!"
+]
+},
+{
+"code": 123,
+"indent": 0,
+"parameters": [
+"A",
 0
 ]
 },
@@ -6468,12 +7144,63 @@ null,
 "priorityType": 0,
 "stepAnime": false,
 "through": false,
-"trigger": 0,
+"trigger": 1,
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": true,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 3,
 "walkAnime": true
 }
 ],
-"x": 13,
-"y": 0
+"x": 14,
+"y": 4
 }
 ]
 }
