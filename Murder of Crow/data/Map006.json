@@ -2846,10 +2846,9 @@ null,
 "x": 2,
 "y": 9
 },
-null,
 {
-"id": 6,
-"name": "EV006",
+"id": 5,
+"name": "EV005",
 "note": "",
 "pages": [
 {
@@ -2884,7 +2883,7 @@ null,
 1,
 11,
 0,
-10,
+11,
 0
 ]
 },
@@ -3016,13 +3015,14 @@ null,
 "priorityType": 0,
 "stepAnime": false,
 "through": false,
-"trigger": 0,
+"trigger": 4,
 "walkAnime": true
 }
 ],
 "x": 2,
 "y": 1
 },
+null,
 {
 "id": 7,
 "name": "Storeroom Complete",
