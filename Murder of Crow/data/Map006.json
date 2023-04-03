@@ -1947,6 +1947,94 @@ null,
 ]
 },
 {
+"code": 101,
+"indent": 0,
+"parameters": [
+"",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"Look closer?"
+]
+},
+{
+"code": 102,
+"indent": 0,
+"parameters": [
+[
+"Yes",
+"No"
+],
+-1,
+0,
+2,
+0
+]
+},
+{
+"code": 402,
+"indent": 0,
+"parameters": [
+0,
+"Yes"
+]
+},
+{
+"code": 121,
+"indent": 1,
+"parameters": [
+64,
+64,
+0
+]
+},
+{
+"code": 123,
+"indent": 1,
+"parameters": [
+"B",
+0
+]
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 402,
+"indent": 0,
+"parameters": [
+1,
+"No"
+]
+},
+{
+"code": 121,
+"indent": 1,
+"parameters": [
+65,
+65,
+0
+]
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 404,
+"indent": 0,
+"parameters": []
+},
+{
 "code": 0,
 "indent": 0,
 "parameters": []
@@ -1978,9 +2066,9 @@ null,
 "actorValid": false,
 "itemId": 1,
 "itemValid": false,
-"selfSwitchCh": "A",
-"selfSwitchValid": false,
-"switch1Id": 62,
+"selfSwitchCh": "B",
+"selfSwitchValid": true,
+"switch1Id": 64,
 "switch1Valid": true,
 "switch2Id": 1,
 "switch2Valid": false,
@@ -2258,12 +2346,200 @@ null,
 ]
 },
 {
+"code": 121,
+"indent": 0,
+"parameters": [
+64,
+64,
+1
+]
+},
+{
+"code": 121,
+"indent": 0,
+"parameters": [
+66,
+66,
+0
+]
+},
+{
 "code": 123,
 "indent": 0,
 "parameters": [
 "B",
+1
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 4,
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 65,
+"switch1Valid": true,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 205,
+"indent": 0,
+"parameters": [
+-1,
+{
+"list": [
+{
+"code": 19,
+"indent": null
+},
+{
+"code": 0
+}
+],
+"repeat": false,
+"skippable": false,
+"wait": true
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 19,
+"indent": null
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"Look closer?"
+]
+},
+{
+"code": 102,
+"indent": 0,
+"parameters": [
+[
+"Yes",
+"No"
+],
+-1,
+0,
+2,
 0
 ]
+},
+{
+"code": 402,
+"indent": 0,
+"parameters": [
+0,
+"Yes"
+]
+},
+{
+"code": 121,
+"indent": 1,
+"parameters": [
+65,
+65,
+1
+]
+},
+{
+"code": 121,
+"indent": 1,
+"parameters": [
+64,
+64,
+0
+]
+},
+{
+"code": 123,
+"indent": 1,
+"parameters": [
+"B",
+0
+]
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 402,
+"indent": 0,
+"parameters": [
+1,
+"No"
+]
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 404,
+"indent": 0,
+"parameters": []
 },
 {
 "code": 0,
@@ -2297,10 +2573,10 @@ null,
 "actorValid": false,
 "itemId": 1,
 "itemValid": false,
-"selfSwitchCh": "B",
-"selfSwitchValid": true,
-"switch1Id": 1,
-"switch1Valid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 66,
+"switch1Valid": true,
 "switch2Id": 1,
 "switch2Valid": false,
 "variableId": 1,
@@ -2316,6 +2592,37 @@ null,
 "tileId": 0
 },
 "list": [
+{
+"code": 205,
+"indent": 0,
+"parameters": [
+-1,
+{
+"list": [
+{
+"code": 19,
+"indent": null
+},
+{
+"code": 0
+}
+],
+"repeat": false,
+"skippable": false,
+"wait": true
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 19,
+"indent": null
+}
+]
+},
 {
 "code": 101,
 "indent": 0,
@@ -2374,7 +2681,7 @@ null,
 "walkAnime": true
 }
 ],
-"x": 3,
+"x": 2,
 "y": 9
 },
 {
@@ -2541,6 +2848,68 @@ null,
 ]
 },
 {
+"code": 101,
+"indent": 0,
+"parameters": [
+"",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"Look closer?"
+]
+},
+{
+"code": 102,
+"indent": 0,
+"parameters": [
+[
+"Yes",
+"No"
+],
+-1,
+0,
+2,
+0
+]
+},
+{
+"code": 402,
+"indent": 0,
+"parameters": [
+0,
+"Yes"
+]
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 402,
+"indent": 0,
+"parameters": [
+1,
+"No"
+]
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 404,
+"indent": 0,
+"parameters": []
+},
+{
 "code": 0,
 "indent": 0,
 "parameters": []
@@ -2968,7 +3337,7 @@ null,
 "walkAnime": true
 }
 ],
-"x": 2,
+"x": 0,
 "y": 9
 },
 {
@@ -4360,6 +4729,907 @@ null,
 ],
 "x": 7,
 "y": 10
+},
+{
+"id": 18,
+"name": "EV018",
+"note": "",
+"pages": [
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 205,
+"indent": 0,
+"parameters": [
+-1,
+{
+"list": [
+{
+"code": 19,
+"indent": null
+},
+{
+"code": 0
+}
+],
+"repeat": false,
+"skippable": false,
+"wait": true
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 19,
+"indent": null
+}
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>Is that a hook?"
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+6,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>What could Jay have been hanging"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"from the wall..."
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "cluefound",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"The Murder Board has been updated!"
+]
+},
+{
+"code": 122,
+"indent": 0,
+"parameters": [
+11,
+11,
+1,
+0,
+1
+]
+},
+{
+"code": 121,
+"indent": 0,
+"parameters": [
+62,
+62,
+0
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"Look closer?"
+]
+},
+{
+"code": 102,
+"indent": 0,
+"parameters": [
+[
+"Yes",
+"No"
+],
+-1,
+0,
+2,
+0
+]
+},
+{
+"code": 402,
+"indent": 0,
+"parameters": [
+0,
+"Yes"
+]
+},
+{
+"code": 121,
+"indent": 1,
+"parameters": [
+64,
+64,
+0
+]
+},
+{
+"code": 123,
+"indent": 1,
+"parameters": [
+"B",
+0
+]
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 402,
+"indent": 0,
+"parameters": [
+1,
+"No"
+]
+},
+{
+"code": 121,
+"indent": 1,
+"parameters": [
+65,
+65,
+0
+]
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 404,
+"indent": 0,
+"parameters": []
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "B",
+"selfSwitchValid": true,
+"switch1Id": 64,
+"switch1Valid": true,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+6,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>An open window...?"
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"updated_kiwihead_sheet",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Kiwi>I wonder if the cool air is Jay's"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"secret to keeping his jams and jellies"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"so fresh."
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>Wait, take a closer peep Kiwi!"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"The window isn't open, it's..."
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"updated_kiwihead_sheet",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Kiwi>SMASHED!"
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>Seems to me it might be a beak in..."
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"updated_kiwihead_sheet",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Kiwi>A beak in?"
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"updated_kiwihead_sheet",
+1,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Kiwi>Boss, don't you mean BREAK in? "
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+1,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>I shoulda tried a sample, okay?"
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+1,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>I didn't have time to even peck my"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"breakfast. I flew outta my office the"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"moment I heard the streets beckoning me..."
+]
+},
+{
+"code": 121,
+"indent": 0,
+"parameters": [
+64,
+64,
+1
+]
+},
+{
+"code": 121,
+"indent": 0,
+"parameters": [
+66,
+66,
+0
+]
+},
+{
+"code": 123,
+"indent": 0,
+"parameters": [
+"B",
+1
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 4,
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 65,
+"switch1Valid": true,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 205,
+"indent": 0,
+"parameters": [
+-1,
+{
+"list": [
+{
+"code": 19,
+"indent": null
+},
+{
+"code": 0
+}
+],
+"repeat": false,
+"skippable": false,
+"wait": true
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 19,
+"indent": null
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"Look closer?"
+]
+},
+{
+"code": 102,
+"indent": 0,
+"parameters": [
+[
+"Yes",
+"No"
+],
+-1,
+0,
+2,
+0
+]
+},
+{
+"code": 402,
+"indent": 0,
+"parameters": [
+0,
+"Yes"
+]
+},
+{
+"code": 121,
+"indent": 1,
+"parameters": [
+65,
+65,
+1
+]
+},
+{
+"code": 121,
+"indent": 1,
+"parameters": [
+64,
+64,
+0
+]
+},
+{
+"code": 123,
+"indent": 1,
+"parameters": [
+"B",
+0
+]
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 402,
+"indent": 0,
+"parameters": [
+1,
+"No"
+]
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 404,
+"indent": 0,
+"parameters": []
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 66,
+"switch1Valid": true,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 205,
+"indent": 0,
+"parameters": [
+-1,
+{
+"list": [
+{
+"code": 19,
+"indent": null
+},
+{
+"code": 0
+}
+],
+"repeat": false,
+"skippable": false,
+"wait": true
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 19,
+"indent": null
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+6,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"The hook on the wall with some hanging"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"wire... maybe I should check the murder"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"board to see if I can piece this together!"
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+}
+],
+"x": 3,
+"y": 9
 }
 ]
 }
