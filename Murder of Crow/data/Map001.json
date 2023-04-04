@@ -3839,57 +3839,6 @@ null,
 "itemValid": false,
 "selfSwitchCh": "A",
 "selfSwitchValid": false,
-"switch1Id": 127,
-"switch1Valid": true,
-"switch2Id": 1,
-"switch2Valid": false,
-"variableId": 1,
-"variableValid": false,
-"variableValue": 0
-},
-"directionFix": false,
-"image": {
-"tileId": 256,
-"characterName": "",
-"characterIndex": 0,
-"direction": 2,
-"pattern": 0
-},
-"list": [
-{
-"code": 0,
-"indent": 0,
-"parameters": []
-}
-],
-"moveFrequency": 3,
-"moveRoute": {
-"list": [
-{
-"code": 0,
-"parameters": []
-}
-],
-"repeat": true,
-"skippable": false,
-"wait": false
-},
-"moveSpeed": 3,
-"moveType": 0,
-"priorityType": 1,
-"stepAnime": false,
-"through": false,
-"trigger": 3,
-"walkAnime": true
-},
-{
-"conditions": {
-"actorId": 1,
-"actorValid": false,
-"itemId": 1,
-"itemValid": false,
-"selfSwitchCh": "A",
-"selfSwitchValid": false,
 "switch1Id": 128,
 "switch1Valid": true,
 "switch2Id": 1,
@@ -3932,6 +3881,14 @@ null,
 ]
 },
 {
+"code": 123,
+"indent": 0,
+"parameters": [
+"B",
+0
+]
+},
+{
 "code": 0,
 "indent": 0,
 "parameters": []
@@ -3955,6 +3912,57 @@ null,
 "stepAnime": false,
 "through": false,
 "trigger": 0,
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "B",
+"selfSwitchValid": true,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"tileId": 256,
+"characterName": "",
+"characterIndex": 0,
+"direction": 2,
+"pattern": 0
+},
+"list": [
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 4,
 "walkAnime": true
 }
 ],
@@ -7868,7 +7876,7 @@ null,
 "the Nest"
 ],
 -1,
-4,
+-1,
 1,
 0
 ]
@@ -8314,7 +8322,7 @@ null,
 "The victim is the thief"
 ],
 -1,
-4,
+-1,
 1,
 0
 ]
@@ -8704,7 +8712,7 @@ null,
 "Jay found the body and dropped a jar out of shock"
 ],
 -1,
-4,
+-1,
 1,
 0
 ]
@@ -9029,7 +9037,7 @@ null,
 "Nothing"
 ],
 -1,
-4,
+-1,
 1,
 0
 ]
@@ -9374,7 +9382,7 @@ null,
 "Not sure"
 ],
 -1,
-4,
+-1,
 1,
 0
 ]
@@ -17574,6 +17582,43 @@ null,
 127,
 127,
 0
+]
+},
+{
+"code": 205,
+"indent": 0,
+"parameters": [
+-1,
+{
+"list": [
+{
+"code": 45,
+"parameters": [
+"MOVE TO: EVENT 003"
+],
+"indent": null
+},
+{
+"code": 0
+}
+],
+"repeat": false,
+"skippable": false,
+"wait": true
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 45,
+"parameters": [
+"MOVE TO: EVENT 003"
+],
+"indent": null
+}
 ]
 },
 {
