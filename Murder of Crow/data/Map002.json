@@ -30,7 +30,7 @@
 "scrollType": 0,
 "specifyBattleback": false,
 "tilesetId": 1,
-"width": 18,
+"width": 20,
 "data": [
 6008,
 7091,
@@ -50,6 +50,8 @@
 7090,
 7094,
 6000,
+5984,
+5984,
 6008,
 7097,
 7096,
@@ -68,6 +70,8 @@
 7096,
 7100,
 6000,
+5984,
+5984,
 6008,
 2850,
 2836,
@@ -86,6 +90,8 @@
 2836,
 2852,
 6024,
+6012,
+6012,
 6008,
 2832,
 2816,
@@ -103,7 +109,9 @@
 2816,
 2816,
 2840,
-7095,
+7091,
+7090,
+7094,
 6008,
 2832,
 2816,
@@ -121,7 +129,9 @@
 2816,
 2816,
 2840,
-7101,
+7097,
+7096,
+7100,
 6008,
 2832,
 2816,
@@ -139,6 +149,8 @@
 2816,
 2816,
 2818,
+2836,
+2836,
 2836,
 6008,
 2832,
@@ -158,6 +170,8 @@
 2816,
 2820,
 2844,
+2844,
+2844,
 6008,
 2832,
 2816,
@@ -176,6 +190,8 @@
 2816,
 2840,
 6018,
+6004,
+6004,
 6008,
 2832,
 2816,
@@ -194,6 +210,8 @@
 2816,
 2840,
 6000,
+5984,
+5984,
 6008,
 2832,
 2816,
@@ -212,6 +230,8 @@
 2816,
 2840,
 6000,
+5984,
+5984,
 6008,
 2832,
 2816,
@@ -230,6 +250,8 @@
 2816,
 2840,
 6000,
+5984,
+5984,
 6008,
 2832,
 2816,
@@ -248,6 +270,8 @@
 2816,
 2840,
 6000,
+5984,
+5984,
 6008,
 2856,
 2844,
@@ -266,6 +290,8 @@
 2844,
 2854,
 6000,
+5984,
+5984,
 5986,
 6004,
 6004,
@@ -284,6 +310,26 @@
 6004,
 6004,
 5985,
+5984,
+5984,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -465,22 +511,6 @@
 3860,
 0,
 0,
-3840,
-3824,
-3824,
-3824,
-3824,
-3824,
-3824,
-3824,
-3824,
-3824,
-3824,
-3824,
-3824,
-3824,
-3824,
-3848,
 0,
 0,
 3840,
@@ -499,6 +529,28 @@
 3824,
 3824,
 3848,
+0,
+0,
+0,
+0,
+3840,
+3824,
+3824,
+3824,
+3824,
+3824,
+3824,
+3824,
+3824,
+3824,
+3824,
+3824,
+3824,
+3824,
+3824,
+3848,
+0,
+0,
 0,
 0,
 3864,
@@ -538,9 +590,15 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
 131,
 132,
 133,
+0,
+0,
 0,
 0,
 0,
@@ -574,6 +632,8 @@
 0,
 0,
 0,
+0,
+0,
 143,
 148,
 0,
@@ -587,6 +647,8 @@
 0,
 188,
 166,
+0,
+0,
 0,
 0,
 0,
@@ -611,6 +673,8 @@
 0,
 0,
 0,
+0,
+0,
 183,
 0,
 0,
@@ -622,6 +686,10 @@
 0,
 0,
 242,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -665,6 +733,8 @@
 0,
 0,
 0,
+0,
+0,
 150,
 151,
 0,
@@ -672,6 +742,8 @@
 136,
 137,
 138,
+0,
+0,
 0,
 0,
 0,
@@ -700,6 +772,8 @@
 0,
 0,
 0,
+0,
+0,
 192,
 0,
 0,
@@ -720,12 +794,22 @@
 0,
 0,
 0,
+0,
+0,
 202,
 0,
 0,
 0,
 0,
 162,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -807,6 +891,8 @@
 0,
 0,
 0,
+0,
+0,
 134,
 136,
 137,
@@ -821,6 +907,8 @@
 179,
 180,
 181,
+0,
+0,
 0,
 0,
 0,
@@ -844,6 +932,8 @@
 0,
 0,
 0,
+0,
+0,
 191,
 156,
 258,
@@ -860,6 +950,8 @@
 0,
 0,
 0,
+390,
+0,
 0,
 0,
 163,
@@ -875,6 +967,10 @@
 203,
 204,
 205,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -916,6 +1012,8 @@
 0,
 0,
 0,
+0,
+0,
 176,
 177,
 178,
@@ -929,6 +1027,8 @@
 139,
 140,
 141,
+0,
+0,
 0,
 0,
 0,
@@ -952,6 +1052,8 @@
 0,
 0,
 0,
+0,
+0,
 231,
 193,
 194,
@@ -965,6 +1067,8 @@
 222,
 156,
 214,
+0,
+0,
 0,
 0,
 0,
@@ -1060,6 +1164,16 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 13,
 12,
 4,
@@ -1073,6 +1187,8 @@
 15,
 13,
 15,
+0,
+0,
 0,
 0,
 0,
@@ -1095,6 +1211,8 @@
 0,
 0,
 0,
+0,
+0,
 5,
 4,
 0,
@@ -1113,25 +1231,12 @@
 0,
 0,
 0,
-5,
-3,
-3,
-3,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-3,
-3,
-3,
-0,
-0,
 0,
 0,
 5,
+3,
+3,
+3,
 0,
 0,
 0,
@@ -1139,10 +1244,9 @@
 0,
 0,
 0,
-0,
-0,
-0,
-0,
+3,
+3,
+3,
 0,
 0,
 0,
@@ -1150,6 +1254,28 @@
 0,
 0,
 5,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+5,
+0,
+0,
 0,
 0,
 0,
@@ -1185,7 +1311,11 @@
 0,
 0,
 0,
+0,
+0,
 5,
+0,
+0,
 0,
 0,
 0,
@@ -1221,36 +1351,22 @@
 0,
 0,
 0,
-5,
-3,
-3,
-3,
-0,
-0,
-3,
-3,
-3,
-0,
-0,
-3,
-3,
-3,
-0,
-0,
 0,
 0,
 5,
+3,
+3,
+3,
 0,
 0,
+3,
+3,
+3,
 0,
 0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
+3,
+3,
+3,
 0,
 0,
 0,
@@ -1258,6 +1374,58 @@
 0,
 0,
 5,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+5,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -1591,7 +1759,7 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"                           The Narrows "
+"                           The Narrows"
 ]
 },
 {
@@ -1624,7 +1792,1728 @@ null,
 "x": 7,
 "y": 2
 },
-null,
+{
+"id": 2,
+"name": "talk to jay vendor",
+"note": "",
+"pages": [
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 205,
+"indent": 0,
+"parameters": [
+-1,
+{
+"list": [
+{
+"code": 19,
+"indent": null
+},
+{
+"code": 0
+}
+],
+"repeat": false,
+"skippable": false,
+"wait": true
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 19,
+"indent": null
+}
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "npc_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"vendorfaces",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Vendor>Would you like to try a sample?"
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"updated_kiwihead_sheet",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Kiwi>Oooh, yes!"
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>We're actually just browsing."
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"updated_kiwihead_sheet",
+1,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Kiwi>It was delicious though!"
+]
+},
+{
+"code": 123,
+"indent": 0,
+"parameters": [
+"B",
+0
+]
+},
+{
+"code": 121,
+"indent": 0,
+"parameters": [
+46,
+46,
+0
+]
+},
+{
+"code": 111,
+"indent": 0,
+"parameters": [
+0,
+86,
+1
+]
+},
+{
+"code": 122,
+"indent": 1,
+"parameters": [
+45,
+45,
+1,
+0,
+1
+]
+},
+{
+"code": 121,
+"indent": 1,
+"parameters": [
+86,
+86,
+0
+]
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 412,
+"indent": 0,
+"parameters": []
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "B",
+"selfSwitchValid": true,
+"switch1Id": 46,
+"switch1Valid": true,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 231,
+"indent": 0,
+"parameters": [
+1,
+"clue5_alt",
+0,
+0,
+576,
+384,
+250,
+250,
+255,
+0
+]
+},
+{
+"code": 231,
+"indent": 0,
+"parameters": [
+5,
+"jarcloseup1",
+1,
+0,
+408,
+200,
+25,
+25,
+255,
+0
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "zoom",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 232,
+"indent": 0,
+"parameters": [
+5,
+0,
+1,
+0,
+408,
+200,
+100,
+100,
+255,
+0,
+60,
+true
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"",
+0,
+2,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+""
+]
+},
+{
+"code": 235,
+"indent": 0,
+"parameters": [
+1
+]
+},
+{
+"code": 235,
+"indent": 0,
+"parameters": [
+5
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"Inquire further?"
+]
+},
+{
+"code": 102,
+"indent": 0,
+"parameters": [
+[
+"Yes",
+"No"
+],
+1,
+0,
+2,
+0
+]
+},
+{
+"code": 402,
+"indent": 0,
+"parameters": [
+0,
+"Yes"
+]
+},
+{
+"code": 123,
+"indent": 1,
+"parameters": [
+"C",
+0
+]
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 402,
+"indent": 0,
+"parameters": [
+1,
+"No"
+]
+},
+{
+"code": 111,
+"indent": 1,
+"parameters": [
+1,
+45,
+0,
+5,
+0
+]
+},
+{
+"code": 121,
+"indent": 2,
+"parameters": [
+19,
+19,
+0
+]
+},
+{
+"code": 0,
+"indent": 2,
+"parameters": []
+},
+{
+"code": 412,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 404,
+"indent": 0,
+"parameters": []
+},
+{
+"code": 123,
+"indent": 0,
+"parameters": [
+"B",
+1
+]
+},
+{
+"code": 121,
+"indent": 0,
+"parameters": [
+44,
+44,
+1
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 4,
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "C",
+"selfSwitchValid": true,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>Would you mind telling us your"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"name please? "
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "npc_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"vendorfaces",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Jay>Oh, I’m Jay!"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"From \"Jay’s Jams and Jellies!\""
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"updated_kiwihead_sheet",
+1,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Kiwi>Hehe, clever."
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>Where were you last night, Jay?"
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "npc_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"vendorfaces",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Jay>At home, making this delicious jelly!"
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>That’s interesting… "
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>A broken jar of yours appeared"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"at our crime scene today."
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>We suspect the incident happened"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"late last night."
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "npc_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"vendorfaces",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Jay>Oh my! That’s awful! "
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"vendorfaces",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Jay>I’m not sure what that might be"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"about, but is there any"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"way I can help?"
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+6,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>Could we see a list of everyone"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"who bought your jam recently? "
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "npc_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"vendorfaces",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Jay>Erhm, sorry, I don’t keep track of"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"names. A lot of people come"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"through here in a day."
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"vendorfaces",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Jay>You could check my storeroom though!"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"Strange things have been occuring"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"recently..."
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"vendorfaces",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Jay>Jam jars HAVE been disappearing… "
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "npc_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"vendorfaces",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Jay>Here, take my key."
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"vendorfaces",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Jay>If you head up towards the Narrows, "
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"you'll find my storeroom."
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"vendorfaces",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Jay>Middle of the northern alley, just "
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"up the stairs. Can't miss it!"
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "npc_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"vendorfaces",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Jay>Let me know if you find anything!"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"I have to stay here and"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"serve customers."
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "cluefound",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"The Murder Board has been updated!"
+]
+},
+{
+"code": 241,
+"indent": 0,
+"parameters": [
+{
+"name": "market",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 122,
+"indent": 0,
+"parameters": [
+23,
+23,
+1,
+0,
+1
+]
+},
+{
+"code": 122,
+"indent": 0,
+"parameters": [
+11,
+11,
+1,
+0,
+1
+]
+},
+{
+"code": 122,
+"indent": 0,
+"parameters": [
+25,
+25,
+0,
+0,
+1
+]
+},
+{
+"code": 121,
+"indent": 0,
+"parameters": [
+20,
+20,
+0
+]
+},
+{
+"code": 205,
+"indent": 0,
+"parameters": [
+-1,
+{
+"list": [
+{
+"code": 16,
+"indent": null
+},
+{
+"code": 16,
+"indent": null
+},
+{
+"code": 17,
+"indent": null
+},
+{
+"code": 17,
+"indent": null
+},
+{
+"code": 0
+}
+],
+"repeat": false,
+"skippable": false,
+"wait": false
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 16,
+"indent": null
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 16,
+"indent": null
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 17,
+"indent": null
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 17,
+"indent": null
+}
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+6,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>Jay's Jams seem popular..."
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>Almost, TOO popular..."
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"updated_kiwihead_sheet",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Kiwi>But boss, the sample..."
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"updated_kiwihead_sheet",
+5,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Kiwi>WAS..."
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 110,
+"pan": 0
+}
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 110,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"updated_kiwihead_sheet",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Kiwi>DELICIOUS!!"
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"updated_kiwihead_sheet",
+1,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Kiwi>Let's hop over to Jay’s storeroom,"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"maybe we’ll find something else there."
+]
+},
+{
+"code": 121,
+"indent": 0,
+"parameters": [
+84,
+88,
+0
+]
+},
+{
+"code": 121,
+"indent": 0,
+"parameters": [
+93,
+93,
+0
+]
+},
+{
+"code": 123,
+"indent": 0,
+"parameters": [
+"C",
+1
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 3,
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 93,
+"switch1Valid": true,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "npc_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"vendorfaces",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Jay> Back already?"
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+6,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>Where did you say the storeroom"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"is again?"
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "npc_voice",
+"volume": 85,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"vendorfaces",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Jay>Right!"
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"updated_kiwihead_sheet",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Kiwi>Right where?"
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "npc_voice",
+"volume": 65,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"vendorfaces",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Jay>Erm- no..."
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "npc_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"vendorfaces",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Jay>It’s a white building on the north"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"side of the Narrows. There’s a staircase"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"that'll take you right to the front door. "
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"Hard to miss it!"
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+}
+],
+"x": 9,
+"y": 10
+},
 {
 "id": 3,
 "name": "EV003",
@@ -2347,7 +4236,7 @@ true
 "walkAnime": true
 }
 ],
-"x": 17,
+"x": 18,
 "y": 10
 },
 {
@@ -2419,7 +4308,7 @@ true
 "walkAnime": true
 }
 ],
-"x": 17,
+"x": 19,
 "y": 5
 },
 {
@@ -5423,7 +7312,7 @@ true
 "walkAnime": true
 }
 ],
-"x": 17,
+"x": 19,
 "y": 6
 },
 {
@@ -5972,11 +7861,1808 @@ true
 "walkAnime": true
 }
 ],
-"x": 17,
+"x": 18,
 "y": 9
 },
-null,
-null,
+{
+"id": 13,
+"name": "talk to jay vendor",
+"note": "",
+"pages": [
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 205,
+"indent": 0,
+"parameters": [
+-1,
+{
+"list": [
+{
+"code": 19,
+"indent": null
+},
+{
+"code": 0
+}
+],
+"repeat": false,
+"skippable": false,
+"wait": true
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 19,
+"indent": null
+}
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "npc_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"vendorfaces",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Vendor>Would you like to try a sample?"
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"updated_kiwihead_sheet",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Kiwi>Oooh, yes!"
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>We're actually just browsing."
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"updated_kiwihead_sheet",
+1,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Kiwi>It was delicious though!"
+]
+},
+{
+"code": 123,
+"indent": 0,
+"parameters": [
+"B",
+0
+]
+},
+{
+"code": 121,
+"indent": 0,
+"parameters": [
+46,
+46,
+0
+]
+},
+{
+"code": 111,
+"indent": 0,
+"parameters": [
+0,
+86,
+1
+]
+},
+{
+"code": 122,
+"indent": 1,
+"parameters": [
+45,
+45,
+1,
+0,
+1
+]
+},
+{
+"code": 121,
+"indent": 1,
+"parameters": [
+86,
+86,
+0
+]
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 412,
+"indent": 0,
+"parameters": []
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "B",
+"selfSwitchValid": true,
+"switch1Id": 46,
+"switch1Valid": true,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 231,
+"indent": 0,
+"parameters": [
+1,
+"clue5_alt",
+0,
+0,
+576,
+384,
+250,
+250,
+255,
+0
+]
+},
+{
+"code": 231,
+"indent": 0,
+"parameters": [
+5,
+"jarcloseup1",
+1,
+0,
+408,
+200,
+25,
+25,
+255,
+0
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "zoom",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 232,
+"indent": 0,
+"parameters": [
+5,
+0,
+1,
+0,
+408,
+200,
+100,
+100,
+255,
+0,
+60,
+true
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"",
+0,
+2,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+""
+]
+},
+{
+"code": 235,
+"indent": 0,
+"parameters": [
+1
+]
+},
+{
+"code": 235,
+"indent": 0,
+"parameters": [
+5
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"Inquire further?"
+]
+},
+{
+"code": 102,
+"indent": 0,
+"parameters": [
+[
+"Yes",
+"No"
+],
+1,
+0,
+2,
+0
+]
+},
+{
+"code": 402,
+"indent": 0,
+"parameters": [
+0,
+"Yes"
+]
+},
+{
+"code": 123,
+"indent": 1,
+"parameters": [
+"C",
+0
+]
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 402,
+"indent": 0,
+"parameters": [
+1,
+"No"
+]
+},
+{
+"code": 111,
+"indent": 1,
+"parameters": [
+1,
+45,
+0,
+5,
+0
+]
+},
+{
+"code": 121,
+"indent": 2,
+"parameters": [
+19,
+19,
+0
+]
+},
+{
+"code": 0,
+"indent": 2,
+"parameters": []
+},
+{
+"code": 412,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 404,
+"indent": 0,
+"parameters": []
+},
+{
+"code": 123,
+"indent": 0,
+"parameters": [
+"B",
+1
+]
+},
+{
+"code": 121,
+"indent": 0,
+"parameters": [
+44,
+44,
+1
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 4,
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "C",
+"selfSwitchValid": true,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>Would you mind telling us your"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"name please? "
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "npc_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"vendorfaces",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Jay>Oh, I’m Jay!"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"From \"Jay’s Jams and Jellies!\""
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"updated_kiwihead_sheet",
+1,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Kiwi>Hehe, clever."
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>Where were you last night, Jay?"
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "npc_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"vendorfaces",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Jay>At home, making this delicious jelly!"
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>That’s interesting… "
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>A broken jar of yours appeared"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"at our crime scene today."
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>We suspect the incident happened"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"late last night."
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "npc_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"vendorfaces",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Jay>Oh my! That’s awful! "
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"vendorfaces",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Jay>I’m not sure what that might be"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"about, but is there any"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"way I can help?"
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+6,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>Could we see a list of everyone"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"who bought your jam recently? "
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "npc_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"vendorfaces",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Jay>Erhm, sorry, I don’t keep track of"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"names. A lot of people come"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"through here in a day."
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"vendorfaces",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Jay>You could check my storeroom though!"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"Strange things have been occuring"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"recently..."
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"vendorfaces",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Jay>Jam jars HAVE been disappearing… "
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "npc_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"vendorfaces",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Jay>Here, take my key."
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"vendorfaces",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Jay>If you head up towards the Narrows, "
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"you'll find my storeroom."
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"vendorfaces",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Jay>Middle of the northern alley, just "
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"up the stairs. Can't miss it!"
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "npc_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"vendorfaces",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Jay>Let me know if you find anything!"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"I have to stay here and"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"serve customers."
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "cluefound",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"The Murder Board has been updated!"
+]
+},
+{
+"code": 241,
+"indent": 0,
+"parameters": [
+{
+"name": "market",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 122,
+"indent": 0,
+"parameters": [
+23,
+23,
+1,
+0,
+1
+]
+},
+{
+"code": 122,
+"indent": 0,
+"parameters": [
+11,
+11,
+1,
+0,
+1
+]
+},
+{
+"code": 122,
+"indent": 0,
+"parameters": [
+25,
+25,
+0,
+0,
+1
+]
+},
+{
+"code": 121,
+"indent": 0,
+"parameters": [
+20,
+20,
+0
+]
+},
+{
+"code": 205,
+"indent": 0,
+"parameters": [
+-1,
+{
+"list": [
+{
+"code": 16,
+"indent": null
+},
+{
+"code": 16,
+"indent": null
+},
+{
+"code": 17,
+"indent": null
+},
+{
+"code": 17,
+"indent": null
+},
+{
+"code": 0
+}
+],
+"repeat": false,
+"skippable": false,
+"wait": false
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 16,
+"indent": null
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 16,
+"indent": null
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 17,
+"indent": null
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 17,
+"indent": null
+}
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+6,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>Jay's Jams seem popular..."
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>Almost, TOO popular..."
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"updated_kiwihead_sheet",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Kiwi>But boss, the sample..."
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"updated_kiwihead_sheet",
+5,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Kiwi>WAS..."
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 110,
+"pan": 0
+}
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 110,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"updated_kiwihead_sheet",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Kiwi>DELICIOUS!!"
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"updated_kiwihead_sheet",
+1,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Kiwi>Let's hop over to Jay’s storeroom,"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"maybe we’ll find something else there."
+]
+},
+{
+"code": 121,
+"indent": 0,
+"parameters": [
+84,
+88,
+0
+]
+},
+{
+"code": 121,
+"indent": 0,
+"parameters": [
+93,
+93,
+0
+]
+},
+{
+"code": 123,
+"indent": 0,
+"parameters": [
+"C",
+1
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 3,
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 93,
+"switch1Valid": true,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "npc_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"vendorfaces",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Jay> Back already?"
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+6,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>Where did you say the storeroom"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"is again?"
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "npc_voice",
+"volume": 85,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"vendorfaces",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Jay>Right!"
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"updated_kiwihead_sheet",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Kiwi>Right where?"
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "npc_voice",
+"volume": 65,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"vendorfaces",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Jay>Erm- no..."
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "npc_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"vendorfaces",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Jay>It’s a white building on the north"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"side of the Narrows. There’s a staircase"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"that'll take you right to the front door. "
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"Hard to miss it!"
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+}
+],
+"x": 7,
+"y": 10
+},
+{
+"id": 14,
+"name": "TS Sign",
+"note": "",
+"pages": [
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"",
+0,
+0,
+1
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"                           Town Square "
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+}
+],
+"x": 18,
+"y": 5
+},
 null,
 null,
 null,
@@ -7797,6 +11483,208 @@ true
 "tileId": 0
 },
 "list": [
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "npc_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"vendorfaces",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Jay> Back already?"
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+6,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>Where did you say the storeroom"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"is again?"
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "npc_voice",
+"volume": 85,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"vendorfaces",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Jay>Right!"
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"updated_kiwihead_sheet",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Kiwi>Right where?"
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "npc_voice",
+"volume": 65,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"vendorfaces",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Jay>Erm- no..."
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "npc_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"vendorfaces",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Jay>It’s a white building on the north"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"side of the Narrows. There’s a staircase"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"that'll take you right to the front door. "
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"Hard to miss it!"
+]
+},
 {
 "code": 0,
 "indent": 0,
@@ -17055,3045 +20943,7 @@ true
 "x": 14,
 "y": 10
 },
-{
-"id": 38,
-"name": "talk to jay vendor",
-"note": "",
-"pages": [
-{
-"conditions": {
-"actorId": 1,
-"actorValid": false,
-"itemId": 1,
-"itemValid": false,
-"selfSwitchCh": "A",
-"selfSwitchValid": false,
-"switch1Id": 1,
-"switch1Valid": false,
-"switch2Id": 1,
-"switch2Valid": false,
-"variableId": 1,
-"variableValid": false,
-"variableValue": 0
-},
-"directionFix": false,
-"image": {
-"characterIndex": 0,
-"characterName": "",
-"direction": 2,
-"pattern": 0,
-"tileId": 0
-},
-"list": [
-{
-"code": 205,
-"indent": 0,
-"parameters": [
--1,
-{
-"list": [
-{
-"code": 19,
-"indent": null
-},
-{
-"code": 0
-}
-],
-"repeat": false,
-"skippable": false,
-"wait": true
-}
-]
-},
-{
-"code": 505,
-"indent": 0,
-"parameters": [
-{
-"code": 19,
-"indent": null
-}
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "npc_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"vendorfaces",
-4,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Vendor>Would you like to try a sample?"
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"updated_kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Kiwi>Oooh, yes!"
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "crowley_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"crowleyfaces",
-2,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Crowley>We're actually just browsing."
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"updated_kiwihead_sheet",
-1,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Kiwi>It was delicious though!"
-]
-},
-{
-"code": 123,
-"indent": 0,
-"parameters": [
-"B",
-0
-]
-},
-{
-"code": 121,
-"indent": 0,
-"parameters": [
-46,
-46,
-0
-]
-},
-{
-"code": 111,
-"indent": 0,
-"parameters": [
-0,
-86,
-1
-]
-},
-{
-"code": 122,
-"indent": 1,
-"parameters": [
-45,
-45,
-1,
-0,
-1
-]
-},
-{
-"code": 121,
-"indent": 1,
-"parameters": [
-86,
-86,
-0
-]
-},
-{
-"code": 0,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 0,
-"parameters": []
-},
-{
-"code": 0,
-"indent": 0,
-"parameters": []
-}
-],
-"moveFrequency": 3,
-"moveRoute": {
-"list": [
-{
-"code": 0,
-"parameters": []
-}
-],
-"repeat": true,
-"skippable": false,
-"wait": false
-},
-"moveSpeed": 3,
-"moveType": 0,
-"priorityType": 0,
-"stepAnime": false,
-"through": false,
-"trigger": 0,
-"walkAnime": true
-},
-{
-"conditions": {
-"actorId": 1,
-"actorValid": false,
-"itemId": 1,
-"itemValid": false,
-"selfSwitchCh": "B",
-"selfSwitchValid": true,
-"switch1Id": 46,
-"switch1Valid": true,
-"switch2Id": 1,
-"switch2Valid": false,
-"variableId": 1,
-"variableValid": false,
-"variableValue": 0
-},
-"directionFix": false,
-"image": {
-"characterIndex": 0,
-"characterName": "",
-"direction": 2,
-"pattern": 0,
-"tileId": 0
-},
-"list": [
-{
-"code": 231,
-"indent": 0,
-"parameters": [
-1,
-"clue5_alt",
-0,
-0,
-576,
-384,
-250,
-250,
-255,
-0
-]
-},
-{
-"code": 231,
-"indent": 0,
-"parameters": [
-5,
-"jarcloseup1",
-1,
-0,
-408,
-200,
-25,
-25,
-255,
-0
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "zoom",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 232,
-"indent": 0,
-"parameters": [
-5,
-0,
-1,
-0,
-408,
-200,
-100,
-100,
-255,
-0,
-60,
-true
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"",
-0,
-2,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-""
-]
-},
-{
-"code": 235,
-"indent": 0,
-"parameters": [
-1
-]
-},
-{
-"code": 235,
-"indent": 0,
-"parameters": [
-5
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"Inquire further?"
-]
-},
-{
-"code": 102,
-"indent": 0,
-"parameters": [
-[
-"Yes",
-"No"
-],
-1,
-0,
-2,
-0
-]
-},
-{
-"code": 402,
-"indent": 0,
-"parameters": [
-0,
-"Yes"
-]
-},
-{
-"code": 123,
-"indent": 1,
-"parameters": [
-"C",
-0
-]
-},
-{
-"code": 0,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 402,
-"indent": 0,
-"parameters": [
-1,
-"No"
-]
-},
-{
-"code": 111,
-"indent": 1,
-"parameters": [
-1,
-45,
-0,
-5,
-0
-]
-},
-{
-"code": 121,
-"indent": 2,
-"parameters": [
-19,
-19,
-0
-]
-},
-{
-"code": 0,
-"indent": 2,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 0,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 404,
-"indent": 0,
-"parameters": []
-},
-{
-"code": 123,
-"indent": 0,
-"parameters": [
-"B",
-1
-]
-},
-{
-"code": 121,
-"indent": 0,
-"parameters": [
-44,
-44,
-1
-]
-},
-{
-"code": 0,
-"indent": 0,
-"parameters": []
-}
-],
-"moveFrequency": 3,
-"moveRoute": {
-"list": [
-{
-"code": 0,
-"parameters": []
-}
-],
-"repeat": true,
-"skippable": false,
-"wait": false
-},
-"moveSpeed": 3,
-"moveType": 0,
-"priorityType": 0,
-"stepAnime": false,
-"through": false,
-"trigger": 4,
-"walkAnime": true
-},
-{
-"conditions": {
-"actorId": 1,
-"actorValid": false,
-"itemId": 1,
-"itemValid": false,
-"selfSwitchCh": "C",
-"selfSwitchValid": true,
-"switch1Id": 1,
-"switch1Valid": false,
-"switch2Id": 1,
-"switch2Valid": false,
-"variableId": 1,
-"variableValid": false,
-"variableValue": 0
-},
-"directionFix": false,
-"image": {
-"characterIndex": 0,
-"characterName": "",
-"direction": 2,
-"pattern": 0,
-"tileId": 0
-},
-"list": [
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "crowley_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"crowleyfaces",
-2,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Crowley>Would you mind telling us your"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"name please? "
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "npc_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"vendorfaces",
-4,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Jay>Oh, I’m Jay!"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"From \"Jay’s Jams and Jellies!\""
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"updated_kiwihead_sheet",
-1,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Kiwi>Hehe, clever."
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "crowley_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"crowleyfaces",
-2,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Crowley>Where were you last night, Jay?"
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "npc_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"vendorfaces",
-4,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Jay>At home, making this delicious jelly!"
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "crowley_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"crowleyfaces",
-2,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Crowley>That’s interesting… "
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"crowleyfaces",
-2,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Crowley>A broken jar of yours appeared"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"at our crime scene today."
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"crowleyfaces",
-2,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Crowley>We suspect the incident happened"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"late last night."
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "npc_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"vendorfaces",
-4,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Jay>Oh my! That’s awful! "
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"vendorfaces",
-4,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Jay>I’m not sure what that might be"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"about, but is there any"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"way I can help?"
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "crowley_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"crowleyfaces",
-6,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Crowley>Could we see a list of everyone"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"who bought your jam recently? "
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "npc_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"vendorfaces",
-4,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Jay>Erhm, sorry, I don’t keep track of"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"names. A lot of people come"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"through here in a day."
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"vendorfaces",
-4,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Jay>You could check my storeroom though!"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"Strange things have been occuring"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"recently..."
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"vendorfaces",
-4,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Jay>Jam jars HAVE been disappearing… "
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "npc_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"vendorfaces",
-4,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Jay>Here, take my key."
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"vendorfaces",
-4,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Jay>If you head up towards the Narrows, "
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"you'll find my storeroom."
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"vendorfaces",
-4,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Jay>Middle of the northern alley, just "
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"up the stairs. Can't miss it!"
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "npc_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"vendorfaces",
-4,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Jay>Let me know if you find anything!"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"I have to stay here and"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"serve customers."
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "cluefound",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"The Murder Board has been updated!"
-]
-},
-{
-"code": 241,
-"indent": 0,
-"parameters": [
-{
-"name": "market",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 122,
-"indent": 0,
-"parameters": [
-23,
-23,
-1,
-0,
-1
-]
-},
-{
-"code": 122,
-"indent": 0,
-"parameters": [
-11,
-11,
-1,
-0,
-1
-]
-},
-{
-"code": 122,
-"indent": 0,
-"parameters": [
-25,
-25,
-0,
-0,
-1
-]
-},
-{
-"code": 121,
-"indent": 0,
-"parameters": [
-20,
-20,
-0
-]
-},
-{
-"code": 205,
-"indent": 0,
-"parameters": [
--1,
-{
-"list": [
-{
-"code": 16,
-"indent": null
-},
-{
-"code": 16,
-"indent": null
-},
-{
-"code": 17,
-"indent": null
-},
-{
-"code": 17,
-"indent": null
-},
-{
-"code": 0
-}
-],
-"repeat": false,
-"skippable": false,
-"wait": false
-}
-]
-},
-{
-"code": 505,
-"indent": 0,
-"parameters": [
-{
-"code": 16,
-"indent": null
-}
-]
-},
-{
-"code": 505,
-"indent": 0,
-"parameters": [
-{
-"code": 16,
-"indent": null
-}
-]
-},
-{
-"code": 505,
-"indent": 0,
-"parameters": [
-{
-"code": 17,
-"indent": null
-}
-]
-},
-{
-"code": 505,
-"indent": 0,
-"parameters": [
-{
-"code": 17,
-"indent": null
-}
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "crowley_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"crowleyfaces",
-6,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Crowley>Jay's Jams seem popular..."
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"crowleyfaces",
-2,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Crowley>Almost, TOO popular..."
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"updated_kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Kiwi>But boss, the sample..."
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"updated_kiwihead_sheet",
-5,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Kiwi>WAS..."
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 110,
-"pan": 0
-}
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 110,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"updated_kiwihead_sheet",
-2,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Kiwi>DELICIOUS!!"
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"updated_kiwihead_sheet",
-1,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Kiwi>Let's hop over to Jay’s storeroom,"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"maybe we’ll find something else there."
-]
-},
-{
-"code": 121,
-"indent": 0,
-"parameters": [
-84,
-88,
-0
-]
-},
-{
-"code": 121,
-"indent": 0,
-"parameters": [
-93,
-93,
-0
-]
-},
-{
-"code": 123,
-"indent": 0,
-"parameters": [
-"C",
-1
-]
-},
-{
-"code": 0,
-"indent": 0,
-"parameters": []
-}
-],
-"moveFrequency": 3,
-"moveRoute": {
-"list": [
-{
-"code": 0,
-"parameters": []
-}
-],
-"repeat": true,
-"skippable": false,
-"wait": false
-},
-"moveSpeed": 3,
-"moveType": 0,
-"priorityType": 0,
-"stepAnime": false,
-"through": false,
-"trigger": 3,
-"walkAnime": true
-},
-{
-"conditions": {
-"actorId": 1,
-"actorValid": false,
-"itemId": 1,
-"itemValid": false,
-"selfSwitchCh": "A",
-"selfSwitchValid": false,
-"switch1Id": 93,
-"switch1Valid": true,
-"switch2Id": 1,
-"switch2Valid": false,
-"variableId": 1,
-"variableValid": false,
-"variableValue": 0
-},
-"directionFix": false,
-"image": {
-"characterIndex": 0,
-"characterName": "",
-"direction": 2,
-"pattern": 0,
-"tileId": 0
-},
-"list": [
-{
-"code": 0,
-"indent": 0,
-"parameters": []
-}
-],
-"moveFrequency": 3,
-"moveRoute": {
-"list": [
-{
-"code": 0,
-"parameters": []
-}
-],
-"repeat": true,
-"skippable": false,
-"wait": false
-},
-"moveSpeed": 3,
-"moveType": 0,
-"priorityType": 0,
-"stepAnime": false,
-"through": false,
-"trigger": 0,
-"walkAnime": true
-}
-],
-"x": 7,
-"y": 10
-},
-{
-"id": 39,
-"name": "talk to jay vendor",
-"note": "",
-"pages": [
-{
-"conditions": {
-"actorId": 1,
-"actorValid": false,
-"itemId": 1,
-"itemValid": false,
-"selfSwitchCh": "A",
-"selfSwitchValid": false,
-"switch1Id": 1,
-"switch1Valid": false,
-"switch2Id": 1,
-"switch2Valid": false,
-"variableId": 1,
-"variableValid": false,
-"variableValue": 0
-},
-"directionFix": false,
-"image": {
-"characterIndex": 0,
-"characterName": "",
-"direction": 2,
-"pattern": 0,
-"tileId": 0
-},
-"list": [
-{
-"code": 205,
-"indent": 0,
-"parameters": [
--1,
-{
-"list": [
-{
-"code": 19,
-"indent": null
-},
-{
-"code": 0
-}
-],
-"repeat": false,
-"skippable": false,
-"wait": true
-}
-]
-},
-{
-"code": 505,
-"indent": 0,
-"parameters": [
-{
-"code": 19,
-"indent": null
-}
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "npc_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"vendorfaces",
-4,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Vendor>Would you like to try a sample?"
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"updated_kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Kiwi>Oooh, yes!"
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "crowley_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"crowleyfaces",
-2,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Crowley>We're actually just browsing."
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"updated_kiwihead_sheet",
-1,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Kiwi>It was delicious though!"
-]
-},
-{
-"code": 123,
-"indent": 0,
-"parameters": [
-"B",
-0
-]
-},
-{
-"code": 121,
-"indent": 0,
-"parameters": [
-46,
-46,
-0
-]
-},
-{
-"code": 111,
-"indent": 0,
-"parameters": [
-0,
-86,
-1
-]
-},
-{
-"code": 122,
-"indent": 1,
-"parameters": [
-45,
-45,
-1,
-0,
-1
-]
-},
-{
-"code": 121,
-"indent": 1,
-"parameters": [
-86,
-86,
-0
-]
-},
-{
-"code": 0,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 0,
-"parameters": []
-},
-{
-"code": 0,
-"indent": 0,
-"parameters": []
-}
-],
-"moveFrequency": 3,
-"moveRoute": {
-"list": [
-{
-"code": 0,
-"parameters": []
-}
-],
-"repeat": true,
-"skippable": false,
-"wait": false
-},
-"moveSpeed": 3,
-"moveType": 0,
-"priorityType": 0,
-"stepAnime": false,
-"through": false,
-"trigger": 0,
-"walkAnime": true
-},
-{
-"conditions": {
-"actorId": 1,
-"actorValid": false,
-"itemId": 1,
-"itemValid": false,
-"selfSwitchCh": "B",
-"selfSwitchValid": true,
-"switch1Id": 46,
-"switch1Valid": true,
-"switch2Id": 1,
-"switch2Valid": false,
-"variableId": 1,
-"variableValid": false,
-"variableValue": 0
-},
-"directionFix": false,
-"image": {
-"characterIndex": 0,
-"characterName": "",
-"direction": 2,
-"pattern": 0,
-"tileId": 0
-},
-"list": [
-{
-"code": 231,
-"indent": 0,
-"parameters": [
-1,
-"clue5_alt",
-0,
-0,
-576,
-384,
-250,
-250,
-255,
-0
-]
-},
-{
-"code": 231,
-"indent": 0,
-"parameters": [
-5,
-"jarcloseup1",
-1,
-0,
-408,
-200,
-25,
-25,
-255,
-0
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "zoom",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 232,
-"indent": 0,
-"parameters": [
-5,
-0,
-1,
-0,
-408,
-200,
-100,
-100,
-255,
-0,
-60,
-true
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"",
-0,
-2,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-""
-]
-},
-{
-"code": 235,
-"indent": 0,
-"parameters": [
-1
-]
-},
-{
-"code": 235,
-"indent": 0,
-"parameters": [
-5
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"Inquire further?"
-]
-},
-{
-"code": 102,
-"indent": 0,
-"parameters": [
-[
-"Yes",
-"No"
-],
-1,
-0,
-2,
-0
-]
-},
-{
-"code": 402,
-"indent": 0,
-"parameters": [
-0,
-"Yes"
-]
-},
-{
-"code": 123,
-"indent": 1,
-"parameters": [
-"C",
-0
-]
-},
-{
-"code": 0,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 402,
-"indent": 0,
-"parameters": [
-1,
-"No"
-]
-},
-{
-"code": 111,
-"indent": 1,
-"parameters": [
-1,
-45,
-0,
-5,
-0
-]
-},
-{
-"code": 121,
-"indent": 2,
-"parameters": [
-19,
-19,
-0
-]
-},
-{
-"code": 0,
-"indent": 2,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 0,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 404,
-"indent": 0,
-"parameters": []
-},
-{
-"code": 123,
-"indent": 0,
-"parameters": [
-"B",
-1
-]
-},
-{
-"code": 121,
-"indent": 0,
-"parameters": [
-44,
-44,
-1
-]
-},
-{
-"code": 0,
-"indent": 0,
-"parameters": []
-}
-],
-"moveFrequency": 3,
-"moveRoute": {
-"list": [
-{
-"code": 0,
-"parameters": []
-}
-],
-"repeat": true,
-"skippable": false,
-"wait": false
-},
-"moveSpeed": 3,
-"moveType": 0,
-"priorityType": 0,
-"stepAnime": false,
-"through": false,
-"trigger": 4,
-"walkAnime": true
-},
-{
-"conditions": {
-"actorId": 1,
-"actorValid": false,
-"itemId": 1,
-"itemValid": false,
-"selfSwitchCh": "C",
-"selfSwitchValid": true,
-"switch1Id": 1,
-"switch1Valid": false,
-"switch2Id": 1,
-"switch2Valid": false,
-"variableId": 1,
-"variableValid": false,
-"variableValue": 0
-},
-"directionFix": false,
-"image": {
-"characterIndex": 0,
-"characterName": "",
-"direction": 2,
-"pattern": 0,
-"tileId": 0
-},
-"list": [
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "crowley_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"crowleyfaces",
-2,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Crowley>Would you mind telling us your"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"name please? "
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "npc_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"vendorfaces",
-4,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Jay>Oh, I’m Jay!"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"From \"Jay’s Jams and Jellies!\""
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"updated_kiwihead_sheet",
-1,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Kiwi>Hehe, clever."
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "crowley_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"crowleyfaces",
-2,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Crowley>Where were you last night, Jay?"
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "npc_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"vendorfaces",
-4,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Jay>At home, making this delicious jelly!"
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "crowley_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"crowleyfaces",
-2,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Crowley>That’s interesting… "
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"crowleyfaces",
-2,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Crowley>A broken jar of yours appeared"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"at our crime scene today."
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"crowleyfaces",
-2,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Crowley>We suspect the incident happened"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"late last night."
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "npc_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"vendorfaces",
-4,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Jay>Oh my! That’s awful! "
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"vendorfaces",
-4,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Jay>I’m not sure what that might be"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"about, but is there any"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"way I can help?"
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "crowley_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"crowleyfaces",
-6,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Crowley>Could we see a list of everyone"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"who bought your jam recently? "
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "npc_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"vendorfaces",
-4,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Jay>Erhm, sorry, I don’t keep track of"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"names. A lot of people come"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"through here in a day."
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"vendorfaces",
-4,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Jay>You could check my storeroom though!"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"Strange things have been occuring"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"recently..."
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"vendorfaces",
-4,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Jay>Jam jars HAVE been disappearing… "
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "npc_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"vendorfaces",
-4,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Jay>Here, take my key."
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"vendorfaces",
-4,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Jay>If you head up towards the Narrows, "
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"you'll find my storeroom."
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"vendorfaces",
-4,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Jay>Middle of the northern alley, just "
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"up the stairs. Can't miss it!"
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "npc_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"vendorfaces",
-4,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Jay>Let me know if you find anything!"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"I have to stay here and"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"serve customers."
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "cluefound",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"The Murder Board has been updated!"
-]
-},
-{
-"code": 241,
-"indent": 0,
-"parameters": [
-{
-"name": "market",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 122,
-"indent": 0,
-"parameters": [
-23,
-23,
-1,
-0,
-1
-]
-},
-{
-"code": 122,
-"indent": 0,
-"parameters": [
-11,
-11,
-1,
-0,
-1
-]
-},
-{
-"code": 122,
-"indent": 0,
-"parameters": [
-25,
-25,
-0,
-0,
-1
-]
-},
-{
-"code": 121,
-"indent": 0,
-"parameters": [
-20,
-20,
-0
-]
-},
-{
-"code": 205,
-"indent": 0,
-"parameters": [
--1,
-{
-"list": [
-{
-"code": 16,
-"indent": null
-},
-{
-"code": 16,
-"indent": null
-},
-{
-"code": 17,
-"indent": null
-},
-{
-"code": 17,
-"indent": null
-},
-{
-"code": 0
-}
-],
-"repeat": false,
-"skippable": false,
-"wait": false
-}
-]
-},
-{
-"code": 505,
-"indent": 0,
-"parameters": [
-{
-"code": 16,
-"indent": null
-}
-]
-},
-{
-"code": 505,
-"indent": 0,
-"parameters": [
-{
-"code": 16,
-"indent": null
-}
-]
-},
-{
-"code": 505,
-"indent": 0,
-"parameters": [
-{
-"code": 17,
-"indent": null
-}
-]
-},
-{
-"code": 505,
-"indent": 0,
-"parameters": [
-{
-"code": 17,
-"indent": null
-}
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "crowley_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"crowleyfaces",
-6,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Crowley>Jay's Jams seem popular..."
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"crowleyfaces",
-2,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Crowley>Almost, TOO popular..."
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"updated_kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Kiwi>But boss, the sample..."
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"updated_kiwihead_sheet",
-5,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Kiwi>WAS..."
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 110,
-"pan": 0
-}
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 110,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"updated_kiwihead_sheet",
-2,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Kiwi>DELICIOUS!!"
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"updated_kiwihead_sheet",
-1,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Kiwi>Let's hop over to Jay’s storeroom,"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"maybe we’ll find something else there."
-]
-},
-{
-"code": 121,
-"indent": 0,
-"parameters": [
-84,
-88,
-0
-]
-},
-{
-"code": 121,
-"indent": 0,
-"parameters": [
-93,
-93,
-0
-]
-},
-{
-"code": 123,
-"indent": 0,
-"parameters": [
-"C",
-1
-]
-},
-{
-"code": 0,
-"indent": 0,
-"parameters": []
-}
-],
-"moveFrequency": 3,
-"moveRoute": {
-"list": [
-{
-"code": 0,
-"parameters": []
-}
-],
-"repeat": true,
-"skippable": false,
-"wait": false
-},
-"moveSpeed": 3,
-"moveType": 0,
-"priorityType": 0,
-"stepAnime": false,
-"through": false,
-"trigger": 3,
-"walkAnime": true
-},
-{
-"conditions": {
-"actorId": 1,
-"actorValid": false,
-"itemId": 1,
-"itemValid": false,
-"selfSwitchCh": "A",
-"selfSwitchValid": false,
-"switch1Id": 93,
-"switch1Valid": true,
-"switch2Id": 1,
-"switch2Valid": false,
-"variableId": 1,
-"variableValid": false,
-"variableValue": 0
-},
-"directionFix": false,
-"image": {
-"characterIndex": 0,
-"characterName": "",
-"direction": 2,
-"pattern": 0,
-"tileId": 0
-},
-"list": [
-{
-"code": 0,
-"indent": 0,
-"parameters": []
-}
-],
-"moveFrequency": 3,
-"moveRoute": {
-"list": [
-{
-"code": 0,
-"parameters": []
-}
-],
-"repeat": true,
-"skippable": false,
-"wait": false
-},
-"moveSpeed": 3,
-"moveType": 0,
-"priorityType": 0,
-"stepAnime": false,
-"through": false,
-"trigger": 0,
-"walkAnime": true
-}
-],
-"x": 9,
-"y": 10
-}
+null,
+null
 ]
 }
