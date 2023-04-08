@@ -5294,13 +5294,6 @@ null,
 ]
 },
 {
-"code": 401,
-"indent": 1,
-"parameters": [
-"            Press M to open the Murder Board!"
-]
-},
-{
 "code": 101,
 "indent": 1,
 "parameters": [
@@ -5314,6 +5307,13 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
+"              Press M to view the Murder Board!"
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
 "           Click on a clue to peep its description."
 ]
 },
@@ -5321,7 +5321,7 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"               Press ESC to close the Board!"
+"               "
 ]
 },
 {
@@ -5584,24 +5584,7 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-""
-]
-},
-{
-"code": 401,
-"indent": 1,
-"parameters": [
-"            Press M to open the Murder Board!"
-]
-},
-{
-"code": 101,
-"indent": 1,
-"parameters": [
-"",
-0,
-0,
-2
+"              Press M to view the Murder Board!  "
 ]
 },
 {
@@ -5615,7 +5598,7 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"               Press ESC to close the Board!"
+"               "
 ]
 },
 {
@@ -5916,38 +5899,21 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-""
+"               Press M to view the Murder Board!  "
 ]
 },
 {
 "code": 401,
 "indent": 1,
 "parameters": [
-"            Press M to open the Murder Board!"
-]
-},
-{
-"code": 101,
-"indent": 1,
-"parameters": [
-"",
-0,
-0,
-2
+"            Click on a clue to peep its description."
 ]
 },
 {
 "code": 401,
 "indent": 1,
 "parameters": [
-"           Click on a clue to peep its description."
-]
-},
-{
-"code": 401,
-"indent": 1,
-"parameters": [
-"               Press ESC to close the Board!"
+"               "
 ]
 },
 {
