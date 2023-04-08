@@ -2502,7 +2502,7 @@ true
 "parameters": [
 {
 "name": "crowley_voice",
-"volume": 90,
+"volume": 60,
 "pitch": 100,
 "pan": 0
 }
@@ -2523,6 +2523,18 @@ true
 "indent": 0,
 "parameters": [
 "\\n<Crowley>That’s interesting… "
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
@@ -2547,6 +2559,18 @@ true
 "indent": 0,
 "parameters": [
 "at our crime scene today."
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 80,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
@@ -2603,6 +2627,18 @@ true
 ]
 },
 {
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "npc_voice",
+"volume": 90,
+"pitch": 110,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 0,
 "parameters": [
@@ -2623,14 +2659,7 @@ true
 "code": 401,
 "indent": 0,
 "parameters": [
-"about, but is there any"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"way I can help?"
+"about, but is there any way I can help?"
 ]
 },
 {
@@ -2675,8 +2704,8 @@ true
 "parameters": [
 {
 "name": "npc_voice",
-"volume": 90,
-"pitch": 100,
+"volume": 75,
+"pitch": 90,
 "pan": 0
 }
 ]
@@ -2702,14 +2731,26 @@ true
 "code": 401,
 "indent": 0,
 "parameters": [
-"names. A lot of people come"
+"names. A lot of people come through here"
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"through here in a day."
+"in a day."
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "npc_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
@@ -2733,14 +2774,19 @@ true
 "code": 401,
 "indent": 0,
 "parameters": [
-"Strange things have been occuring"
+"Strange things have been occuring recently..."
 ]
 },
 {
-"code": 401,
+"code": 250,
 "indent": 0,
 "parameters": [
-"recently..."
+{
+"name": "npc_voice",
+"volume": 75,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
@@ -2757,7 +2803,7 @@ true
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Jay>Jam jars HAVE been disappearing… "
+"\\n<Jay>Jam jars HAVE been disappearing..."
 ]
 },
 {
@@ -2790,6 +2836,18 @@ true
 ]
 },
 {
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "npc_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 0,
 "parameters": [
@@ -2810,31 +2868,21 @@ true
 "code": 401,
 "indent": 0,
 "parameters": [
-"you'll find my storeroom."
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"vendorfaces",
-4,
-0,
-2
+"you'll find my storeroom. Middle of the"
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Jay>Middle of the northern alley, just "
+"northern alley, just up the stairs."
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"up the stairs. Can't miss it!"
+"Can't miss it!"
 ]
 },
 {
@@ -2870,14 +2918,7 @@ true
 "code": 401,
 "indent": 0,
 "parameters": [
-"I have to stay here and"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"serve customers."
+"I have to stay here and serve customers. "
 ]
 },
 {
@@ -3179,6 +3220,18 @@ true
 "indent": 0,
 "parameters": [
 "\\n<Kiwi>DELICIOUS!!"
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
@@ -8574,7 +8627,7 @@ true
 "parameters": [
 {
 "name": "crowley_voice",
-"volume": 90,
+"volume": 60,
 "pitch": 100,
 "pan": 0
 }
@@ -8595,6 +8648,18 @@ true
 "indent": 0,
 "parameters": [
 "\\n<Crowley>That’s interesting… "
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
@@ -8619,6 +8684,18 @@ true
 "indent": 0,
 "parameters": [
 "at our crime scene today."
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 80,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
@@ -8675,6 +8752,18 @@ true
 ]
 },
 {
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "npc_voice",
+"volume": 90,
+"pitch": 110,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 0,
 "parameters": [
@@ -8695,14 +8784,7 @@ true
 "code": 401,
 "indent": 0,
 "parameters": [
-"about, but is there any"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"way I can help?"
+"about, but is there any way I can help?"
 ]
 },
 {
@@ -8747,8 +8829,8 @@ true
 "parameters": [
 {
 "name": "npc_voice",
-"volume": 90,
-"pitch": 100,
+"volume": 75,
+"pitch": 90,
 "pan": 0
 }
 ]
@@ -8774,14 +8856,26 @@ true
 "code": 401,
 "indent": 0,
 "parameters": [
-"names. A lot of people come"
+"names. A lot of people come through here"
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"through here in a day."
+"in a day."
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "npc_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
@@ -8805,14 +8899,19 @@ true
 "code": 401,
 "indent": 0,
 "parameters": [
-"Strange things have been occuring"
+"Strange things have been occuring recently..."
 ]
 },
 {
-"code": 401,
+"code": 250,
 "indent": 0,
 "parameters": [
-"recently..."
+{
+"name": "npc_voice",
+"volume": 75,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
@@ -8829,7 +8928,7 @@ true
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Jay>Jam jars HAVE been disappearing… "
+"\\n<Jay>Jam jars HAVE been disappearing..."
 ]
 },
 {
@@ -8862,6 +8961,18 @@ true
 ]
 },
 {
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "npc_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 0,
 "parameters": [
@@ -8882,31 +8993,21 @@ true
 "code": 401,
 "indent": 0,
 "parameters": [
-"you'll find my storeroom."
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"vendorfaces",
-4,
-0,
-2
+"you'll find my storeroom. Middle of the"
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Jay>Middle of the northern alley, just "
+"northern alley, just up the stairs."
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"up the stairs. Can't miss it!"
+"Can't miss it!"
 ]
 },
 {
@@ -8942,14 +9043,7 @@ true
 "code": 401,
 "indent": 0,
 "parameters": [
-"I have to stay here and"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"serve customers."
+"I have to stay here and serve customers. "
 ]
 },
 {
@@ -9251,6 +9345,18 @@ true
 "indent": 0,
 "parameters": [
 "\\n<Kiwi>DELICIOUS!!"
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
@@ -10703,7 +10809,7 @@ true
 "parameters": [
 {
 "name": "crowley_voice",
-"volume": 90,
+"volume": 60,
 "pitch": 100,
 "pan": 0
 }
@@ -10724,6 +10830,18 @@ true
 "indent": 0,
 "parameters": [
 "\\n<Crowley>That’s interesting… "
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
@@ -10748,6 +10866,18 @@ true
 "indent": 0,
 "parameters": [
 "at our crime scene today."
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 80,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
@@ -10804,6 +10934,18 @@ true
 ]
 },
 {
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "npc_voice",
+"volume": 90,
+"pitch": 110,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 0,
 "parameters": [
@@ -10824,14 +10966,7 @@ true
 "code": 401,
 "indent": 0,
 "parameters": [
-"about, but is there any"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"way I can help?"
+"about, but is there any way I can help?"
 ]
 },
 {
@@ -10876,8 +11011,8 @@ true
 "parameters": [
 {
 "name": "npc_voice",
-"volume": 90,
-"pitch": 100,
+"volume": 75,
+"pitch": 90,
 "pan": 0
 }
 ]
@@ -10903,14 +11038,26 @@ true
 "code": 401,
 "indent": 0,
 "parameters": [
-"names. A lot of people come"
+"names. A lot of people come through here"
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"through here in a day."
+"in a day."
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "npc_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
@@ -10934,14 +11081,19 @@ true
 "code": 401,
 "indent": 0,
 "parameters": [
-"Strange things have been occuring"
+"Strange things have been occuring recently..."
 ]
 },
 {
-"code": 401,
+"code": 250,
 "indent": 0,
 "parameters": [
-"recently..."
+{
+"name": "npc_voice",
+"volume": 75,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
@@ -10958,7 +11110,7 @@ true
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Jay>Jam jars HAVE been disappearing… "
+"\\n<Jay>Jam jars HAVE been disappearing..."
 ]
 },
 {
@@ -10991,6 +11143,18 @@ true
 ]
 },
 {
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "npc_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 0,
 "parameters": [
@@ -11011,31 +11175,21 @@ true
 "code": 401,
 "indent": 0,
 "parameters": [
-"you'll find my storeroom."
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"vendorfaces",
-4,
-0,
-2
+"you'll find my storeroom. Middle of the"
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Jay>Middle of the northern alley, just "
+"northern alley, just up the stairs."
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"up the stairs. Can't miss it!"
+"Can't miss it!"
 ]
 },
 {
@@ -11071,14 +11225,7 @@ true
 "code": 401,
 "indent": 0,
 "parameters": [
-"I have to stay here and"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"serve customers."
+"I have to stay here and serve customers. "
 ]
 },
 {
@@ -11380,6 +11527,18 @@ true
 "indent": 0,
 "parameters": [
 "\\n<Kiwi>DELICIOUS!!"
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
@@ -13044,7 +13203,7 @@ true
 {
 "name": "npc_voice",
 "volume": 90,
-"pitch": 70,
+"pitch": 130,
 "pan": 0
 }
 ]
@@ -13109,7 +13268,7 @@ true
 {
 "name": "npc_voice",
 "volume": 90,
-"pitch": 70,
+"pitch": 130,
 "pan": 0
 }
 ]
@@ -13191,7 +13350,7 @@ true
 "directionFix": false,
 "image": {
 "tileId": 0,
-"characterName": "$defaultCrow",
+"characterName": "$npc_one",
 "direction": 6,
 "pattern": 1,
 "characterIndex": 0
@@ -13204,7 +13363,7 @@ true
 {
 "name": "npc_voice",
 "volume": 90,
-"pitch": 70,
+"pitch": 130,
 "pan": 0
 }
 ]
@@ -13287,7 +13446,7 @@ true
 "directionFix": false,
 "image": {
 "tileId": 0,
-"characterName": "$defaultCrow",
+"characterName": "$npc_one",
 "direction": 4,
 "pattern": 1,
 "characterIndex": 0
@@ -13300,7 +13459,7 @@ true
 {
 "name": "npc_voice",
 "volume": 90,
-"pitch": 70,
+"pitch": 130,
 "pan": 0
 }
 ]
@@ -13873,9 +14032,9 @@ true
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
-"volume": 90,
-"pitch": 110,
+"name": "rac_baby",
+"volume": 55,
+"pitch": 60,
 "pan": 0
 }
 ]
@@ -13968,9 +14127,9 @@ true
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
-"volume": 90,
-"pitch": 110,
+"name": "rac_baby",
+"volume": 55,
+"pitch": 60,
 "pan": 0
 }
 ]

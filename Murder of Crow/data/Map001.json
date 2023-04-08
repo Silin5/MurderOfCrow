@@ -2491,6 +2491,18 @@ null,
 ]
 },
 {
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "sly",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 0,
 "parameters": [
@@ -3484,18 +3496,6 @@ null,
 ]
 },
 {
-"code": 250,
-"indent": 2,
-"parameters": [
-{
-"name": "crowley_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
 "code": 101,
 "indent": 2,
 "parameters": [
@@ -3866,38 +3866,6 @@ null,
 },
 "list": [
 {
-"code": 201,
-"indent": 0,
-"parameters": [
-0,
-10,
-8,
-12,
-0,
-0
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "zoom",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 123,
-"indent": 0,
-"parameters": [
-"B",
-0
-]
-},
-{
 "code": 0,
 "indent": 0,
 "parameters": []
@@ -3921,57 +3889,6 @@ null,
 "stepAnime": false,
 "through": false,
 "trigger": 0,
-"walkAnime": true
-},
-{
-"conditions": {
-"actorId": 1,
-"actorValid": false,
-"itemId": 1,
-"itemValid": false,
-"selfSwitchCh": "B",
-"selfSwitchValid": true,
-"switch1Id": 1,
-"switch1Valid": false,
-"switch2Id": 1,
-"switch2Valid": false,
-"variableId": 1,
-"variableValid": false,
-"variableValue": 0
-},
-"directionFix": false,
-"image": {
-"tileId": 256,
-"characterName": "",
-"characterIndex": 0,
-"direction": 2,
-"pattern": 0
-},
-"list": [
-{
-"code": 0,
-"indent": 0,
-"parameters": []
-}
-],
-"moveFrequency": 3,
-"moveRoute": {
-"list": [
-{
-"code": 0,
-"parameters": []
-}
-],
-"repeat": true,
-"skippable": false,
-"wait": false
-},
-"moveSpeed": 3,
-"moveType": 0,
-"priorityType": 0,
-"stepAnime": false,
-"through": false,
-"trigger": 4,
 "walkAnime": true
 }
 ],
@@ -4566,7 +4483,7 @@ null,
 "code": 401,
 "indent": 2,
 "parameters": [
-"\\n<Kiwi>Looks like the others left."
+"\\n<Kiwi>Looks like the others left the scene."
 ]
 },
 {
@@ -4595,14 +4512,7 @@ null,
 "code": 401,
 "indent": 2,
 "parameters": [
-"\\n<Kiwi>Should we check out the Farmer's "
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Market or look for leads elsewhere?"
+"\\n<Kiwi>Where should we look for leads?"
 ]
 },
 {
@@ -8306,7 +8216,7 @@ null,
 "parameters": [
 {
 "name": "kiwi_voice",
-"volume": 90,
+"volume": 75,
 "pitch": 100,
 "pan": 0
 }
@@ -8334,6 +8244,18 @@ null,
 "indent": 1,
 "parameters": [
 "I dunno, boss."
+]
+},
+{
+"code": 250,
+"indent": 1,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
@@ -8400,6 +8322,18 @@ null,
 "indent": 1,
 "parameters": [
 "\\n<Kiwi>But that’s on the other side of town!"
+]
+},
+{
+"code": 250,
+"indent": 1,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
@@ -8696,6 +8630,18 @@ null,
 ]
 },
 {
+"code": 250,
+"indent": 1,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 55,
+"pitch": 90,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 1,
 "parameters": [
@@ -8759,6 +8705,18 @@ null,
 "indent": 1,
 "parameters": [
 "nicking from Jay’s storeroom? "
+]
+},
+{
+"code": 250,
+"indent": 1,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 75,
+"pitch": 90,
+"pan": 0
+}
 ]
 },
 {
@@ -8865,6 +8823,18 @@ null,
 "indent": 0,
 "parameters": [
 "label fragment near the body."
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
@@ -9373,7 +9343,7 @@ null,
 "parameters": [
 {
 "name": "kiwi_voice",
-"volume": 90,
+"volume": 75,
 "pitch": 100,
 "pan": 0
 }
@@ -9394,6 +9364,18 @@ null,
 "indent": 1,
 "parameters": [
 "\\n<Kiwi> If only the image were clearer..."
+]
+},
+{
+"code": 250,
+"indent": 1,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
@@ -9567,6 +9549,18 @@ null,
 ]
 },
 {
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 0,
 "parameters": [
@@ -9697,6 +9691,18 @@ null,
 "indent": 1,
 "parameters": [
 "\\n<Kiwi>That does line up with the other evidence."
+]
+},
+{
+"code": 250,
+"indent": 1,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 85,
+"pitch": 90,
+"pan": 0
+}
 ]
 },
 {
@@ -9844,6 +9850,18 @@ null,
 ]
 },
 {
+"code": 250,
+"indent": 1,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 75,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 1,
 "parameters": [
@@ -9876,7 +9894,7 @@ null,
 "parameters": [
 {
 "name": "kiwi_voice",
-"volume": 90,
+"volume": 80,
 "pitch": 100,
 "pan": 0
 }
@@ -9904,6 +9922,18 @@ null,
 "indent": 0,
 "parameters": [
 "of all this."
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
@@ -10418,6 +10448,18 @@ null,
 ]
 },
 {
+"code": 250,
+"indent": 1,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 1,
 "parameters": [
@@ -10639,6 +10681,18 @@ null,
 "indent": 1,
 "parameters": [
 "who’s to say any of ‘em are solid?"
+]
+},
+{
+"code": 250,
+"indent": 1,
+"parameters": [
+{
+"name": "npc_voice",
+"volume": 90,
+"pitch": 80,
+"pan": 0
+}
 ]
 },
 {
@@ -10907,7 +10961,7 @@ null,
 "parameters": [
 {
 "name": "kiwi_voice",
-"volume": 90,
+"volume": 80,
 "pitch": 100,
 "pan": 0
 }
@@ -10928,6 +10982,18 @@ null,
 "indent": 1,
 "parameters": [
 "\\n<Kiwi>We aren’t going to talk to anyone?"
+]
+},
+{
+"code": 250,
+"indent": 1,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
@@ -11787,6 +11853,18 @@ null,
 "indent": 0,
 "parameters": [
 "about that bird..."
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
@@ -17431,6 +17509,23 @@ null,
 "code": 101,
 "indent": 0,
 "parameters": [
+"billfaces",
+1,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Bill>. . ."
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
 "updated_kiwihead_sheet",
 2,
 0,
@@ -17896,7 +17991,7 @@ null,
 {
 "code": 45,
 "parameters": [
-"MOVE TO: EVENT 045"
+"MOVE TO: EVENT 032"
 ],
 "indent": null
 },
@@ -17917,7 +18012,7 @@ null,
 {
 "code": 45,
 "parameters": [
-"MOVE TO: EVENT 045"
+"MOVE TO: EVENT 032"
 ],
 "indent": null
 }
@@ -18088,8 +18183,8 @@ null,
 "image": {
 "tileId": 0,
 "characterName": "$billoverworld",
-"direction": 2,
-"pattern": 0,
+"direction": 6,
+"pattern": 1,
 "characterIndex": 0
 },
 "list": [
@@ -18538,10 +18633,144 @@ null,
 "through": true,
 "trigger": 0,
 "walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 128,
+"switch1Valid": true,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"tileId": 319,
+"characterName": "",
+"characterIndex": 0,
+"direction": 2,
+"pattern": 0
+},
+"list": [
+{
+"code": 201,
+"indent": 0,
+"parameters": [
+0,
+10,
+8,
+12,
+0,
+0
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "zoom",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 123,
+"indent": 0,
+"parameters": [
+"B",
+0
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
 }
 ],
-"x": 9,
-"y": 5
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 1,
+"stepAnime": false,
+"through": false,
+"trigger": 1,
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "B",
+"selfSwitchValid": true,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+}
+],
+"x": 11,
+"y": 8
 },
 {
 "id": 33,
