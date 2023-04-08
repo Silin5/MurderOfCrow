@@ -19153,7 +19153,7 @@ null,
 "walkAnime": true
 }
 ],
-"x": 11,
+"x": 10,
 "y": 5
 },
 {
@@ -19180,8 +19180,8 @@ null,
 "directionFix": false,
 "image": {
 "tileId": 0,
-"characterName": "$jayvendor",
-"direction": 2,
+"characterName": "$npc_two",
+"direction": 6,
 "pattern": 1,
 "characterIndex": 0
 },
@@ -19399,7 +19399,7 @@ null,
 "walkAnime": true
 }
 ],
-"x": 11,
+"x": 8,
 "y": 6
 },
 {
@@ -19666,7 +19666,7 @@ null,
 }
 ],
 "x": 11,
-"y": 8
+"y": 10
 },
 {
 "id": 39,
@@ -19891,8 +19891,8 @@ null,
 "walkAnime": true
 }
 ],
-"x": 9,
-"y": 7
+"x": 8,
+"y": 8
 },
 {
 "id": 40,
@@ -19919,7 +19919,7 @@ null,
 "image": {
 "tileId": 0,
 "characterName": "$defaultCrow",
-"direction": 6,
+"direction": 2,
 "pattern": 1,
 "characterIndex": 0
 },
@@ -20117,8 +20117,8 @@ null,
 "walkAnime": true
 }
 ],
-"x": 10,
-"y": 6
+"x": 13,
+"y": 5
 },
 {
 "id": 41,
@@ -20343,7 +20343,7 @@ null,
 "walkAnime": true
 }
 ],
-"x": 13,
+"x": 14,
 "y": 7
 },
 {
@@ -20569,8 +20569,8 @@ null,
 "walkAnime": true
 }
 ],
-"x": 12,
-"y": 6
+"x": 11,
+"y": 4
 },
 {
 "id": 43,
@@ -20796,7 +20796,7 @@ null,
 }
 ],
 "x": 9,
-"y": 6
+"y": 7
 },
 {
 "id": 44,
@@ -21021,7 +21021,7 @@ null,
 "walkAnime": true
 }
 ],
-"x": 11,
+"x": 10,
 "y": 9
 },
 {
@@ -21048,7 +21048,7 @@ null,
 "directionFix": false,
 "image": {
 "tileId": 0,
-"characterName": "$slyskunkwitness",
+"characterName": "$defaultCrow",
 "direction": 6,
 "pattern": 1,
 "characterIndex": 0
@@ -21267,7 +21267,7 @@ null,
 "walkAnime": true
 }
 ],
-"x": 10,
+"x": 8,
 "y": 7
 },
 {
@@ -21294,7 +21294,7 @@ null,
 "directionFix": false,
 "image": {
 "tileId": 0,
-"characterName": "$slyskunkwitness",
+"characterName": "$npc_one",
 "direction": 4,
 "pattern": 1,
 "characterIndex": 0
@@ -21493,7 +21493,7 @@ null,
 "walkAnime": true
 }
 ],
-"x": 13,
+"x": 14,
 "y": 6
 },
 {
@@ -21719,7 +21719,7 @@ null,
 "walkAnime": true
 }
 ],
-"x": 10,
+"x": 9,
 "y": 9
 }
 ]
