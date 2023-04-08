@@ -13009,7 +13009,7 @@ true
 },
 {
 "id": 24,
-"name": "default crow1",
+"name": "customer 4",
 "note": "",
 "pages": [
 {
@@ -13031,7 +13031,7 @@ true
 "directionFix": false,
 "image": {
 "tileId": 0,
-"characterName": "$defaultCrow",
+"characterName": "$npc_one",
 "direction": 6,
 "pattern": 1,
 "characterIndex": 0
@@ -13054,7 +13054,7 @@ true
 "indent": 0,
 "parameters": [
 "Actor4_temp",
-0,
+1,
 0,
 2
 ]
@@ -13119,7 +13119,7 @@ true
 "indent": 0,
 "parameters": [
 "Actor4_temp",
-0,
+1,
 0,
 2
 ]
@@ -13152,7 +13152,7 @@ true
 "parameters": []
 }
 ],
-"moveFrequency": 2,
+"moveFrequency": 3,
 "moveRoute": {
 "list": [
 {
@@ -13164,7 +13164,7 @@ true
 "skippable": false,
 "wait": false
 },
-"moveSpeed": 2,
+"moveSpeed": 1,
 "moveType": 1,
 "priorityType": 1,
 "stepAnime": false,
@@ -13214,7 +13214,7 @@ true
 "indent": 0,
 "parameters": [
 "Actor4_temp",
-0,
+1,
 0,
 2
 ]
@@ -13310,7 +13310,7 @@ true
 "indent": 0,
 "parameters": [
 "Actor4_temp",
-0,
+1,
 0,
 2
 ]
@@ -13362,7 +13362,7 @@ true
 },
 {
 "id": 25,
-"name": "default crow2",
+"name": "customer 3",
 "note": "",
 "pages": [
 {
@@ -13619,7 +13619,7 @@ true
 },
 {
 "id": 26,
-"name": "skunk 2",
+"name": "customer 2",
 "note": "",
 "pages": [
 {
@@ -13641,7 +13641,7 @@ true
 "directionFix": false,
 "image": {
 "tileId": 0,
-"characterName": "$slyskunkwitness",
+"characterName": "$npc_one",
 "direction": 8,
 "pattern": 1,
 "characterIndex": 0
@@ -13663,8 +13663,8 @@ true
 "code": 101,
 "indent": 0,
 "parameters": [
-"skunkhead_sheet",
-0,
+"Actor4_temp",
+1,
 0,
 2
 ]
@@ -13699,8 +13699,8 @@ true
 "code": 101,
 "indent": 0,
 "parameters": [
-"skunkhead_sheet",
-0,
+"Actor4_temp",
+1,
 0,
 2
 ]
@@ -13765,7 +13765,7 @@ true
 "directionFix": false,
 "image": {
 "tileId": 0,
-"characterName": "$slyskunkwitness",
+"characterName": "$npc_one",
 "direction": 8,
 "pattern": 1,
 "characterIndex": 0
@@ -13787,8 +13787,8 @@ true
 "code": 101,
 "indent": 0,
 "parameters": [
-"skunkhead_sheet",
-0,
+"Actor4_temp",
+1,
 0,
 2
 ]
@@ -13840,7 +13840,7 @@ true
 },
 {
 "id": 27,
-"name": "skunk 1",
+"name": "customer 1",
 "note": "",
 "pages": [
 {
@@ -13862,8 +13862,8 @@ true
 "directionFix": false,
 "image": {
 "tileId": 0,
-"characterName": "$slyskunkwitness",
-"direction": 8,
+"characterName": "$npc_two",
+"direction": 6,
 "pattern": 1,
 "characterIndex": 0
 },
@@ -13884,8 +13884,8 @@ true
 "code": 101,
 "indent": 0,
 "parameters": [
-"skunkhead_sheet",
-0,
+"Actor4_temp",
+2,
 0,
 2
 ]
@@ -13894,14 +13894,14 @@ true
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Customer>I can’t believe this! Jay’s out of jelly "
+"\\n<Customer>I can’t believe thisss! Jay’s out of"
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"already!"
+"jelliesss already!"
 ]
 },
 {
@@ -13957,7 +13957,7 @@ true
 "directionFix": false,
 "image": {
 "tileId": 0,
-"characterName": "$slyskunkwitness",
+"characterName": "$npc_two",
 "direction": 8,
 "pattern": 1,
 "characterIndex": 0
@@ -13979,8 +13979,8 @@ true
 "code": 101,
 "indent": 0,
 "parameters": [
-"skunkhead_sheet",
-0,
+"Actor4_temp",
+2,
 0,
 2
 ]
@@ -13989,7 +13989,7 @@ true
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Customer>Yes?"
+"\\n<Customer>Yesss?"
 ]
 },
 {

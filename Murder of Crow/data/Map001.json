@@ -20596,7 +20596,7 @@ null,
 "directionFix": false,
 "image": {
 "tileId": 0,
-"characterName": "$billoverworld",
+"characterName": "$npc_one",
 "direction": 6,
 "pattern": 1,
 "characterIndex": 0
