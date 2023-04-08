@@ -5307,7 +5307,7 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"              Press M to view the Murder Board!"
+"             Press M to view the Murder Board!"
 ]
 },
 {
@@ -5584,7 +5584,7 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"              Press M to view the Murder Board!  "
+"             Press M to view the Murder Board!  "
 ]
 },
 {
@@ -5899,7 +5899,7 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"               Press M to view the Murder Board!  "
+"              Press M to view the Murder Board!  "
 ]
 },
 {
@@ -14984,35 +14984,6 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "rac_mama",
-"volume": 70,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"raccoon_faces",
-3,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Moxie>Why, that critter isn’t even real!"
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
 "name": "crowley_voice",
 "volume": 60,
 "pitch": 100,
@@ -18677,9 +18648,9 @@ null,
 },
 "moveSpeed": 3,
 "moveType": 0,
-"priorityType": 1,
+"priorityType": 0,
 "stepAnime": false,
-"through": false,
+"through": true,
 "trigger": 1,
 "walkAnime": true
 },
@@ -18730,7 +18701,7 @@ null,
 "moveType": 0,
 "priorityType": 0,
 "stepAnime": false,
-"through": false,
+"through": true,
 "trigger": 0,
 "walkAnime": true
 }
@@ -18813,7 +18784,7 @@ null,
 {
 "list": [
 {
-"code": 3,
+"code": 4,
 "indent": null
 },
 {
@@ -18831,7 +18802,7 @@ null,
 "indent": 2,
 "parameters": [
 {
-"code": 3,
+"code": 4,
 "indent": null
 }
 ]
@@ -19004,8 +18975,86 @@ null,
 },
 "list": [
 {
-"code": 201,
+"code": 111,
 "indent": 0,
+"parameters": [
+1,
+23,
+0,
+2,
+1
+]
+},
+{
+"code": 111,
+"indent": 1,
+"parameters": [
+0,
+122,
+0
+]
+},
+{
+"code": 101,
+"indent": 2,
+"parameters": [
+"crowleyfaces",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 2,
+"parameters": [
+"\\n<Crowley>I must stay and solve the case!"
+]
+},
+{
+"code": 205,
+"indent": 2,
+"parameters": [
+-1,
+{
+"list": [
+{
+"code": 4,
+"indent": null
+},
+{
+"code": 0
+}
+],
+"repeat": false,
+"skippable": false,
+"wait": true
+}
+]
+},
+{
+"code": 505,
+"indent": 2,
+"parameters": [
+{
+"code": 4,
+"indent": null
+}
+]
+},
+{
+"code": 0,
+"indent": 2,
+"parameters": []
+},
+{
+"code": 411,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 201,
+"indent": 2,
 "parameters": [
 0,
 9,
@@ -19014,6 +19063,91 @@ null,
 0,
 0
 ]
+},
+{
+"code": 0,
+"indent": 2,
+"parameters": []
+},
+{
+"code": 412,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 411,
+"indent": 0,
+"parameters": []
+},
+{
+"code": 101,
+"indent": 1,
+"parameters": [
+"crowleyfaces",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"\\n<Crowley>There's no time to sit and roost"
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"at the Nest! I need to focus on the case."
+]
+},
+{
+"code": 205,
+"indent": 1,
+"parameters": [
+-1,
+{
+"list": [
+{
+"code": 4,
+"indent": null
+},
+{
+"code": 0
+}
+],
+"repeat": false,
+"skippable": false,
+"wait": true
+}
+]
+},
+{
+"code": 505,
+"indent": 1,
+"parameters": [
+{
+"code": 4,
+"indent": null
+}
+]
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 412,
+"indent": 0,
+"parameters": []
 },
 {
 "code": 0,
@@ -19037,7 +19171,7 @@ null,
 "moveType": 0,
 "priorityType": 0,
 "stepAnime": false,
-"through": true,
+"through": false,
 "trigger": 1,
 "walkAnime": true
 }
