@@ -1571,6 +1571,14 @@ null,
 "parameters": []
 },
 {
+"code": 123,
+"indent": 0,
+"parameters": [
+"A",
+0
+]
+},
+{
 "code": 0,
 "indent": 0,
 "parameters": []
@@ -1594,6 +1602,69 @@ null,
 "stepAnime": false,
 "through": false,
 "trigger": 1,
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": true,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 201,
+"indent": 0,
+"parameters": [
+0,
+5,
+17,
+3,
+2,
+0
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
 "walkAnime": true
 }
 ],
@@ -1810,6 +1881,14 @@ null,
 "parameters": []
 },
 {
+"code": 123,
+"indent": 0,
+"parameters": [
+"A",
+0
+]
+},
+{
 "code": 0,
 "indent": 0,
 "parameters": []
@@ -1833,6 +1912,69 @@ null,
 "stepAnime": false,
 "through": false,
 "trigger": 1,
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": true,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 201,
+"indent": 0,
+"parameters": [
+0,
+5,
+18,
+3,
+2,
+0
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
 "walkAnime": true
 }
 ],
