@@ -1441,15 +1441,82 @@ null,
 "code": 401,
 "indent": 4,
 "parameters": [
-"\\n<Kiwi>Sly mentioned late night activity over at "
+"\\n<Kiwi>If we're all done, we should probably"
 ]
 },
 {
 "code": 401,
 "indent": 4,
 "parameters": [
-"the Nest. Should we give the place a flyby?"
+"return the key to Jay! Although... we could"
 ]
+},
+{
+"code": 401,
+"indent": 4,
+"parameters": [
+"fly by the Nest? Sly did mention there was"
+]
+},
+{
+"code": 401,
+"indent": 4,
+"parameters": [
+"activity there last night."
+]
+},
+{
+"code": 0,
+"indent": 4,
+"parameters": []
+},
+{
+"code": 411,
+"indent": 3,
+"parameters": []
+},
+{
+"code": 111,
+"indent": 4,
+"parameters": [
+0,
+137,
+0
+]
+},
+{
+"code": 101,
+"indent": 5,
+"parameters": [
+"updated_kiwihead_sheet",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 5,
+"parameters": [
+"\\n<Kiwi>If we're all done, we should probably"
+]
+},
+{
+"code": 401,
+"indent": 5,
+"parameters": [
+"return the key to Jay!"
+]
+},
+{
+"code": 0,
+"indent": 5,
+"parameters": []
+},
+{
+"code": 412,
+"indent": 4,
+"parameters": []
 },
 {
 "code": 0,
@@ -1613,15 +1680,82 @@ null,
 "code": 401,
 "indent": 4,
 "parameters": [
-"\\n<Kiwi>Sly mentioned late night activity over at "
+"\\n<Kiwi>If we're all done, we should probably"
 ]
 },
 {
 "code": 401,
 "indent": 4,
 "parameters": [
-"the Nest. Should we give the place a flyby?"
+"return the key to Jay! Although... we could"
 ]
+},
+{
+"code": 401,
+"indent": 4,
+"parameters": [
+"fly by the Nest? Sly did mention there was"
+]
+},
+{
+"code": 401,
+"indent": 4,
+"parameters": [
+"activity there last night."
+]
+},
+{
+"code": 0,
+"indent": 4,
+"parameters": []
+},
+{
+"code": 411,
+"indent": 3,
+"parameters": []
+},
+{
+"code": 111,
+"indent": 4,
+"parameters": [
+0,
+137,
+0
+]
+},
+{
+"code": 101,
+"indent": 5,
+"parameters": [
+"updated_kiwihead_sheet",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 5,
+"parameters": [
+"\\n<Kiwi>If we're all done, we should probably"
+]
+},
+{
+"code": 401,
+"indent": 5,
+"parameters": [
+"return the key to Jay! "
+]
+},
+{
+"code": 0,
+"indent": 5,
+"parameters": []
+},
+{
+"code": 412,
+"indent": 4,
+"parameters": []
 },
 {
 "code": 0,
@@ -6578,148 +6712,6 @@ null,
 "x": 10,
 "y": 4
 },
-{
-"id": 24,
-"name": "EV024",
-"note": "",
-"pages": [
-{
-"conditions": {
-"actorId": 1,
-"actorValid": false,
-"itemId": 1,
-"itemValid": false,
-"selfSwitchCh": "A",
-"selfSwitchValid": false,
-"switch1Id": 1,
-"switch1Valid": false,
-"switch2Id": 1,
-"switch2Valid": false,
-"variableId": 1,
-"variableValid": false,
-"variableValue": 0
-},
-"directionFix": false,
-"image": {
-"characterIndex": 0,
-"characterName": "",
-"direction": 2,
-"pattern": 0,
-"tileId": 0
-},
-"list": [
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"crowleyfaces",
-1,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Crowley>Mmm how I love... "
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"preserved fruit paste..."
-]
-},
-{
-"code": 123,
-"indent": 0,
-"parameters": [
-"A",
-0
-]
-},
-{
-"code": 0,
-"indent": 0,
-"parameters": []
-}
-],
-"moveFrequency": 3,
-"moveRoute": {
-"list": [
-{
-"code": 0,
-"parameters": []
-}
-],
-"repeat": true,
-"skippable": false,
-"wait": false
-},
-"moveSpeed": 3,
-"moveType": 0,
-"priorityType": 0,
-"stepAnime": false,
-"through": false,
-"trigger": 0,
-"walkAnime": true
-},
-{
-"conditions": {
-"actorId": 1,
-"actorValid": false,
-"itemId": 1,
-"itemValid": false,
-"selfSwitchCh": "A",
-"selfSwitchValid": true,
-"switch1Id": 1,
-"switch1Valid": false,
-"switch2Id": 1,
-"switch2Valid": false,
-"variableId": 1,
-"variableValid": false,
-"variableValue": 0
-},
-"directionFix": false,
-"image": {
-"characterIndex": 0,
-"characterName": "",
-"direction": 2,
-"pattern": 0,
-"tileId": 0
-},
-"list": [
-{
-"code": 0,
-"indent": 0,
-"parameters": []
-}
-],
-"moveFrequency": 3,
-"moveRoute": {
-"list": [
-{
-"code": 0,
-"parameters": []
-}
-],
-"repeat": true,
-"skippable": false,
-"wait": false
-},
-"moveSpeed": 3,
-"moveType": 0,
-"priorityType": 0,
-"stepAnime": false,
-"through": false,
-"trigger": 0,
-"walkAnime": true
-}
-],
-"x": 8,
-"y": 11
-}
+null
 ]
 }
