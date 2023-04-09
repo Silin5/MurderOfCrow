@@ -1,5 +1,5 @@
 {
-"autoplayBgm": true,
+"autoplayBgm": false,
 "autoplayBgs": false,
 "battleback1Name": "",
 "battleback2Name": "",
@@ -6749,6 +6749,25 @@ null,
 ]
 },
 {
+"code": 242,
+"indent": 1,
+"parameters": [
+3
+]
+},
+{
+"code": 241,
+"indent": 1,
+"parameters": [
+{
+"name": "market",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 0,
 "indent": 1,
 "parameters": []
@@ -6837,6 +6856,25 @@ null,
 1,
 0,
 0
+]
+},
+{
+"code": 242,
+"indent": 1,
+"parameters": [
+3
+]
+},
+{
+"code": 241,
+"indent": 1,
+"parameters": [
+{
+"name": "market",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
@@ -6931,6 +6969,25 @@ null,
 ]
 },
 {
+"code": 242,
+"indent": 1,
+"parameters": [
+3
+]
+},
+{
+"code": 241,
+"indent": 1,
+"parameters": [
+{
+"name": "townsquare",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 0,
 "indent": 1,
 "parameters": []
@@ -7022,6 +7079,25 @@ null,
 ]
 },
 {
+"code": 242,
+"indent": 1,
+"parameters": [
+3
+]
+},
+{
+"code": 241,
+"indent": 1,
+"parameters": [
+{
+"name": "townsquare",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 0,
 "indent": 1,
 "parameters": []
@@ -7110,6 +7186,25 @@ null,
 2,
 2,
 0
+]
+},
+{
+"code": 242,
+"indent": 1,
+"parameters": [
+3
+]
+},
+{
+"code": 241,
+"indent": 1,
+"parameters": [
+{
+"name": "townsquare",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {

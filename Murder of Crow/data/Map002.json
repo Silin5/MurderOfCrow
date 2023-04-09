@@ -1,5 +1,5 @@
 {
-"autoplayBgm": true,
+"autoplayBgm": false,
 "autoplayBgs": false,
 "battleback1Name": "",
 "battleback2Name": "",
@@ -4335,6 +4335,25 @@ true
 ]
 },
 {
+"code": 242,
+"indent": 0,
+"parameters": [
+3
+]
+},
+{
+"code": 241,
+"indent": 0,
+"parameters": [
+{
+"name": "townsquare",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 0,
 "indent": 0,
 "parameters": []
@@ -7339,6 +7358,25 @@ true
 ]
 },
 {
+"code": 242,
+"indent": 0,
+"parameters": [
+3
+]
+},
+{
+"code": 241,
+"indent": 0,
+"parameters": [
+{
+"name": "townsquare",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 0,
 "indent": 0,
 "parameters": []
@@ -9883,12 +9921,12 @@ true
 "indent": 0,
 "parameters": [
 [
-"Let's play it cool Kiwi,we don't want to startle Jay!",
+"Let's play it cool,we don't want to startle Jay!",
 "We. Need. ANSWERS!"
 ],
-1,
+-1,
 0,
-2,
+1,
 0
 ]
 },
@@ -9897,7 +9935,7 @@ true
 "indent": 0,
 "parameters": [
 0,
-"Let's play it cool Kiwi,we don't want to startle Jay!"
+"Let's play it cool,we don't want to startle Jay!"
 ]
 },
 {
@@ -10344,6 +10382,18 @@ true
 ]
 },
 {
+"code": 250,
+"indent": 1,
+"parameters": [
+{
+"name": "npc_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 1,
 "parameters": [
@@ -10631,6 +10681,18 @@ true
 "indent": 1,
 "parameters": [
 "next to me..."
+]
+},
+{
+"code": 250,
+"indent": 1,
+"parameters": [
+{
+"name": "npc_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
@@ -10930,12 +10992,12 @@ true
 "indent": 0,
 "parameters": [
 [
-"Let's play it cool Kiwi,we don't want to startle Jay!",
+"Let's play it cool, we don't want to startle Jay!",
 "We. Need. ANSWERS!"
 ],
-1,
+-1,
 0,
-2,
+1,
 0
 ]
 },
@@ -10944,7 +11006,7 @@ true
 "indent": 0,
 "parameters": [
 0,
-"Let's play it cool Kiwi,we don't want to startle Jay!"
+"Let's play it cool, we don't want to startle Jay!"
 ]
 },
 {
@@ -11977,12 +12039,12 @@ true
 "indent": 0,
 "parameters": [
 [
-"Let's play it cool Kiwi,we don't want to startle Jay!",
+"Let's play it cool,we don't want to startle Jay!",
 "We. Need. ANSWERS!"
 ],
-1,
+-1,
 0,
-2,
+1,
 0
 ]
 },
@@ -11991,7 +12053,7 @@ true
 "indent": 0,
 "parameters": [
 0,
-"Let's play it cool Kiwi,we don't want to startle Jay!"
+"Let's play it cool,we don't want to startle Jay!"
 ]
 },
 {
@@ -12438,6 +12500,18 @@ true
 ]
 },
 {
+"code": 250,
+"indent": 1,
+"parameters": [
+{
+"name": "npc_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 1,
 "parameters": [
@@ -12725,6 +12799,18 @@ true
 "indent": 1,
 "parameters": [
 "next to me..."
+]
+},
+{
+"code": 250,
+"indent": 1,
+"parameters": [
+{
+"name": "npc_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
@@ -13350,12 +13436,12 @@ true
 "indent": 0,
 "parameters": [
 [
-"Let's play it cool Kiwi,we don't want to startle Jay!",
+"Let's play it cool,we don't want to startle Jay!",
 "We. Need. ANSWERS!"
 ],
-1,
+-1,
 0,
-2,
+1,
 0
 ]
 },
@@ -13364,7 +13450,7 @@ true
 "indent": 0,
 "parameters": [
 0,
-"Let's play it cool Kiwi,we don't want to startle Jay!"
+"Let's play it cool,we don't want to startle Jay!"
 ]
 },
 {
@@ -13867,6 +13953,18 @@ true
 ]
 },
 {
+"code": 250,
+"indent": 1,
+"parameters": [
+{
+"name": "npc_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 1,
 "parameters": [
@@ -14154,6 +14252,18 @@ true
 "indent": 1,
 "parameters": [
 "next to me..."
+]
+},
+{
+"code": 250,
+"indent": 1,
+"parameters": [
+{
+"name": "npc_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
@@ -19412,6 +19522,25 @@ true
 ]
 },
 {
+"code": 242,
+"indent": 0,
+"parameters": [
+3
+]
+},
+{
+"code": 241,
+"indent": 0,
+"parameters": [
+{
+"name": "narrows",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 0,
 "indent": 0,
 "parameters": []
@@ -21683,6 +21812,25 @@ true
 25,
 0,
 0
+]
+},
+{
+"code": 242,
+"indent": 0,
+"parameters": [
+3
+]
+},
+{
+"code": 241,
+"indent": 0,
+"parameters": [
+{
+"name": "narrows",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
@@ -25456,12 +25604,12 @@ true
 "indent": 0,
 "parameters": [
 [
-"Let's play it cool Kiwi,we don't want to startle Jay!",
+"Let's play it cool,we don't want to startle Jay!",
 "We. Need. ANSWERS!"
 ],
-1,
+-1,
 0,
-2,
+1,
 0
 ]
 },
@@ -25470,7 +25618,7 @@ true
 "indent": 0,
 "parameters": [
 0,
-"Let's play it cool Kiwi,we don't want to startle Jay!"
+"Let's play it cool,we don't want to startle Jay!"
 ]
 },
 {
@@ -25973,6 +26121,18 @@ true
 ]
 },
 {
+"code": 250,
+"indent": 1,
+"parameters": [
+{
+"name": "npc_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 1,
 "parameters": [
@@ -26260,6 +26420,18 @@ true
 "indent": 1,
 "parameters": [
 "next to me..."
+]
+},
+{
+"code": 250,
+"indent": 1,
+"parameters": [
+{
+"name": "npc_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {

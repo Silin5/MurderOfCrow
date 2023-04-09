@@ -3043,6 +3043,25 @@ null,
 ]
 },
 {
+"code": 242,
+"indent": 0,
+"parameters": [
+3
+]
+},
+{
+"code": 241,
+"indent": 0,
+"parameters": [
+{
+"name": "townsquare",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 0,
 "indent": 0,
 "parameters": []
@@ -3115,6 +3134,25 @@ null,
 ]
 },
 {
+"code": 242,
+"indent": 0,
+"parameters": [
+3
+]
+},
+{
+"code": 241,
+"indent": 0,
+"parameters": [
+{
+"name": "townsquare",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 0,
 "indent": 0,
 "parameters": []
@@ -3184,6 +3222,25 @@ null,
 5,
 0,
 0
+]
+},
+{
+"code": 242,
+"indent": 0,
+"parameters": [
+3
+]
+},
+{
+"code": 241,
+"indent": 0,
+"parameters": [
+{
+"name": "townsquare",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
@@ -6774,8 +6831,8 @@ null,
 "code": 101,
 "indent": 0,
 "parameters": [
-"vendorfaces",
-0,
+"Actor4_temp",
+1,
 0,
 2
 ]
@@ -6791,21 +6848,14 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"I'm keeping my bill clean! I don't want"
+"I'm keeping my bill clean! I don't want the"
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"the monster coming after me"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"for something I said..."
+"monster coming after me for something I said..."
 ]
 },
 {
@@ -7259,7 +7309,7 @@ null,
 "indent": 0,
 "parameters": [
 "Actor4_temp",
-0,
+1,
 0,
 2
 ]

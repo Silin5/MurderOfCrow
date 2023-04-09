@@ -10331,7 +10331,7 @@ false
 "parameters": [
 {
 "name": "kiwi_voice",
-"volume": 65,
+"volume": 90,
 "pitch": 100,
 "pan": 0
 }
@@ -10341,8 +10341,8 @@ false
 "code": 101,
 "indent": 1,
 "parameters": [
-"kiwihead_sheet",
-0,
+"updated_kiwihead_sheet",
+4,
 0,
 2
 ]
@@ -10351,7 +10351,14 @@ false
 "code": 401,
 "indent": 1,
 "parameters": [
-"\\n<Kiwi>Looks like the others left the scene."
+"\\n<Kiwi>Since the others left the scene,"
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"we should look for leads elsewhere."
 ]
 },
 {
@@ -10370,7 +10377,7 @@ false
 "code": 101,
 "indent": 1,
 "parameters": [
-"kiwihead_sheet",
+"updated_kiwihead_sheet",
 0,
 0,
 2
@@ -10380,14 +10387,7 @@ false
 "code": 401,
 "indent": 1,
 "parameters": [
-"\\n<Kiwi>Where should we look for leads?"
-]
-},
-{
-"code": 401,
-"indent": 1,
-"parameters": [
-"Your choice, boss!"
+"\\n<Kiwi>Where to? Your choice, boss!"
 ]
 },
 {
