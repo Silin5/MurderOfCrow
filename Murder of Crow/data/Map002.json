@@ -5089,8 +5089,17 @@ true
 },
 "list": [
 {
-"code": 101,
+"code": 111,
 "indent": 0,
+"parameters": [
+2,
+"A",
+1
+]
+},
+{
+"code": 101,
+"indent": 1,
 "parameters": [
 "crowleyfaces",
 4,
@@ -5100,17 +5109,35 @@ true
 },
 {
 "code": 401,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "\\n<Crowley>Some of those cheeses are almost"
 ]
 },
 {
 "code": 401,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "as big as a mouse!"
 ]
+},
+{
+"code": 123,
+"indent": 1,
+"parameters": [
+"A",
+0
+]
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 412,
+"indent": 0,
+"parameters": []
 },
 {
 "code": 0,
@@ -26648,21 +26675,55 @@ true
 },
 "list": [
 {
-"code": 101,
+"code": 111,
 "indent": 0,
 "parameters": [
+2,
+"A",
+1
+]
+},
+{
+"code": 101,
+"indent": 1,
+"parameters": [
 "crowleyfaces",
-0,
+2,
 0,
 2
 ]
 },
 {
 "code": 401,
-"indent": 0,
+"indent": 1,
 "parameters": [
-"\\n<Crowley>A chest for storing goods."
+"\\n<Crowley>A cabinet for storing goods. I"
 ]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"wonder what secrets may be hidden inside..."
+]
+},
+{
+"code": 123,
+"indent": 1,
+"parameters": [
+"A",
+0
+]
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 412,
+"indent": 0,
+"parameters": []
 },
 {
 "code": 0,
@@ -26725,8 +26786,17 @@ true
 },
 "list": [
 {
-"code": 101,
+"code": 111,
 "indent": 0,
+"parameters": [
+2,
+"A",
+1
+]
+},
+{
+"code": 101,
+"indent": 1,
 "parameters": [
 "crowleyfaces",
 3,
@@ -26736,10 +26806,28 @@ true
 },
 {
 "code": 401,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "\\n<Crowley>A popcorn machine. Cheap and delicious!"
 ]
+},
+{
+"code": 123,
+"indent": 1,
+"parameters": [
+"A",
+0
+]
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 412,
+"indent": 0,
+"parameters": []
 },
 {
 "code": 0,
@@ -26771,7 +26859,220 @@ true
 "x": 9,
 "y": 3
 },
-null,
-null
+{
+"id": 41,
+"name": "EV041",
+"note": "",
+"pages": [
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 111,
+"indent": 0,
+"parameters": [
+2,
+"A",
+1
+]
+},
+{
+"code": 101,
+"indent": 1,
+"parameters": [
+"crowleyfaces",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"\\n<Crowley>Mmm smells like fish sticks..."
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"If only I hadn't left my bills in the office."
+]
+},
+{
+"code": 123,
+"indent": 1,
+"parameters": [
+"A",
+0
+]
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 412,
+"indent": 0,
+"parameters": []
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+}
+],
+"x": 15,
+"y": 9
+},
+{
+"id": 42,
+"name": "EV042",
+"note": "",
+"pages": [
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 111,
+"indent": 0,
+"parameters": [
+2,
+"A",
+1
+]
+},
+{
+"code": 101,
+"indent": 1,
+"parameters": [
+"crowleyfaces",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"\\n<Crowley>These wares smell sickly sweet."
+]
+},
+{
+"code": 123,
+"indent": 1,
+"parameters": [
+"A",
+0
+]
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 412,
+"indent": 0,
+"parameters": []
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+}
+],
+"x": 1,
+"y": 9
+}
 ]
 }
