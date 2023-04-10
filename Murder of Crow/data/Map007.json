@@ -11290,10 +11290,10 @@ null,
 "directionFix": false,
 "image": {
 "tileId": 0,
-"characterName": "$defaultCrow",
-"direction": 6,
+"characterName": "",
+"direction": 2,
 "pattern": 1,
-"characterIndex": 0
+"characterIndex": 2
 },
 "list": [
 {
@@ -11454,7 +11454,7 @@ null,
 },
 "moveSpeed": 3,
 "moveType": 0,
-"priorityType": 1,
+"priorityType": 0,
 "stepAnime": false,
 "through": false,
 "trigger": 2,
