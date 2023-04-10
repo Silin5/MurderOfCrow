@@ -3043,25 +3043,6 @@ null,
 ]
 },
 {
-"code": 242,
-"indent": 0,
-"parameters": [
-3
-]
-},
-{
-"code": 241,
-"indent": 0,
-"parameters": [
-{
-"name": "townsquare",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
 "code": 0,
 "indent": 0,
 "parameters": []
@@ -3134,25 +3115,6 @@ null,
 ]
 },
 {
-"code": 242,
-"indent": 0,
-"parameters": [
-3
-]
-},
-{
-"code": 241,
-"indent": 0,
-"parameters": [
-{
-"name": "townsquare",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
 "code": 0,
 "indent": 0,
 "parameters": []
@@ -3222,25 +3184,6 @@ null,
 5,
 0,
 0
-]
-},
-{
-"code": 242,
-"indent": 0,
-"parameters": [
-3
-]
-},
-{
-"code": 241,
-"indent": 0,
-"parameters": [
-{
-"name": "townsquare",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
 ]
 },
 {
