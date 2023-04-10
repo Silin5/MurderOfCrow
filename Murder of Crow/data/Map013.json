@@ -1,6 +1,6 @@
 {
 "autoplayBgm": true,
-"autoplayBgs": false,
+"autoplayBgs": true,
 "battleback1Name": "",
 "battleback2Name": "",
 "bgm": {
