@@ -11721,8 +11721,17 @@ null,
 },
 "list": [
 {
-"code": 101,
+"code": 111,
 "indent": 0,
+"parameters": [
+2,
+"A",
+1
+]
+},
+{
+"code": 101,
+"indent": 1,
 "parameters": [
 "crowleyfaces",
 1,
@@ -11732,21 +11741,21 @@ null,
 },
 {
 "code": 401,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "\\n<Crowley>I've never understood the appeal"
 ]
 },
 {
 "code": 401,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "of serving water in a keg..."
 ]
 },
 {
 "code": 123,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "A",
 0
@@ -11754,55 +11763,14 @@ null,
 },
 {
 "code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 412,
 "indent": 0,
 "parameters": []
-}
-],
-"moveFrequency": 3,
-"moveRoute": {
-"list": [
-{
-"code": 0,
-"parameters": []
-}
-],
-"repeat": true,
-"skippable": false,
-"wait": false
 },
-"moveSpeed": 3,
-"moveType": 0,
-"priorityType": 0,
-"stepAnime": false,
-"through": false,
-"trigger": 0,
-"walkAnime": true
-},
-{
-"conditions": {
-"actorId": 1,
-"actorValid": false,
-"itemId": 1,
-"itemValid": false,
-"selfSwitchCh": "A",
-"selfSwitchValid": true,
-"switch1Id": 1,
-"switch1Valid": false,
-"switch2Id": 1,
-"switch2Valid": false,
-"variableId": 1,
-"variableValid": false,
-"variableValue": 0
-},
-"directionFix": false,
-"image": {
-"characterIndex": 0,
-"characterName": "",
-"direction": 2,
-"pattern": 0,
-"tileId": 0
-},
-"list": [
 {
 "code": 0,
 "indent": 0,
@@ -11856,11 +11824,11 @@ null,
 },
 "directionFix": false,
 "image": {
-"characterIndex": 0,
-"characterName": "",
-"direction": 2,
-"pattern": 0,
-"tileId": 0
+"tileId": 0,
+"characterName": "$defaultCrow",
+"direction": 6,
+"pattern": 1,
+"characterIndex": 0
 },
 "list": [
 {
@@ -11985,7 +11953,7 @@ null,
 },
 "moveSpeed": 3,
 "moveType": 0,
-"priorityType": 0,
+"priorityType": 1,
 "stepAnime": false,
 "through": false,
 "trigger": 2,
@@ -12009,11 +11977,11 @@ null,
 },
 "directionFix": false,
 "image": {
-"characterIndex": 0,
-"characterName": "",
-"direction": 2,
-"pattern": 0,
-"tileId": 0
+"tileId": 0,
+"characterName": "$defaultCrow",
+"direction": 6,
+"pattern": 1,
+"characterIndex": 0
 },
 "list": [
 {
@@ -12036,7 +12004,7 @@ null,
 },
 "moveSpeed": 3,
 "moveType": 0,
-"priorityType": 0,
+"priorityType": 1,
 "stepAnime": false,
 "through": false,
 "trigger": 0,
@@ -12165,8 +12133,17 @@ null,
 },
 "list": [
 {
-"code": 101,
+"code": 111,
 "indent": 0,
+"parameters": [
+2,
+"A",
+1
+]
+},
+{
+"code": 101,
+"indent": 1,
 "parameters": [
 "crowleyfaces",
 0,
@@ -12176,17 +12153,42 @@ null,
 },
 {
 "code": 401,
-"indent": 0,
+"indent": 1,
 "parameters": [
-"\\n<Crowley>The bar counter. There are glasses and bottles"
+"\\n<Crowley>The bar counter. I wonder why "
 ]
 },
 {
 "code": 401,
-"indent": 0,
+"indent": 1,
 "parameters": [
-"on top."
+"so many glasses and bottles have been left"
 ]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"unattended..."
+]
+},
+{
+"code": 123,
+"indent": 1,
+"parameters": [
+"A",
+0
+]
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 412,
+"indent": 0,
+"parameters": []
 },
 {
 "code": 0,
@@ -12251,8 +12253,17 @@ null,
 },
 "list": [
 {
-"code": 101,
+"code": 111,
 "indent": 0,
+"parameters": [
+2,
+"A",
+1
+]
+},
+{
+"code": 101,
+"indent": 1,
 "parameters": [
 "crowleyfaces",
 0,
@@ -12262,10 +12273,35 @@ null,
 },
 {
 "code": 401,
-"indent": 0,
+"indent": 1,
 "parameters": [
-"\\n<Crowley>A dim lamp."
+"\\n<Crowley>A dim lamp. It really sets the"
 ]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"mood in here..."
+]
+},
+{
+"code": 123,
+"indent": 1,
+"parameters": [
+"A",
+0
+]
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 412,
+"indent": 0,
+"parameters": []
 },
 {
 "code": 0,
@@ -12328,21 +12364,55 @@ null,
 },
 "list": [
 {
-"code": 101,
+"code": 111,
 "indent": 0,
 "parameters": [
+2,
+"A",
+1
+]
+},
+{
+"code": 101,
+"indent": 1,
+"parameters": [
 "crowleyfaces",
-0,
+2,
 0,
 2
 ]
 },
 {
 "code": 401,
-"indent": 0,
+"indent": 1,
 "parameters": [
-"\\n<Crowley>A dim lamp."
+"\\n<Crowley>This thing isn't even plugged in..."
 ]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"What's its secret?"
+]
+},
+{
+"code": 123,
+"indent": 1,
+"parameters": [
+"A",
+0
+]
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 412,
+"indent": 0,
+"parameters": []
 },
 {
 "code": 0,
