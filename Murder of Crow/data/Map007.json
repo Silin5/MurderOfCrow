@@ -13,7 +13,7 @@
 "name": "chatter",
 "pan": 0,
 "pitch": 100,
-"volume": 25
+"volume": 35
 },
 "disableDashing": false,
 "displayName": "",
@@ -2341,6 +2341,18 @@ null,
 },
 "list": [
 {
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "bill",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 0,
 "parameters": [
@@ -2448,6 +2460,18 @@ null,
 },
 "list": [
 {
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "bill",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 0,
 "parameters": [
@@ -2554,6 +2578,18 @@ null,
 "tileId": 0
 },
 "list": [
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "bill",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
 {
 "code": 101,
 "indent": 0,
@@ -3445,7 +3481,7 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "",
+"name": "themole",
 "volume": 90,
 "pitch": 100,
 "pan": 0
@@ -4006,6 +4042,17 @@ null,
 0,
 104,
 0
+]
+},
+{
+"code": 122,
+"indent": 1,
+"parameters": [
+11,
+11,
+1,
+0,
+1
 ]
 },
 {
@@ -5361,7 +5408,7 @@ null,
 {
 "name": "bill",
 "volume": 90,
-"pitch": 100,
+"pitch": 90,
 "pan": 0
 }
 ]
@@ -5538,21 +5585,28 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Bill>I’ll tell ya what, there’s been some"
+"\\n<Bill>I’ll tell ya what, there’s been"
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"underground chatter—I’m talking on the real"
+"some underground chatter—I’m talking on"
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"down low— ‘bout some commotion last night."
+"the real down low— ‘bout some commotion"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"last night."
 ]
 },
 {
@@ -6155,6 +6209,18 @@ null,
 "indent": 0,
 "parameters": [
 "I'm keeping my bill clean!"
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "npc_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
@@ -6800,6 +6866,18 @@ null,
 },
 "list": [
 {
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "npc_voice",
+"volume": 90,
+"pitch": 90,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 0,
 "parameters": [
@@ -6857,6 +6935,18 @@ null,
 "indent": 0,
 "parameters": [
 "looking for yet."
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "npc_voice",
+"volume": 90,
+"pitch": 90,
+"pan": 0
+}
 ]
 },
 {
@@ -7056,6 +7146,18 @@ null,
 },
 "list": [
 {
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "npc_voice",
+"volume": 90,
+"pitch": 90,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 0,
 "parameters": [
@@ -7145,7 +7247,7 @@ null,
 "parameters": [
 {
 "name": "rac_baby",
-"volume": 25,
+"volume": 50,
 "pitch": 60,
 "pan": 0
 }
@@ -7203,7 +7305,7 @@ null,
 "parameters": [
 {
 "name": "rac_baby",
-"volume": 25,
+"volume": 50,
 "pitch": 60,
 "pan": 0
 }
@@ -7268,7 +7370,7 @@ null,
 "parameters": [
 {
 "name": "rac_baby",
-"volume": 15,
+"volume": 40,
 "pitch": 60,
 "pan": 0
 }
@@ -7533,7 +7635,7 @@ null,
 {
 "name": "npc_voice",
 "volume": 90,
-"pitch": 100,
+"pitch": 80,
 "pan": 0
 }
 ]
@@ -7604,8 +7706,8 @@ null,
 "parameters": [
 {
 "name": "npc_voice",
-"volume": 90,
-"pitch": 100,
+"volume": 80,
+"pitch": 80,
 "pan": 0
 }
 ]
@@ -7676,8 +7778,8 @@ null,
 "parameters": [
 {
 "name": "npc_voice",
-"volume": 90,
-"pitch": 100,
+"volume": 95,
+"pitch": 90,
 "pan": 0
 }
 ]
@@ -7853,7 +7955,7 @@ null,
 {
 "name": "npc_voice",
 "volume": 90,
-"pitch": 100,
+"pitch": 80,
 "pan": 0
 }
 ]
@@ -8136,7 +8238,7 @@ null,
 1,
 11,
 0,
-11,
+12,
 0
 ]
 },
@@ -8897,7 +8999,7 @@ null,
 {
 "name": "bill",
 "volume": 90,
-"pitch": 100,
+"pitch": 90,
 "pan": 0
 }
 ]
@@ -9074,21 +9176,28 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Bill>I’ll tell ya what, there’s been some"
+"\\n<Bill>I’ll tell ya what, there’s been"
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"underground chatter—I’m talking on the real"
+"some underground chatter—I’m talking on"
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"down low— ‘bout some commotion last night."
+"the real down low— ‘bout some commotion"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"last night."
 ]
 },
 {
@@ -10249,7 +10358,7 @@ null,
 {
 "name": "bill",
 "volume": 90,
-"pitch": 100,
+"pitch": 90,
 "pan": 0
 }
 ]
@@ -10426,21 +10535,28 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Bill>I’ll tell ya what, there’s been some"
+"\\n<Bill>I’ll tell ya what, there’s been"
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"underground chatter—I’m talking on the real"
+"some underground chatter—I’m talking on"
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"down low— ‘bout some commotion last night."
+"the real down low— ‘bout some commotion"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"last night."
 ]
 },
 {
@@ -11217,6 +11333,18 @@ null,
 ]
 },
 {
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "npc_voice",
+"volume": 90,
+"pitch": 110,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 0,
 "parameters": [
@@ -11234,6 +11362,18 @@ null,
 ]
 },
 {
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "npc_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 0,
 "parameters": [
@@ -11248,6 +11388,18 @@ null,
 "indent": 0,
 "parameters": [
 "\\n<Patron>Yeah silly! Some of them are regulars!"
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "npc_voice",
+"volume": 90,
+"pitch": 110,
+"pan": 0
+}
 ]
 },
 {

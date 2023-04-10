@@ -8221,8 +8221,8 @@ null,
 "walkAnime": true
 }
 ],
-"x": 23,
-"y": 10
+"x": 27,
+"y": 7
 },
 {
 "id": 12,
@@ -8728,6 +8728,37 @@ null,
 ]
 },
 {
+"code": 205,
+"indent": 3,
+"parameters": [
+-1,
+{
+"list": [
+{
+"code": 4,
+"indent": null
+},
+{
+"code": 0
+}
+],
+"repeat": false,
+"skippable": false,
+"wait": true
+}
+]
+},
+{
+"code": 505,
+"indent": 3,
+"parameters": [
+{
+"code": 4,
+"indent": null
+}
+]
+},
+{
 "code": 0,
 "indent": 3,
 "parameters": []
@@ -9040,6 +9071,37 @@ null,
 "indent": 3,
 "parameters": [
 "\\n<Kiwi>This must be the place boss!"
+]
+},
+{
+"code": 205,
+"indent": 3,
+"parameters": [
+-1,
+{
+"list": [
+{
+"code": 4,
+"indent": null
+},
+{
+"code": 0
+}
+],
+"repeat": false,
+"skippable": false,
+"wait": true
+}
+]
+},
+{
+"code": 505,
+"indent": 3,
+"parameters": [
+{
+"code": 4,
+"indent": null
+}
 ]
 },
 {
@@ -9375,7 +9437,7 @@ null,
 1,
 11,
 0,
-11,
+12,
 0
 ]
 },

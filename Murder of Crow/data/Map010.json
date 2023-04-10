@@ -1,10 +1,10 @@
 {
-"autoplayBgm": false,
-"autoplayBgs": true,
+"autoplayBgm": true,
+"autoplayBgs": false,
 "battleback1Name": "",
 "battleback2Name": "",
 "bgm": {
-"name": "",
+"name": "event_song",
 "pan": 0,
 "pitch": 100,
 "volume": 90
@@ -1334,7 +1334,7 @@ null,
 {
 "name": "crowley_voice",
 "volume": 90,
-"pitch": 100,
+"pitch": 150,
 "pan": 0
 }
 ]
@@ -1354,6 +1354,18 @@ null,
 "indent": 0,
 "parameters": [
 "\\n<Crowley>Well I... I don’t believe my peepers!"
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
@@ -1537,8 +1549,8 @@ null,
 "parameters": [
 {
 "name": "crowley_voice",
-"volume": 90,
-"pitch": 100,
+"volume": 80,
+"pitch": 90,
 "pan": 0
 }
 ]
@@ -1558,6 +1570,18 @@ null,
 "indent": 0,
 "parameters": [
 "\\n<Crowley>How unusual."
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
@@ -1611,6 +1635,18 @@ null,
 "indent": 0,
 "parameters": [
 "\\n<Kiwi>Maybe you should talk to the strangers?"
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
@@ -1727,7 +1763,7 @@ null,
 {
 "name": "crowley_voice",
 "volume": 90,
-"pitch": 100,
+"pitch": 150,
 "pan": 0
 }
 ]
@@ -1747,6 +1783,18 @@ null,
 "indent": 0,
 "parameters": [
 "\\n<Crowley>Well I... I don’t believe my peepers!"
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
@@ -1930,8 +1978,8 @@ null,
 "parameters": [
 {
 "name": "crowley_voice",
-"volume": 90,
-"pitch": 100,
+"volume": 80,
+"pitch": 90,
 "pan": 0
 }
 ]
@@ -1951,6 +1999,18 @@ null,
 "indent": 0,
 "parameters": [
 "\\n<Crowley>How unusual."
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
@@ -2004,6 +2064,18 @@ null,
 "indent": 0,
 "parameters": [
 "\\n<Kiwi>Maybe you should talk to the strangers?"
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
@@ -2120,7 +2192,7 @@ null,
 {
 "name": "crowley_voice",
 "volume": 90,
-"pitch": 100,
+"pitch": 150,
 "pan": 0
 }
 ]
@@ -2140,6 +2212,18 @@ null,
 "indent": 0,
 "parameters": [
 "\\n<Crowley>Well I... I don’t believe my peepers!"
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
@@ -2323,8 +2407,8 @@ null,
 "parameters": [
 {
 "name": "crowley_voice",
-"volume": 90,
-"pitch": 100,
+"volume": 80,
+"pitch": 90,
 "pan": 0
 }
 ]
@@ -2344,6 +2428,18 @@ null,
 "indent": 0,
 "parameters": [
 "\\n<Crowley>How unusual."
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
@@ -2397,6 +2493,18 @@ null,
 "indent": 0,
 "parameters": [
 "\\n<Kiwi>Maybe you should talk to the strangers?"
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
@@ -2513,7 +2621,7 @@ null,
 {
 "name": "crowley_voice",
 "volume": 90,
-"pitch": 100,
+"pitch": 150,
 "pan": 0
 }
 ]
@@ -2533,6 +2641,18 @@ null,
 "indent": 0,
 "parameters": [
 "\\n<Crowley>Well I... I don’t believe my peepers!"
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
@@ -2716,8 +2836,8 @@ null,
 "parameters": [
 {
 "name": "crowley_voice",
-"volume": 90,
-"pitch": 100,
+"volume": 80,
+"pitch": 90,
 "pan": 0
 }
 ]
@@ -2737,6 +2857,18 @@ null,
 "indent": 0,
 "parameters": [
 "\\n<Crowley>How unusual."
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
@@ -2790,6 +2922,18 @@ null,
 "indent": 0,
 "parameters": [
 "\\n<Kiwi>Maybe you should talk to the strangers?"
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
@@ -2906,7 +3050,7 @@ null,
 {
 "name": "crowley_voice",
 "volume": 90,
-"pitch": 100,
+"pitch": 150,
 "pan": 0
 }
 ]
@@ -2926,6 +3070,18 @@ null,
 "indent": 0,
 "parameters": [
 "\\n<Crowley>Well I... I don’t believe my peepers!"
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
@@ -3109,8 +3265,8 @@ null,
 "parameters": [
 {
 "name": "crowley_voice",
-"volume": 90,
-"pitch": 100,
+"volume": 80,
+"pitch": 90,
 "pan": 0
 }
 ]
@@ -3130,6 +3286,18 @@ null,
 "indent": 0,
 "parameters": [
 "\\n<Crowley>How unusual."
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
@@ -3183,6 +3351,18 @@ null,
 "indent": 0,
 "parameters": [
 "\\n<Kiwi>Maybe you should talk to the strangers?"
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
@@ -13278,18 +13458,6 @@ null,
 ]
 },
 {
-"code": 241,
-"indent": 0,
-"parameters": [
-{
-"name": "event_song",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
 "code": 111,
 "indent": 0,
 "parameters": [
@@ -13394,6 +13562,13 @@ null,
 "tileId": 0
 },
 "list": [
+{
+"code": 242,
+"indent": 0,
+"parameters": [
+3
+]
+},
 {
 "code": 201,
 "indent": 0,

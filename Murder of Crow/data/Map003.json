@@ -1,10 +1,10 @@
 {
-"autoplayBgm": false,
-"autoplayBgs": true,
+"autoplayBgm": true,
+"autoplayBgs": false,
 "battleback1Name": "",
 "battleback2Name": "",
 "bgm": {
-"name": "",
+"name": "event_song",
 "pan": 0,
 "pitch": 100,
 "volume": 90
@@ -1330,18 +1330,6 @@ null,
 ]
 },
 {
-"code": 241,
-"indent": 0,
-"parameters": [
-{
-"name": "event_song",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
 "code": 111,
 "indent": 0,
 "parameters": [
@@ -1444,6 +1432,13 @@ null,
 2,
 0,
 false
+]
+},
+{
+"code": 242,
+"indent": 0,
+"parameters": [
+3
 ]
 },
 {
@@ -1677,6 +1672,18 @@ false
 ]
 },
 {
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 75,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 0,
 "parameters": [
@@ -1699,7 +1706,7 @@ false
 "parameters": [
 {
 "name": "crowley_voice",
-"volume": 90,
+"volume": 80,
 "pitch": 100,
 "pan": 0
 }
@@ -1729,19 +1736,7 @@ false
 {
 "name": "crowley_voice",
 "volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "crowley_voice",
-"volume": 90,
-"pitch": 100,
+"pitch": 110,
 "pan": 0
 }
 ]
@@ -1939,87 +1934,6 @@ false
 "indent": 2,
 "parameters": [
 "go talk to Sly, the eye-witness!"
-]
-},
-{
-"code": 0,
-"indent": 2,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 111,
-"indent": 1,
-"parameters": [
-1,
-23,
-0,
-2,
-0
-]
-},
-{
-"code": 250,
-"indent": 2,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"updated_kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"\\n<Kiwi>Looks like the other witnesses left. "
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Should we check out the Farmer's Market?"
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"\\n<Kiwi>Or we could look for leads elsewhere."
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Your choice, boss!"
 ]
 },
 {
@@ -2266,7 +2180,7 @@ false
 "parameters": [
 {
 "name": "crowley_voice",
-"volume": 90,
+"volume": 80,
 "pitch": 100,
 "pan": 0
 }
@@ -2287,6 +2201,18 @@ false
 "indent": 0,
 "parameters": [
 "\\n<Crowley>How strange..."
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
@@ -2511,87 +2437,6 @@ false
 "indent": 2,
 "parameters": [
 "go talk to Sly, the eye-witness!"
-]
-},
-{
-"code": 0,
-"indent": 2,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 111,
-"indent": 1,
-"parameters": [
-1,
-23,
-0,
-2,
-0
-]
-},
-{
-"code": 250,
-"indent": 2,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"updated_kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"\\n<Kiwi>Looks like the other witnesses left. "
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Should we check out the Farmer's Market?"
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"\\n<Kiwi>Or we could look for leads elsewhere."
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Your choice, boss!"
 ]
 },
 {
@@ -2838,7 +2683,7 @@ false
 "parameters": [
 {
 "name": "crowley_voice",
-"volume": 90,
+"volume": 80,
 "pitch": 100,
 "pan": 0
 }
@@ -2859,6 +2704,18 @@ false
 "indent": 0,
 "parameters": [
 "\\n<Crowley>How strange..."
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
@@ -3083,87 +2940,6 @@ false
 "indent": 2,
 "parameters": [
 "go talk to Sly, the eye-witness!"
-]
-},
-{
-"code": 0,
-"indent": 2,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 111,
-"indent": 1,
-"parameters": [
-1,
-23,
-0,
-2,
-0
-]
-},
-{
-"code": 250,
-"indent": 2,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"updated_kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"\\n<Kiwi>Looks like the other witnesses left. "
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Should we check out the Farmer's Market?"
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"\\n<Kiwi>Or we could look for leads elsewhere."
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Your choice, boss!"
 ]
 },
 {
@@ -3859,87 +3635,6 @@ false
 "parameters": []
 },
 {
-"code": 111,
-"indent": 1,
-"parameters": [
-1,
-23,
-0,
-2,
-0
-]
-},
-{
-"code": 250,
-"indent": 2,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"updated_kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"\\n<Kiwi>Looks like the other witnesses left. "
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Should we check out the Farmer's Market?"
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"\\n<Kiwi>Or we could look for leads elsewhere."
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Your choice, boss!"
-]
-},
-{
-"code": 0,
-"indent": 2,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 1,
-"parameters": []
-},
-{
 "code": 121,
 "indent": 1,
 "parameters": [
@@ -4439,7 +4134,7 @@ false
 "parameters": [
 {
 "name": "crowley_voice",
-"volume": 90,
+"volume": 75,
 "pitch": 100,
 "pan": 0
 }
@@ -4638,87 +4333,6 @@ false
 "indent": 2,
 "parameters": [
 "go talk to Sly, the eye-witness!"
-]
-},
-{
-"code": 0,
-"indent": 2,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 111,
-"indent": 1,
-"parameters": [
-1,
-23,
-0,
-2,
-0
-]
-},
-{
-"code": 250,
-"indent": 2,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"updated_kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"\\n<Kiwi>Looks like the other witnesses left. "
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Should we check out the Farmer's Market?"
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"\\n<Kiwi>Or we could look for leads elsewhere."
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Your choice, boss!"
 ]
 },
 {
@@ -5030,7 +4644,7 @@ false
 "parameters": [
 {
 "name": "crowley_voice",
-"volume": 90,
+"volume": 75,
 "pitch": 100,
 "pan": 0
 }
@@ -5229,87 +4843,6 @@ false
 "indent": 2,
 "parameters": [
 "go talk to Sly, the eye-witness!"
-]
-},
-{
-"code": 0,
-"indent": 2,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 111,
-"indent": 1,
-"parameters": [
-1,
-23,
-0,
-2,
-0
-]
-},
-{
-"code": 250,
-"indent": 2,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"updated_kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"\\n<Kiwi>Looks like the other witnesses left. "
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Should we check out the Farmer's Market?"
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"\\n<Kiwi>Or we could look for leads elsewhere."
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Your choice, boss!"
 ]
 },
 {
@@ -7485,6 +7018,18 @@ false
 ]
 },
 {
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 75,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 0,
 "parameters": [
@@ -7507,7 +7052,7 @@ false
 "parameters": [
 {
 "name": "crowley_voice",
-"volume": 90,
+"volume": 80,
 "pitch": 100,
 "pan": 0
 }
@@ -7537,19 +7082,7 @@ false
 {
 "name": "crowley_voice",
 "volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "crowley_voice",
-"volume": 90,
-"pitch": 100,
+"pitch": 110,
 "pan": 0
 }
 ]
@@ -7747,87 +7280,6 @@ false
 "indent": 2,
 "parameters": [
 "go talk to Sly, the eye-witness!"
-]
-},
-{
-"code": 0,
-"indent": 2,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 111,
-"indent": 1,
-"parameters": [
-1,
-23,
-0,
-2,
-0
-]
-},
-{
-"code": 250,
-"indent": 2,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"updated_kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"\\n<Kiwi>Looks like the other witnesses left. "
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Should we check out the Farmer's Market?"
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"\\n<Kiwi>Or we could look for leads elsewhere."
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Your choice, boss!"
 ]
 },
 {
@@ -8730,6 +8182,18 @@ false
 ]
 },
 {
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 75,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 0,
 "parameters": [
@@ -8752,7 +8216,7 @@ false
 "parameters": [
 {
 "name": "crowley_voice",
-"volume": 90,
+"volume": 80,
 "pitch": 100,
 "pan": 0
 }
@@ -8782,19 +8246,7 @@ false
 {
 "name": "crowley_voice",
 "volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "crowley_voice",
-"volume": 90,
-"pitch": 100,
+"pitch": 110,
 "pan": 0
 }
 ]
@@ -8992,87 +8444,6 @@ false
 "indent": 2,
 "parameters": [
 "go talk to Sly, the eye-witness!"
-]
-},
-{
-"code": 0,
-"indent": 2,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 111,
-"indent": 1,
-"parameters": [
-1,
-23,
-0,
-2,
-0
-]
-},
-{
-"code": 250,
-"indent": 2,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"updated_kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"\\n<Kiwi>Looks like the other witnesses left. "
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Should we check out the Farmer's Market?"
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"\\n<Kiwi>Or we could look for leads elsewhere."
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Your choice, boss!"
 ]
 },
 {
@@ -9920,7 +9291,7 @@ false
 "parameters": [
 {
 "name": "crowley_voice",
-"volume": 90,
+"volume": 75,
 "pitch": 100,
 "pan": 0
 }
@@ -10119,87 +9490,6 @@ false
 "indent": 2,
 "parameters": [
 "go talk to Sly, the eye-witness!"
-]
-},
-{
-"code": 0,
-"indent": 2,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 111,
-"indent": 1,
-"parameters": [
-1,
-23,
-0,
-2,
-0
-]
-},
-{
-"code": 250,
-"indent": 2,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"updated_kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"\\n<Kiwi>Looks like the other witnesses left. "
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Should we check out the Farmer's Market?"
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"\\n<Kiwi>Or we could look for leads elsewhere."
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Your choice, boss!"
 ]
 },
 {
@@ -11102,6 +10392,18 @@ false
 ]
 },
 {
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 75,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 0,
 "parameters": [
@@ -11124,7 +10426,7 @@ false
 "parameters": [
 {
 "name": "crowley_voice",
-"volume": 90,
+"volume": 80,
 "pitch": 100,
 "pan": 0
 }
@@ -11154,19 +10456,7 @@ false
 {
 "name": "crowley_voice",
 "volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "crowley_voice",
-"volume": 90,
-"pitch": 100,
+"pitch": 110,
 "pan": 0
 }
 ]
@@ -11364,87 +10654,6 @@ false
 "indent": 2,
 "parameters": [
 "go talk to Sly, the eye-witness!"
-]
-},
-{
-"code": 0,
-"indent": 2,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 111,
-"indent": 1,
-"parameters": [
-1,
-23,
-0,
-2,
-0
-]
-},
-{
-"code": 250,
-"indent": 2,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"updated_kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"\\n<Kiwi>Looks like the other witnesses left. "
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Should we check out the Farmer's Market?"
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"\\n<Kiwi>Or we could look for leads elsewhere."
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Your choice, boss!"
 ]
 },
 {
@@ -12395,87 +11604,6 @@ false
 "indent": 2,
 "parameters": [
 "go talk to Sly, the eye-witness!"
-]
-},
-{
-"code": 0,
-"indent": 2,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 111,
-"indent": 1,
-"parameters": [
-1,
-23,
-0,
-2,
-0
-]
-},
-{
-"code": 250,
-"indent": 2,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"updated_kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"\\n<Kiwi>Looks like the other witnesses left. "
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Should we check out the Farmer's Market?"
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"\\n<Kiwi>Or we could look for leads elsewhere."
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Your choice, boss!"
 ]
 },
 {
@@ -14060,7 +13188,7 @@ false
 "parameters": [
 {
 "name": "crowley_voice",
-"volume": 90,
+"volume": 75,
 "pitch": 100,
 "pan": 0
 }
@@ -14259,87 +13387,6 @@ false
 "indent": 2,
 "parameters": [
 "go talk to Sly, the eye-witness!"
-]
-},
-{
-"code": 0,
-"indent": 2,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 111,
-"indent": 1,
-"parameters": [
-1,
-23,
-0,
-2,
-0
-]
-},
-{
-"code": 250,
-"indent": 2,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"updated_kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"\\n<Kiwi>Looks like the other witnesses left. "
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Should we check out the Farmer's Market?"
-]
-},
-{
-"code": 101,
-"indent": 2,
-"parameters": [
-"kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"\\n<Kiwi>Or we could look for leads elsewhere."
-]
-},
-{
-"code": 401,
-"indent": 2,
-"parameters": [
-"Your choice, boss!"
 ]
 },
 {

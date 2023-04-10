@@ -3909,13 +3909,21 @@ null,
 },
 "directionFix": false,
 "image": {
-"tileId": 256,
+"tileId": 395,
 "characterName": "",
 "characterIndex": 0,
 "direction": 2,
 "pattern": 0
 },
 "list": [
+{
+"code": 123,
+"indent": 0,
+"parameters": [
+"B",
+0
+]
+},
 {
 "code": 0,
 "indent": 0,
@@ -3948,7 +3956,121 @@ null,
 "actorValid": false,
 "itemId": 1,
 "itemValid": false,
-"selfSwitchCh": "A",
+"selfSwitchCh": "B",
+"selfSwitchValid": true,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"tileId": 395,
+"characterName": "",
+"characterIndex": 0,
+"direction": 2,
+"pattern": 0
+},
+"list": [
+{
+"code": 122,
+"indent": 0,
+"parameters": [
+81,
+81,
+0,
+3,
+7,
+0,
+0
+]
+},
+{
+"code": 122,
+"indent": 0,
+"parameters": [
+82,
+82,
+0,
+3,
+5,
+-1,
+0
+]
+},
+{
+"code": 122,
+"indent": 0,
+"parameters": [
+83,
+83,
+0,
+3,
+5,
+-1,
+1
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "zoom",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 201,
+"indent": 0,
+"parameters": [
+0,
+10,
+8,
+12,
+0,
+0
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "B",
 "selfSwitchValid": false,
 "switch1Id": 128,
 "switch1Valid": true,
@@ -3960,7 +4082,7 @@ null,
 },
 "directionFix": false,
 "image": {
-"tileId": 256,
+"tileId": 395,
 "characterName": "",
 "characterIndex": 0,
 "direction": 2,
@@ -13612,6 +13734,57 @@ null,
 "through": false,
 "trigger": 3,
 "walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 136,
+"switch1Valid": true,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"tileId": 0,
+"characterName": "$slyskunkwitness",
+"direction": 4,
+"pattern": 1,
+"characterIndex": 0
+},
+"list": [
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 1,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
 }
 ],
 "x": 15,
@@ -17439,6 +17612,18 @@ null,
 "indent": null
 },
 {
+"code": 44,
+"parameters": [
+{
+"name": "rascal_no",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+],
+"indent": 0
+},
+{
 "code": 27,
 "parameters": [
 133
@@ -17462,6 +17647,24 @@ null,
 {
 "code": 12,
 "indent": null
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 44,
+"parameters": [
+{
+"name": "rascal_no",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+],
+"indent": 0
 }
 ]
 },
@@ -18667,6 +18870,45 @@ null,
 },
 "list": [
 {
+"code": 122,
+"indent": 0,
+"parameters": [
+81,
+81,
+0,
+3,
+7,
+0,
+0
+]
+},
+{
+"code": 122,
+"indent": 0,
+"parameters": [
+82,
+82,
+0,
+3,
+5,
+-1,
+0
+]
+},
+{
+"code": 122,
+"indent": 0,
+"parameters": [
+83,
+83,
+0,
+3,
+5,
+-1,
+1
+]
+},
+{
 "code": 201,
 "indent": 0,
 "parameters": [
@@ -18721,7 +18963,7 @@ null,
 "priorityType": 0,
 "stepAnime": false,
 "through": true,
-"trigger": 1,
+"trigger": 2,
 "walkAnime": true
 },
 {
@@ -20940,7 +21182,111 @@ null,
 "x": 12,
 "y": 5
 },
-null,
+{
+"id": 41,
+"name": "Skip to end horse",
+"note": "",
+"pages": [
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"tileId": 0,
+"characterName": "Nature",
+"direction": 2,
+"pattern": 1,
+"characterIndex": 3
+},
+"list": [
+{
+"code": 121,
+"indent": 0,
+"parameters": [
+93,
+93,
+0
+]
+},
+{
+"code": 121,
+"indent": 0,
+"parameters": [
+23,
+23,
+0
+]
+},
+{
+"code": 129,
+"indent": 0,
+"parameters": [
+2,
+0,
+false
+]
+},
+{
+"code": 121,
+"indent": 0,
+"parameters": [
+82,
+82,
+0
+]
+},
+{
+"code": 121,
+"indent": 0,
+"parameters": [
+125,
+125,
+0
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 1,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+}
+],
+"x": 7,
+"y": 4
+},
 {
 "id": 42,
 "name": "EV042",

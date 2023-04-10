@@ -2099,14 +2099,14 @@ null,
 "code": 401,
 "indent": 2,
 "parameters": [
-"Wrong order! You have made \\V[0106] out"
+"\\n<The Mole>Wrong order! You have made "
 ]
 },
 {
 "code": 401,
 "indent": 2,
 "parameters": [
-"of 3 attempts."
+"\\V[0106] out of 3 attempts."
 ]
 },
 {
@@ -2135,21 +2135,21 @@ null,
 "code": 401,
 "indent": 2,
 "parameters": [
-"Remember to listen to carefully before you"
+"\\n<The Mole>Remember to listen to carefully"
 ]
 },
 {
 "code": 401,
 "indent": 2,
 "parameters": [
-"guess. Come talk to me when you are ready"
+"before you guess. Come talk to me when you"
 ]
 },
 {
 "code": 401,
 "indent": 2,
 "parameters": [
-"to give it another shot."
+"are ready to give it another shot."
 ]
 },
 {
