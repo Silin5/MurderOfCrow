@@ -1431,6 +1431,18 @@ null,
 },
 "list": [
 {
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "themole",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 0,
 "parameters": [
@@ -1459,6 +1471,18 @@ null,
 "indent": 0,
 "parameters": [
 "before each guess."
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "themole",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
@@ -1579,6 +1603,18 @@ null,
 "characterIndex": 0
 },
 "list": [
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "themole",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
 {
 "code": 101,
 "indent": 0,
@@ -1777,6 +1813,18 @@ null,
 ]
 },
 {
+"code": 250,
+"indent": 1,
+"parameters": [
+{
+"name": "themole",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 1,
 "parameters": [
@@ -1899,6 +1947,18 @@ null,
 ]
 },
 {
+"code": 250,
+"indent": 4,
+"parameters": [
+{
+"name": "themole",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 4,
 "parameters": [
@@ -2014,6 +2074,18 @@ null,
 ]
 },
 {
+"code": 250,
+"indent": 2,
+"parameters": [
+{
+"name": "themole",
+"volume": 90,
+"pitch": 110,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 2,
 "parameters": [
@@ -2038,6 +2110,18 @@ null,
 ]
 },
 {
+"code": 250,
+"indent": 2,
+"parameters": [
+{
+"name": "themole",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 2,
 "parameters": [
@@ -2051,21 +2135,21 @@ null,
 "code": 401,
 "indent": 2,
 "parameters": [
-"Remember to listen to each glass carefully"
+"Remember to listen to carefully before you"
 ]
 },
 {
 "code": 401,
 "indent": 2,
 "parameters": [
-"before you guess. Come talk to me when"
+"guess. Come talk to me when you are ready"
 ]
 },
 {
 "code": 401,
 "indent": 2,
 "parameters": [
-"you are ready to try again."
+"to give it another shot."
 ]
 },
 {
@@ -2112,6 +2196,18 @@ null,
 "code": 411,
 "indent": 1,
 "parameters": []
+},
+{
+"code": 250,
+"indent": 2,
+"parameters": [
+{
+"name": "themole",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
 },
 {
 "code": 101,

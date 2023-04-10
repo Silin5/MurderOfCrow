@@ -1,6 +1,6 @@
 {
 "autoplayBgm": true,
-"autoplayBgs": false,
+"autoplayBgs": true,
 "battleback1Name": "",
 "battleback2Name": "",
 "bgm": {
@@ -10,10 +10,10 @@
 "volume": 90
 },
 "bgs": {
-"name": "",
+"name": "chatter",
 "pan": 0,
 "pitch": 100,
-"volume": 90
+"volume": 25
 },
 "disableDashing": false,
 "displayName": "",
@@ -1434,954 +1434,6 @@ null,
 },
 "list": [
 {
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "npc_voice",
-"volume": 70,
-"pitch": 80,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"billfaces",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Bill>Ah, I was wondering when you’d show up. "
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "crowley_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"crowleyfaces",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Crowley>Why’s that?"
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "npc_voice",
-"volume": 70,
-"pitch": 80,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"billfaces",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Bill>All sorts of rumours’ve been flying"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"‘round here. Figured you’d want to tune in. "
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"updated_kiwihead_sheet",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Kiwi>Wow, word travelled fast!"
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "crowley_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"crowleyfaces",
-6,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Crowley>What have you heard?"
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "npc_voice",
-"volume": 80,
-"pitch": 80,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"billfaces",
-2,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Bill>Well... Our mutual skunk friend was telling"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"the most harrowing tale!"
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "npc_voice",
-"volume": 70,
-"pitch": 80,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"billfaces",
-2,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Bill>Something ‘bout a four-eyed monster they"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"saw last night."
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "crowley_voice",
-"volume": 65,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"crowleyfaces",
-4,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Crowley> ...what?"
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "npc_voice",
-"volume": 90,
-"pitch": 80,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"billfaces",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Bill>Hard to believe, I know! "
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "npc_voice",
-"volume": 90,
-"pitch": 80,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"billfaces",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Bill>But I heard secondhand how they watched"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"in horror as it emerged from the alley,"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"taking a poor crow as its prey!"
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"updated_kiwihead_sheet",
-3,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Kiwi>That... sounds nothing like what Sly"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"told us!"
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "npc_voice",
-"volume": 90,
-"pitch": 90,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"billfaces",
-1,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Bill>Don’t shoot down the messenger! "
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "crowley_voice",
-"volume": 85,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"crowleyfaces",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Crowley>Bill, we need facts, not tall"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"tales. Got anything less fanciful to relay?"
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "npc_voice",
-"volume": 85,
-"pitch": 80,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"billfaces",
-2,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Bill>Sure I do! Like I said, lots of"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"chatter today. "
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "npc_voice",
-"volume": 85,
-"pitch": 80,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"billfaces",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Bill>As I hear it, your vic’s a ghost. "
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "crowley_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"crowleyfaces",
-1,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Crowley>What do you mean? "
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "npc_voice",
-"volume": 90,
-"pitch": 80,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"billfaces",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Bill>Nobody knows who it is that got"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"bumped off. "
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"updated_kiwihead_sheet",
-5,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Kiwi>People have tried to ID the body?"
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "npc_voice",
-"volume": 90,
-"pitch": 80,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"billfaces",
-1,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Bill>Well, sure. It’s lying in the middle"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"of town. Not like folks can’t scurry on"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"over for a peep!"
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "npc_voice",
-"volume": 90,
-"pitch": 80,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"billfaces",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Bill>Anyway, popular theory is they’re some"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"unlucky snowbird from up north. "
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "crowley_voice",
-"volume": 85,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"crowleyfaces",
-6,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Crowley>We don’t usually get migratory"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"visitors this time of year. What might they"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"have been in town for?"
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "npc_voice",
-"volume": 90,
-"pitch": 80,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"billfaces",
-2,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Bill>Couldn’t say. All I know for certain is"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"they sure ain’t a local."
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "npc_voice",
-"volume": 65,
-"pitch": 80,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"billfaces",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Bill>I’ll tell ya what, there’s been some"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"underground chatter—I’m talking on the real"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"down low— ‘bout some commotion last night."
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "npc_voice",
-"volume": 60,
-"pitch": 80,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"billfaces",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Bill>Wasn’t able to coax any of the details"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"myself, but maybe you’ll have better luck."
-]
-},
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "kiwi_voice",
-"volume": 75,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"updated_kiwihead_sheet",
-1,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Kiwi>Sounds like we'll need to ask around!"
-]
-},
-{
-"code": 121,
-"indent": 0,
-"parameters": [
-137,
-137,
-0
-]
-},
-{
-"code": 123,
-"indent": 0,
-"parameters": [
-"A",
-0
-]
-},
-{
-"code": 0,
-"indent": 0,
-"parameters": []
-}
-],
-"moveFrequency": 3,
-"moveRoute": {
-"list": [
-{
-"code": 0,
-"parameters": []
-}
-],
-"repeat": true,
-"skippable": false,
-"wait": false
-},
-"moveSpeed": 3,
-"moveType": 0,
-"priorityType": 0,
-"stepAnime": false,
-"through": false,
-"trigger": 0,
-"walkAnime": true
-},
-{
-"conditions": {
-"actorId": 1,
-"actorValid": false,
-"itemId": 1,
-"itemValid": false,
-"selfSwitchCh": "A",
-"selfSwitchValid": true,
-"switch1Id": 1,
-"switch1Valid": false,
-"switch2Id": 1,
-"switch2Valid": false,
-"variableId": 1,
-"variableValid": false,
-"variableValue": 0
-},
-"directionFix": false,
-"image": {
-"tileId": 394,
-"characterName": "",
-"characterIndex": 0,
-"direction": 2,
-"pattern": 0
-},
-"list": [
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "npc_voice",
-"volume": 90,
-"pitch": 80,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"billfaces",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Bill>Keep an ear open, ya hear?"
-]
-},
-{
 "code": 0,
 "indent": 0,
 "parameters": []
@@ -3031,6 +2083,20 @@ null,
 },
 "list": [
 {
+"code": 242,
+"indent": 0,
+"parameters": [
+3
+]
+},
+{
+"code": 246,
+"indent": 0,
+"parameters": [
+3
+]
+},
+{
 "code": 201,
 "indent": 0,
 "parameters": [
@@ -3103,6 +2169,20 @@ null,
 },
 "list": [
 {
+"code": 242,
+"indent": 0,
+"parameters": [
+3
+]
+},
+{
+"code": 246,
+"indent": 0,
+"parameters": [
+3
+]
+},
+{
 "code": 201,
 "indent": 0,
 "parameters": [
@@ -3174,6 +2254,20 @@ null,
 "tileId": 0
 },
 "list": [
+{
+"code": 242,
+"indent": 0,
+"parameters": [
+3
+]
+},
+{
+"code": 246,
+"indent": 0,
+"parameters": [
+3
+]
+},
 {
 "code": 201,
 "indent": 0,
@@ -3994,6 +3088,18 @@ null,
 },
 "list": [
 {
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "themole",
+"volume": 55,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 0,
 "parameters": [
@@ -4037,6 +3143,18 @@ null,
 "indent": 0,
 "parameters": [
 "\\n<Kiwi>Me?"
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "themole",
+"volume": 75,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
@@ -4100,6 +3218,18 @@ null,
 ]
 },
 {
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "themole",
+"volume": 80,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 0,
 "parameters": [
@@ -4153,6 +3283,18 @@ null,
 ]
 },
 {
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "themole",
+"volume": 70,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 0,
 "parameters": [
@@ -4174,6 +3316,18 @@ null,
 "indent": 0,
 "parameters": [
 "or not?"
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "themole",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
@@ -4237,6 +3391,18 @@ null,
 ]
 },
 {
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "themole",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 0,
 "parameters": [
@@ -4272,6 +3438,18 @@ null,
 "indent": 0,
 "parameters": [
 "before I sing!"
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
@@ -4407,6 +3585,18 @@ null,
 ]
 },
 {
+"code": 250,
+"indent": 1,
+"parameters": [
+{
+"name": "themole",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 1,
 "parameters": [
@@ -4507,6 +3697,18 @@ null,
 },
 "list": [
 {
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "themole",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 0,
 "parameters": [
@@ -4550,6 +3752,18 @@ null,
 "parameters": [
 0,
 "I'm ready to play!"
+]
+},
+{
+"code": 250,
+"indent": 1,
+"parameters": [
+{
+"name": "themole",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
@@ -4656,6 +3870,18 @@ null,
 ]
 },
 {
+"code": 250,
+"indent": 1,
+"parameters": [
+{
+"name": "themole",
+"volume": 90,
+"pitch": 90,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 1,
 "parameters": [
@@ -4741,6 +3967,30 @@ null,
 },
 "list": [
 {
+"code": 245,
+"indent": 0,
+"parameters": [
+{
+"name": "chatter",
+"volume": 25,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 241,
+"indent": 0,
+"parameters": [
+{
+"name": "thenest",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 121,
 "indent": 0,
 "parameters": [
@@ -4765,6 +4015,18 @@ null,
 0,
 103,
 0
+]
+},
+{
+"code": 250,
+"indent": 2,
+"parameters": [
+{
+"name": "themole",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
@@ -4799,6 +4061,18 @@ null,
 ]
 },
 {
+"code": 250,
+"indent": 2,
+"parameters": [
+{
+"name": "themole",
+"volume": 75,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 2,
 "parameters": [
@@ -4820,6 +4094,18 @@ null,
 "indent": 2,
 "parameters": [
 "patio... I heard something... odd."
+]
+},
+{
+"code": 250,
+"indent": 2,
+"parameters": [
+{
+"name": "themole",
+"volume": 75,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
@@ -4854,6 +4140,18 @@ null,
 ]
 },
 {
+"code": 250,
+"indent": 2,
+"parameters": [
+{
+"name": "themole",
+"volume": 80,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 2,
 "parameters": [
@@ -4882,6 +4180,18 @@ null,
 "indent": 2,
 "parameters": [
 "Someone... or something... let out a yelp."
+]
+},
+{
+"code": 250,
+"indent": 2,
+"parameters": [
+{
+"name": "themole",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
@@ -4935,6 +4245,18 @@ null,
 "indent": 2,
 "parameters": [
 "\\n<Kiwi>Did you see anything?!"
+]
+},
+{
+"code": 250,
+"indent": 2,
+"parameters": [
+{
+"name": "themole",
+"volume": 90,
+"pitch": 110,
+"pan": 0
+}
 ]
 },
 {
@@ -5041,6 +4363,18 @@ null,
 ]
 },
 {
+"code": 250,
+"indent": 2,
+"parameters": [
+{
+"name": "themole",
+"volume": 75,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 2,
 "parameters": [
@@ -5095,6 +4429,18 @@ null,
 0,
 103,
 1
+]
+},
+{
+"code": 250,
+"indent": 3,
+"parameters": [
+{
+"name": "themole",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
@@ -5236,6 +4582,18 @@ null,
 ]
 },
 {
+"code": 250,
+"indent": 2,
+"parameters": [
+{
+"name": "themole",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 101,
 "indent": 2,
 "parameters": [
@@ -5283,6 +4641,18 @@ null,
 0,
 103,
 1
+]
+},
+{
+"code": 250,
+"indent": 3,
+"parameters": [
+{
+"name": "themole",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {
@@ -5404,9 +4774,9 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "bill",
 "volume": 70,
-"pitch": 80,
+"pitch": 100,
 "pan": 0
 }
 ]
@@ -5462,9 +4832,9 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "bill",
 "volume": 70,
-"pitch": 80,
+"pitch": 100,
 "pan": 0
 }
 ]
@@ -5556,9 +4926,9 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "bill",
 "volume": 80,
-"pitch": 80,
+"pitch": 100,
 "pan": 0
 }
 ]
@@ -5592,9 +4962,9 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
-"volume": 70,
-"pitch": 80,
+"name": "bill",
+"volume": 75,
+"pitch": 110,
 "pan": 0
 }
 ]
@@ -5657,9 +5027,9 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
-"volume": 90,
-"pitch": 80,
+"name": "bill",
+"volume": 80,
+"pitch": 100,
 "pan": 0
 }
 ]
@@ -5686,9 +5056,9 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "bill",
 "volume": 90,
-"pitch": 80,
+"pitch": 100,
 "pan": 0
 }
 ]
@@ -5765,9 +5135,9 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "bill",
 "volume": 90,
-"pitch": 90,
+"pitch": 110,
 "pan": 0
 }
 ]
@@ -5815,14 +5185,14 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Crowley>Bill, we need facts, not tall tales."
+"\\n<Crowley>Bill, we need facts, not tall"
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"Got anything less fanciful to relay?"
+"tales. Got anything less fanciful to relay?"
 ]
 },
 {
@@ -5830,9 +5200,9 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "bill",
 "volume": 85,
-"pitch": 80,
+"pitch": 100,
 "pan": 0
 }
 ]
@@ -5866,9 +5236,9 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "bill",
 "volume": 85,
-"pitch": 80,
+"pitch": 100,
 "pan": 0
 }
 ]
@@ -5924,9 +5294,9 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "bill",
 "volume": 90,
-"pitch": 80,
+"pitch": 100,
 "pan": 0
 }
 ]
@@ -5989,9 +5359,9 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "bill",
 "volume": 90,
-"pitch": 80,
+"pitch": 100,
 "pan": 0
 }
 ]
@@ -6032,9 +5402,9 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "bill",
 "volume": 90,
-"pitch": 80,
+"pitch": 100,
 "pan": 0
 }
 ]
@@ -6089,14 +5459,14 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Crowley>We don’t usually get migratory visitors"
+"\\n<Crowley>We don’t usually get migratory"
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"this time of year. What might they"
+"visitors this time of year. What might they"
 ]
 },
 {
@@ -6111,9 +5481,9 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "bill",
 "volume": 90,
-"pitch": 80,
+"pitch": 100,
 "pan": 0
 }
 ]
@@ -6147,9 +5517,9 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "bill",
 "volume": 65,
-"pitch": 80,
+"pitch": 100,
 "pan": 0
 }
 ]
@@ -6175,21 +5545,14 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"underground chatter—I’m talking on the"
+"underground chatter—I’m talking on the real"
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"real down low— ‘bout some commotion"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"last night."
+"down low— ‘bout some commotion last night."
 ]
 },
 {
@@ -6197,9 +5560,9 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "bill",
 "volume": 60,
-"pitch": 80,
+"pitch": 90,
 "pan": 0
 }
 ]
@@ -6333,9 +5696,9 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "bill",
 "volume": 90,
-"pitch": 80,
+"pitch": 100,
 "pan": 0
 }
 ]
@@ -6398,9 +5761,9 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "bill",
 "volume": 90,
-"pitch": 80,
+"pitch": 110,
 "pan": 0
 }
 ]
@@ -6434,9 +5797,9 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "bill",
 "volume": 65,
-"pitch": 80,
+"pitch": 100,
 "pan": 0
 }
 ]
@@ -6470,9 +5833,9 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
-"volume": 90,
-"pitch": 80,
+"name": "bill",
+"volume": 80,
+"pitch": 100,
 "pan": 0
 }
 ]
@@ -6572,9 +5935,9 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
-"volume": 90,
-"pitch": 80,
+"name": "bill",
+"volume": 80,
+"pitch": 100,
 "pan": 0
 }
 ]
@@ -8947,9 +8310,9 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "bill",
 "volume": 70,
-"pitch": 80,
+"pitch": 100,
 "pan": 0
 }
 ]
@@ -9005,9 +8368,9 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "bill",
 "volume": 70,
-"pitch": 80,
+"pitch": 100,
 "pan": 0
 }
 ]
@@ -9099,9 +8462,9 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "bill",
 "volume": 80,
-"pitch": 80,
+"pitch": 100,
 "pan": 0
 }
 ]
@@ -9135,9 +8498,9 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
-"volume": 70,
-"pitch": 80,
+"name": "bill",
+"volume": 75,
+"pitch": 110,
 "pan": 0
 }
 ]
@@ -9200,9 +8563,9 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
-"volume": 90,
-"pitch": 80,
+"name": "bill",
+"volume": 80,
+"pitch": 100,
 "pan": 0
 }
 ]
@@ -9229,9 +8592,9 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "bill",
 "volume": 90,
-"pitch": 80,
+"pitch": 100,
 "pan": 0
 }
 ]
@@ -9308,9 +8671,9 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "bill",
 "volume": 90,
-"pitch": 90,
+"pitch": 110,
 "pan": 0
 }
 ]
@@ -9358,14 +8721,14 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Crowley>Bill, we need facts, not tall tales."
+"\\n<Crowley>Bill, we need facts, not tall"
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"Got anything less fanciful to relay?"
+"tales. Got anything less fanciful to relay?"
 ]
 },
 {
@@ -9373,9 +8736,9 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "bill",
 "volume": 85,
-"pitch": 80,
+"pitch": 100,
 "pan": 0
 }
 ]
@@ -9409,9 +8772,9 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "bill",
 "volume": 85,
-"pitch": 80,
+"pitch": 100,
 "pan": 0
 }
 ]
@@ -9467,9 +8830,9 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "bill",
 "volume": 90,
-"pitch": 80,
+"pitch": 100,
 "pan": 0
 }
 ]
@@ -9532,9 +8895,9 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "bill",
 "volume": 90,
-"pitch": 80,
+"pitch": 100,
 "pan": 0
 }
 ]
@@ -9575,9 +8938,9 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "bill",
 "volume": 90,
-"pitch": 80,
+"pitch": 100,
 "pan": 0
 }
 ]
@@ -9632,14 +8995,14 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Crowley>We don’t usually get migratory visitors"
+"\\n<Crowley>We don’t usually get migratory"
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"this time of year. What might they"
+"visitors this time of year. What might they"
 ]
 },
 {
@@ -9654,9 +9017,9 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "bill",
 "volume": 90,
-"pitch": 80,
+"pitch": 100,
 "pan": 0
 }
 ]
@@ -9690,9 +9053,9 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "bill",
 "volume": 65,
-"pitch": 80,
+"pitch": 100,
 "pan": 0
 }
 ]
@@ -9718,21 +9081,14 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"underground chatter—I’m talking on the"
+"underground chatter—I’m talking on the real"
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"real down low— ‘bout some commotion"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"last night."
+"down low— ‘bout some commotion last night."
 ]
 },
 {
@@ -9740,9 +9096,9 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "bill",
 "volume": 60,
-"pitch": 80,
+"pitch": 90,
 "pan": 0
 }
 ]
@@ -9876,9 +9232,9 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "bill",
 "volume": 90,
-"pitch": 80,
+"pitch": 100,
 "pan": 0
 }
 ]
@@ -9941,9 +9297,9 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "bill",
 "volume": 90,
-"pitch": 80,
+"pitch": 110,
 "pan": 0
 }
 ]
@@ -9977,9 +9333,9 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "bill",
 "volume": 65,
-"pitch": 80,
+"pitch": 100,
 "pan": 0
 }
 ]
@@ -10013,9 +9369,9 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
-"volume": 90,
-"pitch": 80,
+"name": "bill",
+"volume": 80,
+"pitch": 100,
 "pan": 0
 }
 ]
@@ -10115,9 +9471,9 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
-"volume": 90,
-"pitch": 80,
+"name": "bill",
+"volume": 80,
+"pitch": 100,
 "pan": 0
 }
 ]
@@ -10306,9 +9662,9 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "bill",
 "volume": 70,
-"pitch": 80,
+"pitch": 100,
 "pan": 0
 }
 ]
@@ -10364,9 +9720,9 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "bill",
 "volume": 70,
-"pitch": 80,
+"pitch": 100,
 "pan": 0
 }
 ]
@@ -10458,9 +9814,9 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "bill",
 "volume": 80,
-"pitch": 80,
+"pitch": 100,
 "pan": 0
 }
 ]
@@ -10494,9 +9850,9 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
-"volume": 70,
-"pitch": 80,
+"name": "bill",
+"volume": 75,
+"pitch": 110,
 "pan": 0
 }
 ]
@@ -10559,9 +9915,9 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
-"volume": 90,
-"pitch": 80,
+"name": "bill",
+"volume": 80,
+"pitch": 100,
 "pan": 0
 }
 ]
@@ -10588,9 +9944,9 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "bill",
 "volume": 90,
-"pitch": 80,
+"pitch": 100,
 "pan": 0
 }
 ]
@@ -10667,9 +10023,9 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "bill",
 "volume": 90,
-"pitch": 90,
+"pitch": 110,
 "pan": 0
 }
 ]
@@ -10717,14 +10073,14 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Crowley>Bill, we need facts, not tall tales."
+"\\n<Crowley>Bill, we need facts, not tall"
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"Got anything less fanciful to relay?"
+"tales. Got anything less fanciful to relay?"
 ]
 },
 {
@@ -10732,9 +10088,9 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "bill",
 "volume": 85,
-"pitch": 80,
+"pitch": 100,
 "pan": 0
 }
 ]
@@ -10768,9 +10124,9 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "bill",
 "volume": 85,
-"pitch": 80,
+"pitch": 100,
 "pan": 0
 }
 ]
@@ -10826,9 +10182,9 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "bill",
 "volume": 90,
-"pitch": 80,
+"pitch": 100,
 "pan": 0
 }
 ]
@@ -10891,9 +10247,9 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "bill",
 "volume": 90,
-"pitch": 80,
+"pitch": 100,
 "pan": 0
 }
 ]
@@ -10934,9 +10290,9 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "bill",
 "volume": 90,
-"pitch": 80,
+"pitch": 100,
 "pan": 0
 }
 ]
@@ -10991,14 +10347,14 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Crowley>We don’t usually get migratory visitors"
+"\\n<Crowley>We don’t usually get migratory"
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"this time of year. What might they"
+"visitors this time of year. What might they"
 ]
 },
 {
@@ -11013,9 +10369,9 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "bill",
 "volume": 90,
-"pitch": 80,
+"pitch": 100,
 "pan": 0
 }
 ]
@@ -11049,9 +10405,9 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "bill",
 "volume": 65,
-"pitch": 80,
+"pitch": 100,
 "pan": 0
 }
 ]
@@ -11077,21 +10433,14 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"underground chatter—I’m talking on the"
+"underground chatter—I’m talking on the real"
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"real down low— ‘bout some commotion"
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"last night."
+"down low— ‘bout some commotion last night."
 ]
 },
 {
@@ -11099,9 +10448,9 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "bill",
 "volume": 60,
-"pitch": 80,
+"pitch": 90,
 "pan": 0
 }
 ]
@@ -11235,9 +10584,9 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "bill",
 "volume": 90,
-"pitch": 80,
+"pitch": 100,
 "pan": 0
 }
 ]
@@ -11300,9 +10649,9 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "bill",
 "volume": 90,
-"pitch": 80,
+"pitch": 110,
 "pan": 0
 }
 ]
@@ -11336,9 +10685,9 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "bill",
 "volume": 65,
-"pitch": 80,
+"pitch": 100,
 "pan": 0
 }
 ]
@@ -11372,9 +10721,9 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
-"volume": 90,
-"pitch": 80,
+"name": "bill",
+"volume": 80,
+"pitch": 100,
 "pan": 0
 }
 ]
@@ -11474,9 +10823,9 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
-"volume": 90,
-"pitch": 80,
+"name": "bill",
+"volume": 80,
+"pitch": 100,
 "pan": 0
 }
 ]
@@ -12062,14 +11411,21 @@ null,
 "code": 401,
 "indent": 0,
 "parameters": [
-"\\n<Crowley>The bar counter. There are glasses and bottles"
+"\\n<Crowley>The bar counter. The perfect "
 ]
 },
 {
 "code": 401,
 "indent": 0,
 "parameters": [
-"on top."
+"place to dip your bill... and tip Bill"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"while you're at it."
 ]
 },
 {
@@ -12155,21 +11511,14 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"\\n<Crowley>The bar counter. I wonder why "
+"\\n<Crowley>I wonder why so many glasses and"
 ]
 },
 {
 "code": 401,
 "indent": 1,
 "parameters": [
-"so many glasses and bottles have been left"
-]
-},
-{
-"code": 401,
-"indent": 1,
-"parameters": [
-"unattended..."
+"bottles have been left unattended..."
 ]
 },
 {

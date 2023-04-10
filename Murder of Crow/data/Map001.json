@@ -3414,6 +3414,20 @@ null,
 "parameters": []
 },
 {
+"code": 242,
+"indent": 2,
+"parameters": [
+3
+]
+},
+{
+"code": 246,
+"indent": 2,
+"parameters": [
+3
+]
+},
+{
 "code": 201,
 "indent": 2,
 "parameters": [
@@ -3423,25 +3437,6 @@ null,
 14,
 8,
 0
-]
-},
-{
-"code": 242,
-"indent": 2,
-"parameters": [
-3
-]
-},
-{
-"code": 241,
-"indent": 2,
-"parameters": [
-{
-"name": "narrows",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
 ]
 },
 {
@@ -6428,6 +6423,20 @@ null,
 "parameters": []
 },
 {
+"code": 242,
+"indent": 2,
+"parameters": [
+3
+]
+},
+{
+"code": 246,
+"indent": 2,
+"parameters": [
+3
+]
+},
+{
 "code": 201,
 "indent": 2,
 "parameters": [
@@ -6437,25 +6446,6 @@ null,
 14,
 8,
 0
-]
-},
-{
-"code": 242,
-"indent": 2,
-"parameters": [
-3
-]
-},
-{
-"code": 241,
-"indent": 2,
-"parameters": [
-{
-"name": "narrows",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
 ]
 },
 {
@@ -10434,7 +10424,7 @@ null,
 "parameters": [
 {
 "name": "kiwi_voice",
-"volume": 90,
+"volume": 75,
 "pitch": 100,
 "pan": 0
 }
@@ -10583,9 +10573,9 @@ null,
 "indent": 1,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "bill",
 "volume": 90,
-"pitch": 80,
+"pitch": 100,
 "pan": 0
 }
 ]
@@ -10619,9 +10609,9 @@ null,
 "indent": 1,
 "parameters": [
 {
-"name": "npc_voice",
-"volume": 90,
-"pitch": 80,
+"name": "bill",
+"volume": 80,
+"pitch": 100,
 "pan": 0
 }
 ]
@@ -10720,8 +10710,8 @@ null,
 "indent": 1,
 "parameters": [
 {
-"name": "npc_voice",
-"volume": 90,
+"name": "bill",
+"volume": 100,
 "pitch": 80,
 "pan": 0
 }
@@ -10792,9 +10782,9 @@ null,
 "indent": 1,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "bill",
 "volume": 90,
-"pitch": 80,
+"pitch": 100,
 "pan": 0
 }
 ]
@@ -10842,9 +10832,9 @@ null,
 "indent": 1,
 "parameters": [
 {
-"name": "npc_voice",
-"volume": 80,
-"pitch": 80,
+"name": "bill",
+"volume": 90,
+"pitch": 110,
 "pan": 0
 }
 ]
@@ -12653,6 +12643,20 @@ null,
 "parameters": []
 },
 {
+"code": 242,
+"indent": 2,
+"parameters": [
+3
+]
+},
+{
+"code": 246,
+"indent": 2,
+"parameters": [
+3
+]
+},
+{
 "code": 201,
 "indent": 2,
 "parameters": [
@@ -12662,25 +12666,6 @@ null,
 14,
 8,
 0
-]
-},
-{
-"code": 242,
-"indent": 2,
-"parameters": [
-3
-]
-},
-{
-"code": 241,
-"indent": 2,
-"parameters": [
-{
-"name": "narrows",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
 ]
 },
 {
@@ -15822,7 +15807,7 @@ null,
 {
 "name": "crowley_voice",
 "volume": 90,
-"pitch": 100,
+"pitch": 90,
 "pan": 0
 }
 ]
@@ -15851,7 +15836,7 @@ null,
 {
 "name": "rac_mama",
 "volume": 90,
-"pitch": 100,
+"pitch": 110,
 "pan": 0
 }
 ]
@@ -15966,7 +15951,7 @@ null,
 {
 "name": "npc_voice",
 "volume": 90,
-"pitch": 100,
+"pitch": 110,
 "pan": 0
 }
 ]
@@ -18215,9 +18200,9 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "bill",
 "volume": 90,
-"pitch": 80,
+"pitch": 100,
 "pan": 0
 }
 ]
@@ -18318,9 +18303,9 @@ null,
 "indent": 1,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "bill",
 "volume": 90,
-"pitch": 80,
+"pitch": 100,
 "pan": 0
 }
 ]
@@ -18373,9 +18358,9 @@ null,
 "indent": 1,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "bill",
 "volume": 90,
-"pitch": 80,
+"pitch": 100,
 "pan": 0
 }
 ]
@@ -18416,9 +18401,9 @@ null,
 "indent": 1,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "bill",
 "volume": 60,
-"pitch": 80,
+"pitch": 100,
 "pan": 0
 }
 ]
@@ -18903,6 +18888,20 @@ null,
 "parameters": []
 },
 {
+"code": 242,
+"indent": 2,
+"parameters": [
+3
+]
+},
+{
+"code": 246,
+"indent": 2,
+"parameters": [
+3
+]
+},
+{
 "code": 201,
 "indent": 2,
 "parameters": [
@@ -19059,6 +19058,20 @@ null,
 "tileId": 0
 },
 "list": [
+{
+"code": 242,
+"indent": 0,
+"parameters": [
+3
+]
+},
+{
+"code": 246,
+"indent": 0,
+"parameters": [
+3
+]
+},
 {
 "code": 201,
 "indent": 0,
