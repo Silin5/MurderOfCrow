@@ -7534,12 +7534,194 @@ null,
 },
 "list": [
 {
-"code": 123,
+"code": 111,
 "indent": 0,
+"parameters": [
+1,
+87,
+0,
+0,
+0
+]
+},
+{
+"code": 122,
+"indent": 1,
+"parameters": [
+11,
+11,
+1,
+0,
+1
+]
+},
+{
+"code": 122,
+"indent": 1,
+"parameters": [
+87,
+87,
+1,
+0,
+1
+]
+},
+{
+"code": 250,
+"indent": 1,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 1,
+"parameters": [
+"updated_kiwihead_sheet",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"\\n<Kiwi>Hey boss! Peep this!"
+]
+},
+{
+"code": 101,
+"indent": 1,
+"parameters": [
+"updated_kiwihead_sheet",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"\\n<Kiwi>Looks like somebirdy was all aflutter..."
+]
+},
+{
+"code": 250,
+"indent": 1,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 1,
+"parameters": [
+"crowleyfaces",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"\\n<Crowley>Seems to me that an unlucky birdy"
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"got plucked off..."
+]
+},
+{
+"code": 250,
+"indent": 1,
+"parameters": [
+{
+"name": "cluefound",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 1,
+"parameters": [
+"",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"The Murder Board has been updated!"
+]
+},
+{
+"code": 121,
+"indent": 1,
+"parameters": [
+89,
+89,
+0
+]
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 412,
+"indent": 0,
+"parameters": []
+},
+{
+"code": 111,
+"indent": 0,
+"parameters": [
+0,
+89,
+0
+]
+},
+{
+"code": 123,
+"indent": 1,
 "parameters": [
 "A",
 0
 ]
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 412,
+"indent": 0,
+"parameters": []
 },
 {
 "code": 0,
@@ -8255,12 +8437,194 @@ null,
 },
 "list": [
 {
-"code": 123,
+"code": 111,
 "indent": 0,
+"parameters": [
+1,
+87,
+0,
+0,
+0
+]
+},
+{
+"code": 122,
+"indent": 1,
+"parameters": [
+11,
+11,
+1,
+0,
+1
+]
+},
+{
+"code": 122,
+"indent": 1,
+"parameters": [
+87,
+87,
+1,
+0,
+1
+]
+},
+{
+"code": 250,
+"indent": 1,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 1,
+"parameters": [
+"updated_kiwihead_sheet",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"\\n<Kiwi>Hey boss! Peep this!"
+]
+},
+{
+"code": 101,
+"indent": 1,
+"parameters": [
+"updated_kiwihead_sheet",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"\\n<Kiwi>Looks like somebirdy was all aflutter..."
+]
+},
+{
+"code": 250,
+"indent": 1,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 1,
+"parameters": [
+"crowleyfaces",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"\\n<Crowley>Seems to me that an unlucky birdy"
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"got plucked off..."
+]
+},
+{
+"code": 250,
+"indent": 1,
+"parameters": [
+{
+"name": "cluefound",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 1,
+"parameters": [
+"",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"The Murder Board has been updated!"
+]
+},
+{
+"code": 121,
+"indent": 1,
+"parameters": [
+89,
+89,
+0
+]
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 412,
+"indent": 0,
+"parameters": []
+},
+{
+"code": 111,
+"indent": 0,
+"parameters": [
+0,
+89,
+0
+]
+},
+{
+"code": 123,
+"indent": 1,
 "parameters": [
 "A",
 0
 ]
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 412,
+"indent": 0,
+"parameters": []
 },
 {
 "code": 0,

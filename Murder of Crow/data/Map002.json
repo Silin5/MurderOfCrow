@@ -3016,15 +3016,23 @@ true
 "indent": null
 },
 {
-"code": 16,
+"code": 1,
 "indent": null
 },
 {
-"code": 17,
+"code": 1,
 "indent": null
 },
 {
-"code": 17,
+"code": 2,
+"indent": null
+},
+{
+"code": 2,
+"indent": null
+},
+{
+"code": 18,
 "indent": null
 },
 {
@@ -3033,7 +3041,7 @@ true
 ],
 "repeat": false,
 "skippable": false,
-"wait": false
+"wait": true
 }
 ]
 },
@@ -3052,7 +3060,7 @@ true
 "indent": 0,
 "parameters": [
 {
-"code": 16,
+"code": 1,
 "indent": null
 }
 ]
@@ -3062,7 +3070,7 @@ true
 "indent": 0,
 "parameters": [
 {
-"code": 17,
+"code": 1,
 "indent": null
 }
 ]
@@ -3072,7 +3080,27 @@ true
 "indent": 0,
 "parameters": [
 {
-"code": 17,
+"code": 2,
+"indent": null
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 2,
+"indent": null
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 18,
 "indent": null
 }
 ]
@@ -10364,15 +10392,23 @@ true
 "indent": null
 },
 {
-"code": 16,
+"code": 1,
 "indent": null
 },
 {
-"code": 17,
+"code": 1,
 "indent": null
 },
 {
-"code": 17,
+"code": 2,
+"indent": null
+},
+{
+"code": 2,
+"indent": null
+},
+{
+"code": 18,
 "indent": null
 },
 {
@@ -10381,7 +10417,7 @@ true
 ],
 "repeat": false,
 "skippable": false,
-"wait": false
+"wait": true
 }
 ]
 },
@@ -10400,7 +10436,7 @@ true
 "indent": 0,
 "parameters": [
 {
-"code": 16,
+"code": 1,
 "indent": null
 }
 ]
@@ -10410,7 +10446,7 @@ true
 "indent": 0,
 "parameters": [
 {
-"code": 17,
+"code": 1,
 "indent": null
 }
 ]
@@ -10420,7 +10456,27 @@ true
 "indent": 0,
 "parameters": [
 {
-"code": 17,
+"code": 2,
+"indent": null
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 2,
+"indent": null
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 18,
 "indent": null
 }
 ]
@@ -10996,7 +11052,7 @@ true
 "moveType": 0,
 "priorityType": 0,
 "stepAnime": false,
-"through": false,
+"through": true,
 "trigger": 0,
 "walkAnime": true
 }
@@ -16870,15 +16926,23 @@ true
 "indent": null
 },
 {
-"code": 16,
+"code": 1,
 "indent": null
 },
 {
-"code": 17,
+"code": 1,
 "indent": null
 },
 {
-"code": 17,
+"code": 2,
+"indent": null
+},
+{
+"code": 2,
+"indent": null
+},
+{
+"code": 18,
 "indent": null
 },
 {
@@ -16887,7 +16951,7 @@ true
 ],
 "repeat": false,
 "skippable": false,
-"wait": false
+"wait": true
 }
 ]
 },
@@ -16906,7 +16970,7 @@ true
 "indent": 0,
 "parameters": [
 {
-"code": 16,
+"code": 1,
 "indent": null
 }
 ]
@@ -16916,7 +16980,7 @@ true
 "indent": 0,
 "parameters": [
 {
-"code": 17,
+"code": 1,
 "indent": null
 }
 ]
@@ -16926,7 +16990,27 @@ true
 "indent": 0,
 "parameters": [
 {
-"code": 17,
+"code": 2,
+"indent": null
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 2,
+"indent": null
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 18,
 "indent": null
 }
 ]
