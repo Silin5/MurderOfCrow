@@ -1858,7 +1858,7 @@ null,
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "jay",
 "volume": 90,
 "pitch": 100,
 "pan": 0
@@ -2378,7 +2378,7 @@ true
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "jay",
 "volume": 90,
 "pitch": 100,
 "pan": 0
@@ -2472,7 +2472,7 @@ true
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "jay",
 "volume": 90,
 "pitch": 100,
 "pan": 0
@@ -2602,7 +2602,7 @@ true
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "jay",
 "volume": 90,
 "pitch": 100,
 "pan": 0
@@ -2631,7 +2631,7 @@ true
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "jay",
 "volume": 90,
 "pitch": 110,
 "pan": 0
@@ -2703,7 +2703,7 @@ true
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "jay",
 "volume": 75,
 "pitch": 90,
 "pan": 0
@@ -2746,7 +2746,7 @@ true
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "jay",
 "volume": 90,
 "pitch": 100,
 "pan": 0
@@ -2782,9 +2782,9 @@ true
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "jay",
 "volume": 75,
-"pitch": 100,
+"pitch": 105,
 "pan": 0
 }
 ]
@@ -2811,8 +2811,8 @@ true
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
-"volume": 90,
+"name": "jay",
+"volume": 85,
 "pitch": 100,
 "pan": 0
 }
@@ -2840,7 +2840,7 @@ true
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "jay",
 "volume": 90,
 "pitch": 100,
 "pan": 0
@@ -2890,7 +2890,7 @@ true
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "jay",
 "volume": 90,
 "pitch": 100,
 "pan": 0
@@ -3083,7 +3083,7 @@ true
 "parameters": [
 {
 "name": "crowley_voice",
-"volume": 90,
+"volume": 85,
 "pitch": 100,
 "pan": 0
 }
@@ -3104,6 +3104,18 @@ true
 "indent": 0,
 "parameters": [
 "\\n<Crowley>Jay's Jams seem popular..."
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 110,
+"pan": 0
+}
 ]
 },
 {
@@ -3340,7 +3352,7 @@ true
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "jay",
 "volume": 90,
 "pitch": 100,
 "pan": 0
@@ -3405,7 +3417,7 @@ true
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "jay",
 "volume": 85,
 "pitch": 100,
 "pan": 0
@@ -3463,7 +3475,7 @@ true
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "jay",
 "volume": 65,
 "pitch": 100,
 "pan": 0
@@ -3492,7 +3504,7 @@ true
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "jay",
 "volume": 90,
 "pitch": 100,
 "pan": 0
@@ -9194,7 +9206,7 @@ true
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "jay",
 "volume": 90,
 "pitch": 100,
 "pan": 0
@@ -9714,7 +9726,7 @@ true
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "jay",
 "volume": 90,
 "pitch": 100,
 "pan": 0
@@ -9808,7 +9820,7 @@ true
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "jay",
 "volume": 90,
 "pitch": 100,
 "pan": 0
@@ -9938,7 +9950,7 @@ true
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "jay",
 "volume": 90,
 "pitch": 100,
 "pan": 0
@@ -9967,7 +9979,7 @@ true
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "jay",
 "volume": 90,
 "pitch": 110,
 "pan": 0
@@ -10039,7 +10051,7 @@ true
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "jay",
 "volume": 75,
 "pitch": 90,
 "pan": 0
@@ -10082,7 +10094,7 @@ true
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "jay",
 "volume": 90,
 "pitch": 100,
 "pan": 0
@@ -10118,7 +10130,7 @@ true
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "jay",
 "volume": 75,
 "pitch": 105,
 "pan": 0
@@ -10147,7 +10159,7 @@ true
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "jay",
 "volume": 85,
 "pitch": 100,
 "pan": 0
@@ -10176,7 +10188,7 @@ true
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "jay",
 "volume": 90,
 "pitch": 100,
 "pan": 0
@@ -10226,7 +10238,7 @@ true
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "jay",
 "volume": 90,
 "pitch": 100,
 "pan": 0
@@ -10688,7 +10700,7 @@ true
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "jay",
 "volume": 90,
 "pitch": 100,
 "pan": 0
@@ -10753,7 +10765,7 @@ true
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "jay",
 "volume": 85,
 "pitch": 100,
 "pan": 0
@@ -10811,7 +10823,7 @@ true
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "jay",
 "volume": 65,
 "pitch": 100,
 "pan": 0
@@ -10840,7 +10852,7 @@ true
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "jay",
 "volume": 90,
 "pitch": 100,
 "pan": 0
@@ -14745,7 +14757,7 @@ true
 "indent": 1,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "jay",
 "volume": 90,
 "pitch": 100,
 "pan": 0
@@ -14817,7 +14829,7 @@ true
 "indent": 1,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "jay",
 "volume": 90,
 "pitch": 100,
 "pan": 0
@@ -14925,7 +14937,7 @@ true
 "indent": 1,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "jay",
 "volume": 90,
 "pitch": 100,
 "pan": 0
@@ -15142,7 +15154,7 @@ true
 "indent": 1,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "jay",
 "volume": 90,
 "pitch": 100,
 "pan": 0
@@ -15293,7 +15305,7 @@ true
 "indent": 1,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "jay",
 "volume": 90,
 "pitch": 100,
 "pan": 0
@@ -15408,7 +15420,7 @@ true
 "indent": 1,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "jay",
 "volume": 90,
 "pitch": 100,
 "pan": 0
@@ -15444,7 +15456,7 @@ true
 "indent": 1,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "jay",
 "volume": 90,
 "pitch": 100,
 "pan": 0
@@ -15700,7 +15712,7 @@ true
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "jay",
 "volume": 90,
 "pitch": 100,
 "pan": 0
@@ -16220,7 +16232,7 @@ true
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "jay",
 "volume": 90,
 "pitch": 100,
 "pan": 0
@@ -16314,7 +16326,7 @@ true
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "jay",
 "volume": 90,
 "pitch": 100,
 "pan": 0
@@ -16444,7 +16456,7 @@ true
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "jay",
 "volume": 90,
 "pitch": 100,
 "pan": 0
@@ -16456,7 +16468,7 @@ true
 "indent": 0,
 "parameters": [
 "vendorfaces",
-5,
+4,
 0,
 2
 ]
@@ -16473,7 +16485,7 @@ true
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "jay",
 "volume": 90,
 "pitch": 110,
 "pan": 0
@@ -16545,7 +16557,7 @@ true
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "jay",
 "volume": 75,
 "pitch": 90,
 "pan": 0
@@ -16557,7 +16569,7 @@ true
 "indent": 0,
 "parameters": [
 "vendorfaces",
-6,
+4,
 0,
 2
 ]
@@ -16588,7 +16600,7 @@ true
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "jay",
 "volume": 90,
 "pitch": 100,
 "pan": 0
@@ -16624,9 +16636,9 @@ true
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "jay",
 "volume": 75,
-"pitch": 100,
+"pitch": 105,
 "pan": 0
 }
 ]
@@ -16636,7 +16648,7 @@ true
 "indent": 0,
 "parameters": [
 "vendorfaces",
-6,
+4,
 0,
 2
 ]
@@ -16653,8 +16665,8 @@ true
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
-"volume": 90,
+"name": "jay",
+"volume": 85,
 "pitch": 100,
 "pan": 0
 }
@@ -16682,7 +16694,7 @@ true
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "jay",
 "volume": 90,
 "pitch": 100,
 "pan": 0
@@ -16732,7 +16744,7 @@ true
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "jay",
 "volume": 90,
 "pitch": 100,
 "pan": 0
@@ -16925,7 +16937,7 @@ true
 "parameters": [
 {
 "name": "crowley_voice",
-"volume": 90,
+"volume": 85,
 "pitch": 100,
 "pan": 0
 }
@@ -16946,6 +16958,18 @@ true
 "indent": 0,
 "parameters": [
 "\\n<Crowley>Jay's Jams seem popular..."
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 110,
+"pan": 0
+}
 ]
 },
 {
@@ -17182,7 +17206,7 @@ true
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "jay",
 "volume": 90,
 "pitch": 100,
 "pan": 0
@@ -17247,7 +17271,7 @@ true
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "jay",
 "volume": 85,
 "pitch": 100,
 "pan": 0
@@ -17305,7 +17329,7 @@ true
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "jay",
 "volume": 65,
 "pitch": 100,
 "pan": 0
@@ -17317,7 +17341,7 @@ true
 "indent": 0,
 "parameters": [
 "vendorfaces",
-6,
+4,
 0,
 2
 ]
@@ -17334,7 +17358,7 @@ true
 "indent": 0,
 "parameters": [
 {
-"name": "npc_voice",
+"name": "jay",
 "volume": 90,
 "pitch": 100,
 "pan": 0
