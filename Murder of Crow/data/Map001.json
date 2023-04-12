@@ -7597,8 +7597,12 @@ null,
 {
 "code": 45,
 "parameters": [
-"MOVE TO: 13, 9"
+"MOVE TO: EVENT 015"
 ],
+"indent": null
+},
+{
+"code": 3,
 "indent": null
 },
 {
@@ -7611,7 +7615,7 @@ null,
 ],
 "repeat": false,
 "skippable": false,
-"wait": false
+"wait": true
 }
 ]
 },
@@ -7622,8 +7626,18 @@ null,
 {
 "code": 45,
 "parameters": [
-"MOVE TO: 13, 9"
+"MOVE TO: EVENT 015"
 ],
+"indent": null
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 3,
 "indent": null
 }
 ]
@@ -7636,6 +7650,22 @@ null,
 "code": 17,
 "indent": null
 }
+]
+},
+{
+"code": 216,
+"indent": 0,
+"parameters": [
+1
+]
+},
+{
+"code": 121,
+"indent": 0,
+"parameters": [
+122,
+122,
+0
 ]
 },
 {
@@ -7768,22 +7798,6 @@ null,
 "indent": 0,
 "parameters": [
 "first. Let me know when you’re done!"
-]
-},
-{
-"code": 216,
-"indent": 0,
-"parameters": [
-1
-]
-},
-{
-"code": 121,
-"indent": 0,
-"parameters": [
-122,
-122,
-0
 ]
 },
 {
