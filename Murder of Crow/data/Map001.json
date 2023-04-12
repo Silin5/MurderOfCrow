@@ -2669,6 +2669,18 @@ null,
 ]
 },
 {
+"code": 243,
+"indent": 0,
+"parameters": []
+},
+{
+"code": 242,
+"indent": 0,
+"parameters": [
+2
+]
+},
+{
 "code": 122,
 "indent": 0,
 "parameters": [
@@ -2749,86 +2761,6 @@ null,
 "wait": false
 },
 "moveSpeed": 2,
-"moveType": 0,
-"priorityType": 1,
-"stepAnime": false,
-"through": false,
-"trigger": 0,
-"walkAnime": true
-},
-{
-"conditions": {
-"actorId": 1,
-"actorValid": false,
-"itemId": 1,
-"itemValid": false,
-"selfSwitchCh": "A",
-"selfSwitchValid": false,
-"switch1Id": 6,
-"switch1Valid": true,
-"switch2Id": 5,
-"switch2Valid": false,
-"variableId": 1,
-"variableValid": false,
-"variableValue": 0
-},
-"directionFix": false,
-"image": {
-"tileId": 0,
-"characterName": "$slyskunkwitness",
-"direction": 6,
-"pattern": 1,
-"characterIndex": 0
-},
-"list": [
-{
-"code": 250,
-"indent": 0,
-"parameters": [
-{
-"name": "sly",
-"volume": 90,
-"pitch": 110,
-"pan": 0
-}
-]
-},
-{
-"code": 101,
-"indent": 0,
-"parameters": [
-"skunkhead_sheet",
-1,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 0,
-"parameters": [
-"\\n<Sly>I've already told you everything I know."
-]
-},
-{
-"code": 0,
-"indent": 0,
-"parameters": []
-}
-],
-"moveFrequency": 3,
-"moveRoute": {
-"list": [
-{
-"code": 0,
-"parameters": []
-}
-],
-"repeat": true,
-"skippable": false,
-"wait": false
-},
-"moveSpeed": 3,
 "moveType": 0,
 "priorityType": 1,
 "stepAnime": false,
@@ -3417,7 +3349,7 @@ null,
 "code": 242,
 "indent": 2,
 "parameters": [
-3
+1
 ]
 },
 {
@@ -5077,19 +5009,7 @@ null,
 "code": 242,
 "indent": 2,
 "parameters": [
-3
-]
-},
-{
-"code": 241,
-"indent": 2,
-"parameters": [
-{
-"name": "market",
-"volume": 90,
-"pitch": 100,
-"pan": 0
-}
+1
 ]
 },
 {
@@ -5230,6 +5150,13 @@ null,
 "tileId": 0
 },
 "list": [
+{
+"code": 242,
+"indent": 0,
+"parameters": [
+1
+]
+},
 {
 "code": 201,
 "indent": 0,
@@ -6548,7 +6475,7 @@ null,
 "code": 242,
 "indent": 2,
 "parameters": [
-3
+1
 ]
 },
 {
@@ -7969,6 +7896,18 @@ null,
 "tileId": 0
 },
 "list": [
+{
+"code": 241,
+"indent": 0,
+"parameters": [
+{
+"name": "thedecision",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
 {
 "code": 250,
 "indent": 0,
@@ -12768,7 +12707,7 @@ null,
 "code": 242,
 "indent": 2,
 "parameters": [
-3
+1
 ]
 },
 {
@@ -16984,15 +16923,10 @@ null,
 },
 "list": [
 {
-"code": 243,
-"indent": 0,
-"parameters": []
-},
-{
 "code": 242,
 "indent": 0,
 "parameters": [
-1
+2
 ]
 },
 {
@@ -17226,9 +17160,16 @@ null,
 "parameters": []
 },
 {
-"code": 244,
+"code": 241,
 "indent": 0,
-"parameters": []
+"parameters": [
+{
+"name": "endgame",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
 },
 {
 "code": 205,
@@ -19133,14 +19074,14 @@ null,
 "code": 242,
 "indent": 2,
 "parameters": [
-3
+1
 ]
 },
 {
 "code": 246,
 "indent": 2,
 "parameters": [
-3
+1
 ]
 },
 {
@@ -19304,14 +19245,14 @@ null,
 "code": 242,
 "indent": 0,
 "parameters": [
-3
+1
 ]
 },
 {
 "code": 246,
 "indent": 0,
 "parameters": [
-3
+1
 ]
 },
 {

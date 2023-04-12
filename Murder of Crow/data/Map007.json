@@ -2083,10 +2083,17 @@ null,
 },
 "list": [
 {
+"code": 242,
+"indent": 0,
+"parameters": [
+1
+]
+},
+{
 "code": 246,
 "indent": 0,
 "parameters": [
-3
+2
 ]
 },
 {
@@ -2162,10 +2169,17 @@ null,
 },
 "list": [
 {
+"code": 242,
+"indent": 0,
+"parameters": [
+1
+]
+},
+{
 "code": 246,
 "indent": 0,
 "parameters": [
-3
+2
 ]
 },
 {
@@ -2241,10 +2255,17 @@ null,
 },
 "list": [
 {
+"code": 242,
+"indent": 0,
+"parameters": [
+1
+]
+},
+{
 "code": 246,
 "indent": 0,
 "parameters": [
-3
+2
 ]
 },
 {
@@ -3528,6 +3549,25 @@ null,
 ]
 },
 {
+"code": 243,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 246,
+"indent": 1,
+"parameters": [
+2
+]
+},
+{
+"code": 242,
+"indent": 1,
+"parameters": [
+2
+]
+},
+{
 "code": 122,
 "indent": 1,
 "parameters": [
@@ -3813,6 +3853,25 @@ null,
 ]
 },
 {
+"code": 243,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 246,
+"indent": 1,
+"parameters": [
+2
+]
+},
+{
+"code": 242,
+"indent": 1,
+"parameters": [
+2
+]
+},
+{
 "code": 122,
 "indent": 1,
 "parameters": [
@@ -3982,24 +4041,17 @@ null,
 },
 "list": [
 {
+"code": 244,
+"indent": 0,
+"parameters": []
+},
+{
 "code": 245,
 "indent": 0,
 "parameters": [
 {
 "name": "chatter",
 "volume": 25,
-"pitch": 100,
-"pan": 0
-}
-]
-},
-{
-"code": 241,
-"indent": 0,
-"parameters": [
-{
-"name": "thenest",
-"volume": 90,
 "pitch": 100,
 "pan": 0
 }
