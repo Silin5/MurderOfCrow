@@ -8881,14 +8881,14 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"a clean sneak. How were they never caught"
+"a clean sneak. How were they never"
 ]
 },
 {
 "code": 401,
 "indent": 1,
 "parameters": [
-"in their prior lays?"
+"caught in their prior lays?"
 ]
 },
 {
@@ -10149,7 +10149,7 @@ null,
 ],
 "repeat": false,
 "skippable": false,
-"wait": true
+"wait": false
 }
 ]
 },
@@ -10490,7 +10490,7 @@ null,
 ],
 "repeat": false,
 "skippable": false,
-"wait": true
+"wait": false
 }
 ]
 },
@@ -10820,7 +10820,7 @@ null,
 ],
 "repeat": false,
 "skippable": false,
-"wait": true
+"wait": false
 }
 ]
 },
