@@ -10149,7 +10149,7 @@ null,
 ],
 "repeat": false,
 "skippable": false,
-"wait": false
+"wait": true
 }
 ]
 },
@@ -10490,7 +10490,7 @@ null,
 ],
 "repeat": false,
 "skippable": false,
-"wait": false
+"wait": true
 }
 ]
 },
@@ -10820,7 +10820,7 @@ null,
 ],
 "repeat": false,
 "skippable": false,
-"wait": false
+"wait": true
 }
 ]
 },
