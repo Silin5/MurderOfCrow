@@ -20601,7 +20601,7 @@ null,
 "walkAnime": true
 }
 ],
-"x": 12,
+"x": 10,
 "y": 10
 },
 {
@@ -21347,6 +21347,14 @@ null,
 ]
 },
 {
+"code": 123,
+"indent": 1,
+"parameters": [
+"B",
+0
+]
+},
+{
 "code": 0,
 "indent": 1,
 "parameters": []
@@ -21426,7 +21434,7 @@ null,
 {
 "code": 45,
 "parameters": [
-"MOVE TO: EVENT 26"
+"MOVE TO: EVENT 9"
 ],
 "indent": null
 },
@@ -21447,7 +21455,7 @@ null,
 {
 "code": 45,
 "parameters": [
-"MOVE TO: EVENT 26"
+"MOVE TO: EVENT 9"
 ],
 "indent": null
 }

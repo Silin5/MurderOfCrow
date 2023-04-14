@@ -3163,7 +3163,7 @@ true
 }
 ],
 "repeat": false,
-"skippable": false,
+"skippable": true,
 "wait": true
 }
 ]
@@ -3499,8 +3499,17 @@ true
 },
 "list": [
 {
-"code": 250,
+"code": 111,
 "indent": 0,
+"parameters": [
+0,
+121,
+1
+]
+},
+{
+"code": 250,
+"indent": 1,
 "parameters": [
 {
 "name": "jay",
@@ -3512,7 +3521,7 @@ true
 },
 {
 "code": 101,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "vendorfaces",
 4,
@@ -3522,14 +3531,14 @@ true
 },
 {
 "code": 401,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "\\n<Jay> Back already?"
 ]
 },
 {
 "code": 250,
-"indent": 0,
+"indent": 1,
 "parameters": [
 {
 "name": "crowley_voice",
@@ -3541,7 +3550,7 @@ true
 },
 {
 "code": 101,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "crowleyfaces",
 6,
@@ -3551,21 +3560,21 @@ true
 },
 {
 "code": 401,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "\\n<Crowley>Where did you say the storeroom"
 ]
 },
 {
 "code": 401,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "is again?"
 ]
 },
 {
 "code": 250,
-"indent": 0,
+"indent": 1,
 "parameters": [
 {
 "name": "jay",
@@ -3577,7 +3586,7 @@ true
 },
 {
 "code": 101,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "vendorfaces",
 4,
@@ -3587,14 +3596,14 @@ true
 },
 {
 "code": 401,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "\\n<Jay>Right!"
 ]
 },
 {
 "code": 250,
-"indent": 0,
+"indent": 1,
 "parameters": [
 {
 "name": "kiwi_voice",
@@ -3606,7 +3615,7 @@ true
 },
 {
 "code": 101,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "updated_kiwihead_sheet",
 4,
@@ -3616,14 +3625,14 @@ true
 },
 {
 "code": 401,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "\\n<Kiwi>Right where?"
 ]
 },
 {
 "code": 250,
-"indent": 0,
+"indent": 1,
 "parameters": [
 {
 "name": "jay",
@@ -3635,7 +3644,7 @@ true
 },
 {
 "code": 101,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "vendorfaces",
 4,
@@ -3645,14 +3654,14 @@ true
 },
 {
 "code": 401,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "\\n<Jay>Erm- no..."
 ]
 },
 {
 "code": 250,
-"indent": 0,
+"indent": 1,
 "parameters": [
 {
 "name": "jay",
@@ -3664,7 +3673,7 @@ true
 },
 {
 "code": 101,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "vendorfaces",
 4,
@@ -3674,31 +3683,41 @@ true
 },
 {
 "code": 401,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "\\n<Jay>It’s a white building on the north"
 ]
 },
 {
 "code": 401,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "side of the Narrows. There’s a staircase"
 ]
 },
 {
 "code": 401,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "that'll take you right to the front door. "
 ]
 },
 {
 "code": 401,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "Hard to miss it!"
 ]
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 412,
+"indent": 0,
+"parameters": []
 },
 {
 "code": 0,
@@ -11538,7 +11557,7 @@ true
 }
 ],
 "repeat": false,
-"skippable": false,
+"skippable": true,
 "wait": true
 }
 ]
@@ -11874,8 +11893,17 @@ true
 },
 "list": [
 {
-"code": 250,
+"code": 111,
 "indent": 0,
+"parameters": [
+0,
+121,
+1
+]
+},
+{
+"code": 250,
+"indent": 1,
 "parameters": [
 {
 "name": "jay",
@@ -11887,7 +11915,7 @@ true
 },
 {
 "code": 101,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "vendorfaces",
 4,
@@ -11897,14 +11925,14 @@ true
 },
 {
 "code": 401,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "\\n<Jay> Back already?"
 ]
 },
 {
 "code": 250,
-"indent": 0,
+"indent": 1,
 "parameters": [
 {
 "name": "crowley_voice",
@@ -11916,7 +11944,7 @@ true
 },
 {
 "code": 101,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "crowleyfaces",
 6,
@@ -11926,21 +11954,21 @@ true
 },
 {
 "code": 401,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "\\n<Crowley>Where did you say the storeroom"
 ]
 },
 {
 "code": 401,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "is again?"
 ]
 },
 {
 "code": 250,
-"indent": 0,
+"indent": 1,
 "parameters": [
 {
 "name": "jay",
@@ -11952,7 +11980,7 @@ true
 },
 {
 "code": 101,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "vendorfaces",
 4,
@@ -11962,14 +11990,14 @@ true
 },
 {
 "code": 401,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "\\n<Jay>Right!"
 ]
 },
 {
 "code": 250,
-"indent": 0,
+"indent": 1,
 "parameters": [
 {
 "name": "kiwi_voice",
@@ -11981,7 +12009,7 @@ true
 },
 {
 "code": 101,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "updated_kiwihead_sheet",
 4,
@@ -11991,14 +12019,14 @@ true
 },
 {
 "code": 401,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "\\n<Kiwi>Right where?"
 ]
 },
 {
 "code": 250,
-"indent": 0,
+"indent": 1,
 "parameters": [
 {
 "name": "jay",
@@ -12010,7 +12038,7 @@ true
 },
 {
 "code": 101,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "vendorfaces",
 4,
@@ -12020,14 +12048,14 @@ true
 },
 {
 "code": 401,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "\\n<Jay>Erm- no..."
 ]
 },
 {
 "code": 250,
-"indent": 0,
+"indent": 1,
 "parameters": [
 {
 "name": "jay",
@@ -12039,7 +12067,7 @@ true
 },
 {
 "code": 101,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "vendorfaces",
 4,
@@ -12049,31 +12077,41 @@ true
 },
 {
 "code": 401,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "\\n<Jay>It’s a white building on the north"
 ]
 },
 {
 "code": 401,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "side of the Narrows. There’s a staircase"
 ]
 },
 {
 "code": 401,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "that'll take you right to the front door. "
 ]
 },
 {
 "code": 401,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "Hard to miss it!"
 ]
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 412,
+"indent": 0,
+"parameters": []
 },
 {
 "code": 0,
@@ -12248,8 +12286,8 @@ true
 "selfSwitchValid": false,
 "switch1Id": 62,
 "switch1Valid": true,
-"switch2Id": 1,
-"switch2Valid": false,
+"switch2Id": 63,
+"switch2Valid": true,
 "variableId": 1,
 "variableValid": false,
 "variableValue": 0
@@ -12419,11 +12457,11 @@ true
 "indent": null
 },
 {
-"code": 3,
+"code": 19,
 "indent": null
 },
 {
-"code": 19,
+"code": 4,
 "indent": null
 },
 {
@@ -12451,7 +12489,7 @@ true
 "indent": 1,
 "parameters": [
 {
-"code": 3,
+"code": 19,
 "indent": null
 }
 ]
@@ -12461,7 +12499,7 @@ true
 "indent": 1,
 "parameters": [
 {
-"code": 19,
+"code": 4,
 "indent": null
 }
 ]
@@ -13220,15 +13258,6 @@ true
 "parameters": []
 },
 {
-"code": 121,
-"indent": 0,
-"parameters": [
-67,
-67,
-0
-]
-},
-{
 "code": 0,
 "indent": 0,
 "parameters": []
@@ -13280,6 +13309,79 @@ true
 },
 "list": [
 {
+"code": 121,
+"indent": 0,
+"parameters": [
+67,
+67,
+0
+]
+},
+{
+"code": 111,
+"indent": 0,
+"parameters": [
+0,
+121,
+0
+]
+},
+{
+"code": 250,
+"indent": 1,
+"parameters": [
+{
+"name": "jay",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 1,
+"parameters": [
+"vendorfaces",
+6,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"\\n<Jay>On second thought, please excuse me."
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"I should go check on something..."
+]
+},
+{
+"code": 121,
+"indent": 1,
+"parameters": [
+149,
+149,
+0
+]
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 412,
+"indent": 0,
+"parameters": []
+},
+{
 "code": 0,
 "indent": 0,
 "parameters": []
@@ -13302,7 +13404,7 @@ true
 "priorityType": 0,
 "stepAnime": false,
 "through": false,
-"trigger": 3,
+"trigger": 4,
 "walkAnime": true
 },
 {
@@ -13353,7 +13455,58 @@ true
 "priorityType": 0,
 "stepAnime": false,
 "through": false,
-"trigger": 3,
+"trigger": 0,
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 149,
+"switch1Valid": true,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
 "walkAnime": true
 }
 ],
@@ -13375,8 +13528,8 @@ true
 "selfSwitchValid": false,
 "switch1Id": 62,
 "switch1Valid": true,
-"switch2Id": 1,
-"switch2Valid": false,
+"switch2Id": 63,
+"switch2Valid": true,
 "variableId": 1,
 "variableValid": false,
 "variableValue": 0
@@ -13542,15 +13695,11 @@ true
 {
 "list": [
 {
-"code": 3,
-"indent": null
-},
-{
-"code": 3,
-"indent": null
-},
-{
 "code": 19,
+"indent": null
+},
+{
+"code": 4,
 "indent": null
 },
 {
@@ -13568,27 +13717,17 @@ true
 "indent": 1,
 "parameters": [
 {
-"code": 3,
-"indent": null
-}
-]
-},
-{
-"code": 505,
-"indent": 1,
-"parameters": [
-{
-"code": 3,
-"indent": null
-}
-]
-},
-{
-"code": 505,
-"indent": 1,
-"parameters": [
-{
 "code": 19,
+"indent": null
+}
+]
+},
+{
+"code": 505,
+"indent": 1,
+"parameters": [
+{
+"code": 4,
 "indent": null
 }
 ]
@@ -14347,15 +14486,6 @@ true
 "parameters": []
 },
 {
-"code": 121,
-"indent": 0,
-"parameters": [
-67,
-67,
-0
-]
-},
-{
 "code": 0,
 "indent": 0,
 "parameters": []
@@ -14407,6 +14537,79 @@ true
 },
 "list": [
 {
+"code": 121,
+"indent": 0,
+"parameters": [
+67,
+67,
+0
+]
+},
+{
+"code": 111,
+"indent": 0,
+"parameters": [
+0,
+121,
+0
+]
+},
+{
+"code": 250,
+"indent": 1,
+"parameters": [
+{
+"name": "jay",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 1,
+"parameters": [
+"vendorfaces",
+6,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"\\n<Jay>On second thought, please excuse me."
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"I should go check on something..."
+]
+},
+{
+"code": 121,
+"indent": 1,
+"parameters": [
+149,
+149,
+0
+]
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 412,
+"indent": 0,
+"parameters": []
+},
+{
 "code": 0,
 "indent": 0,
 "parameters": []
@@ -14429,7 +14632,7 @@ true
 "priorityType": 0,
 "stepAnime": false,
 "through": false,
-"trigger": 3,
+"trigger": 4,
 "walkAnime": true
 },
 {
@@ -14480,7 +14683,58 @@ true
 "priorityType": 0,
 "stepAnime": false,
 "through": false,
-"trigger": 3,
+"trigger": 0,
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 149,
+"switch1Valid": true,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
 "walkAnime": true
 }
 ],
@@ -14502,8 +14756,8 @@ true
 "selfSwitchValid": false,
 "switch1Id": 62,
 "switch1Valid": true,
-"switch2Id": 1,
-"switch2Valid": false,
+"switch2Id": 63,
+"switch2Valid": true,
 "variableId": 1,
 "variableValid": false,
 "variableValue": 0
@@ -14669,15 +14923,11 @@ true
 {
 "list": [
 {
-"code": 3,
-"indent": null
-},
-{
-"code": 3,
-"indent": null
-},
-{
 "code": 19,
+"indent": null
+},
+{
+"code": 4,
 "indent": null
 },
 {
@@ -14695,27 +14945,17 @@ true
 "indent": 1,
 "parameters": [
 {
-"code": 3,
-"indent": null
-}
-]
-},
-{
-"code": 505,
-"indent": 1,
-"parameters": [
-{
-"code": 3,
-"indent": null
-}
-]
-},
-{
-"code": 505,
-"indent": 1,
-"parameters": [
-{
 "code": 19,
+"indent": null
+}
+]
+},
+{
+"code": 505,
+"indent": 1,
+"parameters": [
+{
+"code": 4,
 "indent": null
 }
 ]
@@ -15474,15 +15714,6 @@ true
 "parameters": []
 },
 {
-"code": 121,
-"indent": 0,
-"parameters": [
-67,
-67,
-0
-]
-},
-{
 "code": 0,
 "indent": 0,
 "parameters": []
@@ -15534,6 +15765,79 @@ true
 },
 "list": [
 {
+"code": 121,
+"indent": 0,
+"parameters": [
+67,
+67,
+0
+]
+},
+{
+"code": 111,
+"indent": 0,
+"parameters": [
+0,
+121,
+0
+]
+},
+{
+"code": 250,
+"indent": 1,
+"parameters": [
+{
+"name": "jay",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 1,
+"parameters": [
+"vendorfaces",
+6,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"\\n<Jay>On second thought, please excuse me."
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"I should go check on something..."
+]
+},
+{
+"code": 121,
+"indent": 1,
+"parameters": [
+149,
+149,
+0
+]
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 412,
+"indent": 0,
+"parameters": []
+},
+{
 "code": 0,
 "indent": 0,
 "parameters": []
@@ -15556,7 +15860,7 @@ true
 "priorityType": 0,
 "stepAnime": false,
 "through": false,
-"trigger": 3,
+"trigger": 4,
 "walkAnime": true
 },
 {
@@ -15607,7 +15911,58 @@ true
 "priorityType": 0,
 "stepAnime": false,
 "through": false,
-"trigger": 3,
+"trigger": 0,
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 149,
+"switch1Valid": true,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
 "walkAnime": true
 }
 ],
@@ -15955,8 +16310,8 @@ true
 "selfSwitchValid": false,
 "switch1Id": 62,
 "switch1Valid": true,
-"switch2Id": 1,
-"switch2Valid": false,
+"switch2Id": 63,
+"switch2Valid": true,
 "variableId": 1,
 "variableValid": false,
 "variableValue": 0
@@ -16927,15 +17282,6 @@ true
 "parameters": []
 },
 {
-"code": 121,
-"indent": 0,
-"parameters": [
-67,
-67,
-0
-]
-},
-{
 "code": 0,
 "indent": 0,
 "parameters": []
@@ -16987,6 +17333,79 @@ true
 },
 "list": [
 {
+"code": 121,
+"indent": 0,
+"parameters": [
+67,
+67,
+0
+]
+},
+{
+"code": 111,
+"indent": 0,
+"parameters": [
+0,
+121,
+0
+]
+},
+{
+"code": 250,
+"indent": 1,
+"parameters": [
+{
+"name": "jay",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 1,
+"parameters": [
+"vendorfaces",
+6,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"\\n<Jay>On second thought, please excuse me."
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"I should go check on something..."
+]
+},
+{
+"code": 121,
+"indent": 1,
+"parameters": [
+149,
+149,
+0
+]
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 412,
+"indent": 0,
+"parameters": []
+},
+{
 "code": 0,
 "indent": 0,
 "parameters": []
@@ -17009,7 +17428,7 @@ true
 "priorityType": 0,
 "stepAnime": false,
 "through": false,
-"trigger": 3,
+"trigger": 4,
 "walkAnime": true
 },
 {
@@ -17060,7 +17479,58 @@ true
 "priorityType": 0,
 "stepAnime": false,
 "through": false,
-"trigger": 3,
+"trigger": 0,
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 149,
+"switch1Valid": true,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
 "walkAnime": true
 }
 ],
@@ -18438,7 +18908,7 @@ true
 }
 ],
 "repeat": false,
-"skippable": false,
+"skippable": true,
 "wait": true
 }
 ]
@@ -18774,8 +19244,17 @@ true
 },
 "list": [
 {
-"code": 250,
+"code": 111,
 "indent": 0,
+"parameters": [
+0,
+121,
+1
+]
+},
+{
+"code": 250,
+"indent": 1,
 "parameters": [
 {
 "name": "jay",
@@ -18787,7 +19266,7 @@ true
 },
 {
 "code": 101,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "vendorfaces",
 4,
@@ -18797,14 +19276,14 @@ true
 },
 {
 "code": 401,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "\\n<Jay> Back already?"
 ]
 },
 {
 "code": 250,
-"indent": 0,
+"indent": 1,
 "parameters": [
 {
 "name": "crowley_voice",
@@ -18816,7 +19295,7 @@ true
 },
 {
 "code": 101,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "crowleyfaces",
 6,
@@ -18826,21 +19305,21 @@ true
 },
 {
 "code": 401,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "\\n<Crowley>Where did you say the storeroom"
 ]
 },
 {
 "code": 401,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "is again?"
 ]
 },
 {
 "code": 250,
-"indent": 0,
+"indent": 1,
 "parameters": [
 {
 "name": "jay",
@@ -18852,7 +19331,7 @@ true
 },
 {
 "code": 101,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "vendorfaces",
 4,
@@ -18862,14 +19341,14 @@ true
 },
 {
 "code": 401,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "\\n<Jay>Right!"
 ]
 },
 {
 "code": 250,
-"indent": 0,
+"indent": 1,
 "parameters": [
 {
 "name": "kiwi_voice",
@@ -18881,7 +19360,7 @@ true
 },
 {
 "code": 101,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "updated_kiwihead_sheet",
 4,
@@ -18891,14 +19370,14 @@ true
 },
 {
 "code": 401,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "\\n<Kiwi>Right where?"
 ]
 },
 {
 "code": 250,
-"indent": 0,
+"indent": 1,
 "parameters": [
 {
 "name": "jay",
@@ -18910,7 +19389,7 @@ true
 },
 {
 "code": 101,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "vendorfaces",
 4,
@@ -18920,14 +19399,14 @@ true
 },
 {
 "code": 401,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "\\n<Jay>Erm- no..."
 ]
 },
 {
 "code": 250,
-"indent": 0,
+"indent": 1,
 "parameters": [
 {
 "name": "jay",
@@ -18939,7 +19418,7 @@ true
 },
 {
 "code": 101,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "vendorfaces",
 4,
@@ -18949,31 +19428,41 @@ true
 },
 {
 "code": 401,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "\\n<Jay>It’s a white building on the north"
 ]
 },
 {
 "code": 401,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "side of the Narrows. There’s a staircase"
 ]
 },
 {
 "code": 401,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "that'll take you right to the front door. "
 ]
 },
 {
 "code": 401,
-"indent": 0,
+"indent": 1,
 "parameters": [
 "Hard to miss it!"
 ]
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 412,
+"indent": 0,
+"parameters": []
 },
 {
 "code": 0,
@@ -25287,7 +25776,7 @@ true
 }
 ],
 "repeat": false,
-"skippable": false,
+"skippable": true,
 "wait": true
 }
 ]
@@ -32213,8 +32702,8 @@ true
 "selfSwitchValid": false,
 "switch1Id": 62,
 "switch1Valid": true,
-"switch2Id": 1,
-"switch2Valid": false,
+"switch2Id": 63,
+"switch2Valid": true,
 "variableId": 1,
 "variableValid": false,
 "variableValue": 0
@@ -32380,11 +32869,11 @@ true
 {
 "list": [
 {
-"code": 3,
+"code": 2,
 "indent": null
 },
 {
-"code": 3,
+"code": 2,
 "indent": null
 },
 {
@@ -32406,7 +32895,7 @@ true
 "indent": 1,
 "parameters": [
 {
-"code": 3,
+"code": 2,
 "indent": null
 }
 ]
@@ -32416,7 +32905,7 @@ true
 "indent": 1,
 "parameters": [
 {
-"code": 3,
+"code": 2,
 "indent": null
 }
 ]
@@ -33185,15 +33674,6 @@ true
 "parameters": []
 },
 {
-"code": 121,
-"indent": 0,
-"parameters": [
-67,
-67,
-0
-]
-},
-{
 "code": 0,
 "indent": 0,
 "parameters": []
@@ -33245,6 +33725,79 @@ true
 },
 "list": [
 {
+"code": 121,
+"indent": 0,
+"parameters": [
+67,
+67,
+0
+]
+},
+{
+"code": 111,
+"indent": 0,
+"parameters": [
+0,
+121,
+0
+]
+},
+{
+"code": 250,
+"indent": 1,
+"parameters": [
+{
+"name": "jay",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 1,
+"parameters": [
+"vendorfaces",
+6,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"\\n<Jay>On second thought, please excuse me."
+]
+},
+{
+"code": 401,
+"indent": 1,
+"parameters": [
+"I should go check on something..."
+]
+},
+{
+"code": 121,
+"indent": 1,
+"parameters": [
+149,
+149,
+0
+]
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 412,
+"indent": 0,
+"parameters": []
+},
+{
 "code": 0,
 "indent": 0,
 "parameters": []
@@ -33267,7 +33820,7 @@ true
 "priorityType": 0,
 "stepAnime": false,
 "through": false,
-"trigger": 3,
+"trigger": 4,
 "walkAnime": true
 },
 {
@@ -33318,7 +33871,58 @@ true
 "priorityType": 0,
 "stepAnime": false,
 "through": false,
-"trigger": 3,
+"trigger": 0,
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 149,
+"switch1Valid": true,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
 "walkAnime": true
 }
 ],
@@ -33906,6 +34510,278 @@ true
 ],
 "x": 3,
 "y": 0
+},
+{
+"id": 44,
+"name": "Jay leaves",
+"note": "",
+"pages": [
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"tileId": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"characterIndex": 0
+},
+"list": [
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": true,
+"trigger": 0,
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 149,
+"switch1Valid": true,
+"switch2Id": 67,
+"switch2Valid": true,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"tileId": 0,
+"characterName": "$jayvendor",
+"direction": 6,
+"pattern": 0,
+"characterIndex": 0
+},
+"list": [
+{
+"code": 205,
+"indent": 0,
+"parameters": [
+0,
+{
+"list": [
+{
+"code": 39,
+"indent": null
+},
+{
+"code": 45,
+"parameters": [
+"MOVE TO: EVENT 11"
+],
+"indent": null
+},
+{
+"code": 0
+}
+],
+"repeat": false,
+"skippable": false,
+"wait": true
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 39,
+"indent": null
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 45,
+"parameters": [
+"MOVE TO: EVENT 11"
+],
+"indent": null
+}
+]
+},
+{
+"code": 123,
+"indent": 0,
+"parameters": [
+"A",
+0
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 1,
+"stepAnime": false,
+"through": false,
+"trigger": 4,
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": true,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": true,
+"trigger": 0,
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 125,
+"switch1Valid": true,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": true,
+"trigger": 0,
+"walkAnime": true
+}
+],
+"x": 8,
+"y": 7
 }
 ]
 }
