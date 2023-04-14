@@ -125,7 +125,7 @@ TTK.DetectPictureClick = {};
     _TouchInput_onMouseDown.call(this, event);
     if (SceneManager._scene instanceof Scene_Map) {
       for (var i = 0; i < $.pictures.length; i++) {
-        var pictureSprite = SceneManager._scene._spriteset._pictureContainer.children[$.pictures[i] - 1];
+        var pictureSprite = SceneManager._scene._spriteset._pictureStorage[$.pictures[i]];
         var x = Graphics.pageToCanvasX(event.pageX);
         var y = Graphics.pageToCanvasY(event.pageY);
         if (x >= pictureSprite.getScreenX() && x <= pictureSprite.getScreenX() + pictureSprite.width

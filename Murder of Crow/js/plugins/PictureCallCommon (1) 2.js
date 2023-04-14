@@ -705,7 +705,7 @@
     //  ピクチャスプライトを取得します。
     //=============================================================================
     SceneManager.getPictureSprite = function(pictureId) {
-        return this._scene.getPictureSprite(pictureId);
+        return this._scene._spriteset._pictureStorage[pictureId];
     };
 
     //=============================================================================
@@ -799,11 +799,11 @@
     //  ピクチャに対するイテレータを追加定義します。
     //=============================================================================
     Spriteset_Base.prototype.iteratePictures = function(callBackFund) {
-        var containerChildren = this._pictureContainer.children;
+        var containerChildren = this._pictureStorage.children;
         if (!Array.isArray(containerChildren)) {
-            iterate(this._pictureContainer, function(property) {
-                if (this._pictureContainer[property].hasOwnProperty('children')) {
-                    containerChildren = this._pictureContainer[property].children;
+            iterate(this._pictureStorage, function(property) {
+                if (this._pictureStorage[property].hasOwnProperty('children')) {
+                    containerChildren = this._pictureStorage[property].children;
                     this._iteratePicturesSub(containerChildren, callBackFund);
                 }
             }.bind(this));
