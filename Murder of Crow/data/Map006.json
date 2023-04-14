@@ -3546,8 +3546,8 @@ null,
 "walkAnime": true
 }
 ],
-"x": 12,
-"y": 3
+"x": 11,
+"y": 4
 },
 {
 "id": 7,
@@ -3849,7 +3849,7 @@ null,
 {
 "list": [
 {
-"code": 17,
+"code": 18,
 "indent": null
 },
 {
@@ -3867,7 +3867,7 @@ null,
 "indent": 0,
 "parameters": [
 {
-"code": 17,
+"code": 18,
 "indent": null
 }
 ]
@@ -4504,8 +4504,8 @@ null,
 "walkAnime": true
 }
 ],
-"x": 11,
-"y": 4
+"x": 12,
+"y": 3
 },
 {
 "id": 13,
