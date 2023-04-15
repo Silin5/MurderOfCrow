@@ -2971,17 +2971,9 @@ null,
 "indent": null
 },
 {
-"code": 31,
-"indent": null
-},
-{
-"code": 37,
-"indent": null
-},
-{
 "code": 45,
 "parameters": [
-"MOVE TO: EVENT 034"
+"MOVE TO: EVENT 009"
 ],
 "indent": null
 },
@@ -3010,29 +3002,9 @@ null,
 "indent": 0,
 "parameters": [
 {
-"code": 31,
-"indent": null
-}
-]
-},
-{
-"code": 505,
-"indent": 0,
-"parameters": [
-{
-"code": 37,
-"indent": null
-}
-]
-},
-{
-"code": 505,
-"indent": 0,
-"parameters": [
-{
 "code": 45,
 "parameters": [
-"MOVE TO: EVENT 034"
+"MOVE TO: EVENT 009"
 ],
 "indent": null
 }
@@ -3101,7 +3073,7 @@ null,
 "priorityType": 1,
 "stepAnime": false,
 "through": false,
-"trigger": 3,
+"trigger": 4,
 "walkAnime": true
 },
 {
@@ -22059,17 +22031,8 @@ null,
 },
 "list": [
 {
-"code": 111,
-"indent": 0,
-"parameters": [
-0,
-5,
-0
-]
-},
-{
 "code": 205,
-"indent": 1,
+"indent": 0,
 "parameters": [
 0,
 {
@@ -22093,7 +22056,7 @@ null,
 },
 {
 "code": 505,
-"indent": 1,
+"indent": 0,
 "parameters": [
 {
 "code": 45,
@@ -22106,21 +22069,11 @@ null,
 },
 {
 "code": 123,
-"indent": 1,
+"indent": 0,
 "parameters": [
 "A",
 0
 ]
-},
-{
-"code": 0,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 0,
-"parameters": []
 },
 {
 "code": 0,
@@ -22196,7 +22149,7 @@ null,
 "priorityType": 0,
 "stepAnime": false,
 "through": true,
-"trigger": 4,
+"trigger": 0,
 "walkAnime": true
 },
 {
