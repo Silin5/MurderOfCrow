@@ -221,7 +221,9 @@ Imported.TDDP_BindPicturesToMap = "1.0.7";
     // OVERWRITE inherited
     Sprite_Picture.prototype.loadBitmap = function() {
         var bitmap = ImageManager.loadPicture(this.picture()._name);
-        bitmap.addLoadListener(this.bltLoadedBitmap.bind(this, bitmap));
+        if(bitmap != null) {
+            bitmap.addLoadListener(this.bltLoadedBitmap.bind(this, bitmap));
+        }
         return;
     };
 
