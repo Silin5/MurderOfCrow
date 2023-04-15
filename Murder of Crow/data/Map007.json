@@ -2859,7 +2859,7 @@ null,
 "itemValid": false,
 "selfSwitchCh": "A",
 "selfSwitchValid": false,
-"switch1Id": 104,
+"switch1Id": 108,
 "switch1Valid": true,
 "switch2Id": 1,
 "switch2Valid": false,
@@ -3046,7 +3046,7 @@ null,
 "itemValid": false,
 "selfSwitchCh": "A",
 "selfSwitchValid": false,
-"switch1Id": 104,
+"switch1Id": 108,
 "switch1Valid": true,
 "switch2Id": 1,
 "switch2Valid": false,
@@ -3687,6 +3687,15 @@ null,
 "indent": 1,
 "parameters": [
 "A",
+0
+]
+},
+{
+"code": 121,
+"indent": 1,
+"parameters": [
+108,
+108,
 0
 ]
 },
@@ -4495,6 +4504,35 @@ null,
 "indent": 2,
 "parameters": [
 "copper."
+]
+},
+{
+"code": 250,
+"indent": 2,
+"parameters": [
+{
+"name": "cluefound",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 2,
+"parameters": [
+"",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 2,
+"parameters": [
+"The Murder Board has been updated!"
 ]
 },
 {
@@ -5730,6 +5768,35 @@ null,
 1,
 0,
 1
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "cluefound",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"The Murder Board has been updated!"
 ]
 },
 {
@@ -8185,7 +8252,7 @@ null,
 "itemValid": false,
 "selfSwitchCh": "A",
 "selfSwitchValid": false,
-"switch1Id": 104,
+"switch1Id": 108,
 "switch1Valid": true,
 "switch2Id": 1,
 "switch2Valid": false,
@@ -9314,6 +9381,35 @@ null,
 1,
 0,
 1
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "cluefound",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"The Murder Board has been updated!"
 ]
 },
 {
@@ -10674,6 +10770,35 @@ null,
 1,
 0,
 1
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "cluefound",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"The Murder Board has been updated!"
 ]
 },
 {
