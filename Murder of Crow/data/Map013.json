@@ -2988,7 +2988,7 @@ true
 "indent": 1,
 "parameters": [
 {
-"name": "glass2",
+"name": "glass1",
 "volume": 90,
 "pitch": 100,
 "pan": 0
@@ -3007,7 +3007,7 @@ true
 "indent": 1,
 "parameters": [
 {
-"name": "glass1",
+"name": "glass3",
 "volume": 90,
 "pitch": 100,
 "pan": 0
@@ -3246,7 +3246,7 @@ true
 1,
 103,
 0,
-3,
+4,
 0
 ]
 },
@@ -3257,7 +3257,7 @@ true
 1,
 104,
 0,
-4,
+6,
 0
 ]
 },
