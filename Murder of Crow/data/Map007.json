@@ -2903,8 +2903,8 @@ null,
 "walkAnime": true
 }
 ],
-"x": 12,
-"y": 4
+"x": 13,
+"y": 5
 },
 {
 "id": 8,
@@ -3090,8 +3090,8 @@ null,
 "walkAnime": true
 }
 ],
-"x": 13,
-"y": 5
+"x": 14,
+"y": 4
 },
 {
 "id": 9,
@@ -5964,10 +5964,11 @@ null,
 ]
 },
 {
-"code": 123,
+"code": 121,
 "indent": 0,
 "parameters": [
-"A",
+161,
+161,
 0
 ]
 },
@@ -6004,9 +6005,9 @@ null,
 "itemId": 1,
 "itemValid": false,
 "selfSwitchCh": "A",
-"selfSwitchValid": true,
-"switch1Id": 1,
-"switch1Valid": false,
+"selfSwitchValid": false,
+"switch1Id": 161,
+"switch1Valid": true,
 "switch2Id": 1,
 "switch2Valid": false,
 "variableId": 1,
@@ -7462,7 +7463,7 @@ null,
 {
 "code": 15,
 "parameters": [
-70
+100
 ],
 "indent": null
 },
@@ -7473,7 +7474,7 @@ null,
 {
 "code": 15,
 "parameters": [
-70
+100
 ],
 "indent": null
 },
@@ -7564,7 +7565,7 @@ null,
 {
 "code": 15,
 "parameters": [
-70
+100
 ],
 "indent": null
 },
@@ -7575,7 +7576,7 @@ null,
 {
 "code": 15,
 "parameters": [
-70
+100
 ],
 "indent": null
 },
@@ -7597,7 +7598,7 @@ null,
 "walkAnime": true
 }
 ],
-"x": 14,
+"x": 13,
 "y": 3
 },
 {
@@ -7894,10 +7895,6 @@ null,
 "indent": null
 },
 {
-"code": 1,
-"indent": null
-},
-{
 "code": 2,
 "indent": null
 },
@@ -7912,7 +7909,7 @@ null,
 {
 "code": 15,
 "parameters": [
-999
+750
 ],
 "indent": null
 },
@@ -7926,10 +7923,6 @@ null,
 },
 {
 "code": 3,
-"indent": null
-},
-{
-"code": 4,
 "indent": null
 },
 {
@@ -7981,7 +7974,7 @@ null,
 "image": {
 "tileId": 0,
 "characterName": "$chinstrappenguin",
-"direction": 4,
+"direction": 2,
 "pattern": 1,
 "characterIndex": 0
 },
@@ -8236,7 +8229,7 @@ null,
 "walkAnime": true
 }
 ],
-"x": 14,
+"x": 15,
 "y": 4
 },
 {
@@ -9555,10 +9548,11 @@ null,
 ]
 },
 {
-"code": 123,
+"code": 121,
 "indent": 0,
 "parameters": [
-"A",
+161,
+161,
 0
 ]
 },
@@ -9595,9 +9589,9 @@ null,
 "itemId": 1,
 "itemValid": false,
 "selfSwitchCh": "A",
-"selfSwitchValid": true,
-"switch1Id": 1,
-"switch1Valid": false,
+"selfSwitchValid": false,
+"switch1Id": 161,
+"switch1Valid": true,
 "switch2Id": 1,
 "switch2Valid": false,
 "variableId": 1,
@@ -10914,10 +10908,11 @@ null,
 ]
 },
 {
-"code": 123,
+"code": 121,
 "indent": 0,
 "parameters": [
-"A",
+161,
+161,
 0
 ]
 },
@@ -10954,9 +10949,9 @@ null,
 "itemId": 1,
 "itemValid": false,
 "selfSwitchCh": "A",
-"selfSwitchValid": true,
-"switch1Id": 1,
-"switch1Valid": false,
+"selfSwitchValid": false,
+"switch1Id": 161,
+"switch1Valid": true,
 "switch2Id": 1,
 "switch2Valid": false,
 "variableId": 1,
@@ -11366,37 +11361,6 @@ null,
 },
 "list": [
 {
-"code": 205,
-"indent": 0,
-"parameters": [
--1,
-{
-"list": [
-{
-"code": 18,
-"indent": null
-},
-{
-"code": 0
-}
-],
-"repeat": false,
-"skippable": false,
-"wait": true
-}
-]
-},
-{
-"code": 505,
-"indent": 0,
-"parameters": [
-{
-"code": 18,
-"indent": null
-}
-]
-},
-{
 "code": 250,
 "indent": 0,
 "parameters": [
@@ -11796,125 +11760,15 @@ null,
 "moveType": 0,
 "priorityType": 0,
 "stepAnime": false,
-"through": false,
+"through": true,
 "trigger": 0,
-"walkAnime": true
+"walkAnime": false
 }
 ],
 "x": 8,
 "y": 4
 },
-{
-"id": 29,
-"name": "EV029",
-"note": "",
-"pages": [
-{
-"conditions": {
-"actorId": 1,
-"actorValid": false,
-"itemId": 1,
-"itemValid": false,
-"selfSwitchCh": "A",
-"selfSwitchValid": false,
-"switch1Id": 1,
-"switch1Valid": false,
-"switch2Id": 1,
-"switch2Valid": false,
-"variableId": 1,
-"variableValid": false,
-"variableValue": 0
-},
-"directionFix": false,
-"image": {
-"characterIndex": 0,
-"characterName": "",
-"direction": 2,
-"pattern": 0,
-"tileId": 0
-},
-"list": [
-{
-"code": 111,
-"indent": 0,
-"parameters": [
-2,
-"A",
-1
-]
-},
-{
-"code": 101,
-"indent": 1,
-"parameters": [
-"crowleyfaces",
-0,
-0,
-2
-]
-},
-{
-"code": 401,
-"indent": 1,
-"parameters": [
-"\\n<Crowley>I wonder why so many glasses and"
-]
-},
-{
-"code": 401,
-"indent": 1,
-"parameters": [
-"bottles have been left unattended..."
-]
-},
-{
-"code": 123,
-"indent": 1,
-"parameters": [
-"A",
-0
-]
-},
-{
-"code": 0,
-"indent": 1,
-"parameters": []
-},
-{
-"code": 412,
-"indent": 0,
-"parameters": []
-},
-{
-"code": 0,
-"indent": 0,
-"parameters": []
-}
-],
-"moveFrequency": 3,
-"moveRoute": {
-"list": [
-{
-"code": 0,
-"parameters": []
-}
-],
-"repeat": true,
-"skippable": false,
-"wait": false
-},
-"moveSpeed": 3,
-"moveType": 0,
-"priorityType": 0,
-"stepAnime": false,
-"through": false,
-"trigger": 0,
-"walkAnime": true
-}
-],
-"x": 3,
-"y": 4
-},
+null,
 null,
 null,
 {
