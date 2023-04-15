@@ -2986,18 +2986,6 @@ null,
 "indent": null
 },
 {
-"code": 41,
-"parameters": [
-"",
-0
-],
-"indent": null
-},
-{
-"code": 39,
-"indent": null
-},
-{
 "code": 0
 }
 ],
@@ -3046,30 +3034,6 @@ null,
 "parameters": [
 "MOVE TO: EVENT 034"
 ],
-"indent": null
-}
-]
-},
-{
-"code": 505,
-"indent": 0,
-"parameters": [
-{
-"code": 41,
-"parameters": [
-"",
-0
-],
-"indent": null
-}
-]
-},
-{
-"code": 505,
-"indent": 0,
-"parameters": [
-{
-"code": 39,
 "indent": null
 }
 ]
@@ -3355,13 +3319,6 @@ null,
 "parameters": []
 },
 {
-"code": 242,
-"indent": 2,
-"parameters": [
-1
-]
-},
-{
 "code": 201,
 "indent": 2,
 "parameters": [
@@ -3371,6 +3328,13 @@ null,
 14,
 8,
 0
+]
+},
+{
+"code": 242,
+"indent": 2,
+"parameters": [
+1
 ]
 },
 {
@@ -5170,6 +5134,18 @@ null,
 ]
 },
 {
+"code": 241,
+"indent": 2,
+"parameters": [
+{
+"name": "market",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 0,
 "indent": 2,
 "parameters": []
@@ -5395,13 +5371,6 @@ null,
 ]
 },
 {
-"code": 242,
-"indent": 3,
-"parameters": [
-1
-]
-},
-{
 "code": 201,
 "indent": 3,
 "parameters": [
@@ -5411,6 +5380,13 @@ null,
 0,
 0,
 0
+]
+},
+{
+"code": 242,
+"indent": 3,
+"parameters": [
+1
 ]
 },
 {
@@ -6841,13 +6817,6 @@ null,
 "parameters": []
 },
 {
-"code": 242,
-"indent": 2,
-"parameters": [
-1
-]
-},
-{
 "code": 201,
 "indent": 2,
 "parameters": [
@@ -6857,6 +6826,13 @@ null,
 14,
 8,
 0
+]
+},
+{
+"code": 242,
+"indent": 2,
+"parameters": [
+1
 ]
 },
 {
@@ -13233,13 +13209,6 @@ null,
 "parameters": []
 },
 {
-"code": 242,
-"indent": 2,
-"parameters": [
-1
-]
-},
-{
 "code": 201,
 "indent": 2,
 "parameters": [
@@ -13249,6 +13218,13 @@ null,
 14,
 8,
 0
+]
+},
+{
+"code": 242,
+"indent": 2,
+"parameters": [
+1
 ]
 },
 {
@@ -19415,13 +19391,6 @@ null,
 ]
 },
 {
-"code": 242,
-"indent": 3,
-"parameters": [
-1
-]
-},
-{
 "code": 201,
 "indent": 3,
 "parameters": [
@@ -19431,6 +19400,13 @@ null,
 0,
 0,
 0
+]
+},
+{
+"code": 242,
+"indent": 3,
+"parameters": [
+1
 ]
 },
 {
@@ -21768,6 +21744,18 @@ null,
 ]
 },
 {
+"code": 241,
+"indent": 2,
+"parameters": [
+{
+"name": "market",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 0,
 "indent": 2,
 "parameters": []
@@ -22089,7 +22077,7 @@ null,
 {
 "code": 45,
 "parameters": [
-"MOVE TO: EVENT 9"
+"MOVE TO: EVENT 008"
 ],
 "indent": null
 },
@@ -22110,7 +22098,7 @@ null,
 {
 "code": 45,
 "parameters": [
-"MOVE TO: EVENT 9"
+"MOVE TO: EVENT 008"
 ],
 "indent": null
 }

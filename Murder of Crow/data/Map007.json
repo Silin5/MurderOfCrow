@@ -2083,20 +2083,6 @@ null,
 },
 "list": [
 {
-"code": 242,
-"indent": 0,
-"parameters": [
-1
-]
-},
-{
-"code": 246,
-"indent": 0,
-"parameters": [
-2
-]
-},
-{
 "code": 201,
 "indent": 0,
 "parameters": [
@@ -2106,6 +2092,13 @@ null,
 4,
 0,
 0
+]
+},
+{
+"code": 246,
+"indent": 0,
+"parameters": [
+2
 ]
 },
 {
@@ -2169,20 +2162,6 @@ null,
 },
 "list": [
 {
-"code": 242,
-"indent": 0,
-"parameters": [
-1
-]
-},
-{
-"code": 246,
-"indent": 0,
-"parameters": [
-2
-]
-},
-{
 "code": 201,
 "indent": 0,
 "parameters": [
@@ -2192,6 +2171,13 @@ null,
 3,
 0,
 0
+]
+},
+{
+"code": 246,
+"indent": 0,
+"parameters": [
+2
 ]
 },
 {
@@ -2226,7 +2212,7 @@ null,
 },
 {
 "id": 5,
-"name": "EV005",
+"name": "Nest path1",
 "note": "",
 "pages": [
 {
@@ -2255,20 +2241,6 @@ null,
 },
 "list": [
 {
-"code": 242,
-"indent": 0,
-"parameters": [
-1
-]
-},
-{
-"code": 246,
-"indent": 0,
-"parameters": [
-2
-]
-},
-{
 "code": 201,
 "indent": 0,
 "parameters": [
@@ -2278,6 +2250,13 @@ null,
 5,
 0,
 0
+]
+},
+{
+"code": 246,
+"indent": 0,
+"parameters": [
+2
 ]
 },
 {
@@ -2861,6 +2840,57 @@ null,
 "selfSwitchValid": false,
 "switch1Id": 108,
 "switch1Valid": true,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 108,
+"switch1Valid": false,
 "switch2Id": 104,
 "switch2Valid": true,
 "variableId": 1,
@@ -3048,6 +3078,57 @@ null,
 "selfSwitchValid": false,
 "switch1Id": 108,
 "switch1Valid": true,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 108,
+"switch1Valid": false,
 "switch2Id": 104,
 "switch2Valid": true,
 "variableId": 1,
@@ -8254,6 +8335,57 @@ null,
 "selfSwitchValid": false,
 "switch1Id": 108,
 "switch1Valid": true,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 108,
+"switch1Valid": false,
 "switch2Id": 104,
 "switch2Valid": true,
 "variableId": 1,
