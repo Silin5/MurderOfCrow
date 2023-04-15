@@ -21841,7 +21841,7 @@ true
 "directionFix": false,
 "image": {
 "tileId": 0,
-"characterName": "$npc_one",
+"characterName": "$defaultCrow",
 "direction": 6,
 "pattern": 1,
 "characterIndex": 0
@@ -21864,7 +21864,7 @@ true
 "indent": 0,
 "parameters": [
 "Actor4_temp",
-1,
+0,
 0,
 2
 ]
@@ -21929,7 +21929,7 @@ true
 "indent": 0,
 "parameters": [
 "Actor4_temp",
-1,
+0,
 0,
 2
 ]
@@ -22001,7 +22001,7 @@ true
 "directionFix": false,
 "image": {
 "tileId": 0,
-"characterName": "$npc_one",
+"characterName": "$defaultCrow",
 "direction": 6,
 "pattern": 1,
 "characterIndex": 0
@@ -22024,7 +22024,7 @@ true
 "indent": 0,
 "parameters": [
 "Actor4_temp",
-1,
+0,
 0,
 2
 ]
@@ -22097,7 +22097,7 @@ true
 "directionFix": false,
 "image": {
 "tileId": 0,
-"characterName": "$npc_one",
+"characterName": "$defaultCrow",
 "direction": 4,
 "pattern": 1,
 "characterIndex": 0
@@ -22120,7 +22120,7 @@ true
 "indent": 0,
 "parameters": [
 "Actor4_temp",
-1,
+0,
 0,
 2
 ]
@@ -22194,7 +22194,7 @@ true
 "directionFix": false,
 "image": {
 "tileId": 0,
-"characterName": "$defaultCrow",
+"characterName": "$npc_one",
 "direction": 4,
 "pattern": 1,
 "characterIndex": 0
@@ -22217,7 +22217,7 @@ true
 "indent": 0,
 "parameters": [
 "Actor4_temp",
-0,
+1,
 0,
 2
 ]
@@ -22282,7 +22282,7 @@ true
 "indent": 0,
 "parameters": [
 "Actor4_temp",
-0,
+1,
 0,
 2
 ]
@@ -22354,7 +22354,7 @@ true
 "directionFix": false,
 "image": {
 "tileId": 0,
-"characterName": "$defaultCrow",
+"characterName": "$npc_one",
 "direction": 4,
 "pattern": 1,
 "characterIndex": 0
@@ -22377,7 +22377,7 @@ true
 "indent": 0,
 "parameters": [
 "Actor4_temp",
-0,
+1,
 0,
 2
 ]
