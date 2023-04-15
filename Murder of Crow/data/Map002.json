@@ -2432,7 +2432,7 @@ true
 "priorityType": 0,
 "stepAnime": false,
 "through": false,
-"trigger": 4,
+"trigger": 3,
 "walkAnime": true
 },
 {
@@ -5418,7 +5418,7 @@ true
 "priorityType": 0,
 "stepAnime": false,
 "through": false,
-"trigger": 4,
+"trigger": 3,
 "walkAnime": true
 },
 {
@@ -6828,7 +6828,7 @@ true
 "priorityType": 0,
 "stepAnime": false,
 "through": false,
-"trigger": 4,
+"trigger": 3,
 "walkAnime": true
 },
 {
@@ -7682,6 +7682,13 @@ true
 ]
 },
 {
+"code": 230,
+"indent": 0,
+"parameters": [
+60
+]
+},
+{
 "code": 232,
 "indent": 0,
 "parameters": [
@@ -8018,7 +8025,7 @@ true
 "priorityType": 0,
 "stepAnime": false,
 "through": false,
-"trigger": 4,
+"trigger": 3,
 "walkAnime": true
 },
 {
@@ -9169,7 +9176,7 @@ true
 "priorityType": 0,
 "stepAnime": false,
 "through": false,
-"trigger": 4,
+"trigger": 3,
 "walkAnime": true
 },
 {
@@ -18177,7 +18184,7 @@ true
 "priorityType": 0,
 "stepAnime": false,
 "through": false,
-"trigger": 4,
+"trigger": 3,
 "walkAnime": true
 },
 {
@@ -20311,7 +20318,7 @@ true
 "priorityType": 0,
 "stepAnime": false,
 "through": false,
-"trigger": 4,
+"trigger": 3,
 "walkAnime": true
 },
 {
@@ -21447,7 +21454,7 @@ true
 "priorityType": 0,
 "stepAnime": false,
 "through": false,
-"trigger": 4,
+"trigger": 3,
 "walkAnime": true
 },
 {
@@ -23900,7 +23907,7 @@ true
 "priorityType": 0,
 "stepAnime": false,
 "through": false,
-"trigger": 4,
+"trigger": 3,
 "walkAnime": true
 },
 {
@@ -27620,7 +27627,7 @@ true
 "priorityType": 0,
 "stepAnime": false,
 "through": false,
-"trigger": 4,
+"trigger": 3,
 "walkAnime": true
 },
 {
@@ -28728,7 +28735,7 @@ true
 "priorityType": 0,
 "stepAnime": false,
 "through": false,
-"trigger": 4,
+"trigger": 3,
 "walkAnime": true
 },
 {
@@ -29843,7 +29850,7 @@ true
 "priorityType": 0,
 "stepAnime": false,
 "through": false,
-"trigger": 4,
+"trigger": 3,
 "walkAnime": true
 },
 {
@@ -31040,7 +31047,7 @@ true
 "priorityType": 0,
 "stepAnime": false,
 "through": false,
-"trigger": 4,
+"trigger": 3,
 "walkAnime": true
 },
 {
@@ -32302,7 +32309,7 @@ true
 "priorityType": 0,
 "stepAnime": false,
 "through": false,
-"trigger": 4,
+"trigger": 3,
 "walkAnime": true
 },
 {
